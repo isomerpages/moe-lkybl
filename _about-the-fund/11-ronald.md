@@ -1,5 +1,5 @@
 ---
-title: Fund Policy
+title: 11-ronald
 permalink: /about-the-fund/11-ronald/
 ---
 
