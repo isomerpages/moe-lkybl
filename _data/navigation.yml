@@ -10,7 +10,7 @@ links:
   - title: About Us
     collection: about-the-fund
   - title: Funding
-    url:
+    collection: funding
   - title: What's Up
     url:
   - title: Contact Us
