@@ -13,7 +13,6 @@ sections:
         url: /contact-us/
     - infopic:
         title: Special Call for Proposal
-        subtitle: Subtitle
         description: This is the description for Special Call for Proposal
         button: Button text
         url: /faq/
