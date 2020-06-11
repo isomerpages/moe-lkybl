@@ -24,5 +24,6 @@ sections:
         button: Button text
         url: /faq/
         image: /images/Block02.jpg
+        alt: img02
      
 ---
