@@ -1,8 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Bilingualism
 description: Brief site description here
-image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
