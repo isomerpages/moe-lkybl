@@ -1,6 +1,6 @@
 ---
 title: Funding Application
-permalink: /about-the-fund/about-the-fund/
+permalink: /about-the-fund/funding-application/
 ---
 
 ** This is the content for funding application**  
