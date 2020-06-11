@@ -24,6 +24,6 @@ sections:
         button: Button text
         url: /faq/
         image: /images/Block02.jpg
-        alt: Special Call for Proposal
+        alt: Block2Img
      
 ---
