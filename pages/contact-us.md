@@ -2,31 +2,22 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - title: Contact Us
+  - title: General Enquiries
+  - title: For general enquiries on the Fund, please contact MOE Customer Service Centre.
     operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+      - days: Mondays – Fridays
+        time: 8.30am to 5.30pm
+      - days: Saturdays
+        time: 8.30am to 12.30pm
+      - days: Sundays &amp; Public Holidays
+        time: Closed
 contacts:
-  - title: General Enquiries & Feedback
+  - title: Contact Us
     content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+    - Hotline:: +65 68722220
+    - Fax: +65 67755826
+    - Email: moe_lkyfb@moe.gov.sg
 ---
