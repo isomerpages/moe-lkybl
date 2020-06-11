@@ -18,7 +18,7 @@ sections:
         url: /faq/
         image: /images/Block01.jpg
         alt: Special Call for Proposal
-     - infopic:
+    - infopic:
         title: Block 02
         description: This is the description for Special Call for Proposal
         button: Button text
