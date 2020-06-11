@@ -22,6 +22,8 @@ colors:
 collections:
   about-the-fund:
     output: true
+  funding:
+    output: true
 resources_name: press-room
 
 ##################################################################################################################
