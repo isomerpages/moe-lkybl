@@ -1,5 +1,5 @@
 ---
-title: Resource
+title: Language Learning Resource
 permalink: /what-up/language-learning-resource/
 ---
 
