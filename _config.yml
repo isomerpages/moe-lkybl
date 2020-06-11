@@ -24,7 +24,7 @@ collections:
     output: true
   funding:
     output: true
-  what's-up:
+  what-up:
     output: true
 resources_name: press-room
 
