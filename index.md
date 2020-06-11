@@ -11,10 +11,13 @@ sections:
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
-    - infobar:
-        title: Infobar title
+    - infopic:
+        title: Special Call for Proposal
         subtitle: Subtitle
-        description: About a sentence worth of description here
+        description: This is the description for Special Call for Proposal
         button: Button text
         url: /faq/
+        image: /images/integrity.png
+        alt: Special Call for Proposal
+     
 ---
