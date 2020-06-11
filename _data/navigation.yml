@@ -13,9 +13,5 @@ links:
     url:
   - title: What's Up
     url:
-  - title: Events
-    url: /events/
-  - title: Press Room
-    resource_room: true
   - title: Contact Us
     url: /contact-us/
