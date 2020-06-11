@@ -2,30 +2,18 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+breadcrumb: Contact Us
+  - title: General Enquiries
     operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+      - days: Mondays – Fridays
+        time: 8.30am to 5.30pm
+      - days: Saturdays
+        time: 8.30am to 12.30pm
+        description: Closed on Sundays and Public Holidays
 contacts:
-  - title: General Enquiries & Feedback
+  - title: Contact Us
     content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+    - phone: +65 68722220
+    - phone: +65 67755826
+    - email: moe_lkyfb@moe.gov.sg
 ---
