@@ -2,9 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-  - title: Contact Us
   - title: General Enquiries
-  - title: For general enquiries on the Fund, please contact MOE Customer Service Centre
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 5.30pm
@@ -15,6 +13,5 @@ contacts:
   - title: Contact Us
     content:
     - phone: +65 68722220
-    - fax: +65 67755826
     - email: moe_lkyfb@moe.gov.sg
 ---
