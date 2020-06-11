@@ -1,5 +1,5 @@
 ---
-title: About The Fund
+title: Funding Application
 permalink: /about-the-fund/about-the-fund/
 ---
 
