@@ -2,7 +2,6 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Ministry of ABC
 locations:
   - title: Main Office
     address:
