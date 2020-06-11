@@ -8,15 +8,13 @@ logo: /images/Bilingualism-Logo.jpg
 
 links:
   - title: About Us
-    url:
+    collection: about-the-fund
   - title: Funding
     url:
   - title: What's Up
     url:
   - title: Events
     url: /events/
-  - title: About The Fund
-    collection: about-the-fund
   - title: Press Room
     resource_room: true
   - title: Contact Us
