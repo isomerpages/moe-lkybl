@@ -23,8 +23,6 @@ sections:
                 - Lee Kuan Yew Kuan Fund for Bilingualism's Facebook has moved! Follow us at our facebook and Instagram.
         button: Facebook
         url: https://www.facebook.com/bilingualisms
-        button: Instagram
-        url: https://www.facebook.com/bilingualisms
         image: /images/Block002.jpg
         alt: img02
      
