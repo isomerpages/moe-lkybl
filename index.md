@@ -21,7 +21,7 @@ sections:
         title: Lee Kuan Yew Kuan Fund for Bilingualism Facebook
         description: Follow us at our Facebook page!
         button: Learn More
-        url: /faq/
+        url: [Link](https://www.facebook.com/bilingualisms)
         image: /images/Block02.jpg
         alt: img02
      
