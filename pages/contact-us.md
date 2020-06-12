@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: General Enquiries
+- title: General Enquiries
   operating_hours:
    - days: Mondays – Fridays
         time: 8.30am to 5.30pm
@@ -12,6 +12,6 @@ agency_name: General Enquiries
 contacts:
   - title: Contact us
     content:
-    - phone: +65 68722220
+    - phone: +65 6872 2220
     - email: moe_lkyfb@moe.gov.sg   
 ---
