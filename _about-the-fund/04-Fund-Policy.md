@@ -86,7 +86,7 @@ permalink: /about-the-fund/fund-policy/
  <h3  style= "text-decoration: underline;">Roles and Responsibilities </h3>
   <h3>Whistleblowers: </h3>
    <p>28. Whistleblowers  should  act  in  good  faith  and  should  not  make  false  accusations when reporting of misconduct by the Fund’s stakeholders.</p>
-  <h3Suspects:  </h3>
+  <h3>Suspects:  </h3>
    <p>29. Suspects have a duty to cooperate with investigators. The identity of the suspect shall remain confidential. </p>
   <h3>Investigators: </h3>
    <p>30. All investigators derive the authority to handle all matters seriously, confidentially and  promptly.  All  investigators  shall  be  independent  and  unbiased  both  in  fact  and appearance.</p>
