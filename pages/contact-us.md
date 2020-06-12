@@ -3,7 +3,6 @@ layout: contact_us
 title: Contact Us
 permalink: /contact-us/
 ---
-### General Enquiries
 
 For general enquiries on the Fund, please contact MOE Customer Service Centre.
 
@@ -13,7 +12,7 @@ Customer Service Centre Operating Hours
   
   Saturdays: 8.30am to 12.30pm
   
-  Sundays &amp; Public Holidays: Closed
+  Sundays & Public Holidays: Closed
   
 Contact Us
 
