@@ -94,7 +94,7 @@ permalink: /about-the-fund/fund-policy/
    <p>31. Stakeholders who are interviewed or asked to provide information have a duty to fully  cooperate  with  the  investigators.  Participants  should  refrain  from  discussing  or disclosing matters concerning the investigations.</p>
   <h2 style="text-align:center;">WHISTLEBLOWER REPORT FORM </h2>
   <p>Please provide the following details for any suspected serious misconduct or any breach or suspected breach of law or regulation that may adversely impact the Fund and submit the form directly to the Chairperson of the Audit Committee. Please note that you may be called upon to assist in the investigation, if required.</p>
-  <p>Note: Please follow the guidelines as laid out in the Whistleblowing Policy and Procedure</p>
+  <p>Note: Please follow the guidelines as laid out in the Whistleblowing Policy and Procedure</p></table> </body>
  <html>
 <head>
 <style>
