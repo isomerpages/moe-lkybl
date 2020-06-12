@@ -3,7 +3,6 @@ layout: contact_us
 title: Contact Us
 permalink: /contact-us/
 agency_name: General Enquiries
- - title: For general enquiries on the Fund, please contact MOE Customer Service Centre
   operating_hours:
    - days: Mondays – Fridays
         time: 8.30am to 5.30pm
