@@ -4,7 +4,9 @@ title: Contact Us
 permalink: /contact-us/
 agency_name: Lee Kuan Yew Fund for Bilingualism
 locations:
-  - title: Lee Kuan Yew Fund for Bilingualism
+  - title:
+        - Address
+        - Lee Kuan Yew Fund for Bilingualism
     address:
         - 1. North Buona Vista Drive
         - Singapore 138675
