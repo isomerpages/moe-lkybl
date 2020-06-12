@@ -6,7 +6,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: BilingualSG
+        title: Lee Kuan Yew Fund for Bilingualism
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
