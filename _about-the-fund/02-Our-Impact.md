@@ -1,9 +1,9 @@
 ---
-title: Our Impact
+title: Board
 permalink: /about-the-fund/our-impact/
 ---
 
-** This is the content for Our Impcact**  
+** This is the content for Board**  
 
 
-### 1. Our Impact
+### 1. Board
