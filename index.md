@@ -22,7 +22,7 @@ sections:
         description: Follow us at our Facebook page!
         button: Learn More
         url: https://www.facebook.com/bilingualisms
-        image: /images/Block02.jpg
+        image: /images/Block002.jpg
         alt: img02
      
 ---
