@@ -9,7 +9,7 @@ permalink: /about-the-fund/donation/
 
 <p><a href="#Pendermaan">Pendermaan</a></p>
 
-<p><a href="#நன்கொடை">நன்கொடை</a></p>
+<p><a href="#நன்கொட">நன்கொட</a></p>
 
 <h3 id="Donations">Donations</h3>
 <html>
