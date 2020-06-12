@@ -3,13 +3,13 @@ title: Donation
 permalink: /about-the-fund/donation/
 ---
 
-Donations
+<a href="Donations">Donations</a>
 
-捐款
+ <a href="捐款">捐款</a>
 
-Pendermaan
+<a href="Pendermaan">Pendermaan</a>
 
-நன்கொடை
+<a href="நன்கொடை">நன்கொடை</a>
 
 
 ### 1. Donations
