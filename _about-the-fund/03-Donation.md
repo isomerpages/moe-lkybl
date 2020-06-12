@@ -4,11 +4,8 @@ permalink: /about-the-fund/donation/
 ---
 
 <p><a href="#Donations">Donations</a></p>
-
- <p><a href="#捐款">捐款</a></p>
-
+<p><a href="#捐款">捐款</a></p>
 <p><a href="#Pendermaan">Pendermaan</a></p>
-
 <p><a href="#நன்கொட">நன்கொட</a></p>
 
 <h3 id="Donations">Donations</h3>
