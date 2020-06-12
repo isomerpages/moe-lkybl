@@ -25,8 +25,12 @@ and a lifelong endeavour.
 ####   Our Structure
 The Fund is managed by a Board and supported by the following committees: 
 (i) Project Evaluation Committee (PEC)
+
 (ii) Publicity and Outreach Committee (POC)
+
 (iii) Investment Advisory Committee (IAC) 
+
 (iv) Audit Committee (AC)
+
 (v) Research Advisory Panel
 The Board members are:
