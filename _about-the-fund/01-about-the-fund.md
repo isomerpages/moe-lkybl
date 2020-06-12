@@ -1,6 +1,6 @@
 ---
 title: About the Fund
-permalink: /about-the-fund/funding-application/
+permalink: /about-the-fund/about-the-fund/
 ---
 
 ** This is the content for About the Fund**  
