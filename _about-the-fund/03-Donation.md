@@ -3,14 +3,47 @@ title: Donation
 permalink: /about-the-fund/donation/
 ---
 
+<html>
+<body>
+<style>
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+.navbar {
+  overflow: hidden;
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: t  ;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  background-color: #ccc;
+  height: 250px;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
 <p><a href="#Donations">Donations</a></p>
 <p><a href="#捐款">捐款</a></p>
 <p><a href="#Pendermaan">Pendermaan</a></p>
 <p><a href="#நன்கொட">நன்கொட</a></p>
 
 <h3 id="Donations">Donations</h3>
-<html>
-<body>
   <p>Your donation will help our children build their language foundation early in an age-appropriate way.
 In support of this cause, the government has provided a 1:1 matching grant for donations to the
 Fund, up to a cap of $50 million. Donations to the Fund will also qualify for 250% tax deduction (at
