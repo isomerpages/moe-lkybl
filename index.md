@@ -8,8 +8,8 @@ sections:
     - hero:
         title: Lee Kuan Yew Fund for Bilingualism
         background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+        button: Learn More
+        url: /about-the-fund/about-the-fund/
     - infopic:
         title: Special Call for Proposal
         description: Lee Kuan Yew Fund for Bilingualism is holding a Special Call for Projects to help young children (aged 0-6) learn MTLs at home.
