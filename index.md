@@ -19,7 +19,7 @@ sections:
         alt: Special Call for Proposal
     - infopic:
         title: Lee Kuan Yew Kuan Fund for Bilingualism Facebook
-        description: This is the description for Special Call for Proposal
+        description: Follow us at our Facebook page!
         button: Learn More
         url: /faq/
         image: /images/Block02.jpg
