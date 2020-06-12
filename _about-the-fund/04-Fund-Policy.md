@@ -101,11 +101,14 @@ permalink: /about-the-fund/fund-policy/
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
+  
 }
+
 th, td {
   padding: 5px;
   text-align: left;    
 }
+
 </style>
 </head>
 <body>
@@ -127,11 +130,13 @@ th, td {
   </tr>
   <tr >
     <td style="width:50%">DESIGNATION</td>
-    <td style="width:50%" colspan="3"></td> 
+    <td style="width:50%" colspan="3"></td>
+    
   </tr>
   <tr>
     <td style="width:50%">COMMITTEE/ COMPANY</td>
     <td style="width:50%" colspan="3"></td>
+    
   </tr>
   <tr>
     <td style="width:50%">CONTACT NUMBER </td>
@@ -144,7 +149,9 @@ th, td {
     
   </tr>
   <tr>
-   <th  colspan="4">SUSPECT’S INFORMATION<br/></th> 
+  
+    <th  colspan="4">SUSPECT’S INFORMATION<br/></th>
+   
   </tr>
   <td style="width:50%" >NAME </td>
     <td style="width:50%" colspan="3"></td>
@@ -209,7 +216,11 @@ th, td {
   <td style="width:25%">ALLEGATION NO. </td>
   <td style="width:25%"></td>
   </tr>
-  <style>
+  </table>
+  </body>
+  <br/>
+  <head>
+<style>
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
@@ -221,12 +232,9 @@ th, td {
 </style>
 </head>
 <body>
-
-
 <table style="width:100%">
   <tr>
-    <th colspan="2">COMPLAINT:Briefly describe the misconduct/ improper activity and how you come to know about it. Specify what, who, when, where and how. If there is more than one allegation, number each allegation and use as many pages as necessary. </th>
-    
+    <th colspan="2">COMPLAINT:Briefly describe the misconduct/ improper activity and how you come to know about it. Specify what, who, when, where and how. If there is more than one allegation, number each allegation and use as many pages as necessary. </th>  
   </tr>
   <tr>
     <th colspan="2">1. What misconduct/ improper activity occurred? </th>
@@ -242,18 +250,52 @@ th, td {
       <th colspan="2">6. Are there any other parties involved other than the suspect stated above?  </th>
       </tr><th colspan="2">7. Do you have any other details or information which would assist us in the investigation? </th>
       </tr><th colspan="2">8. Any other comments? </th>
-      </tr>
-      
+      </tr>  
   <tr>
     <th >Date: </th>
     <td>Signature (Optional):</td>
   </tr>
+  </table> 
   <p>Note: *- You SHOULD NOT attempt to obtain evidence for which you do not have a right of access since whistleblowers are ‘reporting parties’ and NOT ‘investigators’ </p>
-  
+</body>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: left;    
+}
+</style>
+</head>
+<body>
+<table style="width:100%">
+  <tr>
+    <th>For Audit Committee Use </th>
+    <td>Report No.</td>
+  </tr>
+  <tr>
+    <th rowspan="2">Received by</th>
+    <td>Received on: </td>
+  </tr>
+  <tr>
+    <td>Acknowledgement Sent On:</td>
+  </tr>
+  <tr>
+    <th colspan="2">Investigation Required (Yes/ No)? (If no, please state the reason) </th>
+      </tr>
+      <tr>
+    <th colspan="2">nvestigation Done By:  </th>
+      </tr><tr>
+    <th colspan="2">Investigation Results:</th>
+      </tr><tr>
+    <th colspan="2">Action Taken/ Conclusion: </th>
+      </tr><tr>
+    <th colspan="2">Reported to Chairman of the Board on:</th>
+      </tr><tr>
+    <th colspan="2">Signed Off by:  </th>
+      </tr>
 </table>
-
-</table>
-
-
 </body>
 </html>
