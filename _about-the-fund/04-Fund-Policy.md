@@ -95,18 +95,17 @@ permalink: /about-the-fund/fund-policy/
   <h2 style="text-align:center;">WHISTLEBLOWER REPORT FORM </h2>
   <p>Please provide the following details for any suspected serious misconduct or any breach or suspected breach of law or regulation that may adversely impact the Fund and submit the form directly to the Chairperson of the Audit Committee. Please note that you may be called upon to assist in the investigation, if required.</p>
   <p>Note: Please follow the guidelines as laid out in the Whistleblowing Policy and Procedure</p>
-  <style>
+ <html>
+<head>
+<style>
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
-  
 }
-
 th, td {
   padding: 5px;
   text-align: left;    
 }
-
 </style>
 </head>
 <body>
@@ -128,13 +127,11 @@ th, td {
   </tr>
   <tr >
     <td style="width:50%">DESIGNATION</td>
-    <td style="width:50%" colspan="3"></td>
-    
+    <td style="width:50%" colspan="3"></td> 
   </tr>
   <tr>
     <td style="width:50%">COMMITTEE/ COMPANY</td>
     <td style="width:50%" colspan="3"></td>
-    
   </tr>
   <tr>
     <td style="width:50%">CONTACT NUMBER </td>
@@ -147,9 +144,7 @@ th, td {
     
   </tr>
   <tr>
-  
-    <th  colspan="4">SUSPECT’S INFORMATION<br/></th>
-   
+   <th  colspan="4">SUSPECT’S INFORMATION<br/></th> 
   </tr>
   <td style="width:50%" >NAME </td>
     <td style="width:50%" colspan="3"></td>
@@ -214,6 +209,51 @@ th, td {
   <td style="width:25%">ALLEGATION NO. </td>
   <td style="width:25%"></td>
   </tr>
+  <style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: left;    
+}
+</style>
+</head>
+<body>
+
+
+<table style="width:100%">
+  <tr>
+    <th colspan="2">COMPLAINT:Briefly describe the misconduct/ improper activity and how you come to know about it. Specify what, who, when, where and how. If there is more than one allegation, number each allegation and use as many pages as necessary. </th>
+    
+  </tr>
+  <tr>
+    <th colspan="2">1. What misconduct/ improper activity occurred? </th>
+      </tr>
+    <th colspan="2">2. Who committed the misconduct/ improper activity?</th>
+      </tr>
+    <th colspan="2">3. When did it happen and when did you notice it? </th>
+      </tr>
+    <th colspan="2">4. Where did it happen?</th>
+      </tr>
+    <th colspan="2">5. Is there any evidence that you could provide us?* </th>
+      </tr>
+      <th colspan="2">6. Are there any other parties involved other than the suspect stated above?  </th>
+      </tr><th colspan="2">7. Do you have any other details or information which would assist us in the investigation? </th>
+      </tr><th colspan="2">8. Any other comments? </th>
+      </tr>
+      
+  <tr>
+    <th >Date: </th>
+    <td>Signature (Optional):</td>
+  </tr>
+  <p>Note: *- You SHOULD NOT attempt to obtain evidence for which you do not have a right of access since whistleblowers are ‘reporting parties’ and NOT ‘investigators’ </p>
+  
 </table>
+
+</table>
+
+
 </body>
 </html>
