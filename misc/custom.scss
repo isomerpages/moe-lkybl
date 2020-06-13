@@ -36,7 +36,8 @@ $desktop: 960px + (2 * $gap) !default;
     background-color: $primary !important;
   }
   &-secondary {
-    background-color: $secondary !important;
+    //background-color: $secondary !important;
+     background-color:#8e0000;
   }
   &-media-color {
     {%- for media-color in site.colors.media-colors -%}
