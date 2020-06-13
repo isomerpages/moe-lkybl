@@ -198,7 +198,7 @@ $desktop: 960px + (2 * $gap) !default;
 // Homepage
 #key-highlights{
 	//background-color: $primary;
-	background-color: #084e8a;
+	background-color: #930909;
 	.col {
 		border-left:1px solid darken($primary,10%);
 		@include touch(){
@@ -236,7 +236,7 @@ $desktop: 960px + (2 * $gap) !default;
     .selector{
       &.active{
         //background-color:$secondary;
-	      background-color:#037e8a;
+	      background-color:#930909;
       }
     }
     &.active{
@@ -251,7 +251,7 @@ $desktop: 960px + (2 * $gap) !default;
   }
   .selector {
       //background-color:$secondary;
-	background-color:#037e8a;
+	background-color:#930909;
     }
   }
 }
