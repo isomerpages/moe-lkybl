@@ -234,7 +234,8 @@ $desktop: 960px + (2 * $gap) !default;
 
     .selector{
       &.active{
-        background-color:$secondary;
+        //background-color:$secondary;
+	      background-color:#037e8a;
       }
     }
     &.active{
