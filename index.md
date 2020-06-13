@@ -29,7 +29,7 @@ sections:
     - infopic:
         title: Lee Kuan Yew Kuan Fund for Bilingualism Facebook
         description: 
-                - Lee Kuan Yew Kuan Fund for Bilingualism's Facebook has moved! Follow us at our <a href="https://www.facebook.com/bilingualismsg" target="_blank">Facebook</a> and <a href="https://instagram.com/bilingualismsg?igshid=u6xx0wat0rcd" target="_blank">Instagram</a>
+                - Lee Kuan Yew Kuan Fund for Bilingualism's Facebook has moved! <br/> Follow us at our <a href="https://www.facebook.com/bilingualismsg" target="_blank">Facebook</a> and <a href="https://instagram.com/bilingualismsg?igshid=u6xx0wat0rcd" target="_blank">Instagram</a>
         image: /images/Block002.jpg
         alt: img02
      
