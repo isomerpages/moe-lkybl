@@ -231,7 +231,8 @@ $desktop: 960px + (2 * $gap) !default;
 
   .navbar-item{
     .sub-link.is-active{
-      color:$secondary;
+      //color:$secondary;
+	background-color:#037e8a;
     }
 
     .selector{
@@ -248,7 +249,8 @@ $desktop: 960px + (2 * $gap) !default;
   }
 .navbar-item:hover {
   a {
-    color:$secondary;
+    //color:$secondary;
+	  color:#037e8a;
   }
   .selector {
       //background-color:$secondary;
