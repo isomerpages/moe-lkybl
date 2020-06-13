@@ -160,7 +160,7 @@ $desktop: 960px + (2 * $gap) !default;
 	    	color: $secondary-hover !important;
 	  	}
 	}
-}
+}  
 
 // Bottom navigation bar
 .bottom-navigation {
@@ -328,6 +328,9 @@ $desktop: 960px + (2 * $gap) !default;
 .is-centered {
   margin: auto;
 }
+.is-secondary{
+		  background-color:red;
+	  }
 
 .is-three-fifths-mobile {
   width: 50%;
