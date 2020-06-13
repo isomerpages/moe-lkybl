@@ -7,7 +7,8 @@
 // Agency brand colors
 $primary: {{- site.colors.primary-color -}};
 //$secondary: {{- site.colors.secondary-color -}};
-$secondary: #8e0000;
+//$secondary: #8e0000;
+$secondary: #ea1b17;
 $secondary-hover: lighten($secondary, 10%);
 
 {%- for media-color in site.colors.media-colors -%}
@@ -200,7 +201,7 @@ $desktop: 960px + (2 * $gap) !default;
 // Homepage
 #key-highlights{
 	//background-color: $primary;
-	background-color: #8e0000;
+	background-color: #ea1b17;
 	.col {
 		border-left:1px solid darken($primary,10%);
 		@include touch(){
