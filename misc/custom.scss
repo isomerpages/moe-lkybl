@@ -232,14 +232,12 @@ $desktop: 960px + (2 * $gap) !default;
 
   .navbar-item{
     .sub-link.is-active{
-      //color:$secondary;
-	background-color:#037e8a;
+       color:$secondary;
     }
 
     .selector{
       &.active{
-        //background-color:$secondary;
-	      background-color:#930909;
+         background-color:$secondary;
       }
     }
     &.active{
@@ -250,12 +248,10 @@ $desktop: 960px + (2 * $gap) !default;
   }
 .navbar-item:hover {
   a {
-    //color:$secondary;
-	  color:#037e8a;
+    color:$secondary;
   }
   .selector {
-      //background-color:$secondary;
-	background-color:#930909;
+        background-color:$secondary;
     }
   }
 }
