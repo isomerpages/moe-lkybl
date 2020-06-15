@@ -43,7 +43,6 @@ border: 1px solid black;
     <td>Mr Ong Ye Kung (Chair)<br/>
 王乙康 ( 主席 )</td>
     <td>Minister for Education</td>
-    
   </tr>
   <tr>
     <td>Ms Low Yen Ling (Vice-
@@ -51,7 +50,6 @@ chair)<br/>刘燕玲 ( 副主席 )</td>
     <td>Senior Parliamentary Secretary<br/>
 Ministry of Education &amp; Ministry of Manpower</td>   
   </tr>    
-  </tr>
   <tr>
     <td>Mr Clarence Tang (Treasurer)<br/>
 邓各讯 ( 财政 )</td>
