@@ -5,6 +5,7 @@ permalink: /about-the-fund/our-impact/
 
 ####   Our Structure
 The Fund is managed by a Board and supported by the following committees: 
+
 (i) Project Evaluation Committee (PEC)
 
 (ii) Publicity and Outreach Committee (POC)
@@ -13,7 +14,7 @@ The Fund is managed by a Board and supported by the following committees:
 
 (iv) Audit Committee (AC)
 
-(v) Research Advisory Panel
+(v) Research Advisory Panel<br/>
 The Board members are:
 <html>
 <body>
@@ -39,25 +40,20 @@ border: 1px solid black;
     <th>Designation</th> 
   </tr>
   <tr>
-    <td>Mr Ong Ye Kung (Chair)
+    <td>Mr Ong Ye Kung (Chair)<br/>
 王乙康 ( 主席 )</td>
     <td>Minister for Education</td>
     
   </tr>
   <tr>
     <td>Ms Low Yen Ling (Vice-
-chair)</td>
+chair)<br/>刘燕玲 ( 副主席 )</td>
     <td>Senior Parliamentary Secretary<br/>
-Ministry of Education &amp; Ministry of Manpower</td>
-    
+Ministry of Education &amp; Ministry of Manpower</td>   
+  </tr>    
   </tr>
   <tr>
-    <td>刘燕玲 ( 副主席 )</td>
-    <td></td>
-    
-  </tr>
-  <tr>
-    <td>Mr Clarence Tang (Treasurer)
+    <td>Mr Clarence Tang (Treasurer)<br/>
 邓各讯 ( 财政 )</td>
     <td>Divisional Director<br/>
 Finance &amp; Procurement Division<br/>
@@ -65,19 +61,19 @@ Ministry of Education</td>
     
   </tr>
   <tr>
-    <td>Ms Ho Peng
+    <td>Ms Ho Peng<br/>
 何品</td>
     <td>Advisor<br/>
 Ministry of Education</td>
   
   </tr><tr>
-    <td>Mrs Yu-Foo Yee Shoon
+    <td>Mrs Yu-Foo Yee Shoon<br/>
 符喜泉</td>
     <td>Honorary Advisor<br/>
 NTUC Childcare</td>
     
   </tr><tr>
-    <td>Mrs Mildred Tan
+    <td>Mrs Mildred Tan<br/>
 沈明媚</td>
     <td>Chairman<br/>
 National Volunteer &amp; Philanthropy Centre</td>
@@ -90,7 +86,7 @@ Office of Admissions<br/>
 National University of Singapore</td>
     
   </tr><tr>
-    <td>Professor Eddie Kuo
+    <td>Professor Eddie Kuo<br/>
 郭振羽教授</td>
     <td>Emeritus Professor<br/>
 Nanyang Technological University, and<br/>
@@ -103,7 +99,7 @@ Singapore University of Social Sciences</td>
 Jurong GRC</td>
   
   </tr><tr>
-    <td>Mr Wong Siew Hoong
+    <td>Mr Wong Siew Hoong<br/>
 王斯芸</td>
     <td>Director-General of Education<br/>
 Ministry of Education</td>
@@ -117,13 +113,13 @@ Representative (Non-Resident)to the Palestine National
 Authority</td>
     
   </tr><tr>
-    <td>Mr Anthony Tan
+    <td>Mr Anthony Tan<br/>
 陈康威</td>
     <td>Deputy Chief Executive Officer <br/>
 Singapore Press Holdings Limited</td>
     
   </tr><tr>
-    <td>Mr Chua Chim Kang
+    <td>Mr Chua Chim Kang<br/>
 蔡深江</td>
     <td>Chief Editor <br/>
 Chinese News &amp; Current Affairs<br/>
