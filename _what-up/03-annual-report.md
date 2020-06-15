@@ -22,8 +22,6 @@ permalink: /what-up/annual-report/
 <div id="FY-2017">
  <p>this is the finicai year 2016-2017</p>
 <div>
-<div id="FY-2016">
- <p>this is the finicai year 2015-2016</p>
-<div>
+
 </div>
 </div>
