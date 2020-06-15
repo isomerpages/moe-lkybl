@@ -233,4 +233,155 @@ be able to react positively to occasional setbacks and difficulties along the wa
 因此建立明确的身份认同，可以无限地增广知识，活的更自信快活。</p>
 <p>希望大家不要把双语之路看做是布满荆棘和洪水猛兽的大道，如果反而把它当做是一个历险记，那其
 中固然会碰到挑战或失败，但总是还能勇敢克服，快乐地走下去。</p>
+<h3>3. Press Releases</h3>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: left;    
+}
+</style>
+
+<body>
+<table style="width:100%">
+  <tr>
+    <th>Date</th>
+    <th>Press Release</th>
+  </tr>
+  <tr>
+    <td>04 January 2018</td>
+    <td>The Fund has launched a series of short videos in its continuous drive to
+encourage the use of Mother Tongue languages among Singaporeans,
+especially young children. Building on the Fund’s efforts over the past six
+years in promoting the teaching and learning of Mother Tongue
+languages, the video series highlights the importance of our Mother
+Tongue in connecting users’ hearts and minds, by bringing people closer
+to one another.<br/>
+<a href="Connecting Communities &amp; Bridging Generations Through our Mother Tongue Languages">Connecting Communities &amp; Bridging Generations Through our MotherTongue Languages</a></td>
+  </tr>
+  <tr>
+    <td>06 May 2020</td>
+    <td>To build on continuous efforts to promote the teaching and learning of our Mother Tongue Languages, the Lee Kuan Yew Fund for Bilingualism
+launched a #IAmBilingualSG Call for Projects to support the nurturing of
+bilingualism in young children at home.<br/>
+<a href="Launch of #IAmBilingualSG Call for Projects">Launch of #IAmBilingualSG Call for Projects</a></td></tr>
+<h3>News Coverage on the Fund</h3>
+</table>
+<h3 style="background-color:#8B0000; color:white;">September 2014</h3>
+<h3><a href="Launching &#39;Cilik Cerdik&#39;"><u>Launching &#39;Cilik Cerdik&#39;</u></a></h3>
+<p>(Berita Harian, 30 September 2014)</p>
+<h3><a href="Event to encourage bilingualism "><u>Event to encourage bilingualism  </u></a></h3>
+<p>     
+(Berita Harian, 25 September 2014)</p>
+<h3><a href="Special bilingual magazine for kids "><u>Special bilingual magazine for kids bilingualism  </u></a></h3>
+<p>     
+       
+(Berita Harian, 24 September 2014)</p>
+<h3><a href="Interactive method makes learning Mandarin more engaging   "><u>Interactive method makes learning Mandarin more engaging    </u></a></h3>
+<p>(Lianhe Zaobao, 10 September 2014)</p>
+<h3><a href="Registration opens for parenting workshop on interactive method to learn Mandarin "><u>Registration opens for parenting workshop on interactive method to learn Mandarin  </u></a></h3>
+<p>(MyPaper, 10 September 2014)</p>
+<h3 style="background-color:#8B0000; color:white;">June 2014</h3>
+<h3><a href="Asian Festival of Children&#39;s Content launches former president MR S R Nathan&#39;s new picture books"><u>Asian Festival of Children&#39;s Content launches former president MR S R Nathan&#39;s new picture books</u></a></h3>
+<p>(Lianhe Zaobao, 2 June 2014)</p>
+<h3 style="background-color:#8B0000; color:white;">May 2014</h3>
+<h3><a href="Writing books provided income"><u>Writing books provided income</u></a></h3>
+<p>
+(Berita Harian, 24 May 2014)</p>
+<h3><a href="Director urged to provide diversity to children "><u>Director urged to provide diversity to children </u></a></h3>
+<p>(Berita Harian, 24 May 2014)</p>
+<h3 style="background-color:#8B0000; color:white;">April 2014</h3>
+<h3><a href="LKY fund to sponsor five more bilingualism projects"><u>LKY fund to sponsor five more bilingualism projects</u></a></h3>
+<p>(The Straits Times, 18 April 2014)   </p>
+<h3><a href="5 more plans under LKY Fund for Bilingualism"><u>5 more plans under LKY Fund for Bilingualism</u></a></h3>
+<p>(The Business Times, 18 April 2014)  </p>
+<h3><a href="&#39;Children&#39;s Murasu&#39; coming soon"><u>&#39;Children&#39;s Murasu&#39; coming soon</u></a></h3>
+<p>(Tamil Murasu, 18 April 2014) </p>
+<h3><a href="ITE staff and students develop six sets of local card games to support children&#39;s bilingual learning"><u>ITE staff and students develop six sets of local card games to support children&#39;s bilingual learning</u></a></h3>
+<p>(Lianhe Zaobao, 18 April 2014)</p>
+<h3 style="background-color:#8B0000; color:white;">March 2014</h3>
+<h3><a href="Bilingual picture books to be used in pre-school education for the first time"><u>Bilingual picture books to be used in pre-school education for the first time</u></a></h3>
+<p>(Lianhe Zaobao, 29 March 2014) </p>
+<h3 style="background-color:#8B0000; color:white;">January 2014</h3>
+<h3><a href="Learning Chinese through music videos"><u>Learning Chinese through music videos</u></a></h3>
+<p>(The Straits Times, 14 January 2014) </p>
+<h3 style="background-color:#8B0000; color:white;">December 2013</h3>
+<h3><a href="12 bilingual children songs launched with sponsorship from the Lee Kuan Yew Fund for Bilingualism"><u>12 bilingual children songs launched with sponsorship from the Lee Kuan Yew Fund for Bilingualism</u></a></h3>
+<p>(Lianhe Zaobao, 15 December 2013)</p>
+<h3><a href="Richard Wan records bilingual songs"><u>Richard Wan records bilingual songs</u></a></h3>
+<p>(Shin Min Daily News, 14 December 2013)</p>
+<h3 style="background-color:#8B0000; color:white;">November 2013</h3>
+<h3><a href="Singapore Centre for Chinese Language launches research on language learning at the pre-school
+level"><u>Singapore Centre for Chinese Language launches research on language learning at the pre-school
+level</u></a></h3>
+<p>(Lianhe Zaobao, 29 November 2013) </p>
+<h3 style="background-color:#8B0000; color:white;">September 2013</h3>
+<h3><a href="Reinforce learning of mother tongue at home"><u>Reinforce learning of mother tongue at home</u></a></h3>
+<p>(The Sunday Times, 15 September 2013)</p>
+<h3><a href="Read to kids in mother tongue, Sim Ann tells parents"><u>Read to kids in mother tongue, Sim Ann tells parents</u></a></h3>
+<p>(The New Paper, 15 September 2013)</p>
+<h3><a href="Sim Ann: When parents read with their children, it helps children’s learning of
+mother tongue language"><u>Sim Ann: When parents read with their children, it helps children’s learning of
+mother tongue language</u></a></h3>
+<p>(Lianhe Zaobao, 15 September 2013)</p>
+<h3><a href="Mastering mother tongue language starts from home"><u>Mastering mother tongue language starts from home</u></a></h3>
+<p>(Berita Minggu, 15 September 2013)</p>
+<h3><a href="With practice one can master any language, one’s own language will prevail: Sim Ann"><u>With practice one can master any language, one’s own language will prevail: Sim Ann</u></a></h3>
+<p>(Tamil Murasu, 15 September 2013)</p>
+<h3><a href="‘Value of multilingual skills is growing’"><u>‘Value of multilingual skills is growing’</u></a></h3>
+<p>(The Straits Times, 14 September 2013)</p>
+<h3><a href="Sim Ann: Multiple parties need to work together to strengthen the effectiveness of bilingual
+education "><u>Sim Ann: Multiple parties need to work together to strengthen the effectiveness of bilingual
+education </u></a></h3>
+<p>(Lianhe Zaobao, 14 September 2013)</p>
+<h3><a href="Sim Ann urges parents: Tell stories to children and boost their interest in mother tongue language "><u>Sim Ann urges parents: Tell stories to children and boost their interest in mother tongue language</u></a></h3>
+<p>(Shin Min Daily News, 14 September 2013)</p>
+<h3><a href="Award for pre-school Tamil teachers for the first time "><u>Award for pre-school Tamil teachers for the first time</u></a></h3>
+<p>(Tamil Murasu, 14 September 2013)</p>
+<h3><a href="Fun and games with Mandarin "><u>Fun and games with Mandarin</u></a></h3>
+<p>(The Straits Times, 13 September 2013)</p>
+<h3><a href="Professor Kubler: Language knowledge accumulated from reading newspapers
+is of high practical value "><u>Professor Kubler: Language knowledge accumulated from reading newspapers is of high practical value</u></a></h3>
+<p>(Lianhe Zaobao, 13 September 2013)</p>
+<h3><a href="&quot;Fun Games for Learning Mandarin&quot; toolkit for childcare centres and
+kindergartens"><u>&quot;Fun Games for Learning Mandarin&quot; toolkit for childcare centres and
+kindergartens</u></a></h3>
+<p>(MyPaper, 13 September 2013)</p>
+<h3><a href="Josephine Teo: Let children learn mother tongue early"><u>Josephine Teo: Let children learn mother tongue early</u></a></h3>
+<p>(Shin Min Daily News, 12 September 2013)</p>
+<h3 style="background-color:#8B0000; color:white;">August 2013</h3>
+<h3><a href="Recommendation from BH receives funding support"><u>Recommendation from BH receives funding support</u></a></h3>
+<p>(Berita Harian, 29 August 2013)</p>
+<h3><a href="More proposals get the Lee Kuan Yew Fund for Bilingualism"><u>More proposals get the Lee Kuan Yew Fund for Bilingualism</u></a></h3>
+<p>(Tamil Murasu, 29 August 2013)</p>
+<h3><a href="Fund for bilingualism to back three more projects"><u>Fund for bilingualism to back three more projects</u></a></h3>
+<p>(The New Paper, 28 August 2013)</p>
+<h3><a href="Funding to develop bilingual resources"><u>Funding to develop bilingual resources</u></a></h3>
+<p>(MyPaper, 28 August 2013)</p>
+<h3><a href="Local film &quot;Wa is for Wayang&quot; to be adapted into a bilingual picture book with
+support from the Lee Kuan Yew Fund for Bilingualism"><u>Local film &quot;Wa is for Wayang&quot; to be adapted into a bilingual picture book with
+support from the Lee Kuan Yew Fund for Bilingualism</u></a></h3>
+<p>(Lianhe Zaobao, 28 August 2013)</p>
+<h3><a href="Fun new read for pre-school kids"><u>Fun new read for pre-school kids</u></a></h3>
+<p>(The Straits Times, 17 August 2013)</p>
+
+<h3><a href="Birth of Thumbs Up Junior, a Chinese Language publication for pre-school children"><u>Birth of Thumbs Up Junior, a Chinese Language publication for pre-school children</u></a></h3>
+<p>(Lianhe Zaobao, 17 August 2013)</p>
+<h3><a href="Entrance of Thumbs Up Little Junior, which will be a good companion of pre-school children"><u>Entrance of Thumbs Up Little Junior, which will be a good companion of pre-school children</u></a></h3>
+<p>(Lianhe Wanbao, 17 August 2013)</p>
+<h3><a href="Thumbs Up Little Junior is born"><u>Thumbs Up Little Junior is born</u></a></h3>
+<p>(Shin Min Daily News, 18 August 2013)</p>
+<h3><a href="Complimentary copies of Zaobao’s “Thumbs Up Little Junior” to be given to 30,000 pre-schoolers for a
+year"><u>Complimentary copies of Zaobao’s “Thumbs Up Little Junior” to be given to 30,000 pre-schoolers for a
+year</u></a></h3>
+<p>(Lianhe Zaobao, 6 August 2013)</p>
+<h3><a href="30,000 pre-schoolers to receive “Thumbs Up Little Junior”"><u>30,000 pre-schoolers to receive “Thumbs Up Little Junior”</u></a></h3>
+<p>(MyPaper, 6 August 2013)</p>
+<h3><a href="LKY fund for bilingualism to back Chinese bi-weekly for kids"><u>LKY fund for bilingualism to back Chinese bi-weekly for kids</u></a></h3>
+<p>(The New Paper, 6 August 2013)</p>
+
+
 </body>
