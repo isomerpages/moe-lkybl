@@ -27,7 +27,7 @@ sections:
         image: /images/Block001.jpg
         alt: Special Call for Proposal
     - infopic:
-        title: Lee Kuan Yew Kuan Fund for Bilingualism Facebook
+        title: Lee Kuan Yew Kuan Fund for Bilingualism has moved!
         description: 
                 - Lee Kuan Yew Kuan Fund for Bilingualism's Facebook has moved! <br/><br/> Follow us at our <a href="https://www.facebook.com/bilingualismsg" target="_blank">Facebook</a> and <a href="https://instagram.com/bilingualismsg?igshid=u6xx0wat0rcd" target="_blank">Instagram</a> page.
         image: /images/Block002.jpg
