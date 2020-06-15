@@ -193,8 +193,6 @@ th, td {
   <td style="width:25%">ALLEGATION NO. </td>
   <td style="width:25%"></td>
   </tr>
- </table>
-</body>
   <br/><br/>
   <head>
 <style>
