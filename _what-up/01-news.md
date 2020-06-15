@@ -22,9 +22,11 @@ The series of videos can also be viewed online at the Ministry of Education’s 
 - What Would You Have Done Differently?
 - Appreciating the Beauty of Language
 - Using the Mother Tongue Language with Pride
-- Learning to Love the Language
+- Learning to Love the Language<br/>
 
-<br/>Connecting Communities & Bridging Generations Through our Mother Tongue Languages<br/>
+
+
+Connecting Communities & Bridging Generations Through our Mother Tongue Languages
 <a href="https://www.moe.gov.sg/news/press-releases/connecting-communities-and-bridging-generations-through-our-mother-tongue-languages" target="_blank">https://www.moe.gov.sg/news/press-releases/connecting-communities-and-bridging-generations-through-our-mother-tongue-languages</a>
 
 What Would You Have Done Differently?<br/>
