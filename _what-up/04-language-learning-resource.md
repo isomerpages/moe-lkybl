@@ -7,8 +7,8 @@ permalink: /what-up/language-learning-resource/
 <html>
 <body>
 
-<h1>Connecting Communities &amp; Bridging Generations
-Through Our Mother Tongue Languages</h1>
+<h2>Connecting Communities &amp; Bridging Generations
+Through Our Mother Tongue Languages</h2>
 <p>In 2018, the Fund launched a series of short videos in its continuous drive to encourage the use of
 Mother Tongue languages among Singaporeans, especially children and parents. The video series
 highlights the importance of our Mother Tongue in connecting users; hearts and minds, by bringing
@@ -25,39 +25,39 @@ experience in learning their Mother Tongue language, and how it helped them appr
  <h3>2. Resources</h3>
  <body>
 
-<h1>Tips for Parents</h1>
+<h3>Tips for Parents</h3>
 <p>The following contain information to help you support your child&#39;s learning and
 development, and to promote his/her reading and language skills.</p>
 
-<h2><a href="Schoolbag-The Education News Site"><u>Schoolbag-The Education News Site</u></a></h2>
+<h3><a href="Schoolbag-The Education News Site"><u>Schoolbag-The Education News Site</u></a></h3>
 <p>The Parents in Education Website, developed by MOE, provides parenting tips, educational
 news, information on the school curriculum and resources for parents to support their children&#39;s
 learning and development.</p>
-<h2><a href="Speak Good English Movement Facebook Page"><u>Speak Good English Movement Facebook Page</u></a></h2>
+<h3><a href="Speak Good English Movement Facebook Page"><u>Speak Good English Movement Facebook Page</u></a></h3>
 <p>Read tips and acquire strategies to improve your child&#39;s English.</p>
 
-<h2><a href="MOE Teaching and Learning Resources"><u>MOE Teaching and Learning Resources</u></a></h2>
+<h3><a href="MOE Teaching and Learning Resources"><u>MOE Teaching and Learning Resources</u></a></h3>
 <p>Read tips on how you can help your child&#39;s progress and become involved in his/her learning.</p>
 
-<h2><a href="List of Fund-supported Resources"><u>List of Fund-supported Resources</u></a></h2>
+<h3><a href="List of Fund-supported Resources"><u>List of Fund-supported Resources</u></a></h3>
 <p>The Fund supports numerous initiatives to support young learners in language
 learning, including the production of resources. These resources include print and
 electronic books, periodicals and songs.</p>
-<h1>Online Learning Resources</h1>
-<h2 style="background-color:#8B0000; color:white;">English Language Learning</h2>
-<h2><a href="MOE Teaching and Learning Resources"><u>MOE Teaching and Learning Resources</u></a></h2>
+<h3>Online Learning Resources</h3>
+<h3 style="background-color:#8B0000; color:white;">English Language Learning</h3>
+<h3><a href="MOE Teaching and Learning Resources"><u>MOE Teaching and Learning Resources</u></a></h3>
 <p>Read tips on how you can help your child&#39;s progress and become involved in his/her learning.</p>
-<h2 style="background-color:#8B0000; color:white;">Chinese Language Learning</h2>
-<h2><a href="iPhone App to improve your Chinese Language"><u>iPhone App to improve your Chinese Language</u></a></h2>
+<h3 style="background-color:#8B0000; color:white;">Chinese Language Learning</h3>
+<h3><a href="iPhone App to improve your Chinese Language"><u>iPhone App to improve your Chinese Language</u></a></h3>
 <p>Download the iHuayu 讲华语 iPhone application to find Chinese business terms anytime and
 anywhere!</p>
-<h2 style="background-color:#8B0000; color:white;">Malay Language Learning</h2>
-<h2><a href="Tinta"><u>Tinta</u></a></h2>
+<h3 style="background-color:#8B0000; color:white;">Malay Language Learning</h3>
+<h3><a href="Tinta"><u>Tinta</u></a></h3>
 <p>Click to view the multimedia content that complements the Malay Language Primary Curriculum 2008 and the interactive resources for secondary schools.</p>
-<h2><a href="Nadi"><u>Nadi</u></a></h2>
+<h3><a href="Nadi"><u>Nadi</u></a></h3>
 <p>Click to read the e-magazine for primary Malay Language pupils with a wide range of multimedia content and online activities.</p>
 <h1>Videos</h1>
-<h2 style="background-color:#8B0000; color:white;">English-Mandarin Videos</h2>
+<h3 style="background-color:#8B0000; color:white;">English-Mandarin Videos</h3>
 <p><a href="We Have Good Manners"><u>We Have Good Manners</u></a></p>
 <p>By Ms Janet Ang, Managing Director, IBM Singapore Pte Ltd</p>
 <p>I grew up in a family where Mandarin and Hokkien were the prevalent languages spoken at home.
