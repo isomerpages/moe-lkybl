@@ -509,5 +509,92 @@ level</u></a></h4>
 <p>(Lianhe Zaobao, 29 November 2011)</p>
 <h4><a href="$100m for bilingual education"><u>$100m for bilingual education</u></a></h4>
 <p>(Tamil Murasu, 29 November 2011)</p>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  width: 50%;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>Speeches</h2>
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Speaker / Subjects</th>
+    
+  </tr>
+  <tr>
+    <td>May 31, 2014</td>
+    <td><a href="Speech by Ms Sim Ann at the Asian Festival of Children&#39;s Content">Speech by Ms Sim Ann at the Asian Festival of Children&#39;s Content</a></td>
+    
+  </tr>
+  
+  <tr>
+    <td>September 14, 2013</td>
+    <td><a href="Speech by Ms Sim Ann at the 2nd Mother Tongue Languages
+Symposium">Speech by Ms Sim Ann at the 2nd Mother Tongue Languages
+Symposium</a></td>
+    
+  </tr>
+  <tr>
+    <td>September 13, 2013</td>
+    <td><a href="Speech by Ms Sim Ann at the Opening Ceremony of The East Asia Summit Conference On Bilingualism: Policy And Practice">Speech by Ms Sim Ann at the Opening Ceremony of The East Asia
+Summit Conference On Bilingualism: Policy And Practice</a></td>
+    
+  </tr>
+  <tr>
+    <td>June 10, 2013</td>
+    <td><a href="Speech by Ms Sim Ann at the Opening Ceremony of the 9th
+International Symposium on Bilingualism">Speech by Ms Sim Ann at the Opening Ceremony of the 9th International Symposium on Bilingualism</a></td>
+    
+  </tr>
+  <tr>
+    <td>November 6, 2012</td>
+    <td><a href="Speech by Ms Sim Ann at the Singapore Chinese Chamber Institute of Business 24th Graduation Ceremony">peech by Ms Sim Ann at the Singapore Chinese Chamber Institute of Business 24th Graduation Ceremony</a></td>
+    </tr>
+  <tr>
+    <td>October 20, 2012</td>
+    <td><a href="Speech by Ms Sim Ann at the Outstanding Pre-School Chinese
+Language Teachers Award 2012">Speech by Ms Sim Ann at the Outstanding Pre-School Chinese Language Teachers Award 2012</a></td>
+   </tr>
+  <tr>
+    <td>August 25, 2012</td>
+    <td><a href="Speech by Ms Sim Ann at the Inaugural Mother Tongue Languages Symposium">Speech by Ms Sim Ann at the Inaugural Mother Tongue Languages Symposium</a></td>
+    
+  </tr>
+  <tr>
+    <td>August 15, 2012</td>
+    <td><a href="Speech by Mr Heng Swee Keat at the Nanyang Family of Schools 95th Anniversary Celebrations">Speech by Mr Heng Swee Keat at the Nanyang Family of Schools 95th Anniversary Celebrations</a></td>
+    </tr>
+  <tr>
+    <td>August 4, 2012</td>
+    <td><a href="Speech by Mr S Iswaran, Minister to Prime Minister&#39;s office,Second Minister for Home Affairs and Second Minister for Trade
+and Industry at the Opening Ceremony of the new campus of Umar
+Pulavar Tamil Language Centre">Speech by Mr S Iswaran, Minister to Prime Minister&#39;s office,Second Minister for Home Affairs and Second Minister for Trade and Industry at the Opening Ceremony of the new campus of Umar
+Pulavar Tamil Language Centre</a></td>
+    
+  </tr>
+  <tr>
+    <td>July 27, 2012</td>
+    <td><a href="Speech by Mr Heng Swee Keat at the Launch Ceremony of the
+Speak Mandarin Campaign 2012">Speech by Mr Heng Swee Keat at the Launch Ceremony of the Speak Mandarin Campaign 2012</a></td>
+    
+  </tr>
+</table>
 
 </body>
