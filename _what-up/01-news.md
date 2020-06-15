@@ -9,8 +9,7 @@ From 6 May to 31 July 2020, the Fund will invite submissions of digital resource
 Applicants are encouraged to read the FAQ carefully before submitting an application. [attachment]
 
 - Application Form for Individuals [attachment]
-- Application Form for Organisations/Institutions. [attachment]
-
+- Application Form for Organisations/Institutions. [attachment]<br/>
 For queries or assistance, please email to <a href="#">moe_lkyfb@moe.gov.sg</a>.<br/>
 Press Release for the launch <strong>#IAmBilingualSG Call for Projects</strong> is available here.<br/>
 <a href="https://www.moe.gov.sg/news/press-releases/launch-of-iambilingualsg-call-for-projects" target="_blank">https://www.moe.gov.sg/news/press-releases/launch-of-iambilingualsg-call-for-projects</a>
