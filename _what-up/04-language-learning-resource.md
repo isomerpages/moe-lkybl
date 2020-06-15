@@ -326,7 +326,7 @@ level</u></a></h4>
 mother tongue language"><u>Sim Ann: When parents read with their children, it helps children’s learning of
 mother tongue language</u></a></h4>
 <p>(Lianhe Zaobao, 15 September 2013)</p>
-<h34<a href="Mastering mother tongue language starts from home"><u>Mastering mother tongue language starts from home</u></a></h4>
+<h4><a href="Mastering mother tongue language starts from home"><u>Mastering mother tongue language starts from home</u></a></h4>
 <p>(Berita Minggu, 15 September 2013)</p>
 <h4><a href="With practice one can master any language, one’s own language will prevail: Sim Ann"><u>With practice one can master any language, one’s own language will prevail: Sim Ann</u></a></h4>
 <p>(Tamil Murasu, 15 September 2013)</p>
