@@ -36,7 +36,7 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 </style>
-</head>
+
 <body>
 <table>
   <tr>
@@ -85,5 +85,5 @@ Singapore 138675</p>
 <p>Mondays – Fridays: 8.30am to 5.30pm<br/>
 Saturdays, Sundays &amp; Public Holidays: Closed</p>
 </body>
-</html>
+
 
