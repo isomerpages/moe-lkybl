@@ -23,7 +23,13 @@ The series of videos can also be viewed online at the Ministry of Education’s 
 - Appreciating the Beauty of Language
 - Using the Mother Tongue Language with Pride
 - Learning to Love the Language
-
 Connecting Communities & Bridging Generations Through our Mother Tongue Languages
 <a href="https://www.moe.gov.sg/news/press-releases/connecting-communities-and-bridging-generations-through-our-mother-tongue-languages" target="_blank">https://www.moe.gov.sg/news/press-releases/connecting-communities-and-bridging-generations-through-our-mother-tongue-languages</a>
-
+What Would You Have Done Differently?
+<a href="https://www.youtube.com/watch?v=7AwdyxUDBC0" target="_blank">https://www.youtube.com/watch?v=7AwdyxUDBC0</a>
+Appreciating the Beauty of Language
+<a href="https://www.youtube.com/watch?v=xG4QFdFxlFE" target="_blank">https://www.youtube.com/watch?v=xG4QFdFxlFE</a>
+Using the Mother Tongue Language with Pride
+<a href="https://www.youtube.com/watch?v=Mpemu3KYx2M" target="_blank">https://www.youtube.com/watch?v=Mpemu3KYx2M</a>
+Learning to Love the Language
+<a href="https://www.youtube.com/watch?v=lkzHGh8vJF0" target="_blank">https://www.youtube.com/watch?v=lkzHGh8vJF0</a>
