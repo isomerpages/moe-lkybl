@@ -347,7 +347,7 @@ $desktop: 960px + (2 * $gap) !default;
   text-align:center;
   text-decoration:none;
   color:#ffffff;
-  background-color:#8e0000;
+  background-color:#8991a2;
   border-radius:6px;
   outline:none;
   cursor:pointer;
@@ -356,5 +356,5 @@ $desktop: 960px + (2 * $gap) !default;
   width: 300px;
 }
 .btnClass:hover {
-    background: #8991a2;
+    background: #8e0000;
 }
