@@ -382,6 +382,105 @@ year</u></a></h3>
 <p>(MyPaper, 6 August 2013)</p>
 <h3><a href="LKY fund for bilingualism to back Chinese bi-weekly for kids"><u>LKY fund for bilingualism to back Chinese bi-weekly for kids</u></a></h3>
 <p>(The New Paper, 6 August 2013)</p>
+<h4 style="background-color:#8B0000; color:white;">June 2013</h4>
+<h4><a href="Speak your best language at home  "><u>Speak your best language at home</u></a></h4>
+<p>(The Straits Times, 11 June 2013)</p>
+<h4><a href="Parents should create an environment for their children to learn bilingualism"><u>Parents should create an environment for their children to learn bilingualism</u></a></h4>
+<p>(Lianhe Zaobao, 11 June 2013)</p>
+<h4><a href="Parents&#39; attitudes towards language will directly affect children"><u>Parents&#39; attitudes towards language will directly affect children</u></a></h4>
+<p>(Shin Min Daily News, 11 June 2013)</p>
+<h4><a href="World experts gather for bilingualism"><u>World experts gather for bilingualism</u></a></h4>
+<p>(Tamil Murasu, 11 June 2013)</p>
+<h4 style="background-color:#8B0000; color:white;">May 2013</h4>
+<h4><a href="Launch of three bilingual picture books with local features"><u>Launch of three bilingual picture books with local features</u></a></h4>
+<p>(Lianhe Zaobao, 27 May 2013)</p>
+<h4><a href="The crucial period for children to master speech sounds is when they are three to four-years-
+old"><u>The crucial period for children to master speech sounds is when they are three to four-years-
+old</u></a></h4>
+<p>(Lianhe Zaobao, 21 May 2013)</p>
+<h4><a href="Expert: Children should cultivate good speech sound habit before the age of six"><u>Expert: Children should cultivate good speech sound habit before the age of six</u></a></h4>
+<p>(MyPaper, 21 May 2013)</p>
+<h4 style="background-color:#8B0000; color:white;">April 2013</h4>
+<h4><a href="Support for events to promote bilingualism"><u>Support for events to promote bilingualism</u></a></h4>
+<p>(The Business Times, 25 April 2013)</p>
+<h4><a href="Lee Kuan Yew Fund for Bilingualism to fund two events"><u>Lee Kuan Yew Fund for Bilingualism to fund two events</u></a></h4>
+<p>(Lianhe Zaobao, 25 April 2013)</p>
+<h4><a href="Two events receive support from LKY Bilingualism Fund"><u>Two events receive support from LKY Bilingualism Fund</u></a></h4>
+<p>(Berita Harian, 25 April 2013)</p>
+<h4 style="background-color:#8B0000; color:white;">February 2013</h4>
+<h4><a href="The Lee Kuan Yew Fund for Bilingualism receives a donation of $210,000"><u>The Lee Kuan Yew Fund for Bilingualism receives a donation of $210,000</u></a></h4>
+<p>(Lianhe Zaobao, 1 March 2013)</p>
+<h4><a href="Pre-schoolers’ bilingual education"><u>Pre-schoolers’ bilingual education</u></a></h4>
+<p>(Lianhe Wanbao, 8 February 2013)</p>
+<h4><a href="How to promote bilingualism among pre-school children?"><u>How to promote bilingualism among pre-school children?</u></a></h4>
+<p>(Lianhe Zaobao, 8 February 2013)</p>
+<h4><a href="You are invited to propose projects to encourage bilingualism among preschool children"><u>You are invited to propose projects to encourage bilingualism among preschool children</u></a></h4>
+<p>(Berita Harian, 2 February 2013)</p>
+<h4><a href="Lee Kuan Yew Bilingual Education Fund invites proposals"><u>Lee Kuan Yew Bilingual Education Fund invites proposals</u></a></h4>
+<p>(Tamil Murasu, 2 February 2013)</p>
+<h4 style="background-color:#8B0000; color:white;">December 2012</h4>
+<h4><a href="Project to inculcate a love for language and reading in children"><u>Project to inculcate a love for language and reading in children</u></a></h4>
+<p>(Berita Harian, 15 December 2012)</p>
+<h4><a href="More tools to boost bilingual learning"><u>More tools to boost bilingual learning</u></a></h4>
+<p>(The Straits Times, 8 December 2012)</p>
+<h4><a href="Ten receive funds to promote bilingualism"><u>MTen receive funds to promote bilingualism</u></a></h4>
+<p>(The Business Times Weekend, 8-9 December 2012)</p>
+<h4><a href="Learning tools proposals get $1.6 million funding"><u>Learning tools proposals get $1.6 million funding</u></a></h4>
+<p>(The New Paper, 8 December 2012)</p>
+<h4><a href="Lee Kuan Yew Fund for Bilingualism gives out $1.6 million to develop bilingual teaching materials for
+children  "><u>Lee Kuan Yew Fund for Bilingualism gives out $1.6 million to develop bilingual teaching materials for
+children  </u></a></h4>
+<p>(Lianhe Zaobao, 8 December 2012)</p>
+<h4><a href="$1.6 million is given out to help young children become bilingual"><u>$1.6 million is given out to help young children become bilingual</u></a></h4>
+<p>(Lianhe Wanbao, 8 December 2012)</p>
+<h4><a href="10 proposals receive $1.6 million from the Lee Kuan Yew Fund for Bilingualism"><u>10 proposals receive $1.6 million from the Lee Kuan Yew Fund for Bilingualism</u></a></h4>
+<p>(Berita Harian, 8 December 2012)</p>
+<h4><a href="Willing to collaborate to uphold bilingualism"><u>Willing to collaborate to uphold bilingualism</u></a></h4>
+<p>(Berita Harian, 8 December 2012)</p>
+<h4><a href="$1.6 million for 10 projects"><u>$1.6 million for 10 projects</u></a></h4>
+<p>(Tamil Murasu, 8 December 2012)</p>
+<h4 style="background-color:#8B0000; color:white;">July 2012</h4>
+<h4><a href="Proposals sought to boost bilingualism"><u>Proposals sought to boost bilingualism</u></a></h4>
+<p>(The Straits Times, 7 July 2012)</p>
+<h4><a href="LKY Bilingualism fund stands at $119m"><u>LKY Bilingualism fund stands at $119m</u></a></h4>
+<p>(Business Times Weekend, 7-8 July 2012)</p>
+<h4><a href="Fund calls for proposals to improve bilingual learning"><u>Fund calls for proposals to improve bilingual learning</u></a></h4>
+<p>(The New Paper, 7 July 2012)</p>
+<h4><a href="Lee Kuan Yew Fund for Bilingualism is seeking proposals to enhance bilingual learning at pre-school
+level"><u>Lee Kuan Yew Fund for Bilingualism is seeking proposals to enhance bilingual learning at pre-school
+level</u></a></h4>
+<p>(Lianhe Zaobao, 7 July 2012)</p>
+<h4><a href="Lee Kuan Yew Fund for Bilingualism is seeking proposals to enhance bilingual learning at pre-school level"><u>Lee Kuan Yew Fund for Bilingualism is seeking proposals to enhance bilingual learning at pre-school
+level</u></a></h4>
+<p>(Lianhe Wanbao, 7 July 2012)</p>
+<h4><a href="Lee Kuan Yew Fund for Bilingualism is seeking proposals to enhance bilingual learning"><u>Lee Kuan Yew Fund for Bilingualism is seeking proposals to enhance bilingual learning</u></a></h4>
+<p>(Shin Min Daily News, 6 July 2012)</p>
+<h4><a href="Bilingualism Fund would like public&#39;s proposals to promote bilingualism in pre-schools"><u>Bilingualism Fund would like public&#39;s proposals to promote bilingualism in pre-schools</u></a></h4>
+<p>(Berita Harian, 7 July 2012)</p>
+<h4><a href="Bilingual Education: ideas welcomed"><u>Bilingual Education: ideas welcomed</u></a></h4>
+<p>(Tamil Murasu,7 July 2012)</p>
+
+<h4 style="background-color:#8B0000; color:white;">March 2012</h4>
+<h4><a href="Bilingualism fund raises $113m, beating target"><u>Bilingualism fund raises $113m, beating target</u></a></h4>
+<p>(The Straits Times, 15 March 2012)</p>
+<h4><a href="Board set up to run Lee Kuan Yew Fund for Bilingualism"><u>Board set up to run Lee Kuan Yew Fund for Bilingualism</u></a></h4>
+<p>(The New Paper, 15 March 2012)</p>
+<h4><a href="Board set up for Lee Kuan Yew Fund for Bilingualism"><u>Board set up for Lee Kuan Yew Fund for Bilingualism</u></a></h4>
+<p>(Business Times, 15 March 2012)</p>
+<h4><a href="Board to manage LKY Fund for Bilingualism"><u>Board to manage LKY Fund for Bilingualism</u></a></h4>
+<p>(MyPaper, Business Times, 15 March 2012)</p>
+<h4><a href="Lee Kuan Yew Fund for Bilingualism exceeds the $100million target"><u>Lee Kuan Yew Fund for Bilingualism exceeds the $100million target</u></a></h4>
+<p>(Lianhe Zaobao, 15 March 2012)</p>
+<h4><a href="Lee Kuan Yew Fund for Bilingualism board to set up 4 sub-committees"><u>Lee Kuan Yew Fund for Bilingualism board to set up 4 sub-committees</u></a></h4>
+<p>(Lianhe Zaobao, 15 March 2012)</p>
+<h4><a href="Two experts in Malay Language among members of the Board"><u>Two experts in Malay Language among members of the Board</u></a></h4>
+<p>(Berita Harian, 15 March 2012)</p>
+<h4><a href="Lee Kuan Yew education fund currently at $113m"><u>Lee Kuan Yew education fund currently at $113m</u></a></h4>
+<p>(Tamil Murasu,15 March 2012)</p>
+<h4><a href="&#39; Big challenge to speak Tamil at home &#39;"><u>&#39; Big challenge to speak Tamil at home &#39;</u></a></h4>
+<p>(Tamil Murasu,15 March 2012)</p>
+<h4><a href="Public support the Lee Kuan Yew Fund for Bilingualism with donations"><u>Public support the Lee Kuan Yew Fund for Bilingualism with donations</u></a></h4>
+<p>(Lianhe Zaobao, 15 March 2012)</p>
 
 
 </body>
