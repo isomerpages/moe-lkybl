@@ -260,14 +260,14 @@ years in promoting the teaching and learning of Mother Tongue
 languages, the video series highlights the importance of our Mother
 Tongue in connecting users’ hearts and minds, by bringing people closer
 to one another.<br/>
-<a href="Connecting Communities &amp; Bridging Generations Through our Mother Tongue Languages">Connecting Communities &amp; Bridging Generations Through our MotherTongue Languages</a></td>
+<a href="https://www.moe.gov.sg/news/press-releases/connecting-communities-and-bridging-generations-through-our-mother-tongue-languages" target="_blank">Connecting Communities &amp; Bridging Generations Through our MotherTongue Languages</a></td>
   </tr>
   <tr>
     <td>06 May 2020</td>
     <td>To build on continuous efforts to promote the teaching and learning of our Mother Tongue Languages, the Lee Kuan Yew Fund for Bilingualism
 launched a #IAmBilingualSG Call for Projects to support the nurturing of
 bilingualism in young children at home.<br/>
-<a href="Launch of #IAmBilingualSG Call for Projects">Launch of #IAmBilingualSG Call for Projects</a></td></tr>
+<a href="https://www.moe.gov.sg/news/press-releases/launch-of-iambilingualsg-call-for-projects" target="_blank">Launch of #IAmBilingualSG Call for Projects</a></td></tr>
 <h4>News Coverage on the Fund</h4>
 </table>
 <h4 style="background-color:#8B0000; color:white;">September 2014</h4>
