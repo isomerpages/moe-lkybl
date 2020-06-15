@@ -29,12 +29,9 @@ Connecting Communities & Bridging Generations Through our Mother Tongue Language
 
 What Would You Have Done Differently?<br/>
 <a href="https://www.youtube.com/watch?v=7AwdyxUDBC0" target="_blank">https://www.youtube.com/watch?v=7AwdyxUDBC0</a>
-
 Appreciating the Beauty of Language<br/>
 <a href="https://www.youtube.com/watch?v=xG4QFdFxlFE" target="_blank">https://www.youtube.com/watch?v=xG4QFdFxlFE</a>
-
 Using the Mother Tongue Language with Pride<br/>
 <a href="https://www.youtube.com/watch?v=Mpemu3KYx2M" target="_blank">https://www.youtube.com/watch?v=Mpemu3KYx2M</a>
-
 Learning to Love the Language<br/>
 <a href="https://www.youtube.com/watch?v=lkzHGh8vJF0" target="_blank">https://www.youtube.com/watch?v=lkzHGh8vJF0</a>
