@@ -591,9 +591,124 @@ Pulavar Tamil Language Centre</a></td>
   <tr>
     <td>July 27, 2012</td>
     <td><a href="Speech by Mr Heng Swee Keat at the Launch Ceremony of the
-Speak Mandarin Campaign 2012">Speech by Mr Heng Swee Keat at the Launch Ceremony of the Speak Mandarin Campaign 2012</a></td>
-    
+Speak Mandarin Campaign 2012">Speech by Mr Heng Swee Keat at the Launch Ceremony of the Speak Mandarin Campaign 2012</a></td> 
   </tr>
 </table>
+<h3>News Commentary on Language Learning</h3>
+<h4 style="background-color:#8B0000; color:white;">Bilingualism</h4>
+<h4><a href="Will children become smarter if they are exposed to bilingual learning early?"><u>Will children become smarter if they are exposed to bilingual learning early?</u></a></h4>
+<p>(Lianhe Zaobao, 24 March 2014)</p>
+<h4><a href="Mr Lee: Give kids early start in bilingualism"><u>Mr Lee: Give kids early start in bilingualism</u></a></h4>
+<p>(Business Times Weekend, 17-18 August 2013)</p>
+<h4><a href="An early start in languages at new Tiong Bahru pre-school"><u>An early start in languages at new Tiong Bahru pre-school</u></a></h4>
+<p>(Straits Times, 17 August 2013)</p>
+<h4><a href="Introduce bilingualism at early age: Mr Lee"><u>Introduce bilingualism at early age: Mr Lee</u></a></h4>
+<p>(The New Paper, 17 August 2013)</p>
+<h4><a href="Lee Kuan Yew: Give children early start in bilingualism   "><u>Lee Kuan Yew: Give children early start in bilingualism   </u></a></h4>
+<p>  (Lianhe Zaobao, 17 August 2013)</p>
+<h4><a href="Lee Kuan Yew urges parents to allow children early start in bilingualism"><u>Lee Kuan Yew urges parents to allow children early start in bilingualism</u></a></h4>
+<p>(Lianhe Wanbao, 17 August 2013)</p>
+<h4><a href="Singapore founding father Lee Kuan Yew urges parents to allow children early start in bilingualism    "><u>Singapore founding father Lee Kuan Yew urges parents to allow children early start in
+bilingualism    </u></a></h4>
+<p>(Shin Min Daily News, 17 August 2013)</p>
+<h4><a href="&#39;Start bilingualism at a young age&#39;"><u>&#39;Start bilingualism at a young age&#39;</u></a></h4>
+<p>(Berita Harian, 17 August 2013)</p>
+<h4><a href="Bilingual education for children is important: Lee Kuan Yew   "><u>Bilingual education for children is important: Lee Kuan Yew   </u></a></h4><p>(Tamil Murasu, 17 August 2013)</p>
+<h4><a href="Research shows: Frequent use of two languages from early age makes for stronger cognitive
+ability"><u>Research shows: Frequent use of two languages from early age makes for stronger cognitive
+ability</u></a></h4>
+<p>(Lianhe Zaobao, 29 July 2013)</p>
+<h4><a href="Learning mother tongue from young; less disruption to thinking process "><u>Learning mother tongue from young; less disruption to thinking process </u></a></h4>
+<p>(MyPaper, 29 July 2013)</p>
+<h4><a href="Frequent use of two languages from early age makes for stronger cognitive ability"><u>Frequent use of two languages from early age makes for stronger cognitive ability</u></a></h4>
+<p>(Sin Min Daily, 29 July 2013)</p>
+<h4><a href="Importance of bilingual books"><u>Importance of bilingual books</u></a></h4>
+<p>(Berita Harian, 16 May 2013)</p>
+<h4><a href="Do not make Malay children monolingual "><u>Do not make Malay children monolingual </u></a></h4>
+<p>(Berita Harian, 10 April 2013)</p>
+<h4><a href="What lies ahead in bilingual journey  "><u>What lies ahead in bilingual journey  </u></a></h4>
+<p> (The Sunday Times, 11 December 2011)</p>
+<h4><a href="Out with dialects, in with Mandarin  "><u>Out with dialects, in with Mandarin  </u></a></h4>
+<p> (The Sunday Times, 11 December 2011)</p>
+<h4><a href="Mr Lee tells of his struggle with Chinese language   "><u>Mr Lee tells of his struggle with Chinese language   </u></a></h4>
+<p>   (The Straits Times, 21 November 2011)</p>
+<h4><a href="Lee Kuan Yew’s bilingualism awakening"><u>Lee Kuan Yew’s bilingualism awakening</u></a></h4>
+<p>(The Sunday Times, 27 November 2011)</p>
+<h4 style="background-color:#8B0000; color:white;">Chinese Language Learning</h4>
+<h4><a href="Live the language  "><u>Live the language  </u></a></h4>
+<p>(Lianhe Zaobao, 18 August 2013)</p>
+<h4><a href="A sensible appeal to allow Mother Tongue to thrive"><u>A sensible appeal to allow Mother Tongue to thrive</u></a></h4>
+<p>(Lianhe Zaobao, 4 June 2013)</p>
+<h4><a href="The crucial period for children to master speech sounds is when they are three to four-years-
+old "><u>The crucial period for children to master speech sounds is when they are three to four-years-
+old </u></a></h4>
+<p>(Lianhe Zaobao, 21 May 2013)</p>
+<h4><a href="Expert: Children should cultivate good speech sound habit before the age of six"><u>Expert: Children should cultivate good speech sound habit before the age of six</u></a></h4>
+<p>(MyPaper, 21 May 2013)</p>
+<h4><a href="Sim Ann: Don’t always remind your children to speak Mandarin"><u>Sim Ann: Don’t always remind your children to speak Mandarin</u></a></h4>
+<p>(Lianhe Zaobao, 21 August 2012)</p>
+<h4><a href="Promising prospects for local Chinese language education"><u>Promising prospects for local Chinese language education</u></a></h4>
+<p>(Lianhe Zaobao, 21 August 2012)</p>
+<h4><a href="The key to a strong command of the Chinese Language lies in pre-school education"><u>The key to a strong command of the Chinese Language lies in pre-school education</u></a></h4>
+<p>(Lianhe Zaobao, 3 August 2012)</p>
+<h4><a href="Home environment is the key to language education in Singapore"><u>Home environment is the key to language education in Singapore</u></a></h4>
+<p>(Lianhe Zaobao, 26 July 2012)</p>
+<h4><a href="Bicultural and bilingual policies that move with the times"><u>Bicultural and bilingual policies that move with the times</u></a></h4>
+<p>(Lianhe Zaobao Editorial, 10 July 2012)</p>
+<h4><a href="You will be at the losing end if you do not learn Chinese language"><u>You will be at the losing end if you do not learn Chinese language</u></a></h4>
+<p>(Lianhe Zaobao, 24 December 2011)</p>
+<h4><a href="Don’t miss the best years to learn characters in Chinese Language"><u>Don’t miss the best years to learn characters in Chinese Language</u></a></h4>
+<p>(Lianhe Zaobao, 23 December 2011)</p>
+<h4><a href="Bilingual policy and bilingual environment"><u>Bilingual policy and bilingual environment</u></a></h4>
+<p>(Lianhe Zaobao Editorial, 21 December 2011)</p>
+<h4><a href="Two challenges from the bilingualism policy  "><u>Two challenges from the bilingualism policy </u></a></h4>
+<p>(Lianhe Zaobao, 19 December 2011)</p>
+<h4><a href="Lee Kuan Yew has been learning the Chinese Language for half a century"><u>Lee Kuan Yew has been learning the Chinese Language for half a century</u></a></h4>
+<p>(Lianhe Zaobao Sunday, 27 November 2011)</p>
+<h4 style="background-color:#8B0000; color:white;">Malay Language Learning</h4>
+<h4><a href="Raising the standing of Malay to be a global language"><u>Raising the standing of Malay to be a global language</u></a></h4>
+<p>(Berita Harian, 1 June 2013)</p>
+<h4><a href="Our spirit towards language"><u>Our spirit towards language</u></a></h4>
+<p>(Berita Harian, 22 April 2013)</p>
+<h4><a href="Intan: Strengthen efforts in instilling interest in Malay language among children"><u>Intan: Strengthen efforts in instilling interest in Malay language among children</u></a></h4>
+<p>(Berita Harian, 29 December 2012)</p>
+<h4><a href="Intan urges continued use"><u>Intan urges continued use</u></a></h4>
+<p>(Berita Harian, 29 December 2012)</p>
+<h4><a href="Intan: Strengthen efforts in instilling interest in Malay language among childrenm"><u>Intan: Strengthen efforts in instilling interest in Malay language among children</u></a></h4>
+<p>(Berita Harian, 29 Dec 2012)</p>
+<h4><a href="Intan urges continued use"><u>Intan urges continued use</u></a></h4>
+<p>(Berita Minggu, 29 Dec 2012)</p>
+<h4><a href="Effects of foreign influences on the Malay language"><u>Effects of foreign influences on the Malay language</u></a></h4>
+<p>(Berita Harian, 26 August 2012)</p>
+<h4><a href="Instill love for Mother Tongue Language among students"><u>Instill love for Mother Tongue Language among students</u></a></h4>
+<p>(Berita Minggu, 10 June 2012)</p>
+<h4><a href="Malay Language reflects the beauty of character"><u>Malay Language reflects the beauty of character</u></a></h4>
+<p>(Berita Harian, 8 June 2012)</p>
+<h4><a href="Language reflects our character, values and identity"><u>Language reflects our character, values and identity</u></a></h4>
+<p>(Berita Harian, 8 June 2012)</p>
+<h4><a href="Efforts to encourage use of Malay Language akin to fighting a tide"><u>Efforts to encourage use of Malay Language akin to fighting a tide</u></a></h4>
+<p>(Berita Harian, 16 June 2012))</p>
+<h4><a href="Malay Language: Package to hone primary students’ oral interaction skills introduced"><u>Malay Language: Package to hone primary students’ oral interaction skills introducedt</u></a></h4>
+<p>(Berita Harian, 12 February 2012)</p>
+<h4 style="background-color:#8B0000; color:white;">Tamil Language Learning</h4>
+<h4><a href="He progressed because he learned Tamil"><u>He progressed because he learned Tamil</u></a></h4>
+<p>(Tamil Murasu, 3 June 2013)</p>
+<h4><a href="Henceforth, sweet Tamil in the hands of youths"><u>Henceforth, sweet Tamil in the hands of youths</u></a></h4>
+<p>(Tamil Murasu, 28 April 2013)</p>
+<h4><a href="An effort by the community"><u>An effort by the community</u></a></h4>
+<p>(Tamil Murasu, 28 April 2013)</p>
+<h4><a href="‘Three-pronged effort needed to make Tamil language last’"><u>‘Three-pronged effort needed to make Tamil language last’</u></a></h4>
+<p>(Tamil Murasu, 22 April 2013)</p>
+<h4><a href="Tamil can hold its own against English"><u>Tamil can hold its own against English</u></a></h4>
+<p>(The Straits Times, 10 April 2013)</p>
+<h4><a href="‘Tamil will continue as a living language’"><u>‘Tamil will continue as a living language’</u></a></h4>
+<p>(Tamil Murasu, 31 March 2013)</p>
+<h4><a href="Tamil and I"><u>Tamil and I</u></a></h4>
+<p>(Tamil Murasu Youth Murasu, 30 August 2012)</p>
+<h4><a href="(Let us) love Tamil, (let us) speak in Tamil"><u>(Let us) love Tamil, (let us) speak in Tamil</u></a></h4>
+<p>(Tamil Murasu, 29 April 2012)</p>
+<h4><a href="We shall promote and protect Tamil, our mother tongue"><u>We shall promote and protect Tamil, our mother tongue</u></a></h4>
+<p>
+(Tamil Murasu Murasoli, 4 December 2011)</p>
 
 </body>
