@@ -21,7 +21,7 @@ sections:
               url: /about-the-fund/donation/
     - infopic:
         title: Special Call for Proposal
-        description: IAmBilingualSG Call for Project<br/>Lee Kuan Yew Fund for Bilingualism is holding a Special Call for Projects to help young children (aged 0-6) learn MTLs at home.
+        description: **#IAmBilingualSG Call for Project**<br/>Lee Kuan Yew Fund for Bilingualism is holding a Special Call for Projects to help young children (aged 0-6) learn MTLs at home.
         button: Learn More
         url: /what-up/news/
         image: /images/Block001.jpg
