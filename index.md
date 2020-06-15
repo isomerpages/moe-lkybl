@@ -3,7 +3,6 @@ layout: homepage
 title: Bilingualism
 description: Brief site description here
 permalink: /
-notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: Lee Kuan Yew Fund for Bilingualism
