@@ -338,3 +338,21 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+	  
+.btnClass{
+  display:inline-block;
+  padding: 18px 20px;
+  text-align:center;
+  text-decoration:none;
+  color:#ffffff;
+  background-color:#4372d6;
+  border-radius:6px;
+  outline:none;
+  cursor:pointer;
+  margin-right: 10px;
+  margin-bottom: 7px;
+  width: 150px;
+}
+.btnClass:hover {
+    background: #8991a2;
+}
