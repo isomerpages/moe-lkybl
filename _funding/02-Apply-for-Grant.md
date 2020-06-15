@@ -6,7 +6,6 @@ permalink: /funding/apply-for-grant/
 ### 1.Apply for grant
 <html>
 <body>
-
 <h1>Call for Proposals</h1>
 <p>The Lee Kuan Yew Fund for Bilingualism invites you to submit proposals to promote bilingualism among pre-school children.</p>
 <p>Bilingual education is a cornerstone of our education system. Learning two languages helps
@@ -36,7 +35,6 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 </style>
-
 <body>
 <table>
   <tr>
