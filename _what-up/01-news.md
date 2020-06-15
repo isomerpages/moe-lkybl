@@ -12,7 +12,8 @@ Applicants are encouraged to read the FAQ carefully before submitting an applica
 - Application Form for Organisations/Institutions. [attachment]
 
 For queries or assistance, please email to <a href="#">moe_lkyfb@moe.gov.sg</a>.
-Press Release for the launch <strong>#IAmBilingualSG Call for Projects</strong> is available here.
+Press Release for the launch <strong>#IAmBilingualSG Call for Projects</strong> is available here.<br/>
+<a href="https://www.moe.gov.sg/news/press-releases/launch-of-iambilingualsg-call-for-projects" target="_blank">https://www.moe.gov.sg/news/press-releases/launch-of-iambilingualsg-call-for-projects</a>
 
 ## 04 January 2018
 The Fund has launched a series of short videos in its continuous drive to encourage the use of Mother Tongue languages among Singaporeans, especially young children. Building on the Fund’s efforts over the past six years in promoting the teaching and learning of Mother Tongue languages, the video series highlights the importance of our Mother Tongue in connecting users’ hearts and minds, by bringing people closer to one another.
