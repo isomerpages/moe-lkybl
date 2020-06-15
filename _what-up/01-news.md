@@ -15,8 +15,6 @@ For queries or assistance, please email to <a href="#">moe_lkyfb@moe.gov.sg</a>.
 Press Release for the launch <strong>#IAmBilingualSG Call for Projects</strong> is available here.
 
 ## 04 January 2018
-<a href="#">Connecting Communities & Bridging Generations Through our Mother Tongue Languages</a>
-
 The Fund has launched a series of short videos in its continuous drive to encourage the use of Mother Tongue languages among Singaporeans, especially young children. Building on the Fund’s efforts over the past six years in promoting the teaching and learning of Mother Tongue languages, the video series highlights the importance of our Mother Tongue in connecting users’ hearts and minds, by bringing people closer to one another.
 
 The series of videos can also be viewed online at the Ministry of Education’s YouTube pages <a href="https://www.youtube.com/user/MOESpore" target="_blank">www.youtube.com/MOESpore</a><br/>
@@ -25,4 +23,7 @@ The series of videos can also be viewed online at the Ministry of Education’s 
 - Appreciating the Beauty of Language
 - Using the Mother Tongue Language with Pride
 - Learning to Love the Language
+
+Connecting Communities & Bridging Generations Through our Mother Tongue Languages
+<a href="https://www.moe.gov.sg/news/press-releases/connecting-communities-and-bridging-generations-through-our-mother-tongue-languages" target="_blank">https://www.moe.gov.sg/news/press-releases/connecting-communities-and-bridging-generations-through-our-mother-tongue-languages</a>
 
