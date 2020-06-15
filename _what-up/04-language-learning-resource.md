@@ -29,14 +29,14 @@ experience in learning their Mother Tongue language, and how it helped them appr
 <p>The following contain information to help you support your child&#39;s learning and
 development, and to promote his/her reading and language skills.</p>
 
-<h4><a href="Schoolbag-The Education News Site"><u>Schoolbag-The Education News Site</u></a></h4>
+<h4><a href="https://www.schoolbag.sg/" target="_blank"><u>Schoolbag-The Education News Site</u></a></h4>
 <p>The Parents in Education Website, developed by MOE, provides parenting tips, educational
 news, information on the school curriculum and resources for parents to support their children&#39;s
 learning and development.</p>
-<h4><a href="Speak Good English Movement Facebook Page"><u>Speak Good English Movement Facebook Page</u></a></h4>
+<h4><a href="https://www.facebook.com/speakgoodenglishmovement" target="_blank"><u>Speak Good English Movement Facebook Page</u></a></h4>
 <p>Read tips and acquire strategies to improve your child&#39;s English.</p>
 
-<h4><a href="MOE Teaching and Learning Resources"><u>MOE Teaching and Learning Resources</u></a></h4>
+<h4><a href="https://www.moe.gov.sg/education/syllabuses/resources" target="_blank"><u>MOE Teaching and Learning Resources</u></a></h4>
 <p>Read tips on how you can help your child&#39;s progress and become involved in his/her learning.</p>
 
 <h4><a href="List of Fund-supported Resources"><u>List of Fund-supported Resources</u></a></h4>
