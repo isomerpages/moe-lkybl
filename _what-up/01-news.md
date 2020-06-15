@@ -8,8 +8,8 @@ permalink: /what-up/news/
 Applicants are encouraged to read the FAQ carefully before submitting an application. 
 <a href="/what-up/FAQ.pdf" download>FAQ</a>
 
-- Application Form for Individuals. <a href="/_what-up/Individuals_Call-for-Projects-Application-Form.docx" target="_blank">Application Form</a>
-- Application Form for Organisations/Institutions. <a href="/_what-up/Organisation_Call-for-Projects-Application-Form.docx" target="_blank">Application Form</a><br/>
+- Application Form for Individuals. <a href="/what-up/Individuals_Call-for-Projects-Application-Form.docx" target="_blank">Application Form</a>
+- Application Form for Organisations/Institutions. <a href="/what-up/Organisation_Call-for-Projects-Application-Form.docx" target="_blank">Application Form</a><br/>
 
 For queries or assistance, please email to <a href="#">moe_lkyfb@moe.gov.sg</a>.<br/>
 Press Release for the launch <strong>#IAmBilingualSG Call for Projects</strong> is available here.<br/>
