@@ -39,26 +39,26 @@ learning and development.</p>
 <h4><a href="https://www.moe.gov.sg/education/syllabuses/resources" target="_blank"><u>MOE Teaching and Learning Resources</u></a></h4>
 <p>Read tips on how you can help your child&#39;s progress and become involved in his/her learning.</p>
 
-<h4><a href="List of Fund-supported Resources"><u>List of Fund-supported Resources</u></a></h4>
+<h4><a href="/what-up/ListofResources.pdf" target="_blank"><u>List of Fund-supported Resources</u></a></h4>
 <p>The Fund supports numerous initiatives to support young learners in language
 learning, including the production of resources. These resources include print and
 electronic books, periodicals and songs.</p>
 <h4>Online Learning Resources</h4>
 <h4 style="background-color:#8B0000; color:white;">English Language Learning</h4>
-<h4><a href="MOE Teaching and Learning Resources"><u>MOE Teaching and Learning Resources</u></a></h4>
+<h4><a href="https://www.moe.gov.sg/education/syllabuses/resources" target="_blank"><u>MOE Teaching and Learning Resources</u></a></h4>
 <p>Read tips on how you can help your child&#39;s progress and become involved in his/her learning.</p>
 <h4 style="background-color:#8B0000; color:white;">Chinese Language Learning</h4>
-<h4><a href="iPhone App to improve your Chinese Language"><u>iPhone App to improve your Chinese Language</u></a></h4>
+<h4><a href="https://apps.apple.com/sg/app/ihuayu-jiang-hua-yu-shang-yong/id541015355?ls=1" target="_blank"><u>iPhone App to improve your Chinese Language</u></a></h4>
 <p>Download the iHuayu 讲华语 iPhone application to find Chinese business terms anytime and
 anywhere!</p>
 <h4 style="background-color:#8B0000; color:white;">Malay Language Learning</h4>
-<h4><a href="Tinta"><u>Tinta</u></a></h4>
+<h4><a href="http://tinta.moe.edu.sg/mekar/slot/u112/index.html" target="_blank"><u>Tinta</u></a></h4>
 <p>Click to view the multimedia content that complements the Malay Language Primary Curriculum 2008 and the interactive resources for secondary schools.</p>
-<h4><a href="Nadi"><u>Nadi</u></a></h4>
+<h4><a href="https://tinta.moe.edu.sg/mekar/slot/u100/arkib/2012/okt/index.htm" target="_blank"><u>Nadi</u></a></h4>
 <p>Click to read the e-magazine for primary Malay Language pupils with a wide range of multimedia content and online activities.</p>
 <h1>Videos</h1>
 <h4 style="background-color:#8B0000; color:white;">English-Mandarin Videos</h4>
-<p><a href="We Have Good Manners"><u>We Have Good Manners</u></a></p>
+<p><a href="https://www.youtube.com/watch?v=o_1YGDhSQOU" target="_blank"><u>We Have Good Manners</u></a></p>
 <p>By Ms Janet Ang, Managing Director, IBM Singapore Pte Ltd</p>
 <p>I grew up in a family where Mandarin and Hokkien were the prevalent languages spoken at home.
 My language environment was influenced largely by my maternal grandmother who had bound feet
