@@ -341,6 +341,13 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 	  
+.tab div {
+  display: none;
+}
+.tab div:target {
+  display: block;
+}	
+	  
 .btnClass{
   display:inline-block;
   padding: 15px 15px;
@@ -357,10 +364,4 @@ $desktop: 960px + (2 * $gap) !default;
 }
 .btnClass:hover {
     background: #8e0000;
-}
-.tab div {
-  display: none;
-}
-.tab div:target {
-  display: block;
 }
