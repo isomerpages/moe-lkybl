@@ -358,3 +358,9 @@ $desktop: 960px + (2 * $gap) !default;
 .btnClass:hover {
     background: #8e0000;
 }
+.tab div {
+  display: none;
+}
+.tab div:target {
+  display: block;
+}
