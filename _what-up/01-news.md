@@ -11,7 +11,7 @@ Applicants are encouraged to read the FAQ carefully before submitting an applica
 - Application Form for Individuals [attachment]
 - Application Form for Organisations/Institutions. [attachment]
 
-For queries or assistance, please email to moe_lkyfb@moe.gov.sg.
-Press Release for the launch #IAmBilingualSG Call for Projects is available here.
+For queries or assistance, please email to <a href="#">moe_lkyfb@moe.gov.sg</a>.
+Press Release for the launch <strong>#IAmBilingualSG Call for Projects</strong> is available here.
 
 
