@@ -69,7 +69,7 @@ doubts regarding funding criteria prior to commencing your applications.</strong
 <strong>For proposals on teaching and learning resources, programmes and events:</strong>
 <li><a href="/funding/Application_Guidelines.pdf">Fund Application Guidelines</a></li>
 <li><a href="/funding/FAQs.pdf">FAQs</a></li>
-<li><a href="/funding/ 	ApplicantChecklist.docx">Applicant Checklist</a></li>
+<li><a href="/funding/ApplicantChecklist.docx">Applicant Checklist</a></li>
 <li><a href="/funding/ApplicationForm.docx">Application Form</a></li>
 <li><a href="/funding/ProposedBudget.xlsx">Application Form Annex I: Proposed Budget [</a></li></p>
 <p><strong>Completed application forms and a sample of the product can be submitted in the following
