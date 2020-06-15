@@ -10,7 +10,7 @@ locations:
         - Singapore 138675
     maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
 contacts:
-  - title:
+  - title: Lee Kuan Yew Fund for Bilingualism
     content:
     - phone: +65 6879 6975
     - email: moe_lkyfb@moe.gov.sg
