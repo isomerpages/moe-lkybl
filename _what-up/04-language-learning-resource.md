@@ -273,7 +273,7 @@ bilingualism in young children at home.<br/>
 <h4 style="background-color:#8B0000; color:white;">September 2014</h4>
 <h4><a href="/what-up/32824644_30_09_2014.pdf" target="_blank"><u>Launching &#39;Cilik Cerdik&#39;</u></a></h4>
 <p>(Berita Harian, 30 September 2014)</p>
-<h4><a href="/what_up/event_encourage_bilingualism.pdf" target="_blank"><u>Event to encourage bilingualism  </u></a></h4>
+<h4><a href="/what_up/32777063.pdf" target="_blank"><u>Event to encourage bilingualism  </u></a></h4>
 <p>     
 (Berita Harian, 25 September 2014)</p>
 <h4><a href="Special bilingual magazine for kids " target="_blank"><u>Special bilingual magazine for kids bilingualism  </u></a></h4>
