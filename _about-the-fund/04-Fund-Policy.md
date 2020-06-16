@@ -16,21 +16,23 @@ permalink: /about-the-fund/fund-policy/
 <p>3.    The Fund’s internal control and operating procedures are intended to detect and to  prevent  or  deter  improper  activities.  However,  even  the  best  systems  of  controls cannot   provide   absolute   safeguards   against   irregularities.   The   Fund   has   the responsibility  to  investigate  and  report  to  appropriate  parties,  allegations  of  suspected improper activities and to take appropriate actions. Stakeholders are encouraged to use guidance provided by this policy for reporting all allegations of suspected misconduct or improper activities.  </p>
                <h3 style= "text-decoration: underline;">Objective and Scope of Policy </h3>
 <p>4. The Whistle Blowing Policy (“the Code”) is intended to: 
+  <ul>
   <li>To  provide  avenues  for  stakeholders  to  raise  concerns  and  define  a  way  to handle these concerns. </li>
   <li>To enable the Board of Directors to be informed at an early stage about acts of misconduct.  </li>
   <li>To  reassure  stakeholders  that  they  will  be  protected  from  punishment  or unfair treatment for disclosing concerns in good faith in accordance with this procedure.  </li>
   <li>To help develop a culture of openness, accountability and integrity.  </li>
   <li>To  encourage  stakeholders  to  feel  confident  in  raising  serious       concerns  and to question and act upon their concerns.  </li>
   <li>To ensure that stakeholders get a response to their concerns.  </li>
-  <li>To  reassure  stakeholders  that  if  they  raise  any  concerns  in  good  faith  and reasonably  believe  them  to  be  true,  they  will  be  protected  from  possible reprisals or victimization, to the extent where the situation allows </li></p>
+  <li>To  reassure  stakeholders  that  if  they  raise  any  concerns  in  good  faith  and reasonably  believe  them  to  be  true,  they  will  be  protected  from  possible reprisals or victimization, to the extent where the situation allows </li></ul></p>
   <p>5. Specific   examples   relating   to   unlawful   conduct, accounting   malpractice   or dangers to the public or environment could include:
+    <ul>
   <li> A  criminal  offence  (e.g.  fraud,  corruption  or  theft)  has  been/is  likely  to  be committed. </li>
     <li>Fraud whether actual or suspected or deliberate error in preparing, evaluating or  review  of  any  financial  statements,  recording  and  maintenance  of  the financial records of the Fund. </li>
       <li>Actual or suspected deficiencies in or non-compliance with the Fund’s internal controls and procedures.</li>
         <li>Any  misrepresentation  whether  actual  or  suspected by  an  officer  or  auditor regarding  a  matter  contained  or  required  to  be  contained  in  the  Fund’s financial records, reports or audit reports. </li>
-          <li>Information  relating  to  any  of  the  above  being  deliberately  concealed  or attempts are being made to conceal the same</li></p>
+          <li>Information  relating  to  any  of  the  above  being  deliberately  concealed  or attempts are being made to conceal the same</li><ul></p>
          <p>6. Examples of non-accounting malpractice reporting could include:
-         <li>Misappropriation of cash </li>
+         <ul><li>Misappropriation of cash </li>
          <li>Misuse of petty cash</li>
          <li>Unauthorized purchases</li>
          <li>Abuse of authority for personal gain </li>
@@ -39,13 +41,13 @@ permalink: /about-the-fund/fund-policy/
          <li>Discrimination or physical abuse of any Member or Secretariat</li>
          <li> Discrimination to any Member or Secretariat or grants recipient on grounds of sex, race or disability </li>
          <li>Any conflict of interest in any activity that is, or appears to be, opposed to the best interest of the Fund</li>
-         <li>Information  relating  to  any  of  the  above  being  deliberately  concealed  or attempts are being made to conceal the same</li></p>
+         <li>Information  relating  to  any  of  the  above  being  deliberately  concealed  or attempts are being made to conceal the same</li></ul></p>
   <p>7. This Policy governs the reporting and investigation of improper or illegal activities at the Fund, as well as the protection offered to the “Whistleblowers”.  </p>
   <p>8. The Code will cover all stakeholders which includes:
-    <li>Board Members; </li>
+   <ul><li>Board Members; </li>
     <li> Committee Members;</li>
     <li>Secretariats; and</li>
-    <li>Outside   parties,   for   example:   vendors,   service   providers   or   potential applicants for the Fund’s grants. </li></p>
+    <li>Outside   parties,   for   example:   vendors,   service   providers   or   potential applicants for the Fund’s grants. </li></ul></p>
   <h3  style= "text-decoration: underline;">Definitions </h3>
   <h3>Whistleblower  </h3>
   <p>9. A  person  or  entity  making  a  protected  disclosure  about  improper  or  illegal activities is commonly referred to as a whistleblower. Whistleblowers may be the Fund stakeholders or general public. The whistleblower’s role is as a reporting party. They are not, investigators or finders of fact, nor do they determine the appropriate corrective or remedial action that may be warranted.</p>
@@ -70,8 +72,8 @@ permalink: /about-the-fund/fund-policy/
 <h3>Investigating Alleged Misconduct or Improper Activities  </h3>
   <p>18. The Chairperson of the Audit Committee will notify the sender and acknowledge receipt of the reported violation or suspected violation within five business days.</p>  
   <p>19. The  Audit  Committee  has  the  responsibility  to  conduct  investigations  and  will ensure  investigations  are  carried  out  using  appropriate  channels,  resources  and expertise. In addition, other parties may also be involved in the investigations.
-    <li>The Audit Committee may meet to discuss the action / investigation on the reports  received  from  whistleblowers.  The  Committee  may  also  exclude from  its  meetings  any  persons  it  deems  appropriate,  depending  on  the nature of the complaint.</li>
-    <li>Some concerns may be resolved by agreed action without the need for an investigation.  Concerns  about  allegations  which  fall  within  the  scope  of specific  procedures  of  the  Fund  will  be  referred  for  consideration  under those procedures. </li>
+    <ul><li>The Audit Committee may meet to discuss the action / investigation on the reports  received  from  whistleblowers.  The  Committee  may  also  exclude from  its  meetings  any  persons  it  deems  appropriate,  depending  on  the nature of the complaint.</li>
+    <li>Some concerns may be resolved by agreed action without the need for an investigation.  Concerns  about  allegations  which  fall  within  the  scope  of specific  procedures  of  the  Fund  will  be  referred  for  consideration  under those procedures. </li></ul>
   </p>  
   <p>20. The Audit Committee will report to the Chairman of the Board on a periodic basis about the reports received and actions taken.</p>  
   <p>21. The  Board  of  Directors  reserves  the  right  to  make  any  decision  based  on  the findings by the Audit Committee.</p>
