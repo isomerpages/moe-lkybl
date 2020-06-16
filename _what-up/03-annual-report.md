@@ -8,7 +8,9 @@ permalink: /what-up/annual-report/
    <td>
    <img src="/images/Cover-FY2018.jpg" style="cursor:pointer;float:left;width:247px;height:345px"> 
    </td>
-   <td>
+ </tr>
+ <tr>
+  <td>
      <a href="#" target="_blank">Financial Statement (FY 2018)</a>
    </td>
  </tr>
