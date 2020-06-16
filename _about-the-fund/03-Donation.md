@@ -23,7 +23,7 @@ body {margin:0;}
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 13px;
 }
 
 .navbar a:hover {
@@ -34,8 +34,7 @@ body {margin:0;}
 .main {
   padding: 16px;
   margin-top: 30px;
-  height: 1500px; /* Used in this example to enable scrolling */
-}
+  height: 1500px; 
 </style>
 <p><h3 id="Donation">Donations  &nbsp; &nbsp; &nbsp;          
 <a href="#Donation">English</a>| 
@@ -47,12 +46,12 @@ In support of this cause, the government has provided a 1:1 matching grant for d
 Fund, up to a cap of $50 million. Donations to the Fund will also qualify for 250% tax deduction (at
 two and a half times the amount of donation). Names and tax reference numbers have to be
 provided in order to be eligible for the tax deductions.</p>
-  <h3>Donations to the Fund can be made in the following ways:</h3>
-  <h3>A. Donation through the giving.sg website</h3>
+  <h4>Donations to the Fund can be made in the following ways:</h4>
+  <h4>A. Donation through the giving.sg website</h4>
   <p>Donors can contribute online via the website at <a href="https://www.giving.sg/lee-kuan-yew-fund-for-
 bilingualism">https://www.giving.sg/lee-kuan-yew-fund-for-
 bilingualism</a></p>
-  <h3>B. Donation through the giving.sg website</h3>
+  <h4>B. Donation through the giving.sg website</h4>
   <p>Donors who wish to make their contribution in cheque may issue it payable to “Lee Kuan Yew Fund
 for Bilingualism”. Cheques should be crossed.  Donors should provide the following details at the
 back of the cheque:
@@ -60,7 +59,7 @@ back of the cheque:
    <li>NRIC/FIN No./UEN (for auto-inclusion of donation for tax assessment)</li>
    <li>Mailing address to send tax deductible receipt to</li>
       <li>Contact number and email address</li></ul></p>
-  <h3>Completed cheques should be mailed to:</h3>
+  <h4>Completed cheques should be mailed to:</h4>
   Lee Kuan Yew Fund for Bilingualism <br/>
   c/o Ministry of Education  <br/>
   1 North Buona Vista Drive  <br/>
@@ -74,10 +73,10 @@ Challenge: Singapore’s Bilingual Journey”. A copy of the book can be obtaine
   <p>您慷慨的捐款将协助我们的学前儿童打好语言基础。因此，政府将提供1对1等同值的资助（顶限为五
 千万元）。给予基金会的捐款也符合减免税务的条件（减免250%，即捐款的2.5倍）。要获得捐款扣
 税的优惠，请提供姓名以及税务帐号。</p>
-  <h3>您可以采取以下方式捐款：</h3>
-  <h3>A. 通过SG Gives 网站</h3>
+  <h4>您可以采取以下方式捐款：</h4>
+  <h4>A. 通过SG Gives 网站</h4>
   <p>您也可以通过SG Gives网站 <a href="www.sggivesorg.org/lkyfb">(www.sggivesorg.org/lkyfb）</a>捐款。使用该网站无需注册。</p>
-  <h3>B. 支票</h3>
+  <h4>B. 支票</h4>
   <p>请用划线支票，并注明是给 “Lee Kuan Yew Fund for Bilingualism”。
 请在支票背面提供以下信息：
     <ul><li>全名（与身份证上的姓名相同）或公司名称（以便我们提供收据供您呈报减免税务）</li>
@@ -91,7 +90,7 @@ Challenge: Singapore’s Bilingual Journey”. A copy of the book can be obtaine
   1 North Buona Vista Drive  <br/>
   Singapore 138675 <br/>
   <p>Attn: Ms Cynthia Chandramuljana, Financial Management Section</p>
-   <h3>C. 向新加坡报业控股购买《我一生的挑战——新加坡双语之路》签名版</h3>
+   <h4>C. 向新加坡报业控股购买《我一生的挑战——新加坡双语之路》签名版</h4>
   <p>我们一共有２００本李光耀先生《我一生的挑战——新加坡双语之路》的签名版。捐赠至少一万元
     的乐心人士就可以获得这本书的签名版一本。有意捐款者请把已填妥的订购<a href="表格">表格</a>电邮到<a href="moe_lkyfb@moe.gov.sg">
     moe_lkyfb@moe.gov.sg。</a> 现只出售华文版。</p>
@@ -102,11 +101,11 @@ padanan 1:1 untuk pendermaan kepada Dana tersebut, sehingga jumlah had $50 juta.
 Pendermaaan untuk Dana tersebut juga akan layak untuk potongan cukai 250% (sebanyak dua
 setengah kali jumlah wang yang didermakan). Nama dan nombor rujukan cukai perlu disediakan
 untuk layak mendapatkan potongan cukai.</p>
-  <h3>Pendermaan kepada Dana tersebut boleh dilakukan dengan cara yang berikut:</h3>
+  <h4>Pendermaan kepada Dana tersebut boleh dilakukan dengan cara yang berikut:</h4>
   <h3>A. Pendermaan melalui laman web SG Gives</h3>
   <p>Penderma juga boleh memberikan sumbangan secara dalam talian melalui laman web
     di <a href="www.sggivesorg.org/lkyfb">www.sggivesorg.org/lkyfb.</a> Tiada pendaftaran diperlukan.</p>
-  <h3>B. Pendermaan melalui cek</h3>
+  <h4>B. Pendermaan melalui cek</h4>
   <p>Penderma yang ingin membuat sumbangan dalam bentuk cek boleh mengeluarkannya atas nama
 “Lee Kuan Yew Fund for Bilingualism”. Cek mesti dipangkah.<br/>
 Penderma harus memberikan keterangan yang berikut di belakang cek tersebut:</p>
@@ -116,8 +115,8 @@ Penderma harus memberikan keterangan yang berikut di belakang cek tersebut:</p>
   1 North Buona Vista Drive  <br/>
   Singapore 138675 <br/>
   <p>Attn: Ms Cynthia Chandramuljana, Financial Management Section</p>
-  <h3>C. Pembelian edisi khas yang telah ditandatangani “My Lifelong Challenge: Singapore’s
-Biligual Journey” dari SPH</h3>
+  <h4>C. Pembelian edisi khas yang telah ditandatangani “My Lifelong Challenge: Singapore’s
+Biligual Journey” dari SPH</h4>
   <p>Encik Lee Kuan Yew telah menandatangani 200 salinan edisi khas buku baharu beliau &quot;My
 Lifelong Challenge: Singapore’s Bilingual Journey&quot;.  Satu salinan buku ini boleh didapati dengan
 derma minimum sebanyak $ 10,000. Penderma yang berminat boleh membuat pesanan dengan
@@ -131,9 +130,9 @@ kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg .</a></p>
 இந்த நிதிக்கு வழங்கப்படும் நன்கொடைக்கு 250 விழுக்காடு வரிக்கழிவு தரப்படும். வரிக்கழிவுக்குத்
 தகுதிபெறப் பெயரையும் வரி மேற்கோள் எண்களையும் குறிப்பிட வேண்டும்.</p>
   <p>நீங்கள் பின்வரும் வழிகளில் இந்த நிதிக்கு நன்கொடைகளை வழங்கலாம்:</p>
-  <h3>A. எஸ்ஜி கிவ்ஸ் என்னும் இணையத்தளத்தின்வழி நன்கொடை</h3>
+  <h4>A. எஸ்ஜி கிவ்ஸ் என்னும் இணையத்தளத்தின்வழி நன்கொடை</h4>
   <p>நன்கொடை வழங்க விரும்புவோர் <a href="www.sggivesorg.org/lkyfb">www.sggivesorg.org/lkyfb </a>என்னும் இணையத்தளத்தின் வழியாகவும் நன்கொடை வழங்கலாம். இதற்குப் பதிவுசெய்யத் தேவையில்லை.</p>
-  <h3>B. காசோலைவழி நன்கொடை</h3>
+  <h4>B. காசோலைவழி நன்கொடை</h4>
   <p>காசோலைவழி நன்கொடை வழங்க விரும்புவோர் ‘Lee Kuan Yew Fund for Bilingualism’ என்று
 காசோலையில் குறிப்பிட வேண்டும். காசோலையில் குறுக்குக் கோடு இடப்பட்டிருக்க வேண்டும்.
 நன்கொடை வழங்குவோர் காசோலையின் பின்புறத்தில் பின்வரும் விவரங்களை வழங்க வேண்டும்:
@@ -144,14 +143,14 @@ kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg .</a></p>
      <li>வரிக்கழிவுக்கான ரசீதை அனுப்புவதற்குரிய அஞ்சல் முகவரி</li>
     <li>தொடர்பு எண், மின்னஞ்சல் முகவரி</li></ul>
   </p>
-  <h3>பூர்த்தி செய்யப்பட்ட காசோலைகளைப் பின்வரும் முகவரிக்கு அனுப்பி வைக்கவும்:</h3>
+  <h4>பூர்த்தி செய்யப்பட்ட காசோலைகளைப் பின்வரும் முகவரிக்கு அனுப்பி வைக்கவும்:</h4>
   Lee Kuan Yew Fund for Bilingualism <br/>
   c/o Ministry of Education  <br/>
   1 North Buona Vista Drive  <br/>
   Singapore 138675 <br/>
   <p>Attn: Ms Cynthia Chandramuljana, Financial Management Section</p>
-  <h3>C. ‘என் வாழ்நாள் சவால்: சிங்கப்பூரின் இருமொழிப் பயணம்’ என்னும் நூலின் கையெழுத்திடப்பட்ட
-சிறப்புப் பதிப்பைப் பெறுதல்</h3>
+  <h4>C. ‘என் வாழ்நாள் சவால்: சிங்கப்பூரின் இருமொழிப் பயணம்’ என்னும் நூலின் கையெழுத்திடப்பட்ட
+சிறப்புப் பதிப்பைப் பெறுதல்</h4>
   <p>திரு லீ குவான் யூ அவர்கள் ‘என் வாழ்நாள் சவால்: சிங்கப்பூரின் இருமொழிப் பயணம்’ என்னும் தம் புதிய
 புத்தகத்தின் 200 சிறப்புப் பதிப்புப் பிரதிகளில் கையெழுத்திட்டுள்ளார். குறைந்தபட்சம் 10,000 வெள்ளி
 நன்கொடை வழங்குவோர் இந்தப் புத்தகத்தைப் பெறலாம். நன்கொடையாளர்கள் இந்தப்
