@@ -67,15 +67,15 @@ digital resources.</p>
 takes time and effort to complete proposals, and strongly encourage applicants to clarify any
 doubts regarding funding criteria prior to commencing your applications.</strong><br/><br/>
 <strong>For proposals on teaching and learning resources, programmes and events:</strong>
-<li><a href="/funding/Application_Guidelines.pdf">Fund Application Guidelines</a></li>
+<ul><li><a href="/funding/Application_Guidelines.pdf">Fund Application Guidelines</a></li>
 <li><a href="/funding/FAQs.pdf">FAQs</a></li>
 <li><a href="/funding/ApplicantChecklist.docx">Applicant Checklist</a></li>
 <li><a href="/funding/ApplicationForm.docx">Application Form</a></li>
-<li><a href="/funding/ProposedBudget.xlsx">Application Form Annex I: Proposed Budget [</a></li></p>
+  <li><a href="/funding/ProposedBudget.xlsx">Application Form Annex I: Proposed Budget</a></li></ul></p>
 <p><strong>Completed application forms and a sample of the product can be submitted in the following
 ways :</strong>
-<li>E-mail to: <a href="mailto:moe_lkyfb@moe.gov.sg"> moe_lkyfb@moe.gov.sg</a> ;</li>
-<li>Mail or deliver in person to:</li><br/>
+<ul><li>E-mail to: <a href="mailto:moe_lkyfb@moe.gov.sg"> moe_lkyfb@moe.gov.sg</a> ;</li>
+<li>Mail or deliver in person to:</li></ul><br/>
 Ministry of Education<br/>
 1 North Buona Vista Drive<br/>
 Singapore 138675</p>
