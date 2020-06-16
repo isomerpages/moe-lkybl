@@ -5,7 +5,43 @@ permalink: /about-the-fund/donation/
 
 <html>
 <body>
-<h3>Donations</h3>
+  <style>
+body {margin:0;}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+
+.main {
+  padding: 16px;
+  margin-top: 30px;
+  height: 1500px; /* Used in this example to enable scrolling */
+}
+</style>
+<p><h3>Donations  &nbsp; &nbsp; &nbsp;          <a href="#Donation">English</a>| 
+  <a href="#捐款">Chinese</a>| 
+  <a href="#Pendermaan">Malay</a>|
+  <a href="#நன்கொடை">Tamil</a></h3></p>
+<h3 id="Donation">Donations</h3>
   <p>Your donation will help our children build their language foundation early in an age-appropriate way.
 In support of this cause, the government has provided a 1:1 matching grant for donations to the
 Fund, up to a cap of $50 million. Donations to the Fund will also qualify for 250% tax deduction (at
@@ -34,7 +70,7 @@ back of the cheque:
   <p>Mr Lee Kuan Yew has autographed 200 special edition copies of his new book &quot;My Lifelong
 Challenge: Singapore’s Bilingual Journey”. A copy of the book can be obtained with a minimum donation of $10,000. Interested donors can make an order by filling up the form and emailing the completed form to<a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg .</a></p>
   <p> <a href="/about-the-fund/order-form-for-my-lifelong-challenge.pdf" target="_blank">Only the Chinese edition is still available.</a></p>
-  <h3>捐款</h3>
+  <h3 id="捐款">捐款</h3>
   <p>您慷慨的捐款将协助我们的学前儿童打好语言基础。因此，政府将提供1对1等同值的资助（顶限为五
 千万元）。给予基金会的捐款也符合减免税务的条件（减免250%，即捐款的2.5倍）。要获得捐款扣
 税的优惠，请提供姓名以及税务帐号。</p>
@@ -88,7 +124,7 @@ derma minimum sebanyak $ 10,000. Penderma yang berminat boleh membuat pesanan de
     menggunakan borang dan menghantar <a href="borang">borang</a> yang lengkap  melalui e-mel
 kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg .</a></p>
   <p>Hanya edisi bahasa Cina sahaja yang masih ada untuk dibeli.</p>
-  <h3>நன்கொடை</h3>
+  <h3 id="நன்கொடை">நன்கொடை</h3>
   <p>நம் பிள்ளைகள் அடிப்படை மொழிவளத்தைத் தம் வயதுக்கேற்ற வழியில் வளர்த்துக்கொள்ள நீங்கள்
 வழங்கும் நன்கொடை உதவும். இதற்கு ஆதரவு அளிக்கும் வகையில் பெறப்படும் நன்கொடைக்கு
 அரசாங்கம் வெள்ளிக்கு வெள்ளி நிதிமானியமாகக் கூடியபட்சம் 50 மில்லியன் வெள்ளிவரை வழங்கும்.
