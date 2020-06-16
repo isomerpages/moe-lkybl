@@ -5,12 +5,11 @@ permalink: /about-the-fund/donation/
 
 <html>
 <body>
-  
-<p><h3 id="Donations">Donations  &nbsp; &nbsp; &nbsp;          
-<a href="#Donations">English</a>| 
-  <a href="#捐款">Chinese</a>| 
-  <a href="#Pendermaan">Malay</a>|
-  <a href="#நன்கொடை">Tamil</a></h3></p>
+ <p><h3 id="Donations">Donations  &nbsp; &nbsp; &nbsp;          
+<a href="#Donations" style="font-size:11px">English</a>| 
+  <a href="#捐款" style="font-size:11px">Chinese</a>| 
+  <a href="#Pendermaan" style="font-size:11px">Malay</a>|
+  <a href="#நன்கொடை" style="font-size:11px">Tamil</a></h3></p>
   <p>Your donation will help our children build their language foundation early in an age-appropriate way.
 In support of this cause, the government has provided a 1:1 matching grant for donations to the
 Fund, up to a cap of $50 million. Donations to the Fund will also qualify for 250% tax deduction (at
@@ -35,7 +34,7 @@ back of the cheque:
   1 North Buona Vista Drive  <br/>
   Singapore 138675 <br/>
   <p>Attn: Ms Cynthia Chandramuljana, Financial Management Section</p>
-  <h3>C. Obtain an autographed special edition of “My Lifelong Challenge:</h3>
+  <h4>C. Obtain an autographed special edition of “My Lifelong Challenge:</h4>
   <p>Mr Lee Kuan Yew has autographed 200 special edition copies of his new book &quot;My Lifelong
 Challenge: Singapore’s Bilingual Journey”. A copy of the book can be obtained with a minimum donation of $10,000. Interested donors can make an order by filling up the form and emailing the completed form to<a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg .</a></p>
   <p> <a href="/about-the-fund/order-form-for-my-lifelong-challenge.pdf" target="_blank">Only the Chinese edition is still available.</a></p>
@@ -72,7 +71,7 @@ Pendermaaan untuk Dana tersebut juga akan layak untuk potongan cukai 250% (seban
 setengah kali jumlah wang yang didermakan). Nama dan nombor rujukan cukai perlu disediakan
 untuk layak mendapatkan potongan cukai.</p>
   <h4>Pendermaan kepada Dana tersebut boleh dilakukan dengan cara yang berikut:</h4>
-  <h3>A. Pendermaan melalui laman web SG Gives</h3>
+  <h4>A. Pendermaan melalui laman web SG Gives</h4>
   <p>Penderma juga boleh memberikan sumbangan secara dalam talian melalui laman web
     di <a href="www.sggivesorg.org/lkyfb" target="_blank">www.sggivesorg.org/lkyfb.</a> Tiada pendaftaran diperlukan.</p>
   <h4>B. Pendermaan melalui cek</h4>
