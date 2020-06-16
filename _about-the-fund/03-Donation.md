@@ -23,17 +23,6 @@ permalink: /about-the-fund/donation/
   text-decoration: none;
   font-size: 14px;
 }
-
-.navbar a:hover {
-  background: #ddd;
-  color: black;
-}
-
-.main {
-  padding: 16px;
-  margin-top: 30px;
-  height: 1500px;
-}
 </style>
 <p><h3 id="Donations">Donations  &nbsp; &nbsp; &nbsp;          
 <a href="#Donations">English</a>| 
