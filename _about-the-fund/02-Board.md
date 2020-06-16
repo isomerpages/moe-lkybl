@@ -4,17 +4,14 @@ permalink: /about-the-fund/our-impact/
 ---
 
 ####   Our Structure
-The Fund is managed by a Board and supported by the following committees: 
-
-(i) Project Evaluation Committee (PEC)
-
-(ii) Publicity and Outreach Committee (POC)
-
-(iii) Investment Advisory Committee (IAC) 
-
-(iv) Audit Committee (AC)
-
-(v) Research Advisory Panel<br/>
+<html>
+<p>
+The Fund is managed by a Board and supported by the following committees:<br/> 
+(i) Project Evaluation Committee (PEC)<br/>
+(ii) Publicity and Outreach Committee (POC)<br/>
+(iii) Investment Advisory Committee (IAC) <br/>
+(iv) Audit Committee (AC)<br/>
+(v) Research Advisory Panel<br/></p>
 The Board members are:
 <html>
 <body>
