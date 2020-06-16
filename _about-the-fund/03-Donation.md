@@ -5,7 +5,7 @@ permalink: /about-the-fund/donation/
 
 <html>
 <body>
- <p><h3 id="Donations">Donations  &nbsp; &nbsp; &nbsp;          
+ <p><h3 id="Donations">Donation  &nbsp; &nbsp; &nbsp;          
 <a href="#Donations" style="font-size:20px">English</a>| 
   <a href="#捐款" style="font-size:20px">Chinese</a>| 
   <a href="#Pendermaan" style="font-size:20px">Malay</a>|
