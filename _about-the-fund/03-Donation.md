@@ -23,7 +23,7 @@ body {margin:0;}
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 13px;
+  font-size: 14px;
 }
 
 .navbar a:hover {
@@ -34,7 +34,8 @@ body {margin:0;}
 .main {
   padding: 16px;
   margin-top: 30px;
-  height: 1500px; 
+  height: 1500px;
+}
 </style>
 <p><h3 id="Donations">Donations  &nbsp; &nbsp; &nbsp;          
 <a href="#Donations">English</a>| 
