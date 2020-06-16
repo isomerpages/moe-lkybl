@@ -29,7 +29,7 @@ td, th {
     <td>
    <strong>Financial Year 2017/2018</strong>
    <p><a href="/what-up/Annual-Report-FY2018.pdf" target="_blank">
-     <img border="0" src="/images/Cover-FY2017.png"style=width:"247px; height:354px;></p>
+     <img border="0" src="/images/Cover-FY2017.png"style=width:"247px; height:354px;"></p>
    <p><a href="#" target="_blank">Financial Statement (FY 2017)</a></p>
    </td>
  </tr> 
