@@ -6,8 +6,8 @@ permalink: /about-the-fund/donation/
 <html>
 <body>
  <p><h3 id="Donations">Donations  &nbsp; &nbsp; &nbsp;          
-<a href="#Donations" style="font-size:14px">English</a>| 
-  <a href="#捐款" style="font-size:14px">Chinese</a>| 
+<a href="#Donations" style="font-size:20px">English</a>| 
+  <a href="#捐款" style="font-size:20px">Chinese</a>| 
   <a href="#Pendermaan" style="font-size:14px">Malay</a>|
   <a href="#நன்கொடை" style="font-size:14px">Tamil</a></h3></p>
   <p>Your donation will help our children build their language foundation early in an age-appropriate way.
