@@ -26,7 +26,7 @@ collections:
     output: true
   what-up:
     output: true
-  what-s-up:
+  what'-s-up:
     output: true
 resources_name: press-room
 
