@@ -8,10 +8,10 @@ permalink: /what-up/annual-report/
    <td>
    <strong>Financial Year 2018/2019</strong>
    <br/>
-    <a href="#">
+    <a href="/what-up/Annual-Report-FY2018.pdf">
     <img src="/images/Cover-FY2018.jpg" style="cursor:pointer;width: 247px;height: 345px;float:left;"></a>
     
-   <br><p><a href="#" target="_blank">Financial Statement (FY 2018)</a></p>
+   <br><p><a href="/what-up/FY2018-FS.pdf" target="_blank">Financial Statement (FY 2018)</a></p>
    </td>
     <td>
    <strong>Financial Year 2017/2018</strong>
