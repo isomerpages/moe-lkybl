@@ -7,8 +7,6 @@ permalink: /about-the-fund/donation/
 <body>
   <style>
 .navbar {
-  overflow: hidden;
-  background-color: #333;
   position: fixed;
   top: 0;
   width: 100%;
