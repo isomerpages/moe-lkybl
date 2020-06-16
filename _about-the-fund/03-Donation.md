@@ -37,11 +37,11 @@ body {margin:0;}
   height: 1500px; /* Used in this example to enable scrolling */
 }
 </style>
-<p><h3>Donations  &nbsp; &nbsp; &nbsp;          <a href="#Donation">English</a>| 
+<p><h3 id="Donation">Donations  &nbsp; &nbsp; &nbsp;          
+<a href="#Donation">English</a>| 
   <a href="#捐款">Chinese</a>| 
   <a href="#Pendermaan">Malay</a>|
   <a href="#நன்கொடை">Tamil</a></h3></p>
-<h3 id="Donation">Donations</h3>
   <p>Your donation will help our children build their language foundation early in an age-appropriate way.
 In support of this cause, the government has provided a 1:1 matching grant for donations to the
 Fund, up to a cap of $50 million. Donations to the Fund will also qualify for 250% tax deduction (at
