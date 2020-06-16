@@ -30,7 +30,7 @@ permalink: /about-the-fund/fund-policy/
     <li>Fraud whether actual or suspected or deliberate error in preparing, evaluating or  review  of  any  financial  statements,  recording  and  maintenance  of  the financial records of the Fund. </li>
       <li>Actual or suspected deficiencies in or non-compliance with the Fund’s internal controls and procedures.</li>
         <li>Any  misrepresentation  whether  actual  or  suspected by  an  officer  or  auditor regarding  a  matter  contained  or  required  to  be  contained  in  the  Fund’s financial records, reports or audit reports. </li>
-          <li>Information  relating  to  any  of  the  above  being  deliberately  concealed  or attempts are being made to conceal the same</li><ul></p>
+          <li>Information  relating  to  any  of  the  above  being  deliberately  concealed  or attempts are being made to conceal the same</li></ul></p>
          <p>6. Examples of non-accounting malpractice reporting could include:
          <ul><li>Misappropriation of cash </li>
          <li>Misuse of petty cash</li>
@@ -73,8 +73,7 @@ permalink: /about-the-fund/fund-policy/
   <p>18. The Chairperson of the Audit Committee will notify the sender and acknowledge receipt of the reported violation or suspected violation within five business days.</p>  
   <p>19. The  Audit  Committee  has  the  responsibility  to  conduct  investigations  and  will ensure  investigations  are  carried  out  using  appropriate  channels,  resources  and expertise. In addition, other parties may also be involved in the investigations.
     <ul><li>The Audit Committee may meet to discuss the action / investigation on the reports  received  from  whistleblowers.  The  Committee  may  also  exclude from  its  meetings  any  persons  it  deems  appropriate,  depending  on  the nature of the complaint.</li>
-    <li>Some concerns may be resolved by agreed action without the need for an investigation.  Concerns  about  allegations  which  fall  within  the  scope  of specific  procedures  of  the  Fund  will  be  referred  for  consideration  under those procedures. </li></ul>
-  </p>  
+    <li>Some concerns may be resolved by agreed action without the need for an investigation.  Concerns  about  allegations  which  fall  within  the  scope  of specific  procedures  of  the  Fund  will  be  referred  for  consideration  under those procedures. </li></ul></p>  
   <p>20. The Audit Committee will report to the Chairman of the Board on a periodic basis about the reports received and actions taken.</p>  
   <p>21. The  Board  of  Directors  reserves  the  right  to  make  any  decision  based  on  the findings by the Audit Committee.</p>
    <p>22. When a concern is raised, the whistleblower must indicate if the concern is to be treated in confidence. The extent off the confidentiality  will be determined by the Audit Committee  </p>
@@ -84,7 +83,6 @@ permalink: /about-the-fund/fund-policy/
    <p>25. No  action  will  be  taken  against  anyone  who  makes  an  allegation  in  good  faith, reasonably believing it to be true, even if the allegation is not subsequently confirmed by the investigation.</p>
    <p>26. Every  effort  will  be  made  to  ensure  confidentiality  as  far  as  this  is  reasonably practical</p>
    <p>27. Help  will  be  provided  to  the  whistleblowers  in order  to  minimize  any  difficulties which one may experience</p>
-   <p></p>
  <h3  style= "text-decoration: underline;">Roles and Responsibilities </h3>
   <h3>Whistleblowers: </h3>
    <p>28. Whistleblowers  should  act  in  good  faith  and  should  not  make  false  accusations when reporting of misconduct by the Fund’s stakeholders.</p>
