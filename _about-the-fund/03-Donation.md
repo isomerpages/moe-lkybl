@@ -5,23 +5,7 @@ permalink: /about-the-fund/donation/
 
 <html>
 <body>
-  <style>
-.navbar {
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-.navbar a {
-  float: left;
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 14px;
-}
-</style>
+  
 <p><h3 id="Donations">Donations  &nbsp; &nbsp; &nbsp;          
 <a href="#Donations">English</a>| 
   <a href="#捐款">Chinese</a>| 
