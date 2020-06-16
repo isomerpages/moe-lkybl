@@ -20,11 +20,10 @@ bilingualism</a></p>
   <p>Donors who wish to make their contribution in cheque may issue it payable to “Lee Kuan Yew Fund
 for Bilingualism”. Cheques should be crossed.  Donors should provide the following details at the
 back of the cheque:
-    <li>Full name (as per NRIC) or company name (for the purpose of the tax deductible receipt)</li>
+    <ul><li>Full name (as per NRIC) or company name (for the purpose of the tax deductible receipt)</li>
    <li>NRIC/FIN No./UEN (for auto-inclusion of donation for tax assessment)</li>
    <li>Mailing address to send tax deductible receipt to</li>
-   <li>Contact number and email address</li>
-  </p>
+      <li>Contact number and email address</li></ul></p>
   <h3>Completed cheques should be mailed to:</h3>
   Lee Kuan Yew Fund for Bilingualism <br/>
   c/o Ministry of Education  <br/>
@@ -45,10 +44,10 @@ Challenge: Singapore’s Bilingual Journey”. A copy of the book can be obtaine
   <h3>B. 支票</h3>
   <p>请用划线支票，并注明是给 “Lee Kuan Yew Fund for Bilingualism”。
 请在支票背面提供以下信息：
-    <li>全名（与身份证上的姓名相同）或公司名称（以便我们提供收据供您呈报减免税务）</li>
+    <ul><li>全名（与身份证上的姓名相同）或公司名称（以便我们提供收据供您呈报减免税务）</li>
   <li>身份证号码/居留证号码/个体识别号码（机构）（方便自动申报扣税）</li>
      <li>邮政地址（方便我们寄出扣税收据）</li>
-  <li>联络电话号码以及电邮地址</li>
+      <li>联络电话号码以及电邮地址</li></ul>
   </p>
   <h3>请将填写好的支票寄到以下地址:</h3>
   Lee Kuan Yew Fund for Bilingualism <br/>
@@ -102,12 +101,12 @@ kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg .</a></p>
   <p>காசோலைவழி நன்கொடை வழங்க விரும்புவோர் ‘Lee Kuan Yew Fund for Bilingualism’ என்று
 காசோலையில் குறிப்பிட வேண்டும். காசோலையில் குறுக்குக் கோடு இடப்பட்டிருக்க வேண்டும்.
 நன்கொடை வழங்குவோர் காசோலையின் பின்புறத்தில் பின்வரும் விவரங்களை வழங்க வேண்டும்:
-    <li>முழுப்பெயர் (அடையாள அட்டையில் உள்ளதுபோல்) அல்லது நிறுவனத்தின் பெயர்
+   <ul><li>முழுப்பெயர் (அடையாள அட்டையில் உள்ளதுபோல்) அல்லது நிறுவனத்தின் பெயர்
 (வரிக்கழிவுக்கான ரசீதுக்கு இது தேவைப்படும்)</li>
      <li>அடையாள அட்டை எண்/வெளிநாட்டினர் அடையாள எண்/தனிச்சிறப்பு எண் (வரி மதிப்பீட்டுக்காக
 நன்கொடையைத் தானியங்கு முறையில் சேர்ப்பதற்கு)</li>
      <li>வரிக்கழிவுக்கான ரசீதை அனுப்புவதற்குரிய அஞ்சல் முகவரி</li>
-    <li>தொடர்பு எண், மின்னஞ்சல் முகவரி</li>
+    <li>தொடர்பு எண், மின்னஞ்சல் முகவரி</li></ul>
   </p>
   <h3>பூர்த்தி செய்யப்பட்ட காசோலைகளைப் பின்வரும் முகவரிக்கு அனுப்பி வைக்கவும்:</h3>
   Lee Kuan Yew Fund for Bilingualism <br/>
