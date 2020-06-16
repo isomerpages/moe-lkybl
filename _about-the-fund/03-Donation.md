@@ -89,7 +89,7 @@ Biligual Journey” dari SPH</h4>
   <p>Encik Lee Kuan Yew telah menandatangani 200 salinan edisi khas buku baharu beliau &quot;My
 Lifelong Challenge: Singapore’s Bilingual Journey&quot;.  Satu salinan buku ini boleh didapati dengan
 derma minimum sebanyak $ 10,000. Penderma yang berminat boleh membuat pesanan dengan
-    menggunakan borang dan menghantar <a href="/about-the-fund/order-form-for-my-lifelong-challenge.pdf">borang</a> yang lengkap  melalui e-mel
+    menggunakan borang dan menghantar <a href="/about-the-fund/order-form-for-my-lifelong-challenge.pdf" target="_blank">borang</a> yang lengkap  melalui e-mel
 kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg .</a></p>
   <p>Hanya edisi bahasa Cina sahaja yang masih ada untuk dibeli.</p>
   <h3 id="நன்கொடை">நன்கொடை</h3>
