@@ -19,7 +19,7 @@ provided in order to be eligible for the tax deductions.</p>
   <h4>Donations to the Fund can be made in the following ways:</h4>
   <h4>A. Donation through the giving.sg website</h4>
   <p>Donors can contribute online via the website at <a href="https://www.giving.sg/lee-kuan-yew-fund-for-
-bilingualism">https://www.giving.sg/lee-kuan-yew-fund-for-
+bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for-
 bilingualism</a></p>
   <h4>B. Donation through the giving.sg website</h4>
   <p>Donors who wish to make their contribution in cheque may issue it payable to “Lee Kuan Yew Fund
@@ -45,7 +45,7 @@ Challenge: Singapore’s Bilingual Journey”. A copy of the book can be obtaine
 税的优惠，请提供姓名以及税务帐号。</p>
   <h4>您可以采取以下方式捐款：</h4>
   <h4>A. 通过SG Gives 网站</h4>
-  <p>您也可以通过SG Gives网站 <a href="www.sggivesorg.org/lkyfb">(www.sggivesorg.org/lkyfb）</a>捐款。使用该网站无需注册。</p>
+  <p>您也可以通过SG Gives网站 <a href="www.sggivesorg.org/lkyfb" target="_blank">(www.sggivesorg.org/lkyfb）</a>捐款。使用该网站无需注册。</p>
   <h4>B. 支票</h4>
   <p>请用划线支票，并注明是给 “Lee Kuan Yew Fund for Bilingualism”。
 请在支票背面提供以下信息：
@@ -62,7 +62,7 @@ Challenge: Singapore’s Bilingual Journey”. A copy of the book can be obtaine
   <p>Attn: Ms Cynthia Chandramuljana, Financial Management Section</p>
    <h4>C. 向新加坡报业控股购买《我一生的挑战——新加坡双语之路》签名版</h4>
   <p>我们一共有２００本李光耀先生《我一生的挑战——新加坡双语之路》的签名版。捐赠至少一万元
-    的乐心人士就可以获得这本书的签名版一本。有意捐款者请把已填妥的订购<a href="表格">表格</a>电邮到<a href="moe_lkyfb@moe.gov.sg">
+    的乐心人士就可以获得这本书的签名版一本。有意捐款者请把已填妥的订购<a href="表格" target="_blank">表格</a>电邮到<a href="moe_lkyfb@moe.gov.sg">
     moe_lkyfb@moe.gov.sg。</a> 现只出售华文版。</p>
   <h3 id="Pendermaan">Pendermaan</h3>
   <p>Pendermaan anda akan membantu anak-anak kita membina awal asas bahasa mereka dalam cara
@@ -74,7 +74,7 @@ untuk layak mendapatkan potongan cukai.</p>
   <h4>Pendermaan kepada Dana tersebut boleh dilakukan dengan cara yang berikut:</h4>
   <h3>A. Pendermaan melalui laman web SG Gives</h3>
   <p>Penderma juga boleh memberikan sumbangan secara dalam talian melalui laman web
-    di <a href="www.sggivesorg.org/lkyfb">www.sggivesorg.org/lkyfb.</a> Tiada pendaftaran diperlukan.</p>
+    di <a href="www.sggivesorg.org/lkyfb" target="_blank">www.sggivesorg.org/lkyfb.</a> Tiada pendaftaran diperlukan.</p>
   <h4>B. Pendermaan melalui cek</h4>
   <p>Penderma yang ingin membuat sumbangan dalam bentuk cek boleh mengeluarkannya atas nama
 “Lee Kuan Yew Fund for Bilingualism”. Cek mesti dipangkah.<br/>
@@ -101,7 +101,7 @@ kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg .</a></p>
 தகுதிபெறப் பெயரையும் வரி மேற்கோள் எண்களையும் குறிப்பிட வேண்டும்.</p>
   <p>நீங்கள் பின்வரும் வழிகளில் இந்த நிதிக்கு நன்கொடைகளை வழங்கலாம்:</p>
   <h4>A. எஸ்ஜி கிவ்ஸ் என்னும் இணையத்தளத்தின்வழி நன்கொடை</h4>
-  <p>நன்கொடை வழங்க விரும்புவோர் <a href="www.sggivesorg.org/lkyfb">www.sggivesorg.org/lkyfb </a>என்னும் இணையத்தளத்தின் வழியாகவும் நன்கொடை வழங்கலாம். இதற்குப் பதிவுசெய்யத் தேவையில்லை.</p>
+  <p>நன்கொடை வழங்க விரும்புவோர் <a href="www.sggivesorg.org/lkyfb" target="_blank">www.sggivesorg.org/lkyfb </a>என்னும் இணையத்தளத்தின் வழியாகவும் நன்கொடை வழங்கலாம். இதற்குப் பதிவுசெய்யத் தேவையில்லை.</p>
   <h4>B. காசோலைவழி நன்கொடை</h4>
   <p>காசோலைவழி நன்கொடை வழங்க விரும்புவோர் ‘Lee Kuan Yew Fund for Bilingualism’ என்று
 காசோலையில் குறிப்பிட வேண்டும். காசோலையில் குறுக்குக் கோடு இடப்பட்டிருக்க வேண்டும்.
@@ -124,7 +124,7 @@ kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg .</a></p>
   <p>திரு லீ குவான் யூ அவர்கள் ‘என் வாழ்நாள் சவால்: சிங்கப்பூரின் இருமொழிப் பயணம்’ என்னும் தம் புதிய
 புத்தகத்தின் 200 சிறப்புப் பதிப்புப் பிரதிகளில் கையெழுத்திட்டுள்ளார். குறைந்தபட்சம் 10,000 வெள்ளி
 நன்கொடை வழங்குவோர் இந்தப் புத்தகத்தைப் பெறலாம். நன்கொடையாளர்கள் இந்தப்
-<a href="படிவத்தை">படிவத்தை</a> பூர்த்தி செய்து, நிரப்பப்பட்ட படிவத்தை<a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg</a> என்னும் மின்னஞ்சல்
+<a href="படிவத்தை" target="_blank">படிவத்தை</a> பூர்த்தி செய்து, நிரப்பப்பட்ட படிவத்தை<a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg</a> என்னும் மின்னஞ்சல்
 முகவரிக்கு அனுப்பு வைக்கவும்.</p>
   <p>சீனமொழிப் பதிப்பு மட்டுமே இன்னும் விற்பனைக்கு உள்ளது.</p>
   
