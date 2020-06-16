@@ -38,13 +38,13 @@ td, th {
     <td>
    <strong>Financial Year 2016/2017</strong>
   <p><a href="/what-up/Annual-Report-2016.pdf" target="_blank">
-    <img border="0" src="/images/Cover-FY2016.jpg" style="width:247px; height:354px;"></a></p>
+    <img border="0" src="/images/Cover-FY2016.png" style="width:247px; height:354px;"></a></p>
    <p><a href="/what-up/FY2016-FS.pdf" target="_blank">Financial Statement (FY 2016)</a></p>
    </td>
     <td>
    <strong>Financial Year 2015/2016</strong>
    <p><a href="/what-up/Annual_Report_FY2017_Final.pdf" target="_blank">
-     <img border="0" src="/images/Cover-FY2015.png" style="width:247px; height:354px;"></a></p>
+     <img border="0" src="/images/Cover-FY2015.jpg" style="width:247px; height:354px;"></a></p>
    <p><a href="/what-up/FY2017-FS.pdf" target="_blank">Financial Statement (FY 2015)</a></p>
    </td>
  </tr> 
@@ -59,7 +59,7 @@ td, th {
     <td>
    <strong>Financial Year 2013/2014</strong>
    <p><a href="/what-up/Annual_Report_FY2017_Final.pdf" target="_blank">
-     <img border="0" src="/images/Cover-FY2013.png" style="width:247px; height:354px;"></a></p>
+     <img border="0" src="/images/Cover-FY2013.jpg" style="width:247px; height:354px;"></a></p>
    <p><a href="/what-up/FY2017-FS.pdf" target="_blank">Financial Statement (FY 2013)</a></p>
    </td>
  </tr> 
