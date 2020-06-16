@@ -6,7 +6,7 @@ permalink: /what-up/annual-report/
 <table border="0">
  <tr>
    <td>
-   **Financial Year 2018/2019**
+   <strong>Financial Year 2018/2019</strong>
    <br/><img src="/images/Cover-FY2018.jpg" style="cursor:pointer;float:left;width:247px;height:345px"> 
    </td>
  </tr>
