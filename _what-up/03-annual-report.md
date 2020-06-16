@@ -20,15 +20,15 @@ td, th {
 <body>
 <table>
  <tr>
-   <td>
+    <td>
    <strong>Financial Year 2018/2019</strong>
   <p><a href="/what-up/Annual-Report-FY2018.pdf" target="_blank">
-    <img border="0" src="/images/Cover-FY2018.jpg" style="cursor:pointer;width="200" height="200"></a></p>
+    <img border="0" src="/images/Cover-FY2018.jpg" width="200" height="200"></a></p>
    <p><a href="/what-up/FY2018-FS.pdf" target="_blank">Financial Statement (FY 2018)</a></p>
    </td>
     <td>
    <strong>Financial Year 2017/2018</strong>
-   <p><img border="0" src="/images/Cover-FY2017.png" style="cursor:pointer;width="200" height="200""></a></p>
+   <p><img border="0" src="/images/Cover-FY2017.png" style="cursor:pointer;width="200" height="200""></p>
    <p><a href="#" target="_blank">Financial Statement (FY 2017)</a></p>
    </td>
  </tr> 
