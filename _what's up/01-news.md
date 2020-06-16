@@ -1,5 +1,5 @@
 ---
 title: News
-permalink: /what's-up/news/
+permalink: /whats-up/news/
 ---
 ## 06 May 2020
