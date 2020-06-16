@@ -28,8 +28,8 @@ td, th {
    </td>
     <td>
    <strong>Financial Year 2017/2018</strong>
-   <p><img border="0" src="/images/Cover-FY2017.png" style="cursor:pointer;width="200" height="200"">
-    <br><a href="#" target="_blank">Financial Statement (FY 2017)</a></p>
+   <p><img border="0" src="/images/Cover-FY2017.png" style="cursor:pointer;width="200" height="200""></a></p>
+   <p><a href="#" target="_blank">Financial Statement (FY 2017)</a></p>
    </td>
  </tr> 
 </table>
