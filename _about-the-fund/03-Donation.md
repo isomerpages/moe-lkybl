@@ -62,7 +62,7 @@ Challenge: Singapore’s Bilingual Journey”. A copy of the book can be obtaine
   <p>Attn: Ms Cynthia Chandramuljana, Financial Management Section</p>
    <h4>C. 向新加坡报业控股购买《我一生的挑战——新加坡双语之路》签名版</h4>
   <p>我们一共有２００本李光耀先生《我一生的挑战——新加坡双语之路》的签名版。捐赠至少一万元
-    的乐心人士就可以获得这本书的签名版一本。有意捐款者请把已填妥的订购<a href="表格" target="_blank">表格</a>电邮到<a href="moe_lkyfb@moe.gov.sg">
+    的乐心人士就可以获得这本书的签名版一本。有意捐款者请把已填妥的订购<a href="/about-the-fund/order-form-for-my-lifelong-challenge.pdf" target="_blank">表格</a>电邮到<a href="moe_lkyfb@moe.gov.sg">
     moe_lkyfb@moe.gov.sg。</a> 现只出售华文版。</p>
   <h3 id="Pendermaan">Pendermaan</h3>
   <p>Pendermaan anda akan membantu anak-anak kita membina awal asas bahasa mereka dalam cara
@@ -90,7 +90,7 @@ Biligual Journey” dari SPH</h4>
   <p>Encik Lee Kuan Yew telah menandatangani 200 salinan edisi khas buku baharu beliau &quot;My
 Lifelong Challenge: Singapore’s Bilingual Journey&quot;.  Satu salinan buku ini boleh didapati dengan
 derma minimum sebanyak $ 10,000. Penderma yang berminat boleh membuat pesanan dengan
-    menggunakan borang dan menghantar <a href="borang">borang</a> yang lengkap  melalui e-mel
+    menggunakan borang dan menghantar <a href="/about-the-fund/order-form-for-my-lifelong-challenge.pdf">borang</a> yang lengkap  melalui e-mel
 kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg .</a></p>
   <p>Hanya edisi bahasa Cina sahaja yang masih ada untuk dibeli.</p>
   <h3 id="நன்கொடை">நன்கொடை</h3>
@@ -124,7 +124,7 @@ kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg .</a></p>
   <p>திரு லீ குவான் யூ அவர்கள் ‘என் வாழ்நாள் சவால்: சிங்கப்பூரின் இருமொழிப் பயணம்’ என்னும் தம் புதிய
 புத்தகத்தின் 200 சிறப்புப் பதிப்புப் பிரதிகளில் கையெழுத்திட்டுள்ளார். குறைந்தபட்சம் 10,000 வெள்ளி
 நன்கொடை வழங்குவோர் இந்தப் புத்தகத்தைப் பெறலாம். நன்கொடையாளர்கள் இந்தப்
-<a href="படிவத்தை" target="_blank">படிவத்தை</a> பூர்த்தி செய்து, நிரப்பப்பட்ட படிவத்தை<a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg</a> என்னும் மின்னஞ்சல்
+<a href="/about-the-fund/order-form-for-my-lifelong-challenge.pdf" target="_blank">படிவத்தை</a> பூர்த்தி செய்து, நிரப்பப்பட்ட படிவத்தை<a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg</a> என்னும் மின்னஞ்சல்
 முகவரிக்கு அனுப்பு வைக்கவும்.</p>
   <p>சீனமொழிப் பதிப்பு மட்டுமே இன்னும் விற்பனைக்கு உள்ளது.</p>
   
