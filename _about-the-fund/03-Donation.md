@@ -29,11 +29,11 @@ back of the cheque:
    <li>Mailing address to send tax deductible receipt to</li>
       <li>Contact number and email address</li></ul></p>
   <h4>Completed cheques should be mailed to:</h4>
-  Lee Kuan Yew Fund for Bilingualism <br/>
+    <p>Lee Kuan Yew Fund for Bilingualism <br/>
   c/o Ministry of Education  <br/>
   1 North Buona Vista Drive  <br/>
   Singapore 138675 <br/>
-  <p>Attn: Ms Cynthia Chandramuljana, Financial Management Section</p>
+ Attn: Ms Cynthia Chandramuljana, Financial Management Section</p>
   <h4>C. Obtain an autographed special edition of “My Lifelong Challenge:</h4>
   <p>Mr Lee Kuan Yew has autographed 200 special edition copies of his new book &quot;My Lifelong
 Challenge: Singapore’s Bilingual Journey”. A copy of the book can be obtained with a minimum donation of $10,000. Interested donors can make an order by filling up the form and emailing the completed form to<a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg .</a></p>
@@ -54,11 +54,11 @@ Challenge: Singapore’s Bilingual Journey”. A copy of the book can be obtaine
       <li>联络电话号码以及电邮地址</li></ul>
   </p>
   <h3>请将填写好的支票寄到以下地址:</h3>
-  Lee Kuan Yew Fund for Bilingualism <br/>
+ <p> Lee Kuan Yew Fund for Bilingualism <br/>
   c/o Ministry of Education  <br/>
   1 North Buona Vista Drive  <br/>
   Singapore 138675 <br/>
-  <p>Attn: Ms Cynthia Chandramuljana, Financial Management Section</p>
+  Attn: Ms Cynthia Chandramuljana, Financial Management Section</p>
    <h4>C. 向新加坡报业控股购买《我一生的挑战——新加坡双语之路》签名版</h4>
   <p>我们一共有２００本李光耀先生《我一生的挑战——新加坡双语之路》的签名版。捐赠至少一万元
     的乐心人士就可以获得这本书的签名版一本。有意捐款者请把已填妥的订购<a href="/about-the-fund/order-form-for-my-lifelong-challenge.pdf" target="_blank">表格</a>电邮到<a href="moe_lkyfb@moe.gov.sg">
@@ -79,11 +79,11 @@ untuk layak mendapatkan potongan cukai.</p>
 “Lee Kuan Yew Fund for Bilingualism”. Cek mesti dipangkah.<br/>
 Penderma harus memberikan keterangan yang berikut di belakang cek tersebut:</p>
   <h3>Cek yang lengkap harus diposkan ke:</h3>
-  Lee Kuan Yew Fund for Bilingualism <br/>
+  <p>Lee Kuan Yew Fund for Bilingualism <br/>
   c/o Ministry of Education  <br/>
   1 North Buona Vista Drive  <br/>
   Singapore 138675 <br/>
-  <p>Attn: Ms Cynthia Chandramuljana, Financial Management Section</p>
+  Attn: Ms Cynthia Chandramuljana, Financial Management Section</p>
   <h4>C. Pembelian edisi khas yang telah ditandatangani “My Lifelong Challenge: Singapore’s
 Biligual Journey” dari SPH</h4>
   <p>Encik Lee Kuan Yew telah menandatangani 200 salinan edisi khas buku baharu beliau &quot;My
@@ -113,11 +113,11 @@ kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg .</a></p>
     <li>தொடர்பு எண், மின்னஞ்சல் முகவரி</li></ul>
   </p>
   <h4>பூர்த்தி செய்யப்பட்ட காசோலைகளைப் பின்வரும் முகவரிக்கு அனுப்பி வைக்கவும்:</h4>
-  Lee Kuan Yew Fund for Bilingualism <br/>
+  <p> Lee Kuan Yew Fund for Bilingualism <br/>
   c/o Ministry of Education  <br/>
   1 North Buona Vista Drive  <br/>
   Singapore 138675 <br/>
-  <p>Attn: Ms Cynthia Chandramuljana, Financial Management Section</p>
+  Attn: Ms Cynthia Chandramuljana, Financial Management Section</p>
   <h4>C. ‘என் வாழ்நாள் சவால்: சிங்கப்பூரின் இருமொழிப் பயணம்’ என்னும் நூலின் கையெழுத்திடப்பட்ட
 சிறப்புப் பதிப்பைப் பெறுதல்</h4>
   <p>திரு லீ குவான் யூ அவர்கள் ‘என் வாழ்நாள் சவால்: சிங்கப்பூரின் இருமொழிப் பயணம்’ என்னும் தம் புதிய
