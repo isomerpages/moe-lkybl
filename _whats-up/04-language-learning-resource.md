@@ -22,4 +22,4 @@ learning, including the production of resources. These resources include print a
 electronic books, periodicals and songs.</p>
 <h5><a href="https://www.moe.gov.sg/education/syllabuses/resources" target="_blank"><u>MOE Teaching and Learning Resources</u></a></h5>
 <p>Read tips on how you can help your child&#39;s progress and become involved in his/her learning.</p>
-</body>
+
