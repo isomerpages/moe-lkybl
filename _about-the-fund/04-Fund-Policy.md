@@ -118,10 +118,8 @@ body {
    <p>31. Stakeholders who are interviewed or asked to provide information have a duty to fully  cooperate  with  the  investigators.  Participants  should  refrain  from  discussing  or disclosing matters concerning the investigations.</p>
  <p><a href="/about-the-fund/AppendixA_Whistleblower-Report-Form.pdf" target="_blank">whistleblower Report Form</a> </p>
  <script>
-
-var mybutton = document.getElementById("myBtn");
+ mybutton = document.getElementById("myBtn");
 window.onscroll = function() {scrollFunction()};
-
 function scrollFunction() {
   if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
     mybutton.style.display = "block";
