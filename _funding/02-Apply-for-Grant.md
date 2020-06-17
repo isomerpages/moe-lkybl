@@ -75,13 +75,13 @@ doubts regarding funding criteria prior to commencing your applications.</strong
 <p><strong>Completed application forms and a sample of the product can be submitted in the following
 ways :</strong>
 <ul><li>E-mail to: <a href="mailto:moe_lkyfb@moe.gov.sg"> moe_lkyfb@moe.gov.sg</a> ;</li>
-<li>Mail or deliver in person to:</li></ul><br/>
+<li>Mail or deliver in person to:</li></ul>
 <p>Ministry of Education<br/>
 1 North Buona Vista Drive<br/>
 Singapore 138675<br/>
 Attention: Lee Kuan Yew Fund for Bilingualism</p>
 <p>Mondays – Fridays: 8.30am to 5.30pm<br/>
 Saturdays, Sundays &amp; Public Holidays: Closed</p>
-</body>
+
 
 
