@@ -20,6 +20,8 @@ colors:
 
 
 collections:
+  about-us:
+    output: true
   about-the-fund:
     output: true
   funding:
