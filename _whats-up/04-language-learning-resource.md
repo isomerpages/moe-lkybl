@@ -16,7 +16,7 @@ learning and development.</p>
 <p>Read tips and acquire strategies to improve your child&#39;s English.</p>
 <h5><a href="https://www.moe.gov.sg/education/syllabuses/resources" target="_blank"><u>MOE Teaching and Learning Resources</u></a></h5>
 <p>Read tips on how you can help your child&#39;s progress and become involved in his/her learning.</p>
-<h5><a href="/what-up/List-of-Resources.pdf" target="_blank"><u>List of Fund-supported Resources</u></a></h5>
+<h5><a href="/whats-up/List-of-Resources.pdf" target="_blank"><u>List of Fund-supported Resources</u></a></h5>
 <p>The Fund supports numerous initiatives to support young learners in language
 learning, including the production of resources. These resources include print and
 electronic books, periodicals and songs.</p>
