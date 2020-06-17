@@ -6,10 +6,10 @@ permalink: /about-the-fund/donation/
 <html>
 <body>
  <p><h3 id="Donations">Donation  &nbsp; &nbsp; &nbsp;          
-<a href="#Donations" style="font-size:20px">English</a>| 
-  <a href="#捐款" style="font-size:20px">Chinese</a>| 
-  <a href="#Pendermaan" style="font-size:20px">Malay</a>|
-  <a href="#நன்கொடை" style="font-size:20px">Tamil</a></h3></p>
+<a href="#Donations" style="font-size:20px"><span style="color:black">English</span></a>| 
+ <a href="#捐款" style="font-size:20px"><span style="color:black">Chinese</span></a>| 
+ <a href="#Pendermaan" style="font-size:20px"><span style="color:black">Malay</span></a>|
+ <a href="#நன்கொடை" style="font-size:20px"><span style="color:black">Tamil</span></a></h3></p>
   <p>Your donation will help our children build their language foundation early in an age-appropriate way.
 In support of this cause, the government has provided a 1:1 matching grant for donations to the
 Fund, up to a cap of $50 million. Donations to the Fund will also qualify for 250% tax deduction (at
