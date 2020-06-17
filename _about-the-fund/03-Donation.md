@@ -36,7 +36,7 @@ back of the cheque:
  Attn: Ms Cynthia Chandramuljana, Financial Management Section</p>
   <h4>C. Obtain an autographed special edition of “My Lifelong Challenge:</h4>
   <p>Mr Lee Kuan Yew has autographed 200 special edition copies of his new book &quot;My Lifelong
-Challenge: Singapore’s Bilingual Journey”. A copy of the book (only the Chinese Language version is available) can be obtained with a minimum donation of $10,000. Interested donors can make an order by filling up the order form and emailing the completed form to<a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg .</a></p>
+Challenge: Singapore’s Bilingual Journey”. A copy of the book (only the Chinese Language version is available) can be obtained with a minimum donation of $10,000. Interested donors can make an order by filling up the order form and emailing the completed form to<a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg </a> .</p>
   <p> <a href="/about-the-fund/Application_Guidelines.pdf" target="_blank">Fund Application Guidelines</a></p>
   <h3 id="捐款">捐款</h3>
   <p>您慷慨的捐款将协助我们的学前儿童打好语言基础。因此，政府将提供1对1等同值的资助（顶限为五
@@ -61,9 +61,9 @@ Challenge: Singapore’s Bilingual Journey”. A copy of the book (only the Chin
   Attn: Ms Cynthia Chandramuljana, Financial Management Section</p>
    <h4>C. 向新加坡报业控股购买《我一生的挑战——新加坡双语之路》签名版</h4>
   <p>我们一共有２００本李光耀先生《我一生的挑战——新加坡双语之路》的签名版。捐赠至少一万元
-    的乐心人士就可以获得这本书的签名版一本。有意捐款者请把已填妥的订购 表格 电邮到<a href="moe_lkyfb@moe.gov.sg">
+    的乐心人士就可以获得这本书的签名版一本。有意捐款者请把已填妥的订购 表格 电邮到<a href="mailto:moe_lkyfb@moe.gov.sg">
     moe_lkyfb@moe.gov.sg。</a> 现只出售华文版。</p>
-   <p><a href="/about-the-fund/Application_Guidelines.pdf.pdf" target="_blank">Fund application Guidelines</a></p>
+   <p> <a href="/about-the-fund/Application_Guidelines.pdf" target="_blank">Fund Application Guidelines</a></p>
   <h3 id="Pendermaan">Pendermaan</h3>
   <p>Derma anda akan membantu anak-anak kita membina asas bahasa mereka pada peringkat awal lagi, dengan cara yang sesuai dengan usia mereka. Bagi menyokong usaha ini, pemerintah telah menyediakan geran padanan 1:1 bagi sumbangan anda kepada phak Dana, terhad kepada $50 juta. Anda juga layak mendapat potongan cukai sebanyak 250% (sebanyak dua setengah kali jumlah wang yang didermakan) bagi sumbangan anda itu. Nama dan nombor rujukan cukai perlu disediakan untuk mendapatkan potongan cukai ini.
 </p>
