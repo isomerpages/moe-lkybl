@@ -2,7 +2,7 @@
 title: Fund Policy
 permalink: /about-the-fund/fund-policy/
 ---
-###             Lee Kuan Yew Fund for Bilingualism<br/> Whistle Blowing Policy & Procedures
+### Lee Kuan Yew Fund for Bilingualism<br/> Whistle Blowing Policy & Procedures
 <html>
 <head>
   <style>
@@ -32,6 +32,7 @@ body {
 }
 </style>
 </head>
+<body>
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
   <h4  style= "text-decoration: underline;">Policy</h4>
   <p>1.    This   policy   addresses   the   commitment   of   the   Lee Kuan   Yew   Fund  for Bilingualism  (“the  Fund”)  to  integrity  and  ethical behavior  by  helping  to  foster  and maintain an environment where all its stakeholders can act appropriately, without fear of retaliation.  To  maintain  these  standards,  the  Fund encourages  its  stakeholders  who have concerns about suspected serious misconduct or any breach or suspected breach of law or regulation that may adversely impact the Fund, to come forward and express these concerns without fear of punishment or unfair treatment.</p>
@@ -119,8 +120,6 @@ body {
  <script>
 
 var mybutton = document.getElementById("myBtn");
-
-
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
@@ -136,6 +135,8 @@ function topFunction() {
   document.documentElement.scrollTop = 0;
 }
 </script>
+</body>
+</html>
 
 
 
