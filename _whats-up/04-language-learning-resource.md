@@ -6,8 +6,8 @@ permalink: /whats-up/language-learning-resource/
 
 <html>
 <body>
- <h3>1. Event</h3>
-<h3>Connecting Communities &amp; Bridging Generations
+ <h3>1. Event<br/>
+Connecting Communities &amp; Bridging Generations
 Through Our Mother Tongue Languages</h3>
 <p>In 2018, the Fund launched a series of short videos in its continuous drive to encourage the use of
 Mother Tongue languages among Singaporeans, especially children and parents. The video series
@@ -33,31 +33,31 @@ development, and to promote his/her reading and language skills.</p>
 <p>The Parents in Education Website, developed by MOE, provides parenting tips, educational
 news, information on the school curriculum and resources for parents to support their children&#39;s
 learning and development.</p>
-<h4><a href="https://www.facebook.com/speakgoodenglishmovement" target="_blank"><u>Speak Good English Movement Facebook Page</u></a></h4>
+<h5><a href="https://www.facebook.com/speakgoodenglishmovement" target="_blank"><u>Speak Good English Movement Facebook Page</u></a></h5>
 <p>Read tips and acquire strategies to improve your child&#39;s English.</p>
 
-<h4><a href="https://www.moe.gov.sg/education/syllabuses/resources" target="_blank"><u>MOE Teaching and Learning Resources</u></a></h4>
+<h5><a href="https://www.moe.gov.sg/education/syllabuses/resources" target="_blank"><u>MOE Teaching and Learning Resources</u></a></h5>
 <p>Read tips on how you can help your child&#39;s progress and become involved in his/her learning.</p>
 
-<h4><a href="/what-up/ListofResources.pdf" target="_blank"><u>List of Fund-supported Resources</u></a></h4>
+<h5><a href="/what-up/ListofResources.pdf" target="_blank"><u>List of Fund-supported Resources</u></a></h5>
 <p>The Fund supports numerous initiatives to support young learners in language
 learning, including the production of resources. These resources include print and
 electronic books, periodicals and songs.</p>
 <h4>Online Learning Resources</h4>
-<h4 style="background-color:#8B0000; color:white;">English Language Learning</h4>
-<h4><a href="https://www.moe.gov.sg/education/syllabuses/resources" target="_blank"><u>MOE Teaching and Learning Resources</u></a></h4>
+<h5 style="background-color:#8B0000; color:white;">English Language Learning</h5>
+<h5><a href="https://www.moe.gov.sg/education/syllabuses/resources" target="_blank"><u>MOE Teaching and Learning Resources</u></a></h5>
 <p>Read tips on how you can help your child&#39;s progress and become involved in his/her learning.</p>
-<h4 style="background-color:#8B0000; color:white;">Chinese Language Learning</h4>
-<h4><a href="https://apps.apple.com/sg/app/ihuayu-jiang-hua-yu-shang-yong/id541015355?ls=1" target="_blank"><u>iPhone App to improve your Chinese Language</u></a></h4>
+<h5 style="background-color:#8B0000; color:white;">Chinese Language Learning</h5>
+<h5><a href="https://apps.apple.com/sg/app/ihuayu-jiang-hua-yu-shang-yong/id541015355?ls=1" target="_blank"><u>iPhone App to improve your Chinese Language</u></a></h5>
 <p>Download the iHuayu 讲华语 iPhone application to find Chinese business terms anytime and
 anywhere!</p>
-<h4 style="background-color:#8B0000; color:white;">Malay Language Learning</h4>
-<h4><a href="http://tinta.moe.edu.sg/mekar/slot/u112/index.html" target="_blank"><u>Tinta</u></a></h4>
+<h5 style="background-color:#8B0000; color:white;">Malay Language Learning</h5>
+<h5><a href="http://tinta.moe.edu.sg/mekar/slot/u112/index.html" target="_blank"><u>Tinta</u></a></h5>
 <p>Click to view the multimedia content that complements the Malay Language Primary Curriculum 2008 and the interactive resources for secondary schools.</p>
-<h4><a href="https://tinta.moe.edu.sg/mekar/slot/u100/arkib/2012/okt/index.htm" target="_blank"><u>Nadi</u></a></h4>
+<h5><a href="https://tinta.moe.edu.sg/mekar/slot/u100/arkib/2012/okt/index.htm" target="_blank"><u>Nadi</u></a></h5>
 <p>Click to read the e-magazine for primary Malay Language pupils with a wide range of multimedia content and online activities.</p>
-<h1>Videos</h1>
-<h4 style="background-color:#8B0000; color:white;">English-Mandarin Videos</h4>
+<h4>Videos</h4>
+<h5 style="background-color:#8B0000; color:white;">English-Mandarin Videos</h5>
 <p><a href="https://www.youtube.com/watch?v=o_1YGDhSQOU" target="_blank"><u>We Have Good Manners</u></a></p>
 <p>By Ms Janet Ang, Managing Director, IBM Singapore Pte Ltd</p>
 <p>I grew up in a family where Mandarin and Hokkien were the prevalent languages spoken at home.
@@ -268,246 +268,244 @@ to one another.<br/>
 launched a #IAmBilingualSG Call for Projects to support the nurturing of
 bilingualism in young children at home.<br/>
 <a href="https://www.moe.gov.sg/news/press-releases/launch-of-iambilingualsg-call-for-projects" target="_blank">Launch of #IAmBilingualSG Call for Projects</a></td></tr>
-<h4>News Coverage on the Fund</h4>
+<h5>News Coverage on the Fund</h5>
 </table>
-<h4 style="background-color:#8B0000; color:white;">September 2014</h4>
-<h4><a href="/what-up/32824644_30_09_2014.pdf" target="_blank"><u>Launching &#39;Cilik Cerdik&#39;</u></a></h4>
+<h5 style="background-color:#8B0000; color:white;">September 2014</h5>
+<h5><a href="/what-up/32824644_30_09_2014.pdf" target="_blank"><u>Launching &#39;Cilik Cerdik&#39;</u></a></h5>
 <p>(Berita Harian, 30 September 2014)</p>
-<h4><a href="/what_up/32777063.pdf" target="_blank"><u>Event to encourage bilingualism  </u></a></h4>
+<h5><a href="/what_up/32777063.pdf" target="_blank"><u>Event to encourage bilingualism  </u></a></h5>
 <p>     
 (Berita Harian, 25 September 2014)</p>
-<h4><a href="Special bilingual magazine for kids " target="_blank"><u>Special bilingual magazine for kids bilingualism  </u></a></h4>
+<h5><a href="Special bilingual magazine for kids " target="_blank"><u>Special bilingual magazine for kids bilingualism  </u></a></h5>
 <p>           
 (Berita Harian, 24 September 2014)</p>
-<h4><a href="Interactive method makes learning Mandarin more engaging" target="_blank"><u>Interactive method makes learning Mandarin more engaging    </u></a></h4>
+<h5><a href="Interactive method makes learning Mandarin more engaging" target="_blank"><u>Interactive method makes learning Mandarin more engaging    </u></a></h5>
 <p>(Lianhe Zaobao, 10 September 2014)</p>
-<h4><a href="Registration opens for parenting workshop on interactive method to learn Mandarin " target="_blank"><u>Registration opens for parenting workshop on interactive method to learn Mandarin  </u></a></h4>
+<h5><a href="Registration opens for parenting workshop on interactive method to learn Mandarin " target="_blank"><u>Registration opens for parenting workshop on interactive method to learn Mandarin  </u></a></h5>
 <p>(MyPaper, 10 September 2014)</p>
-<h4 style="background-color:#8B0000; color:white;">June 2014</h4>
-<h4><a href="Asian Festival of Children&#39;s Content launches former president MR S R Nathan&#39;s new picture books" target="_blank"><u>Asian Festival of Children&#39;s Content launches former president MR S R Nathan&#39;s new picture books</u></a></h4>
+<h5 style="background-color:#8B0000; color:white;">June 2014</h5>
+<h5><a href="Asian Festival of Children&#39;s Content launches former president MR S R Nathan&#39;s new picture books" target="_blank"><u>Asian Festival of Children&#39;s Content launches former president MR S R Nathan&#39;s new picture books</u></a></h5>
 <p>(Lianhe Zaobao, 2 June 2014)</p>
-<h4 style="background-color:#8B0000; color:white;">May 2014</h4>
-<h4><a href="Writing books provided income" target="_blank"><u>Writing books provided income</u></a></h4>
+<h5 style="background-color:#8B0000; color:white;">May 2014</h5>
+<h5><a href="Writing books provided income" target="_blank"><u>Writing books provided income</u></a></h5>
 <p>
 (Berita Harian, 24 May 2014)</p>
-<h4><a href="Director urged to provide diversity to children " target="_blank"><u>Director urged to provide diversity to children </u></a></h4>
+<h5><a href="Director urged to provide diversity to children " target="_blank"><u>Director urged to provide diversity to children </u></a></h5>
 <p>(Berita Harian, 24 May 2014)</p>
-<h4 style="background-color:#8B0000; color:white;">April 2014</h4>
-<h4><a href="LKY fund to sponsor five more bilingualism projects" target="_blank"><u>LKY fund to sponsor five more bilingualism projects</u></a></h4>
+<h5 style="background-color:#8B0000; color:white;">April 2014</h5>
+<h5><a href="LKY fund to sponsor five more bilingualism projects" target="_blank"><u>LKY fund to sponsor five more bilingualism projects</u></a></h5>
 <p>(The Straits Times, 18 April 2014)   </p>
-<h4><a href="5 more plans under LKY Fund for Bilingualism" target="_blank"><u>5 more plans under LKY Fund for Bilingualism</u></a></h4>
+<h5><a href="5 more plans under LKY Fund for Bilingualism" target="_blank"><u>5 more plans under LKY Fund for Bilingualism</u></a></h5>
 <p>(The Business Times, 18 April 2014)  </p>
-<h4><a href="&#39;Children&#39;s Murasu&#39; coming soon" target="_blank"><u>&#39;Children&#39;s Murasu&#39; coming soon</u></a></h4>
+<h5><a href="&#39;Children&#39;s Murasu&#39; coming soon" target="_blank"><u>&#39;Children&#39;s Murasu&#39; coming soon</u></a></h5>
 <p>(Tamil Murasu, 18 April 2014) </p>
-<h4><a href="ITE staff and students develop six sets of local card games to support children&#39;s bilingual learning" target="_blank"><u>ITE staff and students develop six sets of local card games to support children&#39;s bilingual learning</u></a></h4>
+<h5><a href="ITE staff and students develop six sets of local card games to support children&#39;s bilingual learning" target="_blank"><u>ITE staff and students develop six sets of local card games to support children&#39;s bilingual learning</u></a></h5>
 <p>(Lianhe Zaobao, 18 April 2014)</p>
-<h4 style="background-color:#8B0000; color:white;">March 2014</h4>
+<h5 style="background-color:#8B0000; color:white;">March 2014</h5>
 <h4><a href="Bilingual picture books to be used in pre-school education for the first time" target="_blank"><u>Bilingual picture books to be used in pre-school education for the first time</u></a></h4>
 <p>(Lianhe Zaobao, 29 March 2014) </p>
-<h4 style="background-color:#8B0000; color:white;">January 2014</h4>
+<h5 style="background-color:#8B0000; color:white;">January 2014</h5>
 <h4><a href="Learning Chinese through music videos" target="_blank"><u>Learning Chinese through music videos</u></a></h4>
 <p>(The Straits Times, 14 January 2014) </p>
-<h4 style="background-color:#8B0000; color:white;">December 2013</h4>
-<h4><a href="12 bilingual children songs launched with sponsorship from the Lee Kuan Yew Fund for Bilingualism" target="_blank"><u>12 bilingual children songs launched with sponsorship from the Lee Kuan Yew Fund for Bilingualism</u></a></h4>
+<h5 style="background-color:#8B0000; color:white;">December 2013</h5>
+<h5><a href="12 bilingual children songs launched with sponsorship from the Lee Kuan Yew Fund for Bilingualism" target="_blank"><u>12 bilingual children songs launched with sponsorship from the Lee Kuan Yew Fund for Bilingualism</u></a></h5>
 <p>(Lianhe Zaobao, 15 December 2013)</p>
-<h4><a href="Richard Wan records bilingual songs" target="_blank"><u>Richard Wan records bilingual songs</u></a></h4>
+<h5><a href="Richard Wan records bilingual songs" target="_blank"><u>Richard Wan records bilingual songs</u></a></h5>
 <p>(Shin Min Daily News, 14 December 2013)</p>
-<h4 style="background-color:#8B0000; color:white;">November 2013</h4>
-<h4><a href="Singapore Centre for Chinese Language launches research on language learning at the pre-school
+<h5 style="background-color:#8B0000; color:white;">November 2013</h5>
+<h5><a href="Singapore Centre for Chinese Language launches research on language learning at the pre-school
 level" target="_blank"><u>Singapore Centre for Chinese Language launches research on language learning at the pre-school
-level</u></a></h4>
+level</u></a></h5>
 <p>(Lianhe Zaobao, 29 November 2013) </p>
-<h4 style="background-color:#8B0000; color:white;" >September 2013</h4>
-<h4><a href="Reinforce learning of mother tongue at home" target="_blank"><u>Reinforce learning of mother tongue at home</u></a></h4>
+<h5 style="background-color:#8B0000; color:white;" >September 2013</h5>
+<h5><a href="Reinforce learning of mother tongue at home" target="_blank"><u>Reinforce learning of mother tongue at home</u></a></h5>
 <p>(The Sunday Times, 15 September 2013)</p>
-<h4><a href="Read to kids in mother tongue, Sim Ann tells parents" target="_blank"><u>Read to kids in mother tongue, Sim Ann tells parents</u></a></h4>
+<h5><a href="Read to kids in mother tongue, Sim Ann tells parents" target="_blank"><u>Read to kids in mother tongue, Sim Ann tells parents</u></a></h5>
 <p>(The New Paper, 15 September 2013)</p>
-<h4><a href="Sim Ann: When parents read with their children, it helps children’s learning of
+<h5><a href="Sim Ann: When parents read with their children, it helps children’s learning of
 mother tongue language" target="_blank"><u>Sim Ann: When parents read with their children, it helps children’s learning of
-mother tongue language</u></a></h4>
+mother tongue language</u></a></h5>
 <p>(Lianhe Zaobao, 15 September 2013)</p>
-<h4><a href="Mastering mother tongue language starts from home" target="_blank"><u>Mastering mother tongue language starts from home</u></a></h4>
+<h5><a href="Mastering mother tongue language starts from home" target="_blank"><u>Mastering mother tongue language starts from home</u></a></h5>
 <p>(Berita Minggu, 15 September 2013)</p>
-<h4><a href="With practice one can master any language, one’s own language will prevail: Sim Ann" target="_blank"><u>With practice one can master any language, one’s own language will prevail: Sim Ann</u></a></h4>
+<h5><a href="With practice one can master any language, one’s own language will prevail: Sim Ann" target="_blank"><u>With practice one can master any language, one’s own language will prevail: Sim Ann</u></a></h5>
 <p>(Tamil Murasu, 15 September 2013)</p>
-<h4><a href="‘Value of multilingual skills is growing’" target="_blank"><u>‘Value of multilingual skills is growing’</u></a></h4>
+<h5><a href="‘Value of multilingual skills is growing’" target="_blank"><u>‘Value of multilingual skills is growing’</u></a></h5>
 <p>(The Straits Times, 14 September 2013)</p>
-<h4><a href="Sim Ann: Multiple parties need to work together to strengthen the effectiveness of bilingual
+<h5><a href="Sim Ann: Multiple parties need to work together to strengthen the effectiveness of bilingual
 education" target="_blank"><u>Sim Ann: Multiple parties need to work together to strengthen the effectiveness of bilingual
-education </u></a></h4>
+education </u></a></h5>
 <p>(Lianhe Zaobao, 14 September 2013)</p>
-<h4><a href="Sim Ann urges parents: Tell stories to children and boost their interest in mother tongue language " target="_blank"><u>Sim Ann urges parents: Tell stories to children and boost their interest in mother tongue language</u></a></h4>
+<h5><a href="Sim Ann urges parents: Tell stories to children and boost their interest in mother tongue language " target="_blank"><u>Sim Ann urges parents: Tell stories to children and boost their interest in mother tongue language</u></a></h5>
 <p>(Shin Min Daily News, 14 September 2013)</p>
-<h4><a href="Award for pre-school Tamil teachers for the first time " target="_blank"><u>Award for pre-school Tamil teachers for the first time</u></a></h4>
+<h5><a href="Award for pre-school Tamil teachers for the first time " target="_blank"><u>Award for pre-school Tamil teachers for the first time</u></a></h5>
 <p>(Tamil Murasu, 14 September 2013)</p>
-<h4><a href="Fun and games with Mandarin " target="_blank"><u>Fun and games with Mandarin</u></a></h4>
+<h5><a href="Fun and games with Mandarin " target="_blank"><u>Fun and games with Mandarin</u></a></h5>
 <p>(The Straits Times, 13 September 2013)</p>
-<h4><a href="Professor Kubler: Language knowledge accumulated from reading newspapers
-is of high practical value "><u>Professor Kubler: Language knowledge accumulated from reading newspapers is of high practical value</u></a></h4>
+<h5><a href="Professor Kubler: Language knowledge accumulated from reading newspapers
+is of high practical value "><u>Professor Kubler: Language knowledge accumulated from reading newspapers is of high practical value</u></a></h5>
 <p>(Lianhe Zaobao, 13 September 2013)</p>
-<h4><a href="&quot;Fun Games for Learning Mandarin&quot; toolkit for childcare centres and
+<h5><a href="&quot;Fun Games for Learning Mandarin&quot; toolkit for childcare centres and
 kindergartens" target="_blank"><u>&quot;Fun Games for Learning Mandarin&quot; toolkit for childcare centres and
-kindergartens</u></a></h4>
+kindergartens</u></a></h5>
 <p>(MyPaper, 13 September 2013)</p>
-<h4><a href="Josephine Teo: Let children learn mother tongue early"><u>Josephine Teo: Let children learn mother tongue early</u></a></h4>
+<h5><a href="Josephine Teo: Let children learn mother tongue early"><u>Josephine Teo: Let children learn mother tongue early</u></a></h5>
 <p>(Shin Min Daily News, 12 September 2013)</p>
-<h4 style="background-color:#8B0000; color:white;">August 2013</h4>
-<h4><a href="Recommendation from BH receives funding support" target="_blank"><u>Recommendation from BH receives funding support</u></a></h4>
+<h5 style="background-color:#8B0000; color:white;">August 2013</h5>
+<h4><a href="Recommendation from BH receives funding support" target="_blank"><u>Recommendation from BH receives funding support</u></a></h5>
 <p>(Berita Harian, 29 August 2013)</p>
-<h4><a href="More proposals get the Lee Kuan Yew Fund for Bilingualism" target="_blank"><u>More proposals get the Lee Kuan Yew Fund for Bilingualism</u></a></h4>
+<h5><a href="More proposals get the Lee Kuan Yew Fund for Bilingualism" target="_blank"><u>More proposals get the Lee Kuan Yew Fund for Bilingualism</u></a></h5>
 <p>(Tamil Murasu, 29 August 2013)</p>
-<h4><a href="Fund for bilingualism to back three more projects" target="_blank"><u>Fund for bilingualism to back three more projects</u></a></h4>
+<h5><a href="Fund for bilingualism to back three more projects" target="_blank"><u>Fund for bilingualism to back three more projects</u></a></h5>
 <p>(The New Paper, 28 August 2013)</p>
-<h4><a href="Funding to develop bilingual resources"><u>Funding to develop bilingual resources</u></a></h4>
+<h5><a href="Funding to develop bilingual resources"><u>Funding to develop bilingual resources</u></a></h5>
 <p>(MyPaper, 28 August 2013)</p>
-<h4><a href="Local film &quot;Wa is for Wayang&quot; to be adapted into a bilingual picture book with
+<h5><a href="Local film &quot;Wa is for Wayang&quot; to be adapted into a bilingual picture book with
 support from the Lee Kuan Yew Fund for Bilingualism"><u>Local film &quot;Wa is for Wayang&quot; to be adapted into a bilingual picture book with
-support from the Lee Kuan Yew Fund for Bilingualism</u></a></h4>
+support from the Lee Kuan Yew Fund for Bilingualism</u></a></h5>
 <p>(Lianhe Zaobao, 28 August 2013)</p>
-<h4><a href="Fun new read for pre-school kids" target="_blank"><u>Fun new read for pre-school kids</u></a></h4>
+<h5><a href="Fun new read for pre-school kids" target="_blank"><u>Fun new read for pre-school kids</u></a></h5>
 <p>(The Straits Times, 17 August 2013)</p>
-
-<h4><a href="Birth of Thumbs Up Junior, a Chinese Language publication for pre-school children" target="_blank"><u>Birth of Thumbs Up Junior, a Chinese Language publication for pre-school children</u></a></h4>
+<h5><a href="Birth of Thumbs Up Junior, a Chinese Language publication for pre-school children" target="_blank"><u>Birth of Thumbs Up Junior, a Chinese Language publication for pre-school children</u></a></h5>
 <p>(Lianhe Zaobao, 17 August 2013)</p>
-<h4><a href="Entrance of Thumbs Up Little Junior, which will be a good companion of pre-school children" target="_blank"><u>Entrance of Thumbs Up Little Junior, which will be a good companion of pre-school children</u></a></h4>
+<h5><a href="Entrance of Thumbs Up Little Junior, which will be a good companion of pre-school children" target="_blank"><u>Entrance of Thumbs Up Little Junior, which will be a good companion of pre-school children</u></a></h5>
 <p>(Lianhe Wanbao, 17 August 2013)</p>
 <h4><a href="Thumbs Up Little Junior is born" target="_blank"><u>Thumbs Up Little Junior is born</u></a></h4>
 <p>(Shin Min Daily News, 18 August 2013)</p>
-<h4><a href="Complimentary copies of Zaobao’s “Thumbs Up Little Junior” to be given to 30,000 pre-schoolers for a
+<h5><a href="Complimentary copies of Zaobao’s “Thumbs Up Little Junior” to be given to 30,000 pre-schoolers for a
 year" target="_blank"><u>Complimentary copies of Zaobao’s “Thumbs Up Little Junior” to be given to 30,000 pre-schoolers for a
-year</u></a></h4>
+year</u></a></h5>
 <p>(Lianhe Zaobao, 6 August 2013)</p>
-<h4><a href="30,000 pre-schoolers to receive “Thumbs Up Little Junior”" target="_blank"><u>30,000 pre-schoolers to receive “Thumbs Up Little Junior”</u></a></h4>
+<h5><a href="30,000 pre-schoolers to receive “Thumbs Up Little Junior”" target="_blank"><u>30,000 pre-schoolers to receive “Thumbs Up Little Junior”</u></a></h5>
 <p>(MyPaper, 6 August 2013)</p>
-<h4><a href="LKY fund for bilingualism to back Chinese bi-weekly for kids" target="_blank"><u>LKY fund for bilingualism to back Chinese bi-weekly for kids</u></a></h4>
+<h5><a href="LKY fund for bilingualism to back Chinese bi-weekly for kids" target="_blank"><u>LKY fund for bilingualism to back Chinese bi-weekly for kids</u></a></h5>
 <p>(The New Paper, 6 August 2013)</p>
-<h4 style="background-color:#8B0000; color:white;">June 2013</h4>
+<h5 style="background-color:#8B0000; color:white;">June 2013</h5>
 <h4><a href="Speak your best language at home" target="_blank"><u>Speak your best language at home</u></a></h4>
 <p>(The Straits Times, 11 June 2013)</p>
-<h4><a href="Parents should create an environment for their children to learn bilingualism" target="_blank"><u>Parents should create an environment for their children to learn bilingualism</u></a></h4>
+<h5><a href="Parents should create an environment for their children to learn bilingualism" target="_blank"><u>Parents should create an environment for their children to learn bilingualism</u></a></h5>
 <p>(Lianhe Zaobao, 11 June 2013)</p>
-<h4><a href="Parents&#39; attitudes towards language will directly affect children" target="_blank"><u>Parents&#39; attitudes towards language will directly affect children</u></a></h4>
+<h5><a href="Parents&#39; attitudes towards language will directly affect children" target="_blank"><u>Parents&#39; attitudes towards language will directly affect children</u></a></h5>
 <p>(Shin Min Daily News, 11 June 2013)</p>
-<h4><a href="World experts gather for bilingualism" target="_blank"><u>World experts gather for bilingualism</u></a></h4>
+<h5><a href="World experts gather for bilingualism" target="_blank"><u>World experts gather for bilingualism</u></a></h5>
 <p>(Tamil Murasu, 11 June 2013)</p>
-<h4 style="background-color:#8B0000; color:white;">May 2013</h4>
-<h4><a href="Launch of three bilingual picture books with local features" target="_blank"><u>Launch of three bilingual picture books with local features</u></a></h4>
+<h5 style="background-color:#8B0000; color:white;">May 2013</h5>
+<h5><a href="Launch of three bilingual picture books with local features" target="_blank"><u>Launch of three bilingual picture books with local features</u></a></h5>
 <p>(Lianhe Zaobao, 27 May 2013)</p>
-<h4><a href="The crucial period for children to master speech sounds is when they are three to four-years-
+<h5><a href="The crucial period for children to master speech sounds is when they are three to four-years-
 old" target="_blank"><u>The crucial period for children to master speech sounds is when they are three to four-years-
-old</u></a></h4>
+old</u></a></h5>
 <p>(Lianhe Zaobao, 21 May 2013)</p>
-<h4><a href="Expert: Children should cultivate good speech sound habit before the age of six" target="_blank"><u>Expert: Children should cultivate good speech sound habit before the age of six</u></a></h4>
+<h5><a href="Expert: Children should cultivate good speech sound habit before the age of six" target="_blank"><u>Expert: Children should cultivate good speech sound habit before the age of six</u></a></h5>
 <p>(MyPaper, 21 May 2013)</p>
-<h4 style="background-color:#8B0000; color:white;">April 2013</h4>
+<h5 style="background-color:#8B0000; color:white;">April 2013</h5>
 <h4><a href="Support for events to promote bilingualism" target="_blank"><u>Support for events to promote bilingualism</u></a></h4>
 <p>(The Business Times, 25 April 2013)</p>
-<h4><a href="Lee Kuan Yew Fund for Bilingualism to fund two events" target="_blank"><u>Lee Kuan Yew Fund for Bilingualism to fund two events</u></a></h4>
+<h5><a href="Lee Kuan Yew Fund for Bilingualism to fund two events" target="_blank"><u>Lee Kuan Yew Fund for Bilingualism to fund two events</u></a></h5>
 <p>(Lianhe Zaobao, 25 April 2013)</p>
-<h4><a href="Two events receive support from LKY Bilingualism Fund" target="_blank"><u>Two events receive support from LKY Bilingualism Fund</u></a></h4>
+<h5><a href="Two events receive support from LKY Bilingualism Fund" target="_blank"><u>Two events receive support from LKY Bilingualism Fund</u></a></h5>
 <p>(Berita Harian, 25 April 2013)</p>
-<h4 style="background-color:#8B0000; color:white;">February 2013</h4>
-<h4><a href="The Lee Kuan Yew Fund for Bilingualism receives a donation of $210,000" target="_blank"><u>The Lee Kuan Yew Fund for Bilingualism receives a donation of $210,000</u></a></h4>
+<h5 style="background-color:#8B0000; color:white;">February 2013</h5>
+<h5><a href="The Lee Kuan Yew Fund for Bilingualism receives a donation of $210,000" target="_blank"><u>The Lee Kuan Yew Fund for Bilingualism receives a donation of $210,000</u></a></h5>
 <p>(Lianhe Zaobao, 1 March 2013)</p>
-<h4><a href="Pre-schoolers’ bilingual education" target="_blank"><u>Pre-schoolers’ bilingual education</u></a></h4>
+<h5><a href="Pre-schoolers’ bilingual education" target="_blank"><u>Pre-schoolers’ bilingual education</u></a></h5>
 <p>(Lianhe Wanbao, 8 February 2013)</p>
-<h4><a href="How to promote bilingualism among pre-school children?" target="_blank"><u>How to promote bilingualism among pre-school children?</u></a></h4>
+<h5><a href="How to promote bilingualism among pre-school children?" target="_blank"><u>How to promote bilingualism among pre-school children?</u></a></h5>
 <p>(Lianhe Zaobao, 8 February 2013)</p>
-<h4><a href="You are invited to propose projects to encourage bilingualism among preschool children" target="_blank"><u>You are invited to propose projects to encourage bilingualism among preschool children</u></a></h4>
+<h5><a href="You are invited to propose projects to encourage bilingualism among preschool children" target="_blank"><u>You are invited to propose projects to encourage bilingualism among preschool children</u></a></h5>
 <p>(Berita Harian, 2 February 2013)</p>
-<h4><a href="Lee Kuan Yew Bilingual Education Fund invites proposals" target="_blank"><u>Lee Kuan Yew Bilingual Education Fund invites proposals</u></a></h4>
+<h5><a href="Lee Kuan Yew Bilingual Education Fund invites proposals" target="_blank"><u>Lee Kuan Yew Bilingual Education Fund invites proposals</u></a></h5>
 <p>(Tamil Murasu, 2 February 2013)</p>
-<h4 style="background-color:#8B0000; color:white;">December 2012</h4>
-<h4><a href="Project to inculcate a love for language and reading in children" target="_blank"><u>Project to inculcate a love for language and reading in children</u></a></h4>
+<h5 style="background-color:#8B0000; color:white;">December 2012</h5>
+<h5><a href="Project to inculcate a love for language and reading in children" target="_blank"><u>Project to inculcate a love for language and reading in children</u></a></h5>
 <p>(Berita Harian, 15 December 2012)</p>
-<h4><a href="More tools to boost bilingual learning" target="_blank"><u>More tools to boost bilingual learning</u></a></h4>
+<h5><a href="More tools to boost bilingual learning" target="_blank"><u>More tools to boost bilingual learning</u></a></h5>
 <p>(The Straits Times, 8 December 2012)</p>
-<h4><a href="Ten receive funds to promote bilingualism" target="_blank"><u>MTen receive funds to promote bilingualism</u></a></h4>
+<h5><a href="Ten receive funds to promote bilingualism" target="_blank"><u>MTen receive funds to promote bilingualism</u></a></h5>
 <p>(The Business Times Weekend, 8-9 December 2012)</p>
-<h4><a href="Learning tools proposals get $1.6 million funding" target="_blank"><u>Learning tools proposals get $1.6 million funding</u></a></h4>
+<h5><a href="Learning tools proposals get $1.6 million funding" target="_blank"><u>Learning tools proposals get $1.6 million funding</u></a></h5>
 <p>(The New Paper, 8 December 2012)</p>
-<h4><a href="Lee Kuan Yew Fund for Bilingualism gives out $1.6 million to develop bilingual teaching materials for
+<h5><a href="Lee Kuan Yew Fund for Bilingualism gives out $1.6 million to develop bilingual teaching materials for
 children" target="_blank"><u>Lee Kuan Yew Fund for Bilingualism gives out $1.6 million to develop bilingual teaching materials for
-children  </u></a></h4>
+children  </u></a></h5>
 <p>(Lianhe Zaobao, 8 December 2012)</p>
-<h4><a href="$1.6 million is given out to help young children become bilingual"><u>$1.6 million is given out to help young children become bilingual</u></a></h4>
+<h5><a href="$1.6 million is given out to help young children become bilingual"><u>$1.6 million is given out to help young children become bilingual</u></a></h5>
 <p>(Lianhe Wanbao, 8 December 2012)</p>
-<h4><a href="10 proposals receive $1.6 million from the Lee Kuan Yew Fund for Bilingualism" target="_blank"><u>10 proposals receive $1.6 million from the Lee Kuan Yew Fund for Bilingualism</u></a></h4>
+<h5><a href="10 proposals receive $1.6 million from the Lee Kuan Yew Fund for Bilingualism" target="_blank"><u>10 proposals receive $1.6 million from the Lee Kuan Yew Fund for Bilingualism</u></a></h5>
 <p>(Berita Harian, 8 December 2012)</p>
-<h4><a href="Willing to collaborate to uphold bilingualism" target="_blank"><u>Willing to collaborate to uphold bilingualism</u></a></h4>
+<h5><a href="Willing to collaborate to uphold bilingualism" target="_blank"><u>Willing to collaborate to uphold bilingualism</u></a></h5>
 <p>(Berita Harian, 8 December 2012)</p>
-<h4><a href="$1.6 million for 10 projects"><u>$1.6 million for 10 projects</u></a></h4>
+<h5><a href="$1.6 million for 10 projects"><u>$1.6 million for 10 projects</u></a></h5>
 <p>(Tamil Murasu, 8 December 2012)</p>
-<h4 style="background-color:#8B0000; color:white;">July 2012</h4>
-<h4><a href="Proposals sought to boost bilingualism" target="_blank"><u>Proposals sought to boost bilingualism</u></a></h4>
+<h5 style="background-color:#8B0000; color:white;">July 2012</h5>
+<h5><a href="Proposals sought to boost bilingualism" target="_blank"><u>Proposals sought to boost bilingualism</u></a></h5>
 <p>(The Straits Times, 7 July 2012)</p>
 <h4><a href="LKY Bilingualism fund stands at $119m" target="_blank"><u>LKY Bilingualism fund stands at $119m</u></a></h4>
 <p>(Business Times Weekend, 7-8 July 2012)</p>
-<h4><a href="Fund calls for proposals to improve bilingual learning" target="_blank"><u>Fund calls for proposals to improve bilingual learning</u></a></h4>
+<h5><a href="Fund calls for proposals to improve bilingual learning" target="_blank"><u>Fund calls for proposals to improve bilingual learning</u></a></h5>
 <p>(The New Paper, 7 July 2012)</p>
-<h4><a href="Lee Kuan Yew Fund for Bilingualism is seeking proposals to enhance bilingual learning at pre-school
+<h5><a href="Lee Kuan Yew Fund for Bilingualism is seeking proposals to enhance bilingual learning at pre-school
 level" target="_blank"><u>Lee Kuan Yew Fund for Bilingualism is seeking proposals to enhance bilingual learning at pre-school
-level</u></a></h4>
+level</u></a></h5>
 <p>(Lianhe Zaobao, 7 July 2012)</p>
-<h4><a href="Lee Kuan Yew Fund for Bilingualism is seeking proposals to enhance bilingual learning at pre-school level" target="_blank"><u>Lee Kuan Yew Fund for Bilingualism is seeking proposals to enhance bilingual learning at pre-school
-level</u></a></h4>
+<h5><a href="Lee Kuan Yew Fund for Bilingualism is seeking proposals to enhance bilingual learning at pre-school level" target="_blank"><u>Lee Kuan Yew Fund for Bilingualism is seeking proposals to enhance bilingual learning at pre-school
+level</u></a></h5>
 <p>(Lianhe Wanbao, 7 July 2012)</p>
-<h4><a href="Lee Kuan Yew Fund for Bilingualism is seeking proposals to enhance bilingual learning" target="_blank"><u>Lee Kuan Yew Fund for Bilingualism is seeking proposals to enhance bilingual learning</u></a></h4>
+<h5><a href="Lee Kuan Yew Fund for Bilingualism is seeking proposals to enhance bilingual learning" target="_blank"><u>Lee Kuan Yew Fund for Bilingualism is seeking proposals to enhance bilingual learning</u></a></h5>
 <p>(Shin Min Daily News, 6 July 2012)</p>
-<h4><a href="Bilingualism Fund would like public&#39;s proposals to promote bilingualism in pre-schools" target="_blank"><u>Bilingualism Fund would like public&#39;s proposals to promote bilingualism in pre-schools</u></a></h4>
+<h5><a href="Bilingualism Fund would like public&#39;s proposals to promote bilingualism in pre-schools" target="_blank"><u>Bilingualism Fund would like public&#39;s proposals to promote bilingualism in pre-schools</u></a></h5>
 <p>(Berita Harian, 7 July 2012)</p>
 <h4><a href="Bilingual Education: ideas welcomed" target="_blank"><u>Bilingual Education: ideas welcomed</u></a></h4>
 <p>(Tamil Murasu,7 July 2012)</p>
-
-<h4 style="background-color:#8B0000; color:white;">March 2012</h4>
-<h4><a href="Bilingualism fund raises $113m, beating target" target="_blank"><u>Bilingualism fund raises $113m, beating target</u></a></h4>
+<h5 style="background-color:#8B0000; color:white;">March 2012</h5>
+<h5><a href="Bilingualism fund raises $113m, beating target" target="_blank"><u>Bilingualism fund raises $113m, beating target</u></a></h5>
 <p>(The Straits Times, 15 March 2012)</p>
-<h4><a href="Board set up to run Lee Kuan Yew Fund for Bilingualism" target="_blank"><u>Board set up to run Lee Kuan Yew Fund for Bilingualism</u></a></h4>
+<h5><a href="Board set up to run Lee Kuan Yew Fund for Bilingualism" target="_blank"><u>Board set up to run Lee Kuan Yew Fund for Bilingualism</u></a></h5>
 <p>(The New Paper, 15 March 2012)</p>
-<h4><a href="Board set up for Lee Kuan Yew Fund for Bilingualism" target="_blank"><u>Board set up for Lee Kuan Yew Fund for Bilingualism</u></a></h4>
+<h5><a href="Board set up for Lee Kuan Yew Fund for Bilingualism" target="_blank"><u>Board set up for Lee Kuan Yew Fund for Bilingualism</u></a></h5>
 <p>(Business Times, 15 March 2012)</p>
-<h4><a href="Board to manage LKY Fund for Bilingualism" target="_blank"><u>Board to manage LKY Fund for Bilingualism</u></a></h4>
+<h5><a href="Board to manage LKY Fund for Bilingualism" target="_blank"><u>Board to manage LKY Fund for Bilingualism</u></a></h5>
 <p>(MyPaper, Business Times, 15 March 2012)</p>
-<h4><a href="Lee Kuan Yew Fund for Bilingualism exceeds the $100million target" target="_blank"><u>Lee Kuan Yew Fund for Bilingualism exceeds the $100million target</u></a></h4>
+<h5><a href="Lee Kuan Yew Fund for Bilingualism exceeds the $100million target" target="_blank"><u>Lee Kuan Yew Fund for Bilingualism exceeds the $100million target</u></a></h5>
 <p>(Lianhe Zaobao, 15 March 2012)</p>
-<h4><a href="Lee Kuan Yew Fund for Bilingualism board to set up 4 sub-committees" target="_blank"><u>Lee Kuan Yew Fund for Bilingualism board to set up 4 sub-committees</u></a></h4>
+<h5><a href="Lee Kuan Yew Fund for Bilingualism board to set up 4 sub-committees" target="_blank"><u>Lee Kuan Yew Fund for Bilingualism board to set up 4 sub-committees</u></a></h5>
 <p>(Lianhe Zaobao, 15 March 2012)</p>
-<h4><a href="Two experts in Malay Language among members of the Board" target="_blank"><u>Two experts in Malay Language among members of the Board</u></a></h4>
+<h5><a href="Two experts in Malay Language among members of the Board" target="_blank"><u>Two experts in Malay Language among members of the Board</u></a></h5>
 <p>(Berita Harian, 15 March 2012)</p>
-<h4><a href="Lee Kuan Yew education fund currently at $113m" target="_blank"><u>Lee Kuan Yew education fund currently at $113m</u></a></h4>
+<h5><a href="Lee Kuan Yew education fund currently at $113m" target="_blank"><u>Lee Kuan Yew education fund currently at $113m</u></a></h5>
 <p>(Tamil Murasu,15 March 2012)</p>
-<h4><a href="&#39; Big challenge to speak Tamil at home &#39;" target="_blank"><u>&#39; Big challenge to speak Tamil at home &#39;</u></a></h4>
+<h5><a href="&#39; Big challenge to speak Tamil at home &#39;" target="_blank"><u>&#39; Big challenge to speak Tamil at home &#39;</u></a></h5>
 <p>(Tamil Murasu,15 March 2012)</p>
-<h4><a href="Public support the Lee Kuan Yew Fund for Bilingualism with donations" target="_blank"><u>Public support the Lee Kuan Yew Fund for Bilingualism with donations</u></a></h4>
+<h5><a href="Public support the Lee Kuan Yew Fund for Bilingualism with donations" target="_blank"><u>Public support the Lee Kuan Yew Fund for Bilingualism with donations</u></a></h5>
 <p>(Lianhe Zaobao, 15 March 2012)</p>
-<h4 style="background-color:#8B0000; color:white;">November to December 2011</h4>
-<h4><a href="Fresh investment in bilingualism" target="_blank"><u>Fresh investment in bilingualism</u></a></h4>
+<h5 style="background-color:#8B0000; color:white;">November to December 2011</h5>
+<h5><a href="Fresh investment in bilingualism" target="_blank"><u>Fresh investment in bilingualism</u></a></h5>
 <p>(The Straits Times, 1 December 2011)</p>
-<h4><a href="Our competitiveness in mastering the language" target="_blank"><u>Our competitiveness in mastering the language</u></a></h4>
+<h5><a href="Our competitiveness in mastering the language" target="_blank"><u>Our competitiveness in mastering the language</u></a></h5>
 <p>(Berita Harian, 1 December 2011)</p>
-<h4><a href="$500k for bilingualism fund, thanks to book orders" target="_blank"><u>$500k for bilingualism fund, thanks to book orders</u></a></h4>
+<h5><a href="$500k for bilingualism fund, thanks to book orders" target="_blank"><u>$500k for bilingualism fund, thanks to book orders</u></a></h5>
 <p>(The Straits Times, 30 November 2011)</p>
-<h4><a href="Baby steps to bilingualism"><u>Baby steps to bilingualism</u></a></h4>
+<h5><a href="Baby steps to bilingualism"><u>Baby steps to bilingualism</u></a></h5>
 <p>(The Straits Times, 30 November 2011)</p>
-<h4><a href="Teacher and parents welcome the Lee Kuan Yew Fund for Bilingualism" target="_blank"><u>Teacher and parents welcome the Lee Kuan Yew Fund for Bilingualism</u></a></h4>
+<h5><a href="Teacher and parents welcome the Lee Kuan Yew Fund for Bilingualism" target="_blank"><u>Teacher and parents welcome the Lee Kuan Yew Fund for Bilingualism</u></a></h5>
 <p>(Lianhe Zaobao, 30 November 2011)</p>
-<h4><a href="Mr Lee launches fund to boost bilingualism" target="_blank"><u>Mr Lee launches fund to boost bilingualism</u></a></h4>
+<h5><a href="Mr Lee launches fund to boost bilingualism" target="_blank"><u>Mr Lee launches fund to boost bilingualism</u></a></h5>
 <p>(The Straits Times, 29 November 2011)</p>
-<h4><a href="Mr Lee&#39;s &#39;difficult lesson &#39;" target="_blank"><u>Mr Lee&#39;s &#39;difficult lesson &#39;</u></a></h4>
+<h5><a href="Mr Lee&#39;s &#39;difficult lesson &#39;" target="_blank"><u>Mr Lee&#39;s &#39;difficult lesson &#39;</u></a></h5>
 <p>(The Straits Times, 29 November 2011)</p>
-<h4><a href="Fund attracts pledges of donations;" target="_blank"><u>Fund attracts pledges of donations</u></a></h4>
+<h5><a href="Fund attracts pledges of donations;" target="_blank"><u>Fund attracts pledges of donations</u></a></h5>
 <p>(The Straits Times, 29 November 2011)</p>
-<h4><a href="LKY proposes setting up of bilingualism fund" target="_blank"><u>LKY proposes setting up of bilingualism fund</u></a></h4>
+<h5><a href="LKY proposes setting up of bilingualism fund" target="_blank"><u>LKY proposes setting up of bilingualism fund</u></a></h5>
 <p>(Business Times, 29 November 2011)</p>
-<h4><a href="$100m fund set up to promote bilingualism" target="_blank"><u>$100m fund set up to promote bilingualism</u></a></h4>
+<h5><a href="$100m fund set up to promote bilingualism" target="_blank"><u>$100m fund set up to promote bilingualism</u></a></h5>
 <p>(The New Paper, 29 November 2011)</p>
-<h4><a href="Pre-schoolers to get bilingual fund" target="_blank"><u>Pre-schoolers to get bilingual fund</u></a></h4>
+<h5><a href="Pre-schoolers to get bilingual fund" target="_blank"><u>Pre-schoolers to get bilingual fund</u></a></h5>
 <p>(My Paper, 29 November 2011)</p>
-<h4><a href="Lee Kuan Yew announces the establishment of S$100m bilingualism fund" target="_blank"><u>Lee Kuan Yew announces the establishment of S$100m bilingualism fund</u></a></h4>
+<h5><a href="Lee Kuan Yew announces the establishment of S$100m bilingualism fund" target="_blank"><u>Lee Kuan Yew announces the establishment of S$100m bilingualism fund</u></a></h5>
 <p>(MyPaper, 29 November 2011)</p>
-<h4><a href="Lee Kuan Yew sets up $100 million bilingualism fund" target="_blank"><u>Lee Kuan Yew sets up $100 million bilingualism fund</u></a></h4>
+<h5><a href="Lee Kuan Yew sets up $100 million bilingualism fund" target="_blank"><u>Lee Kuan Yew sets up $100 million bilingualism fund</u></a></h5>
 <p>(Lianhe Zaobao, 29 November 2011)</p>
-<h4><a href="$100m for bilingual education" target="_blank"><u>$100m for bilingual education</u></a></h4>
+<h5><a href="$100m for bilingual education" target="_blank"><u>$100m for bilingual education</u></a></h5>
 <p>(Tamil Murasu, 29 November 2011)</p>
 <style>
 table {
@@ -594,119 +592,119 @@ Speak Mandarin Campaign 2012" target="_blank">Speech by Mr Heng Swee Keat at the
   </tr>
 </table>
 <h3>News Commentary on Language Learning</h3>
-<h4 style="background-color:#8B0000; color:white;">Bilingualism</h4>
-<h4><a href="Will children become smarter if they are exposed to bilingual learning early?" target="_blank"><u>Will children become smarter if they are exposed to bilingual learning early?</u></a></h4>
+<h5 style="background-color:#8B0000; color:white;">Bilingualism</h5>
+<h5><a href="Will children become smarter if they are exposed to bilingual learning early?" target="_blank"><u>Will children become smarter if they are exposed to bilingual learning early?</u></a></h5>
 <p>(Lianhe Zaobao, 24 March 2014)</p>
-<h4><a href="Mr Lee: Give kids early start in bilingualism" target="_blank"><u>Mr Lee: Give kids early start in bilingualism</u></a></h4>
+<h5><a href="Mr Lee: Give kids early start in bilingualism" target="_blank"><u>Mr Lee: Give kids early start in bilingualism</u></a></h5>
 <p>(Business Times Weekend, 17-18 August 2013)</p>
-<h4><a href="An early start in languages at new Tiong Bahru pre-school" target="_blank"><u>An early start in languages at new Tiong Bahru pre-school</u></a></h4>
+<h5><a href="An early start in languages at new Tiong Bahru pre-school" target="_blank"><u>An early start in languages at new Tiong Bahru pre-school</u></a></h5>
 <p>(Straits Times, 17 August 2013)</p>
-<h4><a href="Introduce bilingualism at early age: Mr Lee" target="_blank"><u>Introduce bilingualism at early age: Mr Lee</u></a></h4>
+<h5><a href="Introduce bilingualism at early age: Mr Lee" target="_blank"><u>Introduce bilingualism at early age: Mr Lee</u></a></h5>
 <p>(The New Paper, 17 August 2013)</p>
-<h4><a href="Lee Kuan Yew: Give children early start in bilingualism " target="_blank"><u>Lee Kuan Yew: Give children early start in bilingualism   </u></a></h4>
+<h5><a href="Lee Kuan Yew: Give children early start in bilingualism " target="_blank"><u>Lee Kuan Yew: Give children early start in bilingualism   </u></a></h5>
 <p>  (Lianhe Zaobao, 17 August 2013)</p>
-<h4><a href="Lee Kuan Yew urges parents to allow children early start in bilingualism" target="_blank"><u>Lee Kuan Yew urges parents to allow children early start in bilingualism</u></a></h4>
+<h5><a href="Lee Kuan Yew urges parents to allow children early start in bilingualism" target="_blank"><u>Lee Kuan Yew urges parents to allow children early start in bilingualism</u></a></h5>
 <p>(Lianhe Wanbao, 17 August 2013)</p>
-<h4><a href="Singapore founding father Lee Kuan Yew urges parents to allow children early start in bilingualism    " target="_blank"><u>Singapore founding father Lee Kuan Yew urges parents to allow children early start in
-bilingualism    </u></a></h4>
+<h5><a href="Singapore founding father Lee Kuan Yew urges parents to allow children early start in bilingualism    " target="_blank"><u>Singapore founding father Lee Kuan Yew urges parents to allow children early start in
+bilingualism    </u></a></h5>
 <p>(Shin Min Daily News, 17 August 2013)</p>
-<h4><a href="&#39;Start bilingualism at a young age&#39;" target="_blank"><u>&#39;Start bilingualism at a young age&#39;</u></a></h4>
+<h5><a href="&#39;Start bilingualism at a young age&#39;" target="_blank"><u>&#39;Start bilingualism at a young age&#39;</u></a></h5>
 <p>(Berita Harian, 17 August 2013)</p>
-<h4><a href="Bilingual education for children is important: Lee Kuan Yew " target="_blank"><u>Bilingual education for children is important: Lee Kuan Yew   </u></a></h4><p>(Tamil Murasu, 17 August 2013)</p>
-<h4><a href="Research shows: Frequent use of two languages from early age makes for stronger cognitive
+<h5><a href="Bilingual education for children is important: Lee Kuan Yew " target="_blank"><u>Bilingual education for children is important: Lee Kuan Yew   </u></a></h5><p>(Tamil Murasu, 17 August 2013)</p>
+<h5><a href="Research shows: Frequent use of two languages from early age makes for stronger cognitive
 ability" target="_blank"><u>Research shows: Frequent use of two languages from early age makes for stronger cognitive
-ability</u></a></h4>
+ability</u></a></h5>
 <p>(Lianhe Zaobao, 29 July 2013)</p>
-<h4><a href="Learning mother tongue from young; less disruption to thinking process " target="_blank"><u>Learning mother tongue from young; less disruption to thinking process </u></a></h4>
+<h5><a href="Learning mother tongue from young; less disruption to thinking process " target="_blank"><u>Learning mother tongue from young; less disruption to thinking process </u></a></h5>
 <p>(MyPaper, 29 July 2013)</p>
-<h4><a href="Frequent use of two languages from early age makes for stronger cognitive ability" target="_blank"><u>Frequent use of two languages from early age makes for stronger cognitive ability</u></a></h4>
+<h5><a href="Frequent use of two languages from early age makes for stronger cognitive ability" target="_blank"><u>Frequent use of two languages from early age makes for stronger cognitive ability</u></a></h5>
 <p>(Sin Min Daily, 29 July 2013)</p>
-<h4><a href="Importance of bilingual books" target="_blank"><u>Importance of bilingual books</u></a></h4>
+<h5><a href="Importance of bilingual books" target="_blank"><u>Importance of bilingual books</u></a></h5>
 <p>(Berita Harian, 16 May 2013)</p>
-<h4><a href="Do not make Malay children monolingual " target="_blank"><u>Do not make Malay children monolingual </u></a></h4>
+<h5><a href="Do not make Malay children monolingual " target="_blank"><u>Do not make Malay children monolingual </u></a></h5>
 <p>(Berita Harian, 10 April 2013)</p>
-<h4><a href="What lies ahead in bilingual journey  " target="_blank"><u>What lies ahead in bilingual journey  </u></a></h4>
+<h5><a href="What lies ahead in bilingual journey  " target="_blank"><u>What lies ahead in bilingual journey  </u></a></h5>
 <p> (The Sunday Times, 11 December 2011)</p>
-<h4><a href="Out with dialects, in with Mandarin  " target="_blank"><u>Out with dialects, in with Mandarin  </u></a></h4>
+<h5><a href="Out with dialects, in with Mandarin  " target="_blank"><u>Out with dialects, in with Mandarin  </u></a></h5>
 <p> (The Sunday Times, 11 December 2011)</p>
-<h4><a href="Mr Lee tells of his struggle with Chinese language" target="_blank"><u>Mr Lee tells of his struggle with Chinese language   </u></a></h4>
+<h5><a href="Mr Lee tells of his struggle with Chinese language" target="_blank"><u>Mr Lee tells of his struggle with Chinese language   </u></a></h5>
 <p>   (The Straits Times, 21 November 2011)</p>
-<h4><a href="Lee Kuan Yew’s bilingualism awakening" target="_blank"><u>Lee Kuan Yew’s bilingualism awakening</u></a></h4>
+<h5><a href="Lee Kuan Yew’s bilingualism awakening" target="_blank"><u>Lee Kuan Yew’s bilingualism awakening</u></a></h5>
 <p>(The Sunday Times, 27 November 2011)</p>
-<h4 style="background-color:#8B0000; color:white;">Chinese Language Learning</h4>
-<h4><a href="Live the language  " target="_blank"><u>Live the language  </u></a></h4>
+<h5 style="background-color:#8B0000; color:white;">Chinese Language Learning</h5>
+<h5><a href="Live the language  " target="_blank"><u>Live the language  </u></a></h5>
 <p>(Lianhe Zaobao, 18 August 2013)</p>
-<h4><a href="A sensible appeal to allow Mother Tongue to thrive" target="_blank"><u>A sensible appeal to allow Mother Tongue to thrive</u></a></h4>
+<h5><a href="A sensible appeal to allow Mother Tongue to thrive" target="_blank"><u>A sensible appeal to allow Mother Tongue to thrive</u></a></h5>
 <p>(Lianhe Zaobao, 4 June 2013)</p>
-<h4><a href="The crucial period for children to master speech sounds is when they are three to four-years-
+<h5><a href="The crucial period for children to master speech sounds is when they are three to four-years-
 old " target="_blank"><u>The crucial period for children to master speech sounds is when they are three to four-years-
-old </u></a></h4>
+old </u></a></h5>
 <p>(Lianhe Zaobao, 21 May 2013)</p>
-<h4><a href="Expert: Children should cultivate good speech sound habit before the age of six" target="_blank"><u>Expert: Children should cultivate good speech sound habit before the age of six</u></a></h4>
+<h5><a href="Expert: Children should cultivate good speech sound habit before the age of six" target="_blank"><u>Expert: Children should cultivate good speech sound habit before the age of six</u></a></h5>
 <p>(MyPaper, 21 May 2013)</p>
-<h4><a href="Sim Ann: Don’t always remind your children to speak Mandarin" target="_blank"><u>Sim Ann: Don’t always remind your children to speak Mandarin</u></a></h4>
+<h5><a href="Sim Ann: Don’t always remind your children to speak Mandarin" target="_blank"><u>Sim Ann: Don’t always remind your children to speak Mandarin</u></a></h5>
 <p>(Lianhe Zaobao, 21 August 2012)</p>
-<h4><a href="Promising prospects for local Chinese language education" target="_blank"><u>Promising prospects for local Chinese language education</u></a></h4>
+<h5><a href="Promising prospects for local Chinese language education" target="_blank"><u>Promising prospects for local Chinese language education</u></a></h5>
 <p>(Lianhe Zaobao, 21 August 2012)</p>
-<h4><a href="The key to a strong command of the Chinese Language lies in pre-school education" target="_blank"><u>The key to a strong command of the Chinese Language lies in pre-school education</u></a></h4>
+<h5><a href="The key to a strong command of the Chinese Language lies in pre-school education" target="_blank"><u>The key to a strong command of the Chinese Language lies in pre-school education</u></a></h5>
 <p>(Lianhe Zaobao, 3 August 2012)</p>
-<h4><a href="Home environment is the key to language education in Singapore" target="_blank"><u>Home environment is the key to language education in Singapore</u></a></h4>
+<h5><a href="Home environment is the key to language education in Singapore" target="_blank"><u>Home environment is the key to language education in Singapore</u></a></h5>
 <p>(Lianhe Zaobao, 26 July 2012)</p>
-<h4><a href="Bicultural and bilingual policies that move with the times" target="_blank"><u>Bicultural and bilingual policies that move with the times</u></a></h4>
+<h5><a href="Bicultural and bilingual policies that move with the times" target="_blank"><u>Bicultural and bilingual policies that move with the times</u></a></h5>
 <p>(Lianhe Zaobao Editorial, 10 July 2012)</p>
-<h4><a href="You will be at the losing end if you do not learn Chinese language" target="_blank"><u>You will be at the losing end if you do not learn Chinese language</u></a></h4>
+<h5><a href="You will be at the losing end if you do not learn Chinese language" target="_blank"><u>You will be at the losing end if you do not learn Chinese language</u></a></h5>
 <p>(Lianhe Zaobao, 24 December 2011)</p>
-<h4><a href="Don’t miss the best years to learn characters in Chinese Language" target="_blank"><u>Don’t miss the best years to learn characters in Chinese Language</u></a></h4>
+<h5><a href="Don’t miss the best years to learn characters in Chinese Language" target="_blank"><u>Don’t miss the best years to learn characters in Chinese Language</u></a></h5>
 <p>(Lianhe Zaobao, 23 December 2011)</p>
-<h4><a href="Bilingual policy and bilingual environment" target="_blank"><u>Bilingual policy and bilingual environment</u></a></h4>
+<h5><a href="Bilingual policy and bilingual environment" target="_blank"><u>Bilingual policy and bilingual environment</u></a></h5>
 <p>(Lianhe Zaobao Editorial, 21 December 2011)</p>
-<h4><a href="Two challenges from the bilingualism policy  " target="_blank"><u>Two challenges from the bilingualism policy </u></a></h4>
+<h5><a href="Two challenges from the bilingualism policy  " target="_blank"><u>Two challenges from the bilingualism policy </u></a></h5>
 <p>(Lianhe Zaobao, 19 December 2011)</p>
-<h4><a href="Lee Kuan Yew has been learning the Chinese Language for half a century" target="_blank"><u>Lee Kuan Yew has been learning the Chinese Language for half a century</u></a></h4>
+<h5><a href="Lee Kuan Yew has been learning the Chinese Language for half a century" target="_blank"><u>Lee Kuan Yew has been learning the Chinese Language for half a century</u></a></h5>
 <p>(Lianhe Zaobao Sunday, 27 November 2011)</p>
-<h4 style="background-color:#8B0000; color:white;">Malay Language Learning</h4>
-<h4><a href="Raising the standing of Malay to be a global language" target="_blank"><u>Raising the standing of Malay to be a global language</u></a></h4>
+<h5 style="background-color:#8B0000; color:white;">Malay Language Learning</h5>
+<h5><a href="Raising the standing of Malay to be a global language" target="_blank"><u>Raising the standing of Malay to be a global language</u></a></h5>
 <p>(Berita Harian, 1 June 2013)</p>
-<h4><a href="Our spirit towards language" target="_blank"><u>Our spirit towards language</u></a></h4>
+<h5><a href="Our spirit towards language" target="_blank"><u>Our spirit towards language</u></a></h5>
 <p>(Berita Harian, 22 April 2013)</p>
-<h4><a href="Intan: Strengthen efforts in instilling interest in Malay language among children" target="_blank"><u>Intan: Strengthen efforts in instilling interest in Malay language among children</u></a></h4>
+<h5><a href="Intan: Strengthen efforts in instilling interest in Malay language among children" target="_blank"><u>Intan: Strengthen efforts in instilling interest in Malay language among children</u></a></h5>
 <p>(Berita Harian, 29 December 2012)</p>
-<h4><a href="Intan urges continued use"><u>Intan urges continued use</u></a></h4>
+<h5><a href="Intan urges continued use"><u>Intan urges continued use</u></a></h5>
 <p>(Berita Harian, 29 December 2012)</p>
-<h4><a href="Intan: Strengthen efforts in instilling interest in Malay language among childrenm" target="_blank"><u>Intan: Strengthen efforts in instilling interest in Malay language among children</u></a></h4>
+<h5><a href="Intan: Strengthen efforts in instilling interest in Malay language among childrenm" target="_blank"><u>Intan: Strengthen efforts in instilling interest in Malay language among children</u></a></h5>
 <p>(Berita Harian, 29 Dec 2012)</p>
-<h4><a href="Intan urges continued use"><u>Intan urges continued use</u></a></h4>
+<h5><a href="Intan urges continued use"><u>Intan urges continued use</u></a></h5>
 <p>(Berita Minggu, 29 Dec 2012)</p>
-<h4><a href="Effects of foreign influences on the Malay language" target="_blank"><u>Effects of foreign influences on the Malay language</u></a></h4>
+<h5><a href="Effects of foreign influences on the Malay language" target="_blank"><u>Effects of foreign influences on the Malay language</u></a></h5>
 <p>(Berita Harian, 26 August 2012)</p>
-<h4><a href="Instill love for Mother Tongue Language among students" target="_blank"><u>Instill love for Mother Tongue Language among students</u></a></h4>
+<h5><a href="Instill love for Mother Tongue Language among students" target="_blank"><u>Instill love for Mother Tongue Language among students</u></a></h5>
 <p>(Berita Minggu, 10 June 2012)</p>
-<h4><a href="Malay Language reflects the beauty of character" target="_blank"><u>Malay Language reflects the beauty of character</u></a></h4>
+<h5><a href="Malay Language reflects the beauty of character" target="_blank"><u>Malay Language reflects the beauty of character</u></a></h5>
 <p>(Berita Harian, 8 June 2012)</p>
-<h4><a href="Language reflects our character, values and identity" target="_blank"><u>Language reflects our character, values and identity</u></a></h4>
+<h5><a href="Language reflects our character, values and identity" target="_blank"><u>Language reflects our character, values and identity</u></a></h5>
 <p>(Berita Harian, 8 June 2012)</p>
-<h4><a href="Efforts to encourage use of Malay Language akin to fighting a tide" target="_blank"><u>Efforts to encourage use of Malay Language akin to fighting a tide</u></a></h4>
+<h5><a href="Efforts to encourage use of Malay Language akin to fighting a tide" target="_blank"><u>Efforts to encourage use of Malay Language akin to fighting a tide</u></a></h5>
 <p>(Berita Harian, 16 June 2012))</p>
-<h4><a href="Malay Language: Package to hone primary students’ oral interaction skills introduced" target="_blank"><u>Malay Language: Package to hone primary students’ oral interaction skills introducedt</u></a></h4>
+<h5><a href="Malay Language: Package to hone primary students’ oral interaction skills introduced" target="_blank"><u>Malay Language: Package to hone primary students’ oral interaction skills introducedt</u></a></h5>
 <p>(Berita Harian, 12 February 2012)</p>
-<h4 style="background-color:#8B0000; color:white;">Tamil Language Learning</h4>
-<h4><a href="He progressed because he learned Tamil" target="_blank"><u>He progressed because he learned Tamil</u></a></h4>
+<h5 style="background-color:#8B0000; color:white;">Tamil Language Learning</h5>
+<h5><a href="He progressed because he learned Tamil" target="_blank"><u>He progressed because he learned Tamil</u></a></h5>
 <p>(Tamil Murasu, 3 June 2013)</p>
-<h4><a href="Henceforth, sweet Tamil in the hands of youths"><u>Henceforth, sweet Tamil in the hands of youths</u></a></h4>
+<h5><a href="Henceforth, sweet Tamil in the hands of youths"><u>Henceforth, sweet Tamil in the hands of youths</u></a></h5>
 <p>(Tamil Murasu, 28 April 2013)</p>
-<h4><a href="An effort by the community" target="_blank"><u>An effort by the community</u></a></h4>
+<h5><a href="An effort by the community" target="_blank"><u>An effort by the community</u></a></h5>
 <p>(Tamil Murasu, 28 April 2013)</p>
-<h4><a href="‘Three-pronged effort needed to make Tamil language last’" target="_blank"><u>‘Three-pronged effort needed to make Tamil language last’</u></a></h4>
+<h5><a href="‘Three-pronged effort needed to make Tamil language last’" target="_blank"><u>‘Three-pronged effort needed to make Tamil language last’</u></a></h5>
 <p>(Tamil Murasu, 22 April 2013)</p>
-<h4><a href="Tamil can hold its own against English" target="_blank"><u>Tamil can hold its own against English</u></a></h4>
+<h5><a href="Tamil can hold its own against English" target="_blank"><u>Tamil can hold its own against English</u></a></h5>
 <p>(The Straits Times, 10 April 2013)</p>
-<h4><a href="‘Tamil will continue as a living language’" target="_blank"><u>‘Tamil will continue as a living language’</u></a></h4>
+<h5><a href="‘Tamil will continue as a living language’" target="_blank"><u>‘Tamil will continue as a living language’</u></a></h5>
 <p>(Tamil Murasu, 31 March 2013)</p>
-<h4><a href="Tamil and I"><u>Tamil and I</u></a></h4>
+<h5><a href="Tamil and I"><u>Tamil and I</u></a></h5>
 <p>(Tamil Murasu Youth Murasu, 30 August 2012)</p>
-<h4><a href="(Let us) love Tamil, (let us) speak in Tamil" target="_blank"><u>(Let us) love Tamil, (let us) speak in Tamil</u></a></h4>
+<h5><a href="(Let us) love Tamil, (let us) speak in Tamil" target="_blank"><u>(Let us) love Tamil, (let us) speak in Tamil</u></a></h5>
 <p>(Tamil Murasu, 29 April 2012)</p>
-<h4><a href="We shall promote and protect Tamil, our mother tongue" target="_blank"><u>We shall promote and protect Tamil, our mother tongue</u></a></h4>
+<h5><a href="We shall promote and protect Tamil, our mother tongue" target="_blank"><u>We shall promote and protect Tamil, our mother tongue</u></a></h5>
 <p>
 (Tamil Murasu Murasoli, 4 December 2011)</p>
 
