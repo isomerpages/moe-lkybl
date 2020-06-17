@@ -6,7 +6,6 @@ permalink: /whats-up/event/
 ### 1. Event
 <html>
 <body>
-
 <h3>Connecting Communities &amp; Bridging Generations
 Through Our Mother Tongue Languages</h3>
 <p>In 2018, the Fund launched a series of short videos in its continuous drive to encourage the use of
