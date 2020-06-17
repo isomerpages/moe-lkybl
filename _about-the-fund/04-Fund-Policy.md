@@ -5,6 +5,36 @@ permalink: /about-the-fund/fund-policy/
 ###             Lee Kuan Yew Fund for Bilingualism<br/> Whistle Blowing Policy & Procedures
 <html>
 <head>
+  <style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+#myBtn:hover {
+  background-color: #555;
+}
+</style>
+</head>
+<body>
+
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 </head>
 <body>
   <h4  style= "text-decoration: underline;">Policy</h4>
@@ -90,7 +120,26 @@ permalink: /about-the-fund/fund-policy/
   <h4>Investigation Participants: </h4>
    <p>31. Stakeholders who are interviewed or asked to provide information have a duty to fully  cooperate  with  the  investigators.  Participants  should  refrain  from  discussing  or disclosing matters concerning the investigations.</p>
  <p><a href="/about-the-fund/AppendixA_Whistleblower-Report-Form.pdf" target="_blank">whistleblower Report Form</a> </p>
- 
+ <script>
+
+var mybutton = document.getElementById("myBtn");
+
+
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
 
 
 
