@@ -109,7 +109,8 @@ Ministry of Education</td>
   </tr>
   <tr>
     <td>Mr Hawazi Daipi</td>
-    <td>Singapore’s Non-Resident High Commissioner to the Republic of Ghana, and Non-Resident Representative to the Palestine National Authority<br/>
+    <td>Singapore’s Non-Resident High Commissioner to the Republic of Ghana, and <br/>
+      Non-Resident Representative to the Palestine National Authority<br/>
       Chairman<br/>
 National Council Against Drug Abuse
 </td>
