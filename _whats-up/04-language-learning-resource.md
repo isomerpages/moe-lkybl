@@ -3,12 +3,12 @@ title: Language Learning Resource
 permalink: /whats-up/language-learning-resource/
 ---
 
-### 1. Event
+
 <html>
 <body>
-
-<h2>Connecting Communities &amp; Bridging Generations
-Through Our Mother Tongue Languages</h2>
+ <h3>1. Event</h3>
+<h3>Connecting Communities &amp; Bridging Generations
+Through Our Mother Tongue Languages</h3>
 <p>In 2018, the Fund launched a series of short videos in its continuous drive to encourage the use of
 Mother Tongue languages among Singaporeans, especially children and parents. The video series
 highlights the importance of our Mother Tongue in connecting users; hearts and minds, by bringing
