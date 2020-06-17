@@ -12,7 +12,7 @@ The Fund is managed by a Board and supported by the following committees:<br/>
 (iii) Investment Advisory Committee (IAC) <br/>
 (iv) Audit Committee (AC)<br/>
 (v) Research Advisory Panel<br/>
-  
+  <br/>
 The Board members are:</p>
 <html>
 <body>
