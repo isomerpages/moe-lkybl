@@ -5,6 +5,7 @@ permalink: /about-the-fund/fund-policy/
 ### Lee Kuan Yew Fund for Bilingualism<br/> Whistle Blowing Policy & Procedures
 <html>
 <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
 body {
   font-family: Arial, Helvetica, sans-serif;
