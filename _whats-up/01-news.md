@@ -24,6 +24,6 @@ people closer to one another.<br/> The series of five videos comprises:</p>
 <p>1.<a href="https://www.youtube.com/watch?v=8gTXKA3l0K4" target="_blank"><u>A short video on how the use of Mother Tongue breaks down the language barrier between a grandfather and his granddaughter</u></a>; and</p>
 <p>2.Four testimonial videos featuring then-Minister for Education (Schools) <a href="https://www.youtube.com/watch?v=7AwdyxUDBC0" target="_blank"><u>Mr Ng Chee Meng</u></a> ,and Singapore artistes,<a href="https://www.youtube.com/watch?v=xG4QFdFxlFE" target="_blank"><u>Ms Olivia Ong</u></a>,<a href="https://www.youtube.com/watch?v=lkzHGh8vJF0"><u>Mr Shabir Alam</u></a> and <a href="https://www.youtube.com/watch?v=Mpemu3KYx2M" target="_blank"><u>Mr Taufik Batisah</u></a> .They talk about their
 experience in learning their Mother Tongue language, and how it helped them appreciate the language and connect better with others.
+  <br/><strong>Upcoming Event</strong>
+  <br/>Keep a lookout for event coming your way!
 </p>
-### Upcoming Event
-Keep a lookout for event coming your way!
