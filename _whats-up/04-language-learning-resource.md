@@ -3,42 +3,19 @@ title: Language Learning Resource
 permalink: /whats-up/language-learning-resource/
 ---
 
-
+### Language Learning Resources Header
 <html>
-<body>
- <h3>1. Event<br/>
-Connecting Communities &amp; Bridging Generations
-Through Our Mother Tongue Languages</h3>
-<p>In 2018, the Fund launched a series of short videos in its continuous drive to encourage the use of
-Mother Tongue languages among Singaporeans, especially children and parents. The video series
-highlights the importance of our Mother Tongue in connecting users; hearts and minds, by bringing
-people closer to one another.</p>
-<p>The series of five videos comprises:</p>
-<p>1.<a href="https://www.youtube.com/watch?v=8gTXKA3l0K4" target="_blank"><u>A short video on how the use of Mother Tongue breaks down the language barrier between a
- grandfather and his granddaughter</u></a>; and</p>
-<p>2.Four testimonial videos featuring then-Minister for Education (Schools)<a href="<a href="https://www.youtube.com/watch?v=7AwdyxUDBC0" target="_blank"><u>Mr Ng Chee Meng </u></a>,and Singapore artistes,<a href= "https://www.youtube.com/watch?v=xG4QFdFxlFE" target="_blank"><u>Ms Olivia Ong</u></a>,<a href="https://www.https://www.youtube.com/watch?v=lkzHGh8vJF0" target="_blank"><u>Mr Shabir Alam</u></a> and <a herf="https://www.youtube.com/watch?v=Mpemu3KYx2M"><u>Mr Taufik Batisah </u></a>.They talk about their
-experience in learning their Mother Tongue language, and how it helped them appreciate the language and connect better with others.</p>
-
-<h4>Upcoming Event</h4>
-<p>Keep a lookout for event coming your way!</p>
-
- <h3>2. Resources</h3>
- <body>
-
 <h4>Tips for Parents</h4>
 <p>The following contain information to help you support your child&#39;s learning and
 development, and to promote his/her reading and language skills.</p>
-
 <h5><a href="https://www.schoolbag.sg/" target="_blank"><u>Schoolbag-The Education News Site</u></a></h5>
 <p>The Parents in Education Website, developed by MOE, provides parenting tips, educational
 news, information on the school curriculum and resources for parents to support their children&#39;s
 learning and development.</p>
 <h5><a href="https://www.facebook.com/speakgoodenglishmovement" target="_blank"><u>Speak Good English Movement Facebook Page</u></a></h5>
 <p>Read tips and acquire strategies to improve your child&#39;s English.</p>
-
 <h5><a href="https://www.moe.gov.sg/education/syllabuses/resources" target="_blank"><u>MOE Teaching and Learning Resources</u></a></h5>
 <p>Read tips on how you can help your child&#39;s progress and become involved in his/her learning.</p>
-
 <h5><a href="/what-up/ListofResources.pdf" target="_blank"><u>List of Fund-supported Resources</u></a></h5>
 <p>The Fund supports numerous initiatives to support young learners in language
 learning, including the production of resources. These resources include print and
