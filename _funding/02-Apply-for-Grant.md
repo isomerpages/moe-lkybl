@@ -6,7 +6,7 @@ permalink: /funding/apply-for-grant/
 ### 1.Apply for grant
 <html>
 <body>
-<h1>Call for Proposals</h1>
+<h3>Call for Proposals</h3>
 <p>The Lee Kuan Yew Fund for Bilingualism invites you to submit proposals to promote bilingualism among pre-school children.</p>
 <p>Bilingual education is a cornerstone of our education system. Learning two languages helps
 Singaporeans plug into a globalised world and strengthen links to our Asian heritage.</p>
