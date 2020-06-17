@@ -3,7 +3,6 @@ title: Event
 permalink: /whats-up/event/
 ---
 
-### 1. Event
 <html>
 <body>
 <h3>Connecting Communities &amp; Bridging Generations
