@@ -21,8 +21,8 @@ and learning of English and the Mother Tongue Languages.</p>
 <p>Our MTL, heritage and culture forms an integral part of Singapore&#39;s identity and asset. The Fund
 supports proposals that encourage bilingualism and the learning of our MTLs as  living languages
 and a lifelong endeavour.</p>
-<h3 id="关于李光耀双语基金">关于李光耀双语基金</h3>
-<h4>概述</h4>
+<p><h3 id="关于李光耀双语基金">关于李光耀双语基金</h3>
+<h4>概述</h4></p>
 <p>李光耀双语基金是李光耀先生于2011年11月在他的新书《我一生的挑战：新加坡双语之路》发布会上
 正式宣布成立的。</p>
 <p>随着家庭用语的改变，成立李光耀双语基金的目的是要促进双语教育，并辅助教育部加强英语与母语
@@ -30,8 +30,8 @@ and a lifelong endeavour.</p>
 机构、家庭与社区三个方面展开工作。</p>
 <p>幼儿阶段是奠定语言学习基础的重要时期。成立李光耀双语基金的目的是希望通过学校、家庭与社区
 培养学前儿童对学习双语的热忱。</p>
-<h3 id="Tentang Dana Kedwibahasaan Lee Kuan Yew">Tentang Dana Kedwibahasaan Lee Kuan Yew</h3>
-<h4>Gambaran Keseluruhan</h4>
+<p><h3 id="Tentang Dana Kedwibahasaan Lee Kuan Yew">Tentang Dana Kedwibahasaan Lee Kuan Yew</h3>
+<h4>Gambaran Keseluruhan</h4></p>
 <p>Dana Kedwibahasaan Lee Kuan Yew (“Dana”) telah diumumkan buat pertama kalinya sewaktu
 pelancaran buku Encik Lee Kuan Yew, “My Lifelong Challenge: Singapore’s Bilingual Journey” pada
 November 2011.</p>
