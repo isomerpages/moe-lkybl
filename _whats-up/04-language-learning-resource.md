@@ -25,11 +25,11 @@ experience in learning their Mother Tongue language, and how it helped them appr
  <h3>2. Resources</h3>
  <body>
 
-<h3>Tips for Parents</h3>
+<h4>Tips for Parents</h4>
 <p>The following contain information to help you support your child&#39;s learning and
 development, and to promote his/her reading and language skills.</p>
 
-<h4><a href="https://www.schoolbag.sg/" target="_blank"><u>Schoolbag-The Education News Site</u></a></h4>
+<h5><a href="https://www.schoolbag.sg/" target="_blank"><u>Schoolbag-The Education News Site</u></a></h5>
 <p>The Parents in Education Website, developed by MOE, provides parenting tips, educational
 news, information on the school curriculum and resources for parents to support their children&#39;s
 learning and development.</p>
