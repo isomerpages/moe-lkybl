@@ -36,15 +36,15 @@ back of the cheque:
  Attn: Ms Cynthia Chandramuljana, Financial Management Section</p>
   <h4>C. Obtain an autographed special edition of “My Lifelong Challenge:</h4>
   <p>Mr Lee Kuan Yew has autographed 200 special edition copies of his new book &quot;My Lifelong
-Challenge: Singapore’s Bilingual Journey”. A copy of the book can be obtained with a minimum donation of $10,000. Interested donors can make an order by filling up the form and emailing the completed form to<a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg .</a></p>
-  <p> <a href="/about-the-fund/order-form-for-my-lifelong-challenge.pdf" target="_blank">Only the Chinese edition is still available.</a></p>
+Challenge: Singapore’s Bilingual Journey”. A copy of the book (only the Chinese Language version is available) can be obtained with a minimum donation of $10,000. Interested donors can make an order by filling up the order form and emailing the completed form to<a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg .</a></p>
+  <p> <a href="/about-the-fund/Application_Guidelines.pdf" target="_blank">Fund Application Guidelines</a></p>
   <h3 id="捐款">捐款</h3>
   <p>您慷慨的捐款将协助我们的学前儿童打好语言基础。因此，政府将提供1对1等同值的资助（顶限为五
 千万元）。给予基金会的捐款也符合减免税务的条件（减免250%，即捐款的2.5倍）。要获得捐款扣
 税的优惠，请提供姓名以及税务帐号。</p>
   <h4>您可以采取以下方式捐款：</h4>
   <h4>A. 通过SG Gives 网站</h4>
-  <p>您也可以通过SG Gives网站 <a href="www.sggivesorg.org/lkyfb" target="_blank">(www.sggivesorg.org/lkyfb）</a>捐款。使用该网站无需注册。</p>
+  <p>您也可以通过SG Gives网站 <a href="https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism</a>捐款。使用该网站无需注册。</p>
   <h4>B. 支票</h4>
   <p>请用划线支票，并注明是给 “Lee Kuan Yew Fund for Bilingualism”。
 请在支票背面提供以下信息：
@@ -61,7 +61,7 @@ Challenge: Singapore’s Bilingual Journey”. A copy of the book can be obtaine
   Attn: Ms Cynthia Chandramuljana, Financial Management Section</p>
    <h4>C. 向新加坡报业控股购买《我一生的挑战——新加坡双语之路》签名版</h4>
   <p>我们一共有２００本李光耀先生《我一生的挑战——新加坡双语之路》的签名版。捐赠至少一万元
-    的乐心人士就可以获得这本书的签名版一本。有意捐款者请把已填妥的订购<a href="/about-the-fund/order-form-for-my-lifelong-challenge.pdf" target="_blank">表格</a>电邮到<a href="moe_lkyfb@moe.gov.sg">
+    的乐心人士就可以获得这本书的签名版一本。有意捐款者请把已填妥的订购<a href="/about-the-fund/Application_Guidelines.pdf.pdf" target="_blank">表格</a>电邮到<a href="moe_lkyfb@moe.gov.sg">
     moe_lkyfb@moe.gov.sg。</a> 现只出售华文版。</p>
   <h3 id="Pendermaan">Pendermaan</h3>
   <p>Pendermaan anda akan membantu anak-anak kita membina awal asas bahasa mereka dalam cara
@@ -73,7 +73,7 @@ untuk layak mendapatkan potongan cukai.</p>
   <h4>Pendermaan kepada Dana tersebut boleh dilakukan dengan cara yang berikut:</h4>
   <h4>A. Pendermaan melalui laman web SG Gives</h4>
   <p>Penderma juga boleh memberikan sumbangan secara dalam talian melalui laman web
-    di <a href="www.sggivesorg.org/lkyfb" target="_blank">www.sggivesorg.org/lkyfb.</a> Tiada pendaftaran diperlukan.</p>
+    di <a href="https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism</a> Tiada pendaftaran diperlukan.</p>
   <h4>B. Pendermaan melalui cek</h4>
   <p>Penderma yang ingin membuat sumbangan dalam bentuk cek boleh mengeluarkannya atas nama
 “Lee Kuan Yew Fund for Bilingualism”. Cek mesti dipangkah.<br/>
@@ -89,7 +89,7 @@ Biligual Journey” dari SPH</h4>
   <p>Encik Lee Kuan Yew telah menandatangani 200 salinan edisi khas buku baharu beliau &quot;My
 Lifelong Challenge: Singapore’s Bilingual Journey&quot;.  Satu salinan buku ini boleh didapati dengan
 derma minimum sebanyak $ 10,000. Penderma yang berminat boleh membuat pesanan dengan
-    menggunakan borang dan menghantar <a href="/about-the-fund/order-form-for-my-lifelong-challenge.pdf" target="_blank">borang</a> yang lengkap  melalui e-mel
+    menggunakan borang dan menghantar <a href="/about-the-fund/Application_Guidelines.pdf" target="_blank">borang</a> yang lengkap  melalui e-mel
 kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg .</a></p>
   <p>Hanya edisi bahasa Cina sahaja yang masih ada untuk dibeli.</p>
   <h3 id="நன்கொடை">நன்கொடை</h3>
@@ -100,7 +100,7 @@ kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg .</a></p>
 தகுதிபெறப் பெயரையும் வரி மேற்கோள் எண்களையும் குறிப்பிட வேண்டும்.</p>
   <p>நீங்கள் பின்வரும் வழிகளில் இந்த நிதிக்கு நன்கொடைகளை வழங்கலாம்:</p>
   <h4>A. எஸ்ஜி கிவ்ஸ் என்னும் இணையத்தளத்தின்வழி நன்கொடை</h4>
-  <p>நன்கொடை வழங்க விரும்புவோர் <a href="www.sggivesorg.org/lkyfb" target="_blank">www.sggivesorg.org/lkyfb </a>என்னும் இணையத்தளத்தின் வழியாகவும் நன்கொடை வழங்கலாம். இதற்குப் பதிவுசெய்யத் தேவையில்லை.</p>
+  <p>நன்கொடை வழங்க விரும்புவோர் <a href="https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism </a>என்னும் இணையத்தளத்தின் வழியாகவும் நன்கொடை வழங்கலாம். இதற்குப் பதிவுசெய்யத் தேவையில்லை.</p>
   <h4>B. காசோலைவழி நன்கொடை</h4>
   <p>காசோலைவழி நன்கொடை வழங்க விரும்புவோர் ‘Lee Kuan Yew Fund for Bilingualism’ என்று
 காசோலையில் குறிப்பிட வேண்டும். காசோலையில் குறுக்குக் கோடு இடப்பட்டிருக்க வேண்டும்.
@@ -123,7 +123,7 @@ kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg .</a></p>
   <p>திரு லீ குவான் யூ அவர்கள் ‘என் வாழ்நாள் சவால்: சிங்கப்பூரின் இருமொழிப் பயணம்’ என்னும் தம் புதிய
 புத்தகத்தின் 200 சிறப்புப் பதிப்புப் பிரதிகளில் கையெழுத்திட்டுள்ளார். குறைந்தபட்சம் 10,000 வெள்ளி
 நன்கொடை வழங்குவோர் இந்தப் புத்தகத்தைப் பெறலாம். நன்கொடையாளர்கள் இந்தப்
-<a href="/about-the-fund/order-form-for-my-lifelong-challenge.pdf" target="_blank">படிவத்தை</a> பூர்த்தி செய்து, நிரப்பப்பட்ட படிவத்தை<a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg</a> என்னும் மின்னஞ்சல்
+<a href="/about-the-fund/Application_Guidelines.pdf" target="_blank">படிவத்தை</a> பூர்த்தி செய்து, நிரப்பப்பட்ட படிவத்தை<a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg</a> என்னும் மின்னஞ்சல்
 முகவரிக்கு அனுப்பு வைக்கவும்.</p>
   <p>சீனமொழிப் பதிப்பு மட்டுமே இன்னும் விற்பனைக்கு உள்ளது.</p>
   
