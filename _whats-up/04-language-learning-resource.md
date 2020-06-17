@@ -3,7 +3,7 @@ title: Language Learning Resource
 permalink: /whats-up/language-learning-resource/
 ---
 
-### Language Learning Resources Header
+### Language Learning Resources 
 <html>
 <h4>Tips for Parents</h4>
 <p>The following contain information to help you support your child&#39;s learning and
