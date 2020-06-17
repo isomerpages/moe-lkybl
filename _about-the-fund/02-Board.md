@@ -46,7 +46,10 @@ border: 1px solid black;
     <td>Ms Low Yen Ling (Vice-
 chair)<br/>刘燕玲 ( 副主席 )</td>
     <td>Senior Parliamentary Secretary<br/>
-Ministry of Education &amp; Ministry of Manpower</td>   
+Ministry of Education &amp; Ministry of Manpower<br/>
+    Mayor<br/>
+      South West District
+</td>   
   </tr>    
   <tr>
     <td>Mr Clarence Tang (Treasurer)<br/>
@@ -66,7 +69,7 @@ Ministry of Education</td>
     <td>Mrs Yu-Foo Yee Shoon<br/>
 符喜泉</td>
     <td>Honorary Advisor<br/>
-NTUC Childcare</td>
+NTUC First Campus Co-operative Limited</td>
     
   </tr><tr>
     <td>Mrs Mildred Tan<br/>
@@ -75,7 +78,7 @@ NTUC Childcare</td>
 National Volunteer &amp; Philanthropy Centre</td>
 
   </tr><tr>
-    <td>Mr R Rajaram
+    <td>Mr R Rajaram<br/>
 ரா. ராஜாராம்</td>
     <td>Senior Director<br/>
 Office of Admissions<br/>
@@ -92,7 +95,10 @@ Singapore University of Social Sciences</td>
   </tr><tr>
     <td>Madam Rahayu Mahzam</td>
     <td>Member of Parliament<br/>
-Jurong GRC</td>
+Jurong GRC<br/>
+  Member<br/>
+Malay Language Council
+</td>
   
   </tr><tr>
     <td>Mr Wong Siew Hoong<br/>
@@ -103,12 +109,11 @@ Ministry of Education</td>
   </tr>
   <tr>
     <td>Mr Hawazi Daipi</td>
-    <td>High Commissioner (Non-Resident) to the Republic of Ghana,
-and<br/>
-Representative (Non-Resident)to the Palestine National
-Authority</td>
-    
-  </tr><tr>
+    <td>Singapore’s Non-Resident High Commissioner to the Republic of Ghana, and Non-Resident Representative to the Palestine National Authority<br/>
+      Chairman<br/>
+National Council Against Drug Abuse
+</td>
+   </tr><tr>
     <td>Mr Anthony Tan<br/>
 陈康威</td>
     <td>Deputy Chief Executive Officer <br/>
