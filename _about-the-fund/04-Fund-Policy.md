@@ -35,6 +35,7 @@ body {
 </head>
 <body>
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+  <div style="background-color:white;padding:30px 30px 2500px">
   <h4  style= "text-decoration: underline;">Policy</h4>
   <p>1.    This   policy   addresses   the   commitment   of   the   Lee Kuan   Yew   Fund  for Bilingualism  (“the  Fund”)  to  integrity  and  ethical behavior  by  helping  to  foster  and maintain an environment where all its stakeholders can act appropriately, without fear of retaliation.  To  maintain  these  standards,  the  Fund encourages  its  stakeholders  who have concerns about suspected serious misconduct or any breach or suspected breach of law or regulation that may adversely impact the Fund, to come forward and express these concerns without fear of punishment or unfair treatment.</p>
 <p>2.     The  Fund  runs  its  operations  based  on  the  principles  of  fairness,  honesty, openness,  decency,  integrity  and  respect.  It  is  the  Fund’s  policy  to  support  and encourage  its  stakeholders  to  report  and  disclose  improper  or  illegal  activities,  and  to fully investigate such reports and disclosures. It is also the Fund’s policy to address any complaints  that  allege  acts  or  attempted  acts  of  interference,  reprisal,  retaliation, threats, coercion or intimidation against stakeholders who report, disclose or investigate improper  or  illegal  activities  (the  “Whistleblowers”)  and  to  protect  those  who  come forward to report such activities. The Fund assures that all reports will be treated strictly confidentially  and  promptly  investigated  and  that  reports  can  be made anonymously,  if desired. </p>
@@ -117,7 +118,7 @@ body {
    <p>30. All investigators derive the authority to handle all matters seriously, confidentially and  promptly.  All  investigators  shall  be  independent  and  unbiased  both  in  fact  and appearance.</p>
   <h4>Investigation Participants: </h4>
    <p>31. Stakeholders who are interviewed or asked to provide information have a duty to fully  cooperate  with  the  investigators.  Participants  should  refrain  from  discussing  or disclosing matters concerning the investigations.</p>
- <p><a href="/about-the-fund/AppendixA_Whistleblower-Report-Form.pdf" target="_blank">whistleblower Report Form</a> </p>
+ <p><a href="/about-the-fund/AppendixA_Whistleblower-Report-Form.pdf" target="_blank">whistleblower Report Form</a> </p></div>
  <script>
  mybutton = document.getElementById("myBtn");
 window.onscroll = function() {scrollFunction()};
