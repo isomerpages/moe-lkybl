@@ -63,7 +63,7 @@ Challenge: Singapore’s Bilingual Journey”. A copy of the book (only the Chin
   <p>我们一共有２００本李光耀先生《我一生的挑战——新加坡双语之路》的签名版。捐赠至少一万元
     的乐心人士就可以获得这本书的签名版一本。有意捐款者请把已填妥的订购 表格 电邮到<a href="moe_lkyfb@moe.gov.sg">
     moe_lkyfb@moe.gov.sg。</a> 现只出售华文版。</p>
-   <a href="/about-the-fund/Application_Guidelines.pdf.pdf" target="_blank">Fund application Guidelines</a>
+   <p><a href="/about-the-fund/Application_Guidelines.pdf.pdf" target="_blank">Fund application Guidelines</a></p>
   <h3 id="Pendermaan">Pendermaan</h3>
   <p>Derma anda akan membantu anak-anak kita membina asas bahasa mereka pada peringkat awal lagi, dengan cara yang sesuai dengan usia mereka. Bagi menyokong usaha ini, pemerintah telah menyediakan geran padanan 1:1 bagi sumbangan anda kepada phak Dana, terhad kepada $50 juta. Anda juga layak mendapat potongan cukai sebanyak 250% (sebanyak dua setengah kali jumlah wang yang didermakan) bagi sumbangan anda itu. Nama dan nombor rujukan cukai perlu disediakan untuk mendapatkan potongan cukai ini.
 </p>
@@ -96,7 +96,7 @@ Lifelong Challenge: Singapore’s Bilingual Journey&quot;.  Satu salinan buku in
 derma minimum sebanyak $ 10,000. Penderma yang berminat boleh membuat pesanan dengan
     menggunakan borang dan menghantar borang yang lengkap  melalui e-mel
 kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg .</a></p>
-<a href="/about-the-fund/Application_Guidelines.pdf" target="_blank">FundApplication Guidelines</a> 
+<p><a href="/about-the-fund/Application_Guidelines.pdf" target="_blank">FundApplication Guidelines</a></p>
   <p>Hanya edisi bahasa Cina sahaja yang masih ada untuk dibeli.</p>
   <h3 id="நன்கொடை">நன்கொடை</h3>
   <p>நம் பிள்ளைகள் அடிப்படை மொழிவளத்தைத் தம் வயதுக்கேற்ப பொருத்தமான வகையில்
@@ -130,8 +130,7 @@ kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg .</a></p>
 சிறப்புப் பதிப்பைப் பெறுதல்</h4>
   <p>ததிரு லீ குவான் யூ அவர்கள் ‘என் வாழ்நாள் சவால்: சிங்கப்பூரின் இருமொழிப் பயணம்’ என்னும் தம்
 புத்தகத்தின் 200 சிறப்புப் பதிப்புப் பிரதிகளில் கையெழுத்திட்டுள்ளார். குறைந்தபட்சம் 10,000 வெள்ளி
-நன்கொடை வழங்குவோர் இந்தப் புத்தகத்தைப் பெறலாம். நன்கொடையாளர்கள் இந்தப்
-<a href="/about-the-fund/order-form-for-my-lifelong-challenge.pdf" target="_blank">படிவத்தை</a> பூர்த்தி செய்து, நிரப்பப்பட்ட படிவத்தை<a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg</a> என்னும் மின்னஞ்சல்
+நன்கொடை வழங்குவோர் இந்தப் புத்தகத்தைப் பெறலாம். நன்கொடையாளர்கள் இந்தப் <a href="/about-the-fund/order-form-for-my-lifelong-challenge.pdf" target="_blank">படிவத்தை</a> பூர்த்தி செய்து, நிரப்பப்பட்ட படிவத்தை<a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg</a> என்னும் மின்னஞ்சல்
 முகவரிக்கு அனுப்பு வைக்கவும்.</p>
   <p>சீனமொழிப் பதிப்பு மட்டுமே இன்னும் மீதம் உள்ளது.</p>
   
