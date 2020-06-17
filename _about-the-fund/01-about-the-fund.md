@@ -30,9 +30,6 @@ and a lifelong endeavour.</p>
 机构、家庭与社区三个方面展开工作。</p>
 <p>幼儿阶段是奠定语言学习基础的重要时期。成立李光耀双语基金的目的是希望通过学校、家庭与社区
 培养学前儿童对学习双语的热忱。</p>
-<h4>基金架构</h4>
-<p>基金将由一个董事会管理，并获得计划审核委员会（PEC）、宣传委员会（POC）、投资咨询委员会
-（IAC）和审计委员会（AC）的协助。</p.
 <h3 id="Tentang Dana Kedwibahasaan Lee Kuan Yew">Tentang Dana Kedwibahasaan Lee Kuan Yew</h3>
 <h4>Gambaran Keseluruhan</h4>
 <p>Dana Kedwibahasaan Lee Kuan Yew (“Dana”) telah diumumkan buat pertama kalinya sewaktu
@@ -46,11 +43,7 @@ menyokong kanak-kanak, Dana ini akan memberikan tumpuan kepada inisiatif yang di
 prasekolah, rumah dan masyarakat.</p>
 <p>Tahun-tahun awal penting untuk membina asas yang kukuh dalam pembelajaran bahasa. Dana
 Kedwibahasaan Lee Kuan Yew bertujuan memupuk rasa cinta akan pembelajaran dwibahasa dalam
-kalangan kanak-kanak sejak kecil lagi di prasekolah, di rumah dan dalam masyarakat.</p>
-<h4>Struktur Kami</h4>
-<p>Dana ini diuruskan oleh Lembaga dan disokong oleh Jawatankuasa Penilaian Projek (PEC),
-Jawatankuasa Publisiti dan Penyebaran (POC), Jawatankuasa Penasihat Pelaburan (IAC) dan
-Jawatankuasa Audit (AC).</p>
+kalangan kanak-kanak sejak kecil lagi di prasekolah, di rumah dan kalangan masyarakat.</p>
 <h3 id="இருமொழிக் கல்விக்கான லீ குவான் யூ நிதி பற்றிய விவரங்கள்">இருமொழிக் கல்விக்கான லீ குவான் யூ நிதி பற்றிய விவரங்கள்</h3>
 <h4>கண்ணோட்டம்</h4>
 <p>இருமொழிக் கல்விக்கான லீ குவான் யூ நிதி, திரு லீ குவான் யூவின் ‘எனது வாழ்நாள் சவால்:
