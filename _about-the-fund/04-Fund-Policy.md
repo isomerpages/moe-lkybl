@@ -80,7 +80,7 @@ permalink: /about-the-fund/fund-policy/
    <p>25. No  action  will  be  taken  against  anyone  who  makes  an  allegation  in  good  faith, reasonably believing it to be true, even if the allegation is not subsequently confirmed by the investigation.</p>
    <p>26. Every  effort  will  be  made  to  ensure  confidentiality  as  far  as  this  is  reasonably practical</p>
    <p>27. Help  will  be  provided  to  the  whistleblowers  in order  to  minimize  any  difficulties which one may experience</p>
- <h4  style= "text-decoration: underline;">Roles and Responsibilities </h3>
+ <h4  style= "text-decoration: underline;">Roles and Responsibilities </h4>
   <h4>Whistleblowers: </h4>
    <p>28. Whistleblowers  should  act  in  good  faith  and  should  not  make  false  accusations when reporting of misconduct by the Fund’s stakeholders.</p>
   <h4>Suspects:  </h4>
