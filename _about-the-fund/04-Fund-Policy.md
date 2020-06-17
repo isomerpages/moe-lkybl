@@ -2,7 +2,7 @@
 title: Fund Policy
 permalink: /about-the-fund/fund-policy/
 ---
-
+###    Lee Kuan Yew Fund for Bilingualism<br/> Whistle Blowing Policy & Procedures
 <html>
 <head>
 <style>
