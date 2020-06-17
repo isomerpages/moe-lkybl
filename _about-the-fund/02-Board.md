@@ -3,7 +3,7 @@ title: Board
 permalink: /about-the-fund/our-impact/
 ---
 
-####   Our Structure
+####   Board
 <html>
 <p>
 The Fund is managed by a Board and supported by the following committees:<br/> 
@@ -12,6 +12,7 @@ The Fund is managed by a Board and supported by the following committees:<br/>
 (iii) Investment Advisory Committee (IAC) <br/>
 (iv) Audit Committee (AC)<br/>
 (v) Research Advisory Panel<br/>
+  
 The Board members are:</p>
 <html>
 <body>
