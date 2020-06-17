@@ -1,6 +1,6 @@
 ---
 title: Donation
-permalink: /about-the-fund/donation/
+permalink: /about-us/donation/
 ---
 
 <html>
