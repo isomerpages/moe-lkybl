@@ -3,7 +3,6 @@ title: Apply for Grant
 permalink: /funding/apply-for-grant/
 ---
 
-### 1.Apply for grant
 <html>
 <body>
 <h3>Call for Proposals</h3>
