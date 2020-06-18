@@ -24,7 +24,7 @@ bilingualism</a></p>
 
 <h4>B. Donation through the giving.sg website</h4>
 
-Donors who wish to make their contribution in cheque may issue it payable to “Lee Kuan Yew Fund
+<p>Donors who wish to make their contribution in cheque may issue it payable to “Lee Kuan Yew Fund
 for Bilingualism”. Cheques should be crossed.  Donors should provide the following details at the
 back of the cheque:<ul>
    <li>Full name (as per NRIC) or company name (for the purpose of the tax deductible receipt)</li>
@@ -32,12 +32,12 @@ back of the cheque:<ul>
    <li>Mailing address to send tax deductible receipt to</li>
    <li>Contact number and email address</li></ul>
    
-  <strong>Completed cheques should be mailed to:</strong>
+  <strong>Completed cheques should be mailed to:</strong><br/>
   Lee Kuan Yew Fund for Bilingualism <br/>
   c/o Ministry of Education  <br/>
   1 North Buona Vista Drive  <br/>
   Singapore 138675 <br/>
-  Attn: Ms Cynthia Chandramuljana, Financial Management Section
+  Attn: Ms Cynthia Chandramuljana, Financial Management Section</p>
   <h4>C. Obtain an autographed special edition of “My Lifelong Challenge:</h4>
   
 Mr Lee Kuan Yew has autographed 200 special edition copies of his new book &quot;My Lifelong Challenge: Singapore’s Bilingual Journey”. A copy of the book (only the Chinese Language version is available) can be obtained with a minimum donation of $10,000. Interested donors can make an order by filling up the order form and emailing the completed form to <a href="mailto:moe_lkyfb@moe.gov.sg"> moe_lkyfb@moe.gov.sg</a>
