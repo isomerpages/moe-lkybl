@@ -41,7 +41,9 @@ Challenge: Singapore’s Bilingual Journey”. A copy of the book (only the Chin
   <div><h4>您可以采取以下方式捐款：<br/>
    <br/>
   A. 通过SG Gives 网站</h4>
-  <div><p>您也可以通过SG Gives网站 <a href="https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism</a>捐款。使用该网站无需注册。</p></div></div><br/>
+  <div><p>您也可以通过SG Gives网站 <a href="https://www.giving.sg/lee-kuan-yew-fund-for-
+bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism</a>捐款。使用该网站无需注册。</p></div></div>
+  <br/>
  <div> <h4>B. 支票</h4>
   <div><p>请用划线支票，并注明是给 “Lee Kuan Yew Fund for Bilingualism”。
 请在支票背面提供以下信息：
@@ -68,7 +70,7 @@ Challenge: Singapore’s Bilingual Journey”. A copy of the book (only the Chin
    <br/>
   A. Sumbangan melalui laman web SG Gives</h4>
   <div><p>Penderma juga boleh memberikan sumbangan secara dalam talian melalui laman web
-    di <a href="https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism</a> Tiada pendaftaran diperlukan.</p></div></div><br/>
+    di <a href="https://www.giving.sg/lee-kuan-yew-fund-for-bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism</a> Tiada pendaftaran diperlukan.</p></div></div><br/>
   <div><h4>B. Sumbangan melalui cek</h4>
   <div><p>Penderma yang ingin membuat sumbangan dalam bentuk cek boleh melakukannya atas nama
 “Lee Kuan Yew Fund for Bilingualism”. Cek mesti dipangkah.<br/>
@@ -104,7 +106,7 @@ kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg </a>Hanya ed
 குறிப்பிட வேண்டும்.</p>
    <div><p>நீங்கள் பின்வரும் வழிகளில் இந்த நிதிக்கு நன்கொடைகளை வழங்கலாம்:</p></div></div></div><br/>
  <div> <h4>A. எஸ்ஜி கிவ்ஸ் என்னும் இணையத்தளத்தின்வழி நன்கொடை</h4>
-  <div><p>நன்கொடை வழங்க விரும்புவோர்  <a href="https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism </a>என்னும் இணையத்தளத்தின் வழியாக
+  <div><p>நன்கொடை வழங்க விரும்புவோர்  <a href="https://www.giving.sg/lee-kuan-yew-fund-for-bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism </a>என்னும் இணையத்தளத்தின் வழியாக
 நன்கொடை வழங்கலாம். இதற்குப் பதிவுசெய்யத் தேவையில்லை.</p></div></div><br/>
   <div><h4>B. காசோலைவழி நன்கொடை</h4>
   <div><p>காசோலைவழி நன்கொடை வழங்க விரும்புவோர் ‘Lee Kuan Yew Fund for Bilingualism’ என்று
