@@ -2,26 +2,25 @@
 title: About the Fund
 permalink: /about-us/about-the-fund/
 ---
-### About the Fund
-<body>
- <p><h3 id="Overview">Overview  &nbsp; &nbsp; &nbsp;          
+ <div><h3>About the Fund<br/><h3>
+ <h3 id="Overview">Overview  &nbsp; &nbsp; &nbsp;          
  <a href="#Overview" style="font-size:20px"><span style="color:black">English</span></a>| 
  <a href="#关于李光耀双语基金" style="font-size:20px"><span style="color:black">Chinese</span></a>| 
   <a href="#Tentang Dana Kedwibahasaan Lee Kuan Yew" style="font-size:20px"><span style="color:black">Malay</span></a>|
-  <a href="#இருமொழிக் கல்விக்கான லீ குவான் யூ நிதி பற்றிய விவரங்கள்" style="font-size:20px"><span style="color:black">Tamil</span></a></h3></p>
-<p>The Lee Kuan Yew Fund for Bilingualism (the &quot;Fund&quot;) was set up on 28 November, 2011, at the
+  <a href="#இருமொழிக் கல்விக்கான லீ குவான் யூ நிதி பற்றிய விவரங்கள்" style="font-size:20px"><span style="color:black">Tamil</span></a></h3></p></div>
+<div><p>The Lee Kuan Yew Fund for Bilingualism (the &quot;Fund&quot;) was set up on 28 November, 2011, at the
 launch of Mr Lee Kuan Yew’s new book, “My Lifelong Challenge: Singapore’s Bilingual Journey”.
 The Fund is set up as a company limited by guarantee, with Charity and Institution of a Public
-Character status.</p>
-<p>Bilingual education is a cornerstone of our education system. Learning English and the Mother
+ Character status.</p></div>
+<div><p>Bilingual education is a cornerstone of our education system. Learning English and the Mother
 Tongue Languages helps prepare our children to plug into a globalised world and strengthen links to
-our Asian heritage.</p>
-<p>The Fund has been set up to supplement efforts by the Ministry of Education (MOE) in the teaching
-and learning of English and the Mother Tongue Languages.</p>
-<h3>What the Fund Does</h3>
-<p>Our MTL, heritage and culture forms an integral part of Singapore&#39;s identity and asset. The Fund
+our Asian heritage.</p></div>
+<div><p>The Fund has been set up to supplement efforts by the Ministry of Education (MOE) in the teaching
+and learning of English and the Mother Tongue Languages.</p></div>
+<div><h3>What the Fund Does</h3>
+<div><p>Our MTL, heritage and culture forms an integral part of Singapore&#39;s identity and asset. The Fund
 supports proposals that encourage bilingualism and the learning of our MTLs as  living languages
-and a lifelong endeavour.</p>
+and a lifelong endeavour.</p></div></div><br/>
 <p><h3 id="关于李光耀双语基金">关于李光耀双语基金</h3>
 <h4>概述</h4></p>
 <p>李光耀双语基金是李光耀先生于2011年11月在他的新书《我一生的挑战：新加坡双语之路》发布会上
