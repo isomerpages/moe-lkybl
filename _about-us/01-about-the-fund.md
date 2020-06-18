@@ -2,7 +2,7 @@
 title: About the Fund
 permalink: /about-us/about-the-fund/
 ---
- <div><h3>About the Fund <br/>
+ <div><h3>About the Fund
  <br/>
  Overview  &nbsp; &nbsp; &nbsp;          
  <a href="#关于李光耀双语基金" style="font-size:20px"><span style="color:black">Chinese</span></a>| 
@@ -48,7 +48,7 @@ kalangan kanak-kanak sejak kecil lagi di prasekolah, di rumah dan kalangan masya
  <div><h4>கண்ணோட்டம்</h4></div>
 <div><p>இருமொழிக் கல்விக்கான லீ குவான் யூ நிதி, திரு லீ குவான் யூவின் ‘எனது வாழ்நாள் சவால்:
 சிங்கப்பூரின் இருமொழிப் பயணம்’ புத்தக வெளியீட்டு விழாவின் போது முதன் முதலில் நவம்பர் 2011
- அன்று அறிவிக்கப்பட்டது.</p></div>
+ அன்று அறிவிக்கப்பட்டது.</p></div><br/>
 <div><p>மாறி வரும் வீட்டு மொழிச் சூழலில் இந்நிதி இருமொழிக் கல்வியை வளர்ப்பதையும், ஆங்கிலம்,
 தாய்மொழிகளின் கற்றலிலும் கற்பித்தலிலும் கல்வி அமைச்சின் முயற்சிகளை ஊக்கப்படுத்துவதையும்
 நோக்கமாகக் கொண்டுள்ளது. இந்நிதி பாலர் பள்ளி நிலையிலான முயற்சிகளை ஊக்கப்படுத்துவதில்
