@@ -9,10 +9,9 @@ permalink: /about-us/donation/
  <table border="0">
   <tr>
   <td>
-  <h3 id="Donations">Donation</h3> 
+  <h3>Donation</h3> 
   </td>
   <td style="padding:18px;">
-  <a href="#Donations" style="font-size:20px"><span style="color:black">English</span></a>| 
  <a href="#捐款" style="font-size:20px"><span style="color:black">Chinese</span></a>| 
  <a href="#Pendermaan" style="font-size:20px"><span style="color:black">Malay</span></a>|
  <a href="#நன்கொடை" style="font-size:20px"><span style="color:black">Tamil</span></a>
