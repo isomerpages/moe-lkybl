@@ -19,8 +19,9 @@ Fund, up to a cap of $50 million. Donations to the Fund will also qualify for 25
 two and a half times the amount of donation). Names and tax reference numbers have to be
 provided in order to be eligible for the tax deductions.
 
-<h3>Donations to the Fund can be made in the following ways:</h3>
-<h3>A. Donation through the giving.sg website</h3>
+<h3>Donations to the Fund can be made in the following ways:
+<br/>A. Donation through the giving.sg website
+</h3>
 </div>
 
 <div id="捐款">
