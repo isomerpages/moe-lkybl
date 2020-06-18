@@ -88,7 +88,7 @@ permalink: /about-us/fund-policy/
    <p>30. All investigators derive the authority to handle all matters seriously, confidentially and  promptly.  All  investigators  shall  be  independent  and  unbiased  both  in  fact  and appearance.</p>
   <h4>Investigation Participants: </h4>
    <p>31. Stakeholders who are interviewed or asked to provide information have a duty to fully  cooperate  with  the  investigators.  Participants  should  refrain  from  discussing  or disclosing matters concerning the investigations.</p>
- <p><a href="/about-us/AppendixA_Whistleblower-Report-Form.pdf" target="_blank">whistleblower Report Form</a> </p>
+ <p><a href="/about-us/AppendixA_Whistleblower-Report-Form.pdf" target="_blank">Whistleblower Report Form</a> </p>
  
 </body>
 
