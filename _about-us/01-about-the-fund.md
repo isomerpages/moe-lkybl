@@ -7,16 +7,16 @@ permalink: /about-us/about-the-fund/
  <a href="#Overview" style="font-size:20px"><span style="color:black">English</span></a>| 
  <a href="#关于李光耀双语基金" style="font-size:20px"><span style="color:black">Chinese</span></a>| 
   <a href="#Tentang Dana Kedwibahasaan Lee Kuan Yew" style="font-size:20px"><span style="color:black">Malay</span></a>|
-  <a href="#இருமொழிக் கல்விக்கான லீ குவான் யூ நிதி பற்றிய விவரங்கள்" style="font-size:20px"><span style="color:black">Tamil</span></a></h3></p></div>
+  <a href="#இருமொழிக் கல்விக்கான லீ குவான் யூ நிதி பற்றிய விவரங்கள்" style="font-size:20px"><span style="color:black">Tamil</span></a></h3>
 <div><p>The Lee Kuan Yew Fund for Bilingualism (the &quot;Fund&quot;) was set up on 28 November, 2011, at the
 launch of Mr Lee Kuan Yew’s new book, “My Lifelong Challenge: Singapore’s Bilingual Journey”.
 The Fund is set up as a company limited by guarantee, with Charity and Institution of a Public
- Character status.</p></div>
+ Character status.</p></div><br/>
 <div><p>Bilingual education is a cornerstone of our education system. Learning English and the Mother
 Tongue Languages helps prepare our children to plug into a globalised world and strengthen links to
-our Asian heritage.</p></div>
+our Asian heritage.</p></div><br/>
 <div><p>The Fund has been set up to supplement efforts by the Ministry of Education (MOE) in the teaching
-and learning of English and the Mother Tongue Languages.</p></div>
+and learning of English and the Mother Tongue Languages.</p></div><br/>
 <div><h3>What the Fund Does</h3>
 <div><p>Our MTL, heritage and culture forms an integral part of Singapore&#39;s identity and asset. The Fund
 supports proposals that encourage bilingualism and the learning of our MTLs as  living languages
