@@ -39,9 +39,9 @@ back of the cheque:<ul>
   Singapore 138675 <br/>
   Attn: Ms Cynthia Chandramuljana, Financial Management Section</p>
   <h4>C. Obtain an autographed special edition of “My Lifelong Challenge:</h4>
-  
+<p>
 Mr Lee Kuan Yew has autographed 200 special edition copies of his new book &quot;My Lifelong Challenge: Singapore’s Bilingual Journey”. A copy of the book (only the Chinese Language version is available) can be obtained with a minimum donation of $10,000. Interested donors can make an order by filling up the order form and emailing the completed form to <a href="mailto:moe_lkyfb@moe.gov.sg"> moe_lkyfb@moe.gov.sg</a>
-  <br/><a href="/about-the-fund/Application_Guidelines.pdf" target="_blank">Fund Application Guidelines</a>
+  <br/><a href="/about-the-fund/Application_Guidelines.pdf" target="_blank">Fund Application Guidelines</a></p>
   
 </p>
 
