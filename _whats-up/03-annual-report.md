@@ -36,7 +36,7 @@ td, th {
   
   <tr>
     <td>
-      <span style="color:blue"><strong>Financial Year 2016/2017</strong></span>
+      <span style="color:blue"><strong> Financial Year 2016/2017</strong></span>
   <p><a href="/whats-up/Annual-Report-2016.pdf" target="_blank">
     <img border="0" src="/images/Cover-FY2016.png" style="width:247px; height:354px;"></a></p>
    <p><a href="/whats-up/FY2016-FS.pdf" target="_blank">Financial Statement (FY 2016)</a></p>
