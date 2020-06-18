@@ -11,7 +11,7 @@ The Fund is managed by a Board and supported by the following committees:<br/>
 (ii) Publicity and Outreach Committee (POC)<br/>
 (iii) Investment Advisory Committee (IAC) <br/>
 (iv) Audit Committee (AC)<br/>
-(v) Research Advisory Panel
+(v) Research Advisory Panel<br/>
 The Board members are:</p></div>
 <html>
 <body>
