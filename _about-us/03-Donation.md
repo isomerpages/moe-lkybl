@@ -94,7 +94,7 @@ Penderma harus memberikan keterangan yang berikut di belakang cek tersebut:<br/>
 <li>Alamat surat-menyurat untuk menghantar resit pontongan cukai
 </li>
 <li>Nombor telefon dan alamat e-mel
-</li></ul></div></div><br/>
+</li></ul><br/>
   <div><h3>Cek yang lengkap harus diposkan kepada:</h3>
   <div><p>Lee Kuan Yew Fund for Bilingualism <br/>
   c/o Ministry of Education  <br/>
@@ -109,8 +109,7 @@ derma minimum sebanyak $ 10,000. Penderma yang berminat boleh membuat pesanan de
     menggunakan borang dan menghantar borang yang lengkap  melalui e-mel
 kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg </a>Hanya edisi bahasa Cina sahaja yang masih ada untuk dibeli.</p>
    <div><p><a href="/about-us/Application_Guidelines.pdf" target="_blank">Borang</a></p></div></div></div><br/>
- 
-  <div><h3 id="நன்கொடை">நன்கொடை</h3>
+ <div><h3 id="நன்கொடை">நன்கொடை</h3>
   <div><p>நம் பிள்ளைகள் அடிப்படை மொழிவளத்தைத் தம் வயதுக்கேற்ப பொருத்தமான வகையில்
 வளர்த்துக்கொள்ள நீங்கள் வழங்கும் நன்கொடை உதவும். இதற்கு ஆதரவு அளிக்கும் வகையில்
 பெறப்படும் நன்கொடைக்கு அரசாங்கம் வெள்ளிக்கு வெள்ளி என்னும் அடிப்படையில் நிதிமானியமாகக்
