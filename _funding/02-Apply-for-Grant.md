@@ -62,7 +62,7 @@ digital resources.</p><div>
 <div><p><strong>Should you wish to apply for funding, please email <a href="mailto:moe_lkyfb@moe.gov.s">moe_lkyfb@moe.gov.sg</a> or contact us at
 6872 2220 to clarify any doubts<u> before you fill in the application forms</u> . We recognise that it
 takes time and effort to complete proposals, and strongly encourage applicants to clarify any
-  doubts regarding funding criteria prior to commencing your applications.</strong></p></div>
+  doubts regarding funding criteria prior to commencing your applications.</strong></p></div><br/>
 <div><p><strong>For proposals on teaching and learning resources, programmes and events:</strong>
 <ul><li><a href="/funding/Application_Guidelines.pdf" target="_blank">Fund Application Guidelines</a></li>
 <li><a href="/funding/FAQs.pdf" target="_blank">FAQs</a></li>
