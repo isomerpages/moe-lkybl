@@ -31,7 +31,7 @@ provided in order to be eligible for the tax deductions.</p></div><br/>
 bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for-
    bilingualism</a></p></div><br/>
   <div><h4>B. Donation through the giving.sg website</h4>
-  <p>Donors who wish to make their contribution in cheque may issue it payable to “Lee Kuan Yew Fund
+  <div><p>Donors who wish to make their contribution in cheque may issue it payable to “Lee Kuan Yew Fund
 for Bilingualism”. Cheques should be crossed.  Donors should provide the following details at the
 back of the cheque:
     <ul><li>Full name (as per NRIC) or company name (for the purpose of the tax deductible receipt)</li>
@@ -63,7 +63,7 @@ Challenge: Singapore’s Bilingual Journey”. A copy of the book (only the Chin
   <li>身份证号码/居留证号码/个体识别号码（机构）（方便自动申报扣税）</li>
      <li>邮政地址（方便我们寄出扣税收据）</li>
       <li>联络电话号码以及电邮地址</li></ul>
-  </p></div></div><br/>
+  </p></div></div>
   <div><h3>请将填写好的支票寄到以下地址:</h3>
  <div><p> Lee Kuan Yew Fund for Bilingualism <br/>
   c/o Ministry of Education  <br/>
@@ -94,7 +94,7 @@ Penderma harus memberikan keterangan yang berikut di belakang cek tersebut:<br/>
 <li>Alamat surat-menyurat untuk menghantar resit pontongan cukai
 </li>
 <li>Nombor telefon dan alamat e-mel
-</li></ul><br/>
+</li></ul>
   <div><h3>Cek yang lengkap harus diposkan kepada:</h3>
   <div><p>Lee Kuan Yew Fund for Bilingualism <br/>
   c/o Ministry of Education  <br/>
