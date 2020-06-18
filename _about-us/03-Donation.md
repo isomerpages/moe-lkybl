@@ -107,9 +107,9 @@ Biligual Journey” keluaran SPH yang telah ditandatangani</h4>
 Lifelong Challenge: Singapore’s Bilingual Journey&quot;.  Satu salinan buku ini boleh didpatakani dengan
 derma minimum sebanyak $ 10,000. Penderma yang berminat boleh membuat pesanan dengan
     menggunakan borang dan menghantar borang yang lengkap  melalui e-mel
-kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg .</a></p>
+kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg </a>Hanya edisi bahasa Cina sahaja yang masih ada untuk dibeli.</p>
    <div><p><a href="/about-us/Application_Guidelines.pdf" target="_blank">Borang</a></p></div></div></div><br/>
-  <p>Hanya edisi bahasa Cina sahaja yang masih ada untuk dibeli.</p>
+ 
   <div><h3 id="நன்கொடை">நன்கொடை</h3>
   <div><p>நம் பிள்ளைகள் அடிப்படை மொழிவளத்தைத் தம் வயதுக்கேற்ப பொருத்தமான வகையில்
 வளர்த்துக்கொள்ள நீங்கள் வழங்கும் நன்கொடை உதவும். இதற்கு ஆதரவு அளிக்கும் வகையில்
