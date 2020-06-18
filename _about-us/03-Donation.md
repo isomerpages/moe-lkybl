@@ -9,7 +9,7 @@ permalink: /about-us/donation/
  <table border="0">
   <tr>
   <td>
-  <h3>Donation</h3> 
+  <div><h3>Donation</h3> 
   </td>
   <td style="padding:18px;">
  <a href="#捐款" style="font-size:20px"><span style="color:black">Chinese</span></a>| 
@@ -18,7 +18,7 @@ permalink: /about-us/donation/
   </td>
   </tr>
  </table>
- <p>Your donation will help our children build their language foundation early in an age-appropriate way.
+ <div><p>Your donation will help our children build their language foundation early in an age-appropriate way.
 In support of this cause, the government has provided a 1:1 matching grant for donations to the
 Fund, up to a cap of $50 million. Donations to the Fund will also qualify for 250% tax deduction (at
 two and a half times the amount of donation). Names and tax reference numbers have to be
