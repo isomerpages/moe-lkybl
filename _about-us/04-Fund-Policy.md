@@ -19,7 +19,7 @@ permalink: /about-us/fund-policy/
   <li>To help develop a culture of openness, accountability and integrity.  </li>
   <li>To  encourage  stakeholders  to  feel  confident  in  raising  serious       concerns  and to question and act upon their concerns.  </li>
   <li>To ensure that stakeholders get a response to their concerns.  </li>
-  <li>To  reassure  stakeholders  that  if  they  raise  any  concerns  in  good  faith  and reasonably  believe  them  to  be  true,  they  will  be  protected  from  possible reprisals or victimization, to the extent where the situation allows </li></ul></p></div><br/>
+  <li>To  reassure  stakeholders  that  if  they  raise  any  concerns  in  good  faith  and reasonably  believe  them  to  be  true,  they  will  be  protected  from  possible reprisals or victimization, to the extent where the situation allows </li></ul></p></div>
   <div><p>5. Specific   examples   relating   to   unlawful   conduct, accounting   malpractice   or dangers to the public or environment could include:
     <ul>
   <li> A  criminal  offence  (e.g.  fraud,  corruption  or  theft)  has  been/is  likely  to  be committed. </li>
