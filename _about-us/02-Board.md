@@ -5,15 +5,14 @@ permalink: /about-us/board/
 
 ####   Board
 <html>
-<p>
+<div><p>
 The Fund is managed by a Board and supported by the following committees:<br/> 
 (i) Project Evaluation Committee (PEC)<br/>
 (ii) Publicity and Outreach Committee (POC)<br/>
 (iii) Investment Advisory Committee (IAC) <br/>
 (iv) Audit Committee (AC)<br/>
-(v) Research Advisory Panel<br/>
-  <br/>
-The Board members are:</p>
+(v) Research Advisory Panel
+The Board members are:</p></div>
 <html>
 <body>
 <style>
