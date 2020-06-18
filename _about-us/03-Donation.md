@@ -15,7 +15,7 @@ two and a half times the amount of donation). Names and tax reference numbers ha
   A. Donation through the giving.sg website</h4>
   <div><p>Donors can contribute online via the website at <a href="https://www.giving.sg/lee-kuan-yew-fund-for-
 bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for-
-   bilingualism</a></p></div></div>
+   bilingualism</a></p></div></div><br/>
   <div><h4>B. Donation through the giving.sg website</h4>
   <div><p>Donors who wish to make their contribution in cheque may issue it payable to “Lee Kuan Yew Fund
 for Bilingualism”. Cheques should be crossed.  Donors should provide the following details at the
