@@ -2,7 +2,6 @@
 title: Event
 permalink: /whats-up/event/
 ---
-<body style="background-color: rgba(84,160,245,0.51)">
 <div style="padding:15px 15px 2500px;font-size:20px">
   <div><h4>Event</h4>
   <div><p>Press Release of the 
