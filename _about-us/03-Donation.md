@@ -2,6 +2,24 @@
 title: Donation
 permalink: /about-us/donation/
 ---
+
+<html>
+<head>
+<style>
+
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; 
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+</style>
+</head>
+<body></body></html>
+
   <div><h3>Donation &nbsp; &nbsp; &nbsp;   
  <a href="#捐款" style="font-size:20px"><span style="color:black">Chinese</span></a> 
  <a href="#Pendermaan" style="font-size:20px"><span style="color:black">Malay</span></a>
