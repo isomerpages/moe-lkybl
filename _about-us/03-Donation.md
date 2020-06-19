@@ -6,16 +6,13 @@ permalink: /about-us/donation/
 <html>
 <head>
 <style>
-
-
-.btn-group button:not(:last-child) {
-  border-bottom: none; 
+  
+.SubmitButton {
+  position: fixed;
+  top: 100px;
+  left: 10px;
 }
 
-/* Add a background color on hover */
-.btn-group button:hover {
-  background-color: #3e8e41;
-}
 </style>
 </head>
 <body></body></html>
@@ -152,7 +149,7 @@ kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg </a>Hanya ed
   <div><p>சீனமொழிப் பதிப்பு மட்டுமே இன்னும் மீதம் உள்ளது.</p>
   <div><p><a href="/about-us/Application_Guidelines.pdf" target="_blank">படிவத்தை</a></p></div></div>
  </div></div>
- <div class="float-button"><button id="myBtn"><a href="#top" style="color: black">Go To Top</a></button></div>
+ <div class="SubmitButton"><button id="myBtn"><a href="#top" style="color: black">Go To Top</a></button></div>
  <br/>
   
   
