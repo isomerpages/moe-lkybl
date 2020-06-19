@@ -373,7 +373,7 @@ $desktop: 960px + (2 * $gap) !default;
 		  float:left;
 	  }
 	  
-	  .btntop{
+.btntop{
 		  position: fixed;
 		  float: right;
 		  /* top: 100px; */
@@ -387,6 +387,4 @@ $desktop: 960px + (2 * $gap) !default;
 		  padding: 15px;
 		  border-radius: 4px;
 		  color: white;
-	  }
-	
 	  }
