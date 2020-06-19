@@ -130,6 +130,6 @@ Chinese News &amp; Current Affairs<br/>
 Mediacorp</td>
   </tr>
 </table>
-
+<div class="btntop"><a href="#top" style="text-decoration:none;">Top</a></div>
 </body>
 </html>
