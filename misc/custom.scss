@@ -386,5 +386,11 @@ $desktop: 960px + (2 * $gap) !default;
 		  cursor:pointer;
 		  padding: 15px;
 		  border-radius: 4px;
-		  color: white;
+		  color: white;		 
+	  }
+	  .btntop:hover{
+		  background-color: #555;
+	  }
+	  
+	  
 	  }
