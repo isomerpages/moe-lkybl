@@ -378,6 +378,13 @@ $desktop: 960px + (2 * $gap) !default;
 		  float: right;
 		  /* top: 100px; */
 		  bottom: 20px;
-		  right: 40px;
+		  right: 80px;
 		  z-index: 99;
+		  border: none;
+		  outline: none;
+		  background-color: #8e0000;
+		  cursor:pointer;
+		  cursor: pointer;
+		  padding: 15px;
+		  border-radius: 4px;
 	  }
