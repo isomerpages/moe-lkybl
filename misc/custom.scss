@@ -374,7 +374,9 @@ $desktop: 960px + (2 * $gap) !default;
 	  }
 	  
 	  .btntop:hover{
-		  background-color: #8991a2;
+		  //background-color: #8991a2;
+		  transform: scale(1.05) 
+               translateY(-5px);
 	  }
 	  
 .btntop{
