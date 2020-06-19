@@ -26,3 +26,4 @@ people closer to one another.<br/> The series of five videos comprises:</p>
 <p>2.Four testimonial videos featuring then-Minister for Education (Schools) <a href="https://www.youtube.com/watch?v=7AwdyxUDBC0" target="_blank"><u>Mr Ng Chee Meng</u></a> ,and Singapore artistes,<a href="https://www.youtube.com/watch?v=xG4QFdFxlFE" target="_blank"><u>Ms Olivia Ong</u></a>,<a href="https://www.youtube.com/watch?v=lkzHGh8vJF0" target="_blank"><u>Mr Shabir Alam</u></a> and <a href="https://www.youtube.com/watch?v=Mpemu3KYx2M" target="_blank"><u>Mr Taufik Batisah</u></a> .They talk about their
 experience in learning their Mother Tongue language, and how it helped them appreciate the language and connect better with others.
 </p>
+ <div class="btntop"><a href="#top" style="text-decoration:none;">Top</a></div>
