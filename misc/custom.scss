@@ -379,6 +379,10 @@ $desktop: 960px + (2 * $gap) !default;
                translateY(-5px);
 	  }
 	  
+	  .btntop > a{
+		  text-transform: uppercase;
+	  }
+	  
 	  html {
 	scroll-behavior: smooth;
 }
