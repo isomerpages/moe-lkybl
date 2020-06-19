@@ -379,6 +379,10 @@ $desktop: 960px + (2 * $gap) !default;
                translateY(-5px);
 	  }
 	  
+	  html {
+	scroll-behavior: smooth;
+}
+	  
 .btntop{
 		  position: fixed;
 		  float: right;
