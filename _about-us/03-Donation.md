@@ -11,6 +11,7 @@ permalink: /about-us/donation/
   position: fixed;
   top: 100px;
   left: 10px;
+  float: right:
 }
 
 </style>
