@@ -134,4 +134,5 @@ kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg </a>Hanya ed
   <div><p>சீனமொழிப் பதிப்பு மட்டுமே இன்னும் மீதம் உள்ளது.</p>
   <div><p><a href="/about-us/Application_Guidelines.pdf" target="_blank">படிவத்தை</a></p></div></div>
  </div></div><br/>
+  <div><button id="myBtn" class=”float-button”><a href="#top" style="color: black">Go To Top</a></button></div>
   
