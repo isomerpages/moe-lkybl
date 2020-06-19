@@ -3,22 +3,7 @@ title: Donation
 permalink: /about-us/donation/
 ---
 
-<html>
-<head>
-<style>
-  
-.SubmitButton {
-  position: fixed;
-  top: 100px;
-  left: 10px;
-  float: right:
-}
-
-</style>
-</head>
-<body></body></html>
-
-  <div><h3>Donation &nbsp; &nbsp; &nbsp;   
+ <div><h3>Donation &nbsp; &nbsp; &nbsp;   
  <a href="#捐款" style="font-size:20px"><span style="color:black">Chinese</span></a> 
  <a href="#Pendermaan" style="font-size:20px"><span style="color:black">Malay</span></a>
  <a href="#நன்கொடை" style="font-size:20px"><span style="color:black">Tamil</span></a></h3>
