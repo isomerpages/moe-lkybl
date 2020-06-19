@@ -136,7 +136,3 @@ kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg </a>Hanya ed
   <div><p><a href="/about-us/Application_Guidelines.pdf" target="_blank">படிவத்தை</a></p></div></div>
  </div></div>
  <br/>
- 
-  <div style="position:fixed;top: 100px;left: 10px;float: right:"><a href="#top" style="color: black">Go To Top content</a></div>
-  
-  
