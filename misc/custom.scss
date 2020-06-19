@@ -373,6 +373,10 @@ $desktop: 960px + (2 * $gap) !default;
 		  float:left;
 	  }
 	  
+	  .btntop:hover{
+		  background-color: #555;
+	  }
+	  
 .btntop{
 		  position: fixed;
 		  float: right;
@@ -388,3 +392,5 @@ $desktop: 960px + (2 * $gap) !default;
 		  border-radius: 4px;
 		  color: white;
 	  }
+	
+
