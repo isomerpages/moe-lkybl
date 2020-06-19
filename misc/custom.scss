@@ -372,3 +372,12 @@ $desktop: 960px + (2 * $gap) !default;
 		  height: 345px;
 		  float:left;
 	  }
+	  
+	  .btntop{
+		  position: fixed;
+		  float: right;
+		  /* top: 100px; */
+		  bottom: 20px;
+		  right: 40px;
+		  z-index: 99;
+	  }
