@@ -38,7 +38,7 @@ pelancaran buku Encik Lee Kuan Yew, “My Lifelong Challenge: Singapore’s Bili
 <div><p>Dana ini bertujuan untuk menggalakkan pendidikan dwibahasa dan menambah usaha MOE dalam
 pengajaran dan pembelajaran Bahasa Inggeris dan Bahasa Ibunda, di tengah-tengah perubahan
 persekitaran penggunaan bahasa di rumah. Sebagai permulaan, Dana ini akan memberikan
-tumpuan kepada inisiatif di peringkat prasekolah. U</p></div><br/>
+tumpuan kepada inisiatif di peringkat prasekolah. </p></div><br/>
 <div><p>Tahun-tahun awal penting untuk membina asas yang kukuh dalam pembelajaran bahasa. Dana
 Kedwibahasaan Lee Kuan Yew bertujuan memupuk rasa cinta akan pembelajaran dwibahasa dalam
 kalangan kanak-kanak sejak kecil lagi di prasekolah, di peringkat prasekolah, di rumah dandalam kalangan 
