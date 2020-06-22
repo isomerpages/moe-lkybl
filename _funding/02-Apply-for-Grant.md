@@ -81,4 +81,4 @@ Attention: Lee Kuan Yew Fund for Bilingualism</p></ul><div>
 <div><p>Mondays – Fridays: 8.30am to 5.30pm<br/>
 Saturdays, Sundays &amp; Public Holidays: Closed</p></div>
   </div>
- <div class="btntop"><a href="#top" style="text-decoration:none;">Top</a></div>
+ <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
