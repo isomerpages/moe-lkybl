@@ -67,12 +67,10 @@ bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilin
   <div><h3 id="Sumbangan Derma">Sumbangan Derma</h3>
   <div><p>Derma anda akan membantu anak-anak kita membina asas bahasa mereka pada peringkat awal lagi, dengan cara yang sesuai dengan usia mereka. Bagi menyokong usaha ini, pemerintah telah menyediakan geran padanan 1:1 bagi sumbangan anda kepada phak Dana, terhad kepada $50 juta. Anda juga layak mendapat potongan cukai sebanyak 250% (sebanyak dua setengah kali jumlah wang yang didermakan) bagi sumbangan anda itu. Nama dan nombor rujukan cukai perlu disediakan untuk mendapatkan potongan cukai ini.
 </p></div><br/>
-  <h4>A. Sumbangan melalui laman web Giving.sg</h4>
-  <div><p>Penderma juga boleh memberikan sumbangan secara dalam talian melalui laman web
-    di <a href="https://www.giving.sg/lee-kuan-yew-fund-for-bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism</a> Tiada pendaftaran diperlukan.</p></div></div><br/>
+  <div><h4>A. Sumbangan melalui laman web Giving.sg</h4>
+  <div><p>Penderma juga boleh memberikan sumbangan secara dalam talian melalui laman web di <a href="https://www.giving.sg/lee-kuan-yew-fund-for-bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism</a> Tiada pendaftaran diperlukan.</p></div></div><br/>
   <div><h4>B. Sumbangan melalui cek</h4>
-  <div><p>Penderma yang ingin membuat sumbangan dalam bentuk cek boleh melakukannya atas nama
-“Lee Kuan Yew Fund for Bilingualism”. Cek mesti dipangkah.<br/>
+  <div><p>Penderma yang ingin membuat sumbangan dalam bentuk cek boleh melakukannya atas nama “Lee Kuan Yew Fund for Bilingualism”. Cek mesti dipangkah.<br/>
 Penderma harus memberikan keterangan yang berikut di belakang cek tersebut:<br/>
 <ul><li>Nama penuh (seperti tertera di dalam kad pengenalan) atau nama syarikat (untuk tujuan resit pengecualian cukai)
 </li>
