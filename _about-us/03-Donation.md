@@ -92,7 +92,7 @@ Bilingual Journey” keluaran SPH yang telah ditandatangani</h4>
 Lifelong Challenge: Singapore’s Bilingual Journey&quot;.  Satu salinan buku ini boleh didapatkan dengan
 derma minimum sebanyak $ 10,000. Penderma yang berminat boleh membuat pesanan dengan
  menggunakan borang dan menghantar borang yang lengkap  melalui e-mel
-kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg </a> Hanya edisi bahasa Cina sahaja yang masih ada untuk dibeli.</p>
+kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg </a>&nbsp;Hanya edisi bahasa Cina sahaja yang masih ada untuk dibeli.</p>
  <div><p><a href="/about-us/order-form-for-my-lifelong-challenge.pdf" target="_blank">Order Form</a></p></div></div></div><br/>
  <div><h3 id="நன்கொடை">நன்கொடை</h3>
 <div><p>நம்பிள்ளைகள்அடிப்படைமொழிவளத்தைத்தம்வயதுக்கேற்பபொருத்தமானவகையில்வளர்த்துக்கொள்ளநீங்கள்வழங்கும்நன்கொடைஉதவும்.இதற்குஆதரவுஅளிக்கும்வகையில்பெறப்படும்நன்கொடைக்குஅரசாங்கம்வெள்ளிக்குவெள்ளிஎன்னும்அடிப்படையில்நிதிமானியமாகக்கூடியபட்சம் 50 மில்லியன்வெள்ளிவரைவழங்கும். இந்தநிதிக்குவழங்கப்படும்நன்கொடைக்கு 250 விழுக்காடுவரிக்கழிவுதரப்படும். வரிக்கழிவுக்குத்தகுதிபெறப்பெயரையும்வரிமேற்கோள்எண்களையும்குறிப்பிடவேண்டும்.</p>
