@@ -7,7 +7,7 @@ permalink: /about-us/about-the-fund/
  Overview  &nbsp; &nbsp; &nbsp;          
  <a href="#关于李光耀双语基金" style="font-size:20px"><span style="color:black">Chinese</span></a>&nbsp;&nbsp;
   <a href="#Tentang Dana Kedwibahasaan Lee Kuan Yew" style="font-size:20px"><span style="color:black">Malay</span></a>&nbsp;&nbsp;
-  <a href="#கண்ணோட்டம்" style="font-size:20px"><span style="color:black">Tamil</span></a></h3><div></div>
+  <a href="#இருமொழிக்கல்விக்கானலீகுவான்யூநிதிபற்றியவிவரங்கள்" style="font-size:20px"><span style="color:black">Tamil</span></a></h3><div></div>
 <div><p>The Lee Kuan Yew Fund for Bilingualism (the &quot;Fund&quot;) was set up on 28 November, 2011, at the
 launch of Mr Lee Kuan Yew’s new book, “My Lifelong Challenge: Singapore’s Bilingual Journey”.
 The Fund is set up as a company limited by guarantee, with Charity and Institution of a Public
@@ -43,8 +43,8 @@ tumpuan kepada inisiatif di peringkat prasekolah. </p></div><br/>
 Kedwibahasaan Lee Kuan Yew bertujuan memupuk rasa cinta akan pembelajaran dwibahasa dalam
 kalangan kanak-kanak sejak kecil lagi di peringkat prasekolah, di rumah dandalam kalangan 
  masyarakat.</p></div></div><br/>
- <div><h3>இருமொழிக்கல்விக்கானலீகுவான்யூநிதிபற்றியவிவரங்கள்</h3></div>
- <div><h4 id="கண்ணோட்டம்">கண்ணோட்டம்</h4></div>
+ <div><h3 id="இருமொழிக்கல்விக்கானலீகுவான்யூநிதிபற்றியவிவரங்கள்">இருமொழிக்கல்விக்கானலீகுவான்யூநிதிபற்றியவிவரங்கள்</h3></div>
+ <div><h4>கண்ணோட்டம்</h4></div>
 <div><p>இருமொழிக்கல்விக்கானலீகுவான்யூநிதி, திருலீகுவான்யூவின் ‘எனதுவாழ்நாள்சவால்: சிங்கப்பூரின்இருமொழிப்பயணம்’ புத்தகவெளியீட்டுவிழாவின்போதுமுதன்முதலில்நவம்பர் 2011 அன்றுஅறிவிக்கப்பட்டது.</p></div><br/>
 <div><p>மாறிவரும்வீட்டுமொழிச்சூழலில்இந்நிதிஇருமொழிக்கல்வியைவளர்ப்பதையும்,ஆங்கிலம்,தாய்மொழிகளின்கற்றலிலும்கற்பித்தலிலும்கல்விஅமைச்சின்முயற்சிகளைஊக்கப்படுத்துவதையும்நோக்கமாகக்கொண்டுள்ளது.இந்நிதிபாலர்பள்ளிநிலையிலானமுயற்சிகளைஊக்கப்படுத்துவதில்அதிகஅக்கறைகொண்டுள்ளது.அதேவேளையில்மொழிகற்றலுக்குஆதரவானமொழிச்சூழலைஉருவாக்கித்தர,இந்நிதிபாலர்பள்ளிகள்,இல்லங்கள்,சமூகம்ஆகியவற்றைஉள்ளடக்கியஅனைத்துமுயற்சிகளையும்ஊக்குவிப்பதிலும்அக்கறைகொண்டுள்ளது. .</p></div><br/>
 <div><p>நம்தாய்மொழிகள்,மரபுடைமை,கலாச்சாரம்ஆகியவைசிங்கப்பூரின்அடையாளம்மற்றும்மதிப்புஆகியவற்றின்முக்கியஅங்கங்களாகத்திகழ்கின்றன.இருமொழிக்கல்வியையும்தாய்மொழிகளைவாழும்மொழிகளாகவாழ்நாள்முழுவதும்நீடித்திருக்கவும்உதவும்செயல்திட்டங்களுக்குஇந்நிதிஆதரவுவழங்கிவருகிறது.</p></div><br/>
