@@ -9,5 +9,5 @@ permalink: /whats-up/event/
 </p></div><br/>
   <div><p>MTLS focuses on how children learn, grow and thrive in a vibrant and immersive MTL environment and develop a keen sense of life-long learning for our Mother Tongue Languages.</p></div>
    </div>
-<div class="btntop"><a href="#top" style="text-decoration:none;">Top</a></div>
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
 
