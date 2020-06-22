@@ -89,12 +89,12 @@ Penderma harus memberikan keterangan yang berikut di belakang cek tersebut:<br/>
   Singapore 138675 <br/>
   Attn: Ms Cynthia Chandramuljana, Financial Management Section</p></div></div><br/>
  <div> <h4>C. Pembelian edisi khas buku “My Lifelong Challenge: Singapore’s
-Biligual Journey” keluaran SPH yang telah ditandatangani</h4>
+Bilingual Journey” keluaran SPH yang telah ditandatangani</h4>
   <div><p>Encik Lee Kuan Yew telah menandatangani 200 salinan edisi khas buku baharu beliau &quot;My
-Lifelong Challenge: Singapore’s Bilingual Journey&quot;.  Satu salinan buku ini boleh didpatakani dengan
+Lifelong Challenge: Singapore’s Bilingual Journey&quot;.  Satu salinan buku ini boleh didapatkan dengan
 derma minimum sebanyak $ 10,000. Penderma yang berminat boleh membuat pesanan dengan
     menggunakan borang dan menghantar borang yang lengkap  melalui e-mel
-kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg </a>Hanya edisi bahasa Cina sahaja yang masih ada untuk dibeli.</p>
+kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg </a> Hanya edisi bahasa Cina sahaja yang masih ada untuk dibeli.</p>
    <div><p><a href="/about-us/Application_Guidelines.pdf" target="_blank">Borang</a></p></div></div></div><br/>
  <div><h3 id="நன்கொடை">நன்கொடை</h3>
   <div><p>நம் பிள்ளைகள் அடிப்படை மொழிவளத்தைத் தம் வயதுக்கேற்ப பொருத்தமான வகையில்
