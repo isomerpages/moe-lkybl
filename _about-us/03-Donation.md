@@ -10,14 +10,14 @@ permalink: /about-us/donation/
  <div><p>Your donation will help our children build their language foundation early in an age-appropriate way.
 In support of this cause, the government has provided a 1:1 matching grant for donations to the
 Fund, up to a cap of $50 million. Donations to the Fund will also qualify for 250% tax deduction (at
-two and a half times the amount of donation). Names and tax reference numbers have to be provided in order to be eligible for the tax deductions.</p></div>
+two and a half times the amount of donation). Names and tax reference numbers have to be provided in order to be eligible for the tax deductions.</p>
   <div><br/><h4>Donations to the Fund can be made in the following ways:<br/>
    <br/>
-  A. Donation through the giving.sg website</h4>
+  A. Donation through the Giving.sg website</h4>
   <div><p>Donors can contribute online via the website at <a href="https://www.giving.sg/lee-kuan-yew-fund-for-
 bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for-
-   bilingualism</a></p></div></div><br/>
-  <div><h4>B. Donation through the giving.sg website</h4>
+   bilingualism</a></p></div></div></div><br/>
+  <div><h4>B. Donation by cheque</h4>
   <div><p>Donors who wish to make their contribution in cheque may issue it payable to “Lee Kuan Yew Fund
 for Bilingualism”. Cheques should be crossed.  Donors should provide the following details at the
 back of the cheque:
@@ -31,7 +31,7 @@ back of the cheque:
   1 North Buona Vista Drive  <br/>
   Singapore 138675 <br/>
      Attn: Ms Cynthia Chandramuljana, Financial Management Section</p></div></div><br/>
-  <div><h4>C. Obtain an autographed special edition of “My Lifelong Challenge:</h4>
+  <div><h4>C. Obtain an autographed special edition of “My Lifelong Challenge: Singapore’s Bilingual Journey</h4>
   <div><p>Mr Lee Kuan Yew has autographed 200 special edition copies of his new book &quot;My Lifelong
 Challenge: Singapore’s Bilingual Journey”. A copy of the book (only the Chinese Language version is available) can be obtained with a minimum donation of $10,000. Interested donors can make an order by filling up the order form and emailing the completed form to<a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg </a> .</p>
   <div><p> <a href="/about-us/Application_Guidelines.pdf" target="_blank">Order Form</a></p></div></div><div><br/>
