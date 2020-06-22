@@ -43,7 +43,7 @@ tumpuan kepada inisiatif di peringkat prasekolah. </p></div><br/>
 Kedwibahasaan Lee Kuan Yew bertujuan memupuk rasa cinta akan pembelajaran dwibahasa dalam
 kalangan kanak-kanak sejak kecil lagi di peringkat prasekolah, di rumah dandalam kalangan 
  masyarakat.</p></div><br/>
-<div><h3 id="இரும ொழிக கல்விக்கொன லீ குவொன் யூ நிதி பற்றிய விவரங்கள"></h3></div>
+<div><h3 id="இருமொழிக் கல்விக்கான லீ குவான் யூ நிதி பற்றிய விவரங்கள்"></h3></div>
  <div><h4>கண்ண ொட்டம்</h4></div>
 <div><p>இரும ொழிக் கல்விக்கொன லீ குவொன் யூ நிதி, திரு லீ குவொன் யூவின் ‘எனது வொழ்நொள் சவொல்:
 சிங்கப்பூொின் இரும ொழிப் பய ம்’ புத்தக மவளியீட்டு விழொவின் ணபொது முதன் முதலில்
