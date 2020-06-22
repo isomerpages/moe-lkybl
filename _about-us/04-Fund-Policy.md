@@ -56,7 +56,6 @@ permalink: /about-us/fund-policy/
   <div><p>14. Acts  of  misconduct  must  be  disclosed  in  writing,  so  as  to  assure  a  clear understanding of the issues raised. The format provided in Appendix A may be used for reporting purposes. </p></div> <br/> 
 <div><p>15. Individuals are recommended to self-identify, though it is not a requirement of the policy.</p></div>  <br/>
  <div><p>16. The Audit Committee will review allegations of suspected serious misconduct or any  breach  or  suspected  breach  of  law  or  regulation  that  may  adversely  impact  the Fund,  the  Fund’s  stakeholders  or  the  public  at  large.  All  reports  should  be  sent  to  the Audit  Committee.  Contact  information of  the  Chairperson of  the  Audit  Committee  is as follows:  <br/>
-  <br/>
    Chairperson, Audit Committee <br/>
    Lee Kuan Yew Fund for Bilingualism<br/>
    1 North Buona Vista Drive<br/>
