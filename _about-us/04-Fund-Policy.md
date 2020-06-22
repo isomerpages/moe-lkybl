@@ -55,13 +55,13 @@ permalink: /about-us/fund-policy/
   <div><p>13. Any  person  may  report  allegations  of  suspected serious  misconduct  or  any breach  or  suspected  breach  of  law  or  regulation  that  may  adversely  impact  the  Fund, the Fund’s stakeholders or the public at large</p></div><br/>
   <div><p>14. Acts  of  misconduct  must  be  disclosed  in  writing,  so  as  to  assure  a  clear understanding of the issues raised. The format provided in Appendix A may be used for reporting purposes. </p></div> <br/> 
 <div><p>15. Individuals are recommended to self-identify, though it is not a requirement of the policy.</p></div>  <br/>
- <div><p>16. The Audit Committee will review allegations of suspected serious misconduct or any  breach  or  suspected  breach  of  law  or  regulation  that  may  adversely  impact  the Fund,  the  Fund’s  stakeholders  or  the  public  at  large.  All  reports  should  be  sent  to  the Audit  Committee.  Contact  information of  the  Chairperson of  the  Audit  Committee  is as follows:  <br/><br/>
+ <div><p>16. The Audit Committee will review allegations of suspected serious misconduct or any  breach  or  suspected  breach  of  law  or  regulation  that  may  adversely  impact  the Fund,  the  Fund’s  stakeholders  or  the  public  at  large.  All  reports  should  be  sent  to  the Audit  Committee.  Contact  information of  the  Chairperson of  the  Audit  Committee  is as follows:  <br/>
    Chairperson, Audit Committee <br/>
    Lee Kuan Yew Fund for Bilingualism<br/>
    1 North Buona Vista Drive<br/>
    Singapore 138675 <br/>
    c/o: Financial Management Branch 
-  </p></div>  <br/>
+  </p></div><br/>
   <div><p>17. Although the whistleblower is not expected to prove the truth of an allegation, he / she needs to demonstrate to the person contacted that there are sufficient grounds for concern.</p> </div></div>  <br/>
 <div><h4>Investigating Alleged Misconduct or Improper Activities  </h4>
   <div><p>18. The Chairperson of the Audit Committee will notify the sender and acknowledge receipt of the reported violation or suspected violation within five business days.</p></div>  <br/>
