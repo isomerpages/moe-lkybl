@@ -2,7 +2,7 @@
 title: Annual Report
 permalink: /whats-up/annual-report/
 ---
-## Annual Report
+## Publications
 <html>
 <head>
 <style>
