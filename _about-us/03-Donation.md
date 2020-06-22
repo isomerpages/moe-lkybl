@@ -66,7 +66,7 @@ bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilin
   <div> <p> <a href="/about-us/order-form-for-my-lifelong-challenge.pdf" target="_blank">Order Form</a></p></div></div></div><br/>
   <div><h3 id="Sumbangan Derma">Sumbangan Derma</h3>
   <div><p>Derma anda akan membantu anak-anak kita membina asas bahasa mereka pada peringkat awal lagi, dengan cara yang sesuai dengan usia mereka. Bagi menyokong usaha ini, pemerintah telah menyediakan geran padanan 1:1 bagi sumbangan anda kepada phak Dana, terhad kepada $50 juta. Anda juga layak mendapat potongan cukai sebanyak 250% (sebanyak dua setengah kali jumlah wang yang didermakan) bagi sumbangan anda itu. Nama dan nombor rujukan cukai perlu disediakan untuk mendapatkan potongan cukai ini.
-</p></div></div><br/>
+</p></div></div>
   <h4>A. Sumbangan melalui laman web Giving.sg</h4>
   <div><p>Penderma juga boleh memberikan sumbangan secara dalam talian melalui laman web
     di <a href="https://www.giving.sg/lee-kuan-yew-fund-for-bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism</a> Tiada pendaftaran diperlukan.</p></div></div><br/>
@@ -90,23 +90,23 @@ Penderma harus memberikan keterangan yang berikut di belakang cek tersebut:<br/>
   Attn: Ms Cynthia Chandramuljana, Financial Management Section</p></div></div><br/>
  <div> <h4>C. Pembelian edisi khas buku “My Lifelong Challenge: Singapore’s
 Bilingual Journey” keluaran SPH yang telah ditandatangani</h4>
-  <div><p>Encik Lee Kuan Yew telah menandatangani 200 salinan edisi khas buku baharu beliau &quot;My
+<div><p>Encik Lee Kuan Yew telah menandatangani 200 salinan edisi khas buku baharu beliau &quot;My
 Lifelong Challenge: Singapore’s Bilingual Journey&quot;.  Satu salinan buku ini boleh didapatkan dengan
 derma minimum sebanyak $ 10,000. Penderma yang berminat boleh membuat pesanan dengan
-    menggunakan borang dan menghantar borang yang lengkap  melalui e-mel
+ menggunakan borang dan menghantar borang yang lengkap  melalui e-mel
 kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg </a> Hanya edisi bahasa Cina sahaja yang masih ada untuk dibeli.</p>
-   <div><p><a href="/about-us/order-form-for-my-lifelong-challenge.pdf" target="_blank">Order Form</a></p></div></div></div><br/>
+ <div><p><a href="/about-us/order-form-for-my-lifelong-challenge.pdf" target="_blank">Order Form</a></p></div></div></div><br/>
  <div><h3 id="நன்கொடை">நன்கொடை</h3>
 <div><p>நம்பிள்ளைகள்அடிப்படைமொழிவளத்தைத்தம்வயதுக்கேற்பபொருத்தமானவகையில்வளர்த்துக்கொள்ளநீங்கள்வழங்கும்நன்கொடைஉதவும்.இதற்குஆதரவுஅளிக்கும்வகையில்பெறப்படும்நன்கொடைக்குஅரசாங்கம்வெள்ளிக்குவெள்ளிஎன்னும்அடிப்படையில்நிதிமானியமாகக்கூடியபட்சம் 50 மில்லியன்வெள்ளிவரைவழங்கும். இந்தநிதிக்குவழங்கப்படும்நன்கொடைக்கு 250 விழுக்காடுவரிக்கழிவுதரப்படும். வரிக்கழிவுக்குத்தகுதிபெறப்பெயரையும்வரிமேற்கோள்எண்களையும்குறிப்பிடவேண்டும்.</p>
    <div><p>நீங்கள்பின்வரும்வழிகளில்இந்தநிதிக்குநன்கொடைகளைவழங்கலாம்:</p></div></div></div><br/>
- <div> <h4>A. எஸ்ஜிகிவ்ஸ்என்னும்இணையத்தளத்தின்வழிநன்கொடை</h4>
+ <div><h4>A. எஸ்ஜிகிவ்ஸ்என்னும்இணையத்தளத்தின்வழிநன்கொடை</h4>
   <div><p>நன்கொடைவழங்கவிரும்புவோர்  <a href="https://www.giving.sg/lee-kuan-yew-fund-for-bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism </a> என்னும்இணையத்தளத்தின்வழியாகநன்கொடைவழங்கலாம். இதற்குப்பதிவுசெய்யத்தேவையில்லை.</p></div></div><br/>
   <div><h4>B. காசோலைவழிநன்கொடை</h4>
   <div><p>காசோலைவழிநன்கொடைவழங்கவிரும்புவோர் ‘Lee Kuan Yew Fund for Bilingualism’ என்றுகாசோலையில்குறிப்பிடவேண்டும். காசோலையில்குறுக்குக்கோடுஇடப்பட்டிருக்கவேண்டும். நன்கொடைவழங்குவோர்காசோலையின்பின்புறத்தில்பின்வரும்விவரங்களைக்குறிப்பிடவேண்டும்:
-   <ul><li>•	முழுப்பெயர் (அடையாளஅட்டையில்உள்ளதுபோல்) அல்லதுநிறுவனத்தின்பெயர் (வரிக்கழிவுக்கானரசீதுக்குஇதுதேவைப்படும்)</li>
-     <li>•	அடையாளஅட்டைஎண்/வெளிநாட்டினர்அடையாளஎண்/தனிச்சிறப்புஎண் (வரிமதிப்பீட்டுக்காகநன்கொடையைத்தானியங்குமுறையில்சேர்ப்பதற்கு)</li>
-     <li>•	வரிக்கழிவுக்கானரசீதைஅனுப்புவதற்குரியஅஞ்சல்முகவரி</li>
-    <li>•	தொடர்புஎண், மின்னஞ்சல்முகவரி</li></ul>
+   <ul><li>	முழுப்பெயர் (அடையாளஅட்டையில்உள்ளதுபோல்) அல்லதுநிறுவனத்தின்பெயர் (வரிக்கழிவுக்கானரசீதுக்குஇதுதேவைப்படும்)</li>
+     <li>	அடையாளஅட்டைஎண்/வெளிநாட்டினர்அடையாளஎண்/தனிச்சிறப்புஎண் (வரிமதிப்பீட்டுக்காகநன்கொடையைத்தானியங்குமுறையில்சேர்ப்பதற்கு)</li>
+     <li>	வரிக்கழிவுக்கானரசீதைஅனுப்புவதற்குரியஅஞ்சல்முகவரி</li>
+    <li>	தொடர்புஎண், மின்னஞ்சல்முகவரி</li></ul>
   </p></div></div><br/>
   <div><h4>பபூர்த்திசெய்யப்பட்டகாசோலைகளைப்பின்வரும்முகவரிக்குஅனுப்பிவைக்கவும்:</h4>
   <div><p>Ministry of Education<br/>
