@@ -18,5 +18,5 @@ learning and development.</p></div></div><br/>
 <div><p>The Fund supports numerous initiatives to support young learners in language
 learning, including the production of resources. These resources include print and
 electronic books, periodicals and songs.</p></div></div> <br/>
-  <div class="btntop"><a href="#top" style="text-decoration:none;">Top</a></div>
+  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
 
