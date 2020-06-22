@@ -5,7 +5,7 @@ permalink: /about-us/donation/
 
  <div><h3>Donation &nbsp; &nbsp; &nbsp;   
  <a href="#捐款" style="font-size:20px"><span style="color:black">Chinese</span></a> &nbsp;&nbsp;
- <a href="#Pendermaan" style="font-size:20px"><span style="color:black">Malay</span></a>&nbsp;&nbsp;
+ <a href="#Sumbangan Derma" style="font-size:20px"><span style="color:black">Malay</span></a>&nbsp;&nbsp;
  <a href="#நன்கொடை" style="font-size:20px"><span style="color:black">Tamil</span></a></h3>
  <div><p>Your donation will help our children build their language foundation early in an age-appropriate way.
 In support of this cause, the government has provided a 1:1 matching grant for donations to the
@@ -41,8 +41,8 @@ Challenge: Singapore’s Bilingual Journey”. A copy of the book (only the Chin
 税的优惠，请提供姓名以及税务帐号。</p></div></div><br/>
   <div><h4>您可以采取以下方式捐款：<br/>
    <br/>
-  A. 通过SG Gives 网站</h4>
-  <div><p>您也可以通过SG Gives网站 <a href="https://www.giving.sg/lee-kuan-yew-fund-for-
+  A. 通过 Giving.sg 网站</h4>
+  <div><p>您也可以通过 Giving.sg 网站 <a href="https://www.giving.sg/lee-kuan-yew-fund-for-
 bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism</a>捐款。使用该网站无需注册。</p></div></div>
   <br/>
  <div> <h4>B. 支票</h4>
@@ -64,21 +64,19 @@ bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilin
     的乐心人士就可以获得这本书的签名版一本。有意捐款者请把已填妥的订购 表格 电邮到<a href="mailto:moe_lkyfb@moe.gov.sg">
     moe_lkyfb@moe.gov.sg。</a> 现只出售华文版。</p>
   <div> <p> <a href="/about-us/Application_Guidelines.pdf" target="_blank">表格</a></p></div></div></div><br/>
-  <div><h3 id="Pendermaan">Pendermaan</h3>
+  <div><h3 id="Sumbangan Derma">Sumbangan Derma</h3>
   <div><p>Derma anda akan membantu anak-anak kita membina asas bahasa mereka pada peringkat awal lagi, dengan cara yang sesuai dengan usia mereka. Bagi menyokong usaha ini, pemerintah telah menyediakan geran padanan 1:1 bagi sumbangan anda kepada phak Dana, terhad kepada $50 juta. Anda juga layak mendapat potongan cukai sebanyak 250% (sebanyak dua setengah kali jumlah wang yang didermakan) bagi sumbangan anda itu. Nama dan nombor rujukan cukai perlu disediakan untuk mendapatkan potongan cukai ini.
 </p></div></div><br/>
-  <div><h4>Sumbangan kepada pihak Dana tersebut boleh dilakukan dengan cara berikut:<br/>
-   <br/>
-  A. Sumbangan melalui laman web SG Gives</h4>
+  A. Sumbangan melalui laman web Giving.sg</h4>
   <div><p>Penderma juga boleh memberikan sumbangan secara dalam talian melalui laman web
     di <a href="https://www.giving.sg/lee-kuan-yew-fund-for-bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism</a> Tiada pendaftaran diperlukan.</p></div></div><br/>
   <div><h4>B. Sumbangan melalui cek</h4>
   <div><p>Penderma yang ingin membuat sumbangan dalam bentuk cek boleh melakukannya atas nama
 “Lee Kuan Yew Fund for Bilingualism”. Cek mesti dipangkah.<br/>
 Penderma harus memberikan keterangan yang berikut di belakang cek tersebut:<br/>
-<ul><li>Nama penuh (seperti tertera di salam kad pengenalan) atau nama syarikat (untuk tujuan resit pengecualian cukai)
+<ul><li>Nama penuh (seperti tertera di dalam kad pengenalan) atau nama syarikat (untuk tujuan resit pengecualian cukai)
 </li>
-<li>NRIC/FIN No./UEN (untuk kemasukan derma secara auto bagi penilaian cukai)
+<li>NRIC/FIN No./UEN (untuk kemasukan derma secara automatik bagi penilaian cukai)
 </li>
 <li>Alamat surat-menyurat untuk menghantar resit pontongan cukai
 </li>
