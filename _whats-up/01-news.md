@@ -13,7 +13,7 @@ Applicants are encouraged to read the FAQ carefully before submitting an applica
 - <a href="/whats-up/Individuals_Call-for-Projects-Application-Form.docx" target="_blank">Application Form for Individuals</a>
 - <a href="/whats-up/Organisation_Call-for-Projects-Application-Form.docx" target="_blank">Application Form for Organisations/Institutions</a></p></div><br/>
 <div><p>For queries or assistance, please email to <a href="mailto:moe_lkyfb@moe.gov.sg">moe_lkyfb@moe.gov.sg</a>.<br/>
-Press Release for the launch <strong>#IAmBilingualSG Call for Projects</strong> is available <a href="https://www.moe.gov.sg/news/press-releases/launch-of-iambilingualsg-call-for-projects" target="_blank">here.</a></p></div>
+Press Release for the launch <strong>#IAmBilingualSG Call for Projects</strong> is available <a href="https://www.moe.gov.sg/news/press-releases/launch-of-iambilingualsg-call-for-projects" target="_blank">here.</a></p></div><br/>
 
 <div><h4>04 January 2018 <br/>
 Connecting Communities & Bridging Generations Through our Mother Tongue Languages</h4>
