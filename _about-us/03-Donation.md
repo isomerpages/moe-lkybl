@@ -53,7 +53,7 @@ bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilin
      <li>邮政地址（方便我们寄出扣税收据）</li>
       <li>联络电话号码以及电邮地址</li></ul>
   </p></div></div>
-  <div><h3>请将填写好的支票寄到以下地址:</h3>
+  <div><h4>请将填写好的支票寄到以下地址:</h4>
  <div><p> Lee Kuan Yew Fund for Bilingualism <br/>
   c/o Ministry of Education  <br/>
   1 North Buona Vista Drive  <br/>
