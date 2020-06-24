@@ -90,8 +90,8 @@ National University of Singapore</td>
     <td>Professor Eddie Kuo<br/>
 郭振羽教授</td>
     <td>Emeritus Professor<br/>
-Nanyang Technological University<br/>
-Academic Advisor<br/>   <br/>
+Nanyang Technological University<br/> <br/>
+Academic Advisor<br/>  
 Singapore University of Social Sciences</td>
    
   </tr><tr>
