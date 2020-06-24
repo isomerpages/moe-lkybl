@@ -108,7 +108,7 @@ kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg </a>&nbsp;Ha
  திப்பீட்டுக்கொக நன்மகொயடயயத் தொனியங்கு முயறயில் ணசர்ப்பதற்கு)</li>
      <li>வரிக்கழிவுக்கானரசீதைஅனுப்புவதற்குரியஅஞ்சல்முகவரி</li>
     <li>தொடர்புஎண், மின்னஞ்சல்முகவரி</li></ul>
-  </p></div></div><br/>
+  </p></div></div>
   <div><h4>பபூர்த்திசெய்யப்பட்டகாசோலைகளைப்பின்வரும்முகவரிக்குஅனுப்பிவைக்கவும்:</h4>
   <div><p>Ministry of Education<br/>
   1 North Buona Vista Drive <br/>
