@@ -3,7 +3,7 @@ title: Board
 permalink: /about-us/board/
 ---
 
-####   Board
+###   Board
 <html>
 <div><p>
 The Fund is managed by a Board and supported by the following committees:<br/> 
@@ -48,7 +48,7 @@ border: 1px solid black;
     <td>Ms Low Yen Ling (Vice-
 chair)<br/>刘燕玲 ( 副主席 )</td>
     <td>Senior Parliamentary Secretary<br/>
-Ministry of Education &amp; Ministry of Manpower<br/>
+Ministry of Education &amp; Ministry of Manpower<br/><br/>
     Mayor<br/>
       South West District
 </td>   
@@ -90,14 +90,14 @@ National University of Singapore</td>
     <td>Professor Eddie Kuo<br/>
 郭振羽教授</td>
     <td>Emeritus Professor<br/>
-Nanyang Technological University, and<br/>
-Academic Advisor<br/>
+Nanyang Technological University<br/>
+Academic Advisor<br/>   <br/>
 Singapore University of Social Sciences</td>
    
   </tr><tr>
     <td>Madam Rahayu Mahzam</td>
     <td>Member of Parliament<br/>
-Jurong GRC<br/>
+Jurong GRC<br/><br/>
   Member<br/>
 Malay Language Council
 </td>
@@ -112,7 +112,7 @@ Ministry of Education</td>
   <tr>
     <td>Mr Hawazi Daipi</td>
     <td>Singapore’s Non-Resident High Commissioner to the Republic of Ghana, and <br/>
-      Non-Resident Representative to the Palestine National Authority<br/>
+      Non-Resident Representative to the Palestine National Authority<br/>   <br/>
       Chairman<br/>
 National Council Against Drug Abuse
 </td>
