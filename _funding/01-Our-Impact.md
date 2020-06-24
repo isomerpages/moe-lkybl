@@ -4,7 +4,7 @@ permalink: /funding/our-impact/
 ---
 
 ###  Our Impact
-<div><p>&nbsp;&nbsp;&nbsp;&nbsp;Since its inception, the Lee Kuan Yew Fund for Bilingualism has held true to its mission of enabling a steady pipeline of locally contextualised and age-appropriate resources and programmes to foster bilingualism in children.  The focus has been on pre-schoolers, or even younger children, because the foundation for learning both the English and Mother Tongue Languages (MTLs) is best laid when children are young.  Besides focusing on pre-schoolers, we have also broadened our focus to promote bilingualism as a lifelong endeavour. <br/><br/>
+<div><p>Since its inception, the Lee Kuan Yew Fund for Bilingualism has held true to its mission of enabling a steady pipeline of locally contextualised and age-appropriate resources and programmes to foster bilingualism in children.  The focus has been on pre-schoolers, or even younger children, because the foundation for learning both the English and Mother Tongue Languages (MTLs) is best laid when children are young.  Besides focusing on pre-schoolers, we have also broadened our focus to promote bilingualism as a lifelong endeavour. <br/><br/>
  <img border="0" src="/images/Our-Impact.jpeg" style="width:800px; height:180px;"></p>
 <div><p>&nbsp;&nbsp;&nbsp;&nbsp;“We work closely withlike-minded stakeholders and community partners”, “individual and entities to support worthy initiatives and programmes in making MTLlearning fun ”, relevant to everyday life.Some of the partnerswe have worked withare:</p></div><br/>
 <div><h4>Mediacorp</h4>
@@ -18,7 +18,7 @@ permalink: /funding/our-impact/
 <div><h4>Chicken & Egg</h4>
   <div><p>““Ah Ma Doesn't Understand” is a series of interactive drama workshops conducted at pre-school centres".  Chicken & Egg organised the workshops to allow young children an opportunity to understand the importance of knowing their Mother Tongue and how it enables them to communicate effectively with others.</p></div></div><br/>
 <div><h4>Woo Yen Yen</h4>
-  <div><p>““Little Dim Sum Warriors” is aseries of bilingual books” and digital story apps specially designed to help children develop bilingual skills (CL and EL) through engaging content and interactive activities.</p></div></div><br/>
+  <div><p>““Little Dim Sum Warriors” is aseries of bilingual books” and digital story apps specially designed to help children develop bilingual skills (CL and EL) through engaging content and interactive activities.” </p></div></div><br/>
 <div><h4>Zuzanita Zakaria</h4>
   <div><p>The bilingual (ML-EL) picture book “Alif Is Not Coming Down (Alif Tidak Mahu Turun)”, written by Ms Zuzanita Zakaria, was filled with colourful illustrations to entice young readers to read the book. Other than the hardcover book, the picture book is also available in an audiobook format.<br/> 
    <br/>
