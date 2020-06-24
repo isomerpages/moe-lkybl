@@ -16,10 +16,10 @@ Tongue Languages helps prepare our children to plug into a globalised world and 
 our Asian heritage.</p></div><br/>
 <div><p>The Fund has been set up to supplement efforts by the Ministry of Education (MOE) in the teaching
 and learning of English and the Mother Tongue Languages.</p></div><br/>
-<div><h4>What the Fund Does</h3>
+<div><h4>What the Fund Does</h4>
 <div><p>Our MTL, heritage and culture forms an integral part of Singapore&#39;s identity and asset. The Fund
 supports proposals that encourage bilingualism and the learning of our MTLs as  living languages
-and a lifelong endeavour.</p></div></div><br/>
+and a lifelong endeavour.</p></div><br/>
  <div><h4 id="关于李光耀双语基金">关于李光耀双语基金</h4></div>
 <div><h4>概述</h4>
 <div><p>李光耀双语基金是李光耀先生于2011年11月在他的新书《我一生的挑战：新加坡双语之路》发布会上
