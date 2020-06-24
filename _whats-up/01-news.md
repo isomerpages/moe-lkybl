@@ -9,13 +9,13 @@ permalink: /whats-up/news/
 <br/>
  <div><p>To encourage bilingualism and the learning of our Mother Tongue Languages as a living language and lifelong endeavour, the Lee Kuan Yew Fund for Bilingualism (the “Fund”) launched a #IAmBilingualSG Call for Projects to support the nurturing of bilingualism in young children at home.<br/><br/> From 6 May to 31 July 2020, the Fund will invite submissions of digital resources that are user-friendly and can help parents/caregivers engage and coach their young children (aged 0-6) in the learning and enjoyment of MTLs. The Fund has set aside S$1 million for this initiative and each successful application will receive up to S$10,000 in grants depending on the quality, complexity and creativity of their submission. On a case-by-case basis, the Fund will consider awarding higher funding amounts for more complex and substantive projects with the potential for further development. <br/><br/>  This initiative is open to individuals (Singaporeans or Permanent Residents) and organisations/institutions (Singapore-based). Applicants may submit more than one submission as long as the content is different. Selected projects may be hosted on <a href="http://www.bilingualism.sg/" target="_blank">Lee Kuan Yew Fund for Bilingualism website</a>, its <a href="https://www.facebook.com/bilingualismsg" target="_blank">Facebook page</a> and other social platforms.<br/>
 Applicants are encouraged to read the FAQ carefully before submitting an application. 
- - <a href="/whats-up/FAQ_Call-for-Projects.pdf" target="_blank">FAQ</a>
+- <a href="/whats-up/FAQ_Call-for-Projects.pdf" target="_blank">FAQ</a>
 - <a href="/whats-up/Individuals_Call-for-Projects-Application-Form.docx" target="_blank">Application Form for Individuals</a>
 - <a href="/whats-up/Organisation_Call-for-Projects-Application-Form.docx" target="_blank">Application Form for Organisations/Institutions</a></p></div><br/>
 <div><p>For queries or assistance, please email to <a href="mailto:moe_lkyfb@moe.gov.sg">moe_lkyfb@moe.gov.sg</a>.<br/>
 Press Release for the launch <strong>#IAmBilingualSG Call for Projects</strong> is available <a href="https://www.moe.gov.sg/news/press-releases/launch-of-iambilingualsg-call-for-projects" target="_blank">here.</a></p></div><br/>
 
-<div><h4>04 January 2018 <br/>
+<div><h4>04 January 2018 <br/><br/>
 Connecting Communities & Bridging Generations Through our Mother Tongue Languages</h4>
 <p>In 2018, the Fund launched a series of short videos in its continuous drive to encourage the use of
 Mother Tongue languages among Singaporeans, especially children and parents. The video series
