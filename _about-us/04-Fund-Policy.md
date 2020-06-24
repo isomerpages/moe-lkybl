@@ -2,6 +2,7 @@
 title: Fund Policy
 permalink: /about-us/fund-policy/
 ---
+###  Fund Policy
  <div><h3 style="text-align:center;">Lee Kuan Yew Fund for Bilingualism<br/> Whistle Blowing Policy & Procedures</h3></div>
   <div><h4  style= "text-decoration: underline;">Policy</h4>
   <div><p>1.    This   policy   addresses   the   commitment   of   the   Lee Kuan   Yew   Fund  for Bilingualism  (“the  Fund”)  to  integrity  and  ethical behavior  by  helping  to  foster  and maintain an environment where all its stakeholders can act appropriately, without fear of retaliation.  To  maintain  these  standards,  the  Fund encourages  its  stakeholders  who have concerns about suspected serious misconduct or any breach or suspected breach of law or regulation that may adversely impact the Fund, to come forward and express these concerns without fear of punishment or unfair treatment.</p></div><br/>
