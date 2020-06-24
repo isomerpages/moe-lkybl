@@ -4,7 +4,7 @@ permalink: /funding/our-impact/
 ---
 
 ###  Our Impact
-<div><p>Since its inception, the Lee Kuan Yew Fund for Bilingualism has held true to its mission of enabling a steady pipeline of locally contextualised and age-appropriate resources and programmes to foster bilingualism in children.  The focus has been on pre-schoolers, or even younger children, because the foundation for learning both the English and Mother Tongue Languages (MTLs) is best laid when children are young.  Besides focusing on pre-schoolers, we have also broadened our focus to promote bilingualism as a lifelong endeavour. <br/>
+<div><p>Since its inception, the Lee Kuan Yew Fund for Bilingualism has held true to its mission of enabling a steady pipeline of locally contextualised and age-appropriate resources and programmes to foster bilingualism in children.  The focus has been on pre-schoolers, or even younger children, because the foundation for learning both the English and Mother Tongue Languages (MTLs) is best laid when children are young.  Besides focusing on pre-schoolers, we have also broadened our focus to promote bilingualism as a lifelong endeavour. <br/><br/>
  <img border="0" src="/images/our-impact.png" style="width:800px; height:150px;"></p>
 <div><p>We work closely withlike-minded stakeholders and community partners, individual and entities to support worthy initiatives and programmes in making MTLlearning fun and relevant to everyday life.Some of the partnerswe have worked withare:</p></div><br/>
 <div><h4>Mediacorp</h4>
@@ -14,7 +14,7 @@ permalink: /funding/our-impact/
 <div><h4>Tamil Language Council and the Malay Language Council Singapore </h4>
 <div><p>Tamil Language Council and the Malay Language Council Singapore are the main organisers of the Tamil Language Festival (TLF) and Malay Language Month (Bulan Bahasa) respectively.TLF and Bulan Bahasa programmes are developed and presented by community partners. </p></div></div><br/>
 <div><h4>National University of Singapore Tamil Language Society</h4>
- <div><p>Singapore Tamil Youth Conference is a biennial event organised by tertiary students to discuss matters related to Tamil community and the teaching and learning of Tamil language.</p></div></div>
+ <div><p>Singapore Tamil Youth Conference is a biennial event organised by tertiary students to discuss matters related to Tamil community and the teaching and learning of Tamil language.</p></div></div><br/>
 <div><h4>Chicken & Egg</h4>
   <div><p>“Ah Ma Doesn't Understand”is a series of interactive drama workshops conducted at pre-school centres.  Chicken & Egg organised the workshops to allow young children an opportunity to understand the importance of knowing their Mother Tongue and how it enables them to communicate effectively with others.</p></div></div><br/>
 <div><h4>Woo Yen Yen</h4>
