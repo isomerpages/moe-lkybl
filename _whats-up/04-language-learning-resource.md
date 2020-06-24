@@ -3,7 +3,7 @@ title: Language Learning Resource
 permalink: /whats-up/language-learning-resource/
 ---
 
-<div><h4>Language Learning Resources </h4>
+<div><h3>Language Learning Resources </h3>
 <div><p>The following contain information to help you support your child&#39;s learning and
   development, and to promote his/her reading and language skills.</p></div><br/>
 <div><h5><a href="https://www.schoolbag.sg/" target="_blank"><u>Schoolbag-The Education News Site</u></a></h5>
