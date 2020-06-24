@@ -2,8 +2,7 @@
 title: About the Fund
 permalink: /about-us/about-the-fund/
 ---
- ###   About the Fund
- <html>
+ <div><h3>About the Fund</h3>
  <h4>Overview &nbsp; &nbsp; &nbsp;          
  <a href="#关于李光耀双语基金" style="font-size:20px"><span style="color:black">Chinese</span></a>&nbsp;&nbsp;
   <a href="#Tentang Dana Kedwibahasaan Lee Kuan Yew" style="font-size:20px"><span style="color:black">Malay</span></a>&nbsp;&nbsp;
