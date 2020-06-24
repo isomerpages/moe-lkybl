@@ -20,7 +20,7 @@ and learning of English and the Mother Tongue Languages.</p></div><br/>
 <div><p>Our MTL, heritage and culture forms an integral part of Singapore&#39;s identity and asset. The Fund
 supports proposals that encourage bilingualism and the learning of our MTLs as  living languages
 and a lifelong endeavour.</p></div><br/>
- <div><h4 id="关于李光耀双语基金">关于李光耀双语基金</h4></div>
+ <div><h3 id="关于李光耀双语基金">关于李光耀双语基金</h3></div>
 <div><h4>概述</h4>
 <div><p>李光耀双语基金是李光耀先生于2011年11月在他的新书《我一生的挑战：新加坡双语之路》发布会上
  正式宣布成立的。</p></div><br/>
@@ -29,7 +29,7 @@ and a lifelong endeavour.</p></div><br/>
  机构、家庭与社区三个方面展开工作。</p></div><br/>
 <div><p>幼儿阶段是奠定语言学习基础的重要时期。成立李光耀双语基金的目的是希望通过学校、家庭与社区
  培养学前儿童对学习双语的热忱。</p></div></div><br/>
-<div><h4 id="Tentang Dana Kedwibahasaan Lee Kuan Yew">Tentang Dana Kedwibahasaan Lee Kuan Yew</h4></div>
+<div><h3 id="Tentang Dana Kedwibahasaan Lee Kuan Yew">Tentang Dana Kedwibahasaan Lee Kuan Yew</h3></div>
  <div><h4>Gambaran Keseluruhan</h4>
 <div><p>Dana Kedwibahasaan Lee Kuan Yew (“Dana”) telah diumumkan buat pertama kalinya sewaktu
 pelancaran buku Encik Lee Kuan Yew, “My Lifelong Challenge: Singapore’s Bilingual Journey” pada
@@ -42,7 +42,7 @@ tumpuan kepada inisiatif di peringkat prasekolah. </p></div><br/>
 Kedwibahasaan Lee Kuan Yew bertujuan memupuk rasa cinta akan pembelajaran dwibahasa dalam
 kalangan kanak-kanak sejak kecil lagi di peringkat prasekolah, di rumah dandalam kalangan 
  masyarakat.</p></div></div><br/>
- <div><h4 id="இருமொழிக்கல்விக்கானலீகுவான்யூநிதிபற்றியவிவரங்கள்">இருமொழிக்கல்விக்கானலீகுவான்யூநிதிபற்றியவிவரங்கள்</h4></div>
+ <div><h3 id="இருமொழிக்கல்விக்கானலீகுவான்யூநிதிபற்றியவிவரங்கள்">இருமொழிக்கல்விக்கானலீகுவான்யூநிதிபற்றியவிவரங்கள்</h3></div>
  <div><h4>கண்ணோட்டம்</h4></div>
 <div><p>இருமொழிக்கல்விக்கானலீகுவான்யூநிதி, திருலீகுவான்யூவின் ‘எனதுவாழ்நாள்சவால்: சிங்கப்பூரின்இருமொழிப்பயணம்’ புத்தகவெளியீட்டுவிழாவின்போதுமுதன்முதலில்நவம்பர் 2011 அன்றுஅறிவிக்கப்பட்டது.</p></div><br/>
 <div><p>மாறிவரும்வீட்டுமொழிச்சூழலில்இந்நிதிஇருமொழிக்கல்வியைவளர்ப்பதையும்,ஆங்கிலம்,தாய்மொழிகளின்கற்றலிலும்கற்பித்தலிலும்கல்விஅமைச்சின்முயற்சிகளைஊக்கப்படுத்துவதையும்நோக்கமாகக்கொண்டுள்ளது.இந்நிதிபாலர்பள்ளிநிலையிலானமுயற்சிகளைஊக்கப்படுத்துவதில்அதிகஅக்கறைகொண்டுள்ளது.அதேவேளையில்மொழிகற்றலுக்குஆதரவானமொழிச்சூழலைஉருவாக்கித்தர,இந்நிதிபாலர்பள்ளிகள்,இல்லங்கள்,சமூகம்ஆகியவற்றைஉள்ளடக்கியஅனைத்துமுயற்சிகளையும்ஊக்குவிப்பதிலும்அக்கறைகொண்டுள்ளது. .</p></div><br/>
