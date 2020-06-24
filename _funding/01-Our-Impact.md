@@ -4,9 +4,9 @@ permalink: /funding/our-impact/
 ---
 
 ###  Our Impact
-<div><p>&nbsp;&nbsp;&nbsp;&nbsp;Since its inception, the Lee Kuan Yew Fund for Bilingualism has held true to its mission of enabling a steady pipeline of locally contextualised and age-appropriate resources and programmes to foster bilingualism in children.  The focus has been on pre-schoolers, or even younger children, because the foundation for learning both the English and Mother Tongue Languages (MTLs) is best laid when children are young.  Besides focusing on pre-schoolers, we have also broadened our focus to promote bilingualism as a lifelong endeavour. <br/>
+<div><p>Since its inception, the Lee Kuan Yew Fund for Bilingualism has held true to its mission of enabling a steady pipeline of locally contextualised and age-appropriate resources and programmes to foster bilingualism in children.  The focus has been on pre-schoolers, or even younger children, because the foundation for learning both the English and Mother Tongue Languages (MTLs) is best laid when children are young.  Besides focusing on pre-schoolers, we have also broadened our focus to promote bilingualism as a lifelong endeavour. <br/>
  <img border="0" src="/images/our-impact.png" style="width:800px; height:150px;"></p>
-<div><p>&nbsp;&nbsp;&nbsp;&nbsp;We work closely withlike-minded stakeholders and community partners, individual and entities to support worthy initiatives and programmes in making MTLlearning fun and relevant to everyday life.Some of the partnerswe have worked withare:</p></div><br/>
+<div><p>We work closely withlike-minded stakeholders and community partners, individual and entities to support worthy initiatives and programmes in making MTLlearning fun and relevant to everyday life.Some of the partnerswe have worked withare:</p></div><br/>
 <div><h4>Mediacorp</h4>
 <div><p>“Junction Tree” is Singapore's first locally-produced, bilingual pre-school programme. It is available in English-Chinese, English-Malay and English-Tamil versions. “Junction Tree” won the "Best Preschool Programme" at the Asian Academy Creative Awards in 2018. The programme can be viewed digital entertainment platform MeWatch.</p></div></div><br/>
 <div><h4>Singapore Federation of Chinese Clans Associations (SFCCA)</h4>
