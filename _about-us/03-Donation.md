@@ -82,7 +82,7 @@ Penderma harus memberikan keterangan yang berikut di belakang cek tersebut:<br/>
 </li>
 <li>Nombor telefon dan alamat e-mel
 </li></ul>
-  <div><h3>Cek yang lengkap harus diposkan kepada:</h3>
+  <div><h4>Cek yang lengkap harus diposkan kepada:</h4>
   <div><p>Lee Kuan Yew Fund for Bilingualism <br/>
   c/o Ministry of Education  <br/>
   1 North Buona Vista Drive  <br/>
