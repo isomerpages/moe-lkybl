@@ -82,8 +82,7 @@ National Volunteer &amp; Philanthropy Centre</td>
   </tr><tr>
     <td>Mr R Rajaram<br/>
 ரா. ராஜாராம்</td>
-    <td>Senior Director<br/>
-Office of Admissions<br/>
+    <td>Registrar<br/>
 National University of Singapore</td>
     
   </tr><tr>
