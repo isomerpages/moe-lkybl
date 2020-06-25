@@ -114,7 +114,7 @@ kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg </a>&nbsp;Ha
 <div>
    <h4>B. காசோலைவழி நன்கொடை</h4>
    <div>
-    <p style="margin: 0px 0px 11px; text-align:left;"><span lang="TA" style="background: white; margin: 0px; line-height: 107%; font-family: 'Latha',sans-serif;"> காசோலைவழி நன்கொடை வழங்க விரும்புவோர் ‘Lee Kuan Yew Fund for Bilingualism’ என்று காசோலையில் குறிப்பிட வேண்டும். காசோலையில் குறுக்குக் கோடு இடப்பட்டிருக்க வேண்டும். நன்கொடை வழங்குவோர் காசோலையின் பின்புறத்தில் பின்வரும் விவரங்களைக் குறிப்பிட வேண்டும்:
+    <p style="margin: 0px 0px 11px; text-align:left;"><span lang="TA" style="background: white; margin: 0px; line-height: 107%; font-family: 'Latha',sans-serif;"> காசோலைவழி நன்கொடை வழங்க விரும்புவோர்<span style="font-size:16pt; font-family: 'Latha',sans-serif;"> ‘Lee Kuan Yew Fund for Bilingualism’ </span>என்று காசோலையில் குறிப்பிட வேண்டும். காசோலையில் குறுக்குக் கோடு இடப்பட்டிருக்க வேண்டும். நன்கொடை வழங்குவோர் காசோலையின் பின்புறத்தில் பின்வரும் விவரங்களைக் குறிப்பிட வேண்டும்:
  <ul>
   <li>முழுப்பெயர் (அடையாள அட்டையில் உள்ளதுபோல்) அல்லது நிறுவனத்தின் பெயர் (வரிக்கழிவுக்கான ரசீதுக்கு இது தேவைப்படும்)</li>
       <li>அடையாள அட்டை எண்/வெளிநாட்டினர் அடையாள எண்/தனிச்சிறப்பு எண் (வரி மதிப்பீட்டுக்காக நன்கொடையைத் தானியங்கு முறையில் சேர்ப்பதற்கு)
