@@ -64,7 +64,7 @@ takes time and effort to complete proposals, and strongly encourage applicants t
   doubts regarding funding criteria prior to commencing your applications.</strong></p></div><br/>
 <div><p><strong>For proposals on teaching and learning resources, programmes and events:</strong>
 <ul><li><a href="/funding/Application-Guide-for-General-Call-for-Proposals.pdf" target="_blank">Fund Application Guidelines</a></li>
-<li><a href="/funding/FAQs.pdf" target="_blank">FAQs</a></li>
+<li><a href="/funding/FAQs_20200103.pdf" target="_blank">FAQs</a></li>
 <li><a href="/funding/ApplicantChecklist.docx">Applicant Checklist</a></li>
 <li><a href="/funding/ApplicationForm.docx">Application Form</a></li>
   <li><a href="/funding/ProposedBudget.xlsx">Application Form Annex I: Proposed Budget</a></li></ul></p><div>
