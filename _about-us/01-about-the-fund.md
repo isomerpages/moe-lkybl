@@ -40,7 +40,7 @@ persekitaran penggunaan bahasa di rumah. Sebagai permulaan, Dana ini akan member
 tumpuan kepada inisiatif di peringkat prasekolah. </p></div><br/>
 <div><p>Tahun-tahun awal penting untuk membina asas yang kukuh dalam pembelajaran bahasa. Dana
 Kedwibahasaan Lee Kuan Yew bertujuan memupuk rasa cinta akan pembelajaran dwibahasa dalam
-kalangan kanak-kanak sejak kecil lagi di peringkat prasekolah, di rumah dandalam kalangan 
+kalangan kanak-kanak sejak kecil lagi di peringkat prasekolah, di rumah dan dalam kalangan 
  masyarakat.</p></div></div><br/>
  <div><h3 id="இருமொழிக்கல்விக்கானலீகுவான்யூநிதிபற்றியவிவரங்கள்">இருமொழிக்கல்விக்கானலீகுவான்யூநிதிபற்றியவிவரங்கள்</h3></div>
  <div><h4>கண்ணோட்டம்</h4></div>
