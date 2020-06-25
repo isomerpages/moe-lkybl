@@ -47,7 +47,7 @@ kalangan kanak-kanak sejak kecil lagi di peringkat prasekolah, di rumah dan dala
  <div><p style="margin: 0px 0px 11px;"><span lang="TA" style="background: white; margin: 0px; color: rgb(90, 90, 90); line-height: 107%; font-family: 'Latha',sans-serif;">இருமொழிக்கல்விக்கானலீகுவான்யூநிதி, திருலீகுவான்யூவின் ‘எனதுவாழ்நாள்சவால்: சிங்கப்பூரின்இருமொழிப்பயணம்’ புத்தகவெளியீட்டுவிழாவின்போதுமுதன்முதலில்நவம்பர் 2011 அன்றுஅறிவிக்கப்பட்டது.</span></p></div><br/>
 <div><p style="margin: 0px 0px 11px;"><span lang="TA" style="background: white; margin: 0px; color: rgb(90, 90, 90); line-height: 107%; font-family: 'Latha',sans-serif;">மாறிவரும்வீட்டுமொழிச்சூழலில்இந்நிதிஇருமொழிக்கல்வியைவளர்ப்பதையும், ஆங்கிலம், தாய்மொழிகளின்கற்றலிலும்கற்பித்தலிலும்கல்விஅமைச்சின்முயற்சிகளைஊக்கப்படுத்துவதையும்நோக்கமாகக்கொண்டுள்ளது. இந்நிதிபாலர்பள்ளிநிலையிலானமுயற்சிகளைஊக்கப்படுத்துவதில்அதிகஅக்கறைகொண்டுள்ளது. அதேவேளையில்மொழிகற்றலுக்குஆதரவானமொழிச்சூழலைஉருவாக்கித்தர, இந்நிதிபாலர்பள்ளிகள், இல்லங்கள், சமூகம்ஆகியவற்றைஉள்ளடக்கியஅனைத்துமுயற்சிகளையும்ஊக்குவிப்பதிலும்அக்கறைகொண்டுள்ளது. .</span></p></div><br/>
 <div><p style="margin: 0px 0px 11px;"><span lang="TA" style="background: white; margin: 0px; color: rgb(90, 90, 90); line-height: 107%; font-family: 'Latha',sans-serif; font-size: ">நம்தாய்மொழிகள், மரபுடைமை, கலாச்சாரம்ஆகியவைசிங்கப்பூரின்அடையாளம்மற்றும்மதிப்புஆகியவற்றின்முக்கியஅங்கங்களாகத்திகழ்கின்றன. இருமொழிக்கல்வியையும்தாய்மொழிகளைவாழும்மொழிகளாகவாழ்நாள்முழுவதும்நீடித்திருக்கவும்உதவும்செயல்திட்டங்களுக்குஇந்நிதிஆதரவுவழங்கிவருகிறது.</span></p></div>
-</p></div>
+
 
 
  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
