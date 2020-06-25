@@ -206,7 +206,8 @@ $desktop: 960px + (2 * $gap) !default;
 		//border-left:1px solid darken($primary,10%);
 		border-left:1px solid #c5c3c3;
 		@include touch(){
-			border-top:1px solid darken($primary,10%);
+			//border-top:1px solid darken($primary,10%);
+			border-top:1px solid #c5c3c3;
 		}
 		&:hover{
 			//background-color: darken($primary,10%);
