@@ -49,7 +49,7 @@ bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilin
   <div><p>请用划注明收款者为明是给 
  “Lee Kuan Yew Fund for Bilingualism”。
 请在支票背面提供以下信息：
-    <ul><li>全名（与身份证上的姓名相同）或公司名称, 以便我们提供可减免税务的收据</li>
+    <ul><li>全名（与身份证上的姓名相同）或公司名称 , 以便我们提供可减免税务的收据</li>
   <li>身份证号码/居留机构识别号码
 （机构）（方便自动申报扣税）</li>
      <li>邮政地址（方便我们寄出扣税收据）</li>
@@ -62,7 +62,7 @@ bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilin
   Singapore 138675 <br/>
   Attn: Ms Cynthia Chandramuljana, Financial Management Section</p></div></div><br/>
    <div><h4>C. 购买《我一生的挑战——新加坡双语之路》签名版</h4>
-  <div><p>我们一共有２００本李光耀先生 亲笔签名《我一生的挑战——新加坡双语之路》仅有华文版）。捐赠至少一万元
+  <div><p>我们一共有２００本李光耀先生 亲笔签名《我一生的挑战——新加坡双语之路》（仅有华文版）。捐赠至少一万元
     的者就可以获得这本书的签名版一本。有意捐款者请把已填妥的订购 表格 电邮到<a href="mailto:moe_lkyfb@moe.gov.sg">
     moe_lkyfb@moe.gov.sg。</a> </p>
   <div> <p> <a href="/about-us/order-form-for-my-lifelong-challenge.pdf" target="_blank">Order Form</a></p></div></div></div><br/>
