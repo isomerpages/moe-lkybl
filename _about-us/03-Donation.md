@@ -98,7 +98,7 @@ kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg </a>&nbsp;Ha
  <div><p><a href="/about-us/order-form-for-my-lifelong-challenge.pdf" target="_blank">Order Form</a></p></div></div></div><br/>
  <div><h3 id="நன்கொடை">நன்கொடை</h3>
 <div>
-   <p style="margin: 0px 0px 11px; text-align:left;"><span lang="TA" style="background: white; margin: 0px; line-height: 107%; font-family: 'Latha',sans-serif;">நம்பிள்ளைகள்அடிப்படைமொழிவளத்தைத்தம்வயதுக்கேற்பபொருத்தமானவகையில்வளர்த்துக்கொள்ளநீங்கள்வழங்கும்நன்கொடைஉதவும். இதற்குஆதரவுஅளிக்கும்வகையில்பெறப்படும்நன்கொடைக்குஅரசாங்கம்வெள்ளிக்குவெள்ளிஎன்னும்அடிப்படையில்நிதிமானியமாகக்கூடியபட்சம் 50 மில்லியன்வெள்ளிவரைவழங்கும். இந்தநிதிக்குவழங்கப்படும்நன்கொடைக்கு 250 விழுக்காடுவரிக்கழிவுதரப்படும். வரிக்கழிவுக்குத்தகுதிபெறப்பெயரையும்வரிமேற்கோள்எண்களையும்குறிப்பிடவேண்டும்.</span></p>
+   <p style="margin: 0px 0px 11px; text-align:left;"><span lang="TA" style="background: white; margin: 0px; line-height: 107%; font-family: 'Latha',sans-serif;">நம் பிள்ளைகள் அடிப்படை மொழிவளத்தைத் தம் வயதுக்கேற்ப பொருத்தமான வகையில் வளர்த்துக்கொள்ள நீங்கள் வழங்கும் நன்கொடை உதவும். இதற்கு ஆதரவு அளிக்கும் வகையில் பெறப்படும் நன்கொடைக்கு அரசாங்கம் வெள்ளிக்கு வெள்ளி என்னும் அடிப்படையில் நிதிமானியமாகக் கூடியபட்சம் 50 மில்லியன் வெள்ளிவரை வழங்கும். இந்த நிதிக்கு வழங்கப்படும் நன்கொடைக்கு 250 விழுக்காடு வரிக்கழிவு தரப்படும். வரிக்கழிவுக்குத் தகுதிபெறப் பெயரையும் வரி மேற்கோள் எண்களையும் குறிப்பிட வேண்டும்.</span></p>
 </div>
 <div>
   <p style="margin: 0px 0px 11px; text-align:justify;"><span lang="TA" style="background: white; margin: 0px; line-height: 107%; font-family: 'Latha',sans-serif;">நீங்கள்பின்வரும்வழிகளில்இந்தநிதிக்குநன்கொடைகளைவழங்கலாம்:</span></p>
