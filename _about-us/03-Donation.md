@@ -62,8 +62,8 @@ bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilin
   Singapore 138675 <br/>
   Attn: Ms Cynthia Chandramuljana, Financial Management Section</p></div></div><br/>
    <div><h4>C. 购买《我一生的挑战——新加坡双语之路》签名版</h4>
-  <div><p>我们一共有２００本李光耀先生 亲笔签名《我一生的挑战——新加坡双语之路》（仅有华文版）。捐赠至少一万元
-    的者就可以获得这本书的签名版一本。有意捐款者请把已填妥的订购 表格 电邮到<a href="mailto:moe_lkyfb@moe.gov.sg">
+  <div><p>我们一共有２００本李光耀先生亲笔签名《我一生的挑战——新加坡双语之路》（仅有华文版）。捐赠至少一万元
+    者就可以获得这本书的签名版一本。有意捐款者请把已填妥的订购表格电邮到<a href="mailto:moe_lkyfb@moe.gov.sg">
     moe_lkyfb@moe.gov.sg。</a> </p>
   <div> <p> <a href="/about-us/order-form-for-my-lifelong-challenge.pdf" target="_blank">Order Form</a></p></div></div></div><br/>
   <div><h3 id="Sumbangan Derma">Sumbangan Derma</h3>
