@@ -54,7 +54,7 @@ kalangan kanak-kanak sejak kecil lagi di peringkat prasekolah, di rumah dan dala
 </div>
 <br/>
 <div>
-   <p style="margin: 0px 0px 11px; text-align:justify;"><span lang="TA" style="background: white; margin: 0px;  line-height: 107%; font-family: 'Latha',sans-serif; font-size: ">நம் தாய்மொழிகள், மரபுடைமை, கலாச்சாரம் ஆகியவை சிங்கப்பூரின் அடையாளம் மற்றும் மதிப்பு ஆகியவற்றின் முக்கிய அங்கங்களாகத் திகழ்கின்றன. இருமொழிக் கல்வியையும் தாய்மொழிகளை வாழும் மொழிகளாக வாழ்நாள் முழுவதும் நீடித்திருக்கவும் உதவும் செயல்திட்டங்களுக்கு இந்நிதி ஆதரவு வழங்கி வருகிறது.</span></p>
+   <p style="margin: 0px 0px 11px; text-align:justify;"><span lang="TA" style="background: white; margin: 0px;  line-height: 107%; font-family: 'Latha',sans-serif; ">நம் தாய்மொழிகள், மரபுடைமை, கலாச்சாரம் ஆகியவை சிங்கப்பூரின் அடையாளம் மற்றும் மதிப்பு ஆகியவற்றின் முக்கிய அங்கங்களாகத் திகழ்கின்றன. இருமொழிக் கல்வியையும் தாய்மொழிகளை வாழும் மொழிகளாக வாழ்நாள் முழுவதும் நீடித்திருக்கவும் உதவும் செயல்திட்டங்களுக்கு இந்நிதி ஆதரவு வழங்கி வருகிறது.</span></p>
 </div>
 
 
