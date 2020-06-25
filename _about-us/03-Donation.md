@@ -70,7 +70,7 @@ bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilin
    <div><h4>Sumbangan kepada pihak Dana boleh dilakukan dengan cara berikut<br/>
     <br/>
   A. Sumbangan melalui laman web Giving.sg</h4>
-  <div><p>Penderma juga boleh memberikan sumbangan secara dalam talian melalui laman web di <a href="https://www.giving.sg/lee-kuan-yew-fund-for-bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism</a> Tiada pendaftaran diperlukan.</p></div></div><br/>
+  <div><p>Penderma juga boleh memberikan sumbangan secara dalam talian melalui laman web di <a href="https://www.giving.sg/lee-kuan-yew-fund-for-bilingualism" target="_blank"> https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism</a> Tiada pendaftaran diperlukan.</p></div></div><br/>
   <div><h4>B. Sumbangan melalui cek</h4>
   <div><p>Penderma yang ingin membuat sumbangan dalam bentuk cek boleh melakukannya atas nama “Lee Kuan Yew Fund for Bilingualism”. Cek mesti dipangkah.<br/>
 Penderma harus memberikan keterangan yang berikut di belakang cek tersebut:<br/>
@@ -107,7 +107,7 @@ kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg </a>&nbsp;Ha
 <div>
    <h4>A. எஸ்ஜி கிவ்ஸ் என்னும் இணையத்தளத்தின்வழி நன்கொடை</h4>
    <div>
-     <p style="margin: 0px 0px 11px; text-align:left;"><span lang="TA" style="background: white; margin: 0px; line-height: 107%; font-family: 'Latha',sans-serif;">நன்கொடை வழங்க விரும்புவோர்<a href="https://www.giving.sg/lee-kuan-yew-fund-for-bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism </a> என்னும் இணையத்தளத்தின் வழியாக நன்கொடை வழங்கலாம். இதற்குப் பதிவுசெய்யத் தேவையில்லை.</span></p>
+     <p style="margin: 0px 0px 11px; text-align:left;"><span lang="TA" style="background: white; margin: 0px; line-height: 107%; font-family: 'Latha',sans-serif;">நன்கொடை வழங்க விரும்புவோர்<a href="https://www.giving.sg/lee-kuan-yew-fund-for-bilingualism" target="_blank"> https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism </a> என்னும் இணையத்தளத்தின் வழியாக நன்கொடை வழங்கலாம். இதற்குப் பதிவுசெய்யத் தேவையில்லை.</span></p>
    </div>
 </div>
 <br/>
