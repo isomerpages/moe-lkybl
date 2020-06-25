@@ -16,7 +16,7 @@ permalink: /funding/our-impact/
 <div><h4>National University of Singapore Tamil Language Society</h4>
  <div><p>Singapore Tamil Youth Conference is a biennial event organised by tertiary students to discuss matters related to Tamil community and the teaching and learning of Tamil language.</p></div></div><br/>
 <div><h4>Chicken & Egg</h4>
-  <div><p>“Ah Ma Doesn't Understand” is a series of interactive drama workshops conducted at pre-school centres.  Chicken & Egg organised the workshops to allow young children an opportunity to understand the importance of knowing their Mother Tongue and how it enables them to communicate effectively with others.</p></div></div><br/>
+  <div><p>“Ah Ma Doesn't Understand” is a series of interactive drama workshops conducted at pre-school centres. Chicken & Egg organised the workshops to allow young children an opportunity to understand the importance of knowing their Mother Tongue and how it enables them to communicate effectively with others.</p></div></div><br/>
 <div><h4>Woo Yen Yen</h4>
   <div><p>“Little Dim Sum Warriors” is a series of bilingual books and digital story apps specially designed to help children develop bilingual skills (CL and EL) through engaging content and interactive activities. </p></div></div><br/>
 <div><h4>Zuzanita Zakaria</h4>
