@@ -133,7 +133,7 @@ kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg </a>&nbsp;Ha
          MOE  Building, #09-55  <br/>
          Singapore 138675 <br/>
          Attn: Ms Cynthia Chandramuljana, Financial Management Branch
-    </span>
+ 
       </p>
    </div>
 </div>
