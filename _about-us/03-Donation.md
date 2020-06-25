@@ -49,8 +49,8 @@ bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilin
   <div><p>请用划注明收款者为明是给 
  “Lee Kuan Yew Fund for Bilingualism”。
 请在支票背面提供以下信息：
-    <ul><li>全名（与身份证上的姓名相同）或公司名称 ,以便我们提供可减免税务的收据</li>
-  <li>身份证号码/居留证号码/机构识别号码
+    <ul><li>全名（与身份证上的姓名相同）或公司名称, 以便我们提供可减免税务的收据</li>
+  <li>身份证号码/居留机构识别号码
 （机构）（方便自动申报扣税）</li>
      <li>邮政地址（方便我们寄出扣税收据）</li>
       <li>联络电话号码以及</li></ul>
