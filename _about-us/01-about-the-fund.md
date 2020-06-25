@@ -46,7 +46,7 @@ kalangan kanak-kanak sejak kecil lagi di peringkat prasekolah, di rumah dan dala
  <div><h4>கண்ணோட்டம்</h4></div>
  
 <div>
-   <p style="margin: 0px 0px 11px; text-align:justify;"><span lang="TA" style="background: white; margin: 0px; line-height: 107%; font-family: 'Latha',sans-serif;">இருமொழிக் கல்விக்கான லீ குவான் யூ நிதி, திரு லீ குவான் யூவின் ‘எனது வாழ்நாள் சவால்: சிங்கப்பூரின் இருமொழிப் பயணம்’ புத்தக வெளியீட்டு விழாவின் போது முதன் முதலில் நவம்பர் 2011 அன்று அறிவிக்கப்பட்டது.</span></p>
+   <p style="margin: 0px 0px 11px; text-align:justify;"><span lang="TA" style="background: white; margin: 0px; line-height: 107%; font-family: 'Latha',sans-serif;">இருமொழிக் கல்விக்கான லீ குவான் யூ நிதி, திரு லீ குவான் யூவின் ‘எனது வாழ்நாள் சவால்: சிங்கப்பூரின் இருமொழிப் பயணம்’ புத்தக வெளியீட்டு விழாவின் போது முதன் முதலில் நவம்பர் <span style="font-size:13pt;">2011</span> அன்று அறிவிக்கப்பட்டது.</span></p>
 </div>
 <br/>
 <div>
