@@ -54,7 +54,7 @@ kalangan kanak-kanak sejak kecil lagi di peringkat prasekolah, di rumah dan dala
 <div><p style="margin: 0px 0px 11px;"><span lang="TA" style="background: white; margin: 0px; color: rgb(90, 90, 90); line-height: 107%; font-family: 'Latha',sans-serif; font-size: 10.5pt;">இருமொழிக் கல்வியையும் தாய்மொழி கல்வியையும் வாழும்
    மொழியாகவும் </span>
 </p></div>
-<div><p style="margin: 0px 0px 11px;"><span lang="TA" style="background: white; margin: 0px; color: rgb(90, 90, 90); line-height: 107%; font-family: 'Latha',sans-serif; font-size: 10.5pt;">வாழ்நாள் முழுவதும் நீடித்திருக்க உதவும் செயல்திட்டங்களுக்கு இந்நிதி
+<div><p style="margin: 0px 0px 11px;"><span lang="TA" style="background: white; margin: 0px; color: rgb(90, 90, 90); line-height: 107%; font-family: 'Latha',sans-serif;">வாழ்நாள் முழுவதும் நீடித்திருக்க உதவும் செயல்திட்டங்களுக்கு இந்நிதி
    ஆதரவு</span>
 </p></div>
 <div><p style="margin: 0px 0px 11px;"><span lang="TA" style="background: white; margin: 0px; color: rgb(90, 90, 90); line-height: 107%; font-family: 'Latha',sans-serif; font-size: 10.5pt;">வழங்கி வருகிறது. </span></p></div>
