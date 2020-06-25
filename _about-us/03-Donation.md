@@ -43,7 +43,7 @@ Challenge: Singapore’s Bilingual Journey”. A copy of the book (only the Chin
    <br/>
   A. 通过 Giving.sg 网站</h4>
   <div><p>您也可以通过 Giving.sg 网站 <a href="https://www.giving.sg/lee-kuan-yew-fund-for-
-bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism</a>捐款 。</p></div></div>
+bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism</a></p></div></div>
   <br/>
  <div> <h4>B. 支票</h4>
   <div><p>请用划注明收款者为明是给 
