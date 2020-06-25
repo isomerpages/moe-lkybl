@@ -43,15 +43,17 @@ Challenge: Singapore’s Bilingual Journey”. A copy of the book (only the Chin
    <br/>
   A. 通过 Giving.sg 网站</h4>
   <div><p>您也可以通过 Giving.sg 网站 <a href="https://www.giving.sg/lee-kuan-yew-fund-for-
-bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism</a>捐款。使用该网站无需注册。</p></div></div>
+bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism</a>捐款 。</p></div></div>
   <br/>
  <div> <h4>B. 支票</h4>
-  <div><p>请用划线支票，并注明是给 “Lee Kuan Yew Fund for Bilingualism”。
+  <div><p>请用划注明收款者为明是给 
+ “Lee Kuan Yew Fund for Bilingualism”。
 请在支票背面提供以下信息：
-    <ul><li>全名（与身份证上的姓名相同）或公司名称（以便我们提供收据供您呈报减免税务）</li>
-  <li>身份证号码/居留证号码/个体识别号码（机构）（方便自动申报扣税）</li>
+    <ul><li>全名（与身份证上的姓名相同）或公司名称 ,以便我们提供可减免税务的收据</li>
+  <li>身份证号码/居留证号码/机构识别号码
+（机构）（方便自动申报扣税）</li>
      <li>邮政地址（方便我们寄出扣税收据）</li>
-      <li>联络电话号码以及电邮地址</li></ul>
+      <li>联络电话号码以及</li></ul>
   </p></div></div>
   <div><h4>请将填写好的支票寄到以下地址:</h4>
  <div><p> Lee Kuan Yew Fund for Bilingualism <br/>
@@ -59,10 +61,10 @@ bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilin
   1 North Buona Vista Drive  <br/>
   Singapore 138675 <br/>
   Attn: Ms Cynthia Chandramuljana, Financial Management Section</p></div></div><br/>
-   <div><h4>C. 向新加坡报业控股购买《我一生的挑战——新加坡双语之路》签名版</h4>
-  <div><p>我们一共有２００本李光耀先生《我一生的挑战——新加坡双语之路》的签名版。捐赠至少一万元
-    的乐心人士就可以获得这本书的签名版一本。有意捐款者请把已填妥的订购 表格 电邮到<a href="mailto:moe_lkyfb@moe.gov.sg">
-    moe_lkyfb@moe.gov.sg。</a> 现只出售华文版。</p>
+   <div><h4>C. 购买《我一生的挑战——新加坡双语之路》签名版</h4>
+  <div><p>我们一共有２００本李光耀先生 亲笔签名《我一生的挑战——新加坡双语之路》仅有华文版）。捐赠至少一万元
+    的者就可以获得这本书的签名版一本。有意捐款者请把已填妥的订购 表格 电邮到<a href="mailto:moe_lkyfb@moe.gov.sg">
+    moe_lkyfb@moe.gov.sg。</a> </p>
   <div> <p> <a href="/about-us/order-form-for-my-lifelong-challenge.pdf" target="_blank">Order Form</a></p></div></div></div><br/>
   <div><h3 id="Sumbangan Derma">Sumbangan Derma</h3>
   <div><p>Derma anda akan membantu anak-anak kita membina asas bahasa mereka pada peringkat awal lagi, dengan cara yang sesuai dengan usia mereka. Bagi menyokong usaha ini, pemerintah telah menyediakan geran padanan 1:1 bagi sumbangan anda kepada pihak Dana, terhad kepada $50 juta. Anda juga layak mendapat potongan cukai sebanyak 250% (sebanyak dua setengah kali jumlah wang yang didermakan) bagi sumbangan anda itu. Nama dan nombor rujukan cukai perlu disediakan untuk mendapatkan potongan cukai ini.
@@ -142,11 +144,11 @@ kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg </a>&nbsp;Ha
    <h4>C. ‘என் வாழ்நாள் சவால்: சிங்கப்பூரின் இருமொழிப் பயணம்’ என்னும் நூலின் கையெழுத்திடப்பட்ட சிறப்புப் பதிப்பைப் பெறுதல்
 </h4>
    <div>
-      <p style="margin: 0px 0px 11px; text-align:left;"><span lang="TA" style="background: white; margin: 0px; line-height: 107%; font-family: 'Latha',sans-serif;">ததிரு லீ குவான் யூ அவர்கள் ‘என் வாழ்நாள் சவால்: சிங்கப்பூரின் இருமொழிப் பயணம்’ என்னும் தம் புத்தகத்தின் 200 சிறப்புப் பதிப்புப் பிரதிகளில் கையெழுத்திட்டுள்ளார். குறைந்தபட்சம் 10,000 வெள்ளி நன்கொடை வழங்குவோர் இந்தப் புத்தகத்தைப் பெறலாம். நன்கொடையாளர்கள் இந்தப் படிவத்தைப் பூர்த்தி செய்து, நிரப்பப்பட்ட படிவத்தை<a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg</a> என்னும் மின்னஞ்சல் முகவரிக்கு அனுப்பு வைக்கவும்.
+      <p style="margin: 0px 0px 11px; text-align:left;"><span lang="TA" style="background: white; margin: 0px; line-height: 107%; font-family: 'Latha',sans-serif;">திரு லீ குவான் யூ அவர்கள் ‘என் வாழ்நாள் சவால்: சிங்கப்பூரின் இருமொழிப் பயணம்’ என்னும் தம் புத்தகத்தின் 200 சிறப்புப் பதிப்புப் பிரதிகளில் கையெழுத்திட்டுள்ளார். குறைந்தபட்சம் 10,000 வெள்ளி நன்கொடை வழங்குவோர் இந்தப் புத்தகத்தைப் பெறலாம். நன்கொடையாளர்கள் இந்தப் படிவத்தைப் பூர்த்தி செய்து, நிரப்பப்பட்ட படிவத்தை<a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg</a> என்னும் மின்னஞ்சல் முகவரிக்கு அனுப்பு வைக்கவும்.
 .</span></p>
       <div>
          <p style="margin: 0px 0px 11px; text-align:left;"><span lang="TA" style="background: white; margin: 0px; line-height: 107%; font-family: 'Latha',sans-serif;">சீனமொழிப் பதிப்பு மட்டுமே இன்னும் மீதம் உள்ளது.
-          <br/>படிவம்</span></p>
+          </span></p>
          <div>
             <p><a href="/about-us/order-form-for-my-lifelong-challenge.pdf" target="_blank">Order Form</a></p>
          </div>
