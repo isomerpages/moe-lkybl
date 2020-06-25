@@ -65,7 +65,7 @@ bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilin
     moe_lkyfb@moe.gov.sg。</a> 现只出售华文版。</p>
   <div> <p> <a href="/about-us/order-form-for-my-lifelong-challenge.pdf" target="_blank">Order Form</a></p></div></div></div><br/>
   <div><h3 id="Sumbangan Derma">Sumbangan Derma</h3>
-  <div><p>Derma anda akan membantu anak-anak kita membina asas bahasa mereka pada peringkat awal lagi, dengan cara yang sesuai dengan usia mereka. Bagi menyokong usaha ini, pemerintah telah menyediakan geran padanan 1:1 bagi sumbangan anda kepada phak Dana, terhad kepada $50 juta. Anda juga layak mendapat potongan cukai sebanyak 250% (sebanyak dua setengah kali jumlah wang yang didermakan) bagi sumbangan anda itu. Nama dan nombor rujukan cukai perlu disediakan untuk mendapatkan potongan cukai ini.
+  <div><p>Derma anda akan membantu anak-anak kita membina asas bahasa mereka pada peringkat awal lagi, dengan cara yang sesuai dengan usia mereka. Bagi menyokong usaha ini, pemerintah telah menyediakan geran padanan 1:1 bagi sumbangan anda kepada pihak Dana, terhad kepada $50 juta. Anda juga layak mendapat potongan cukai sebanyak 250% (sebanyak dua setengah kali jumlah wang yang didermakan) bagi sumbangan anda itu. Nama dan nombor rujukan cukai perlu disediakan untuk mendapatkan potongan cukai ini.
 </p></div><br/>
    <div><h4>Sumbangan kepada pihak Dana boleh dilakukan dengan cara berikut<br/>
     <br/>
