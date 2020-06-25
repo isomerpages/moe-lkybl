@@ -44,6 +44,9 @@ kalangan kanak-kanak sejak kecil lagi di peringkat prasekolah, di rumah dan dala
  masyarakat.</p></div></div><br/>
  <div><h3 id="இருமொழிக்கல்விக்கானலீகுவான்யூநிதிபற்றியவிவரங்கள்">இருமொழிக்கல்விக்கானலீகுவான்யூநிதிபற்றியவிவரங்கள்</h3></div>
  <div><h4>கண்ணோட்டம்</h4></div>
+ <div><p>இருமொழிக் கல்விக்கான லீ குவான் யூவின் நிதி, திரு லீ குவான் யூவின் ‘எனது வாழ்நாள் சவால்: சிங்கப்பூரின் இருமொழிப் பயணம்’ புத்தக வெளியீட்டு விழாவின் போது முதன் முதலில் நவம்பர் 2011 அன்று அறிவிக்கப்பட்டது.</p></div><br/>
+<div><p>மாறி வரும் வீட்டு மொழிச் சூழலில் இந்நிதியம் இருமொழிக் கல்வியை வளர்ப்பதையும், ஆங்கிலம், தாய்மொழிகளின் கற்றலிலும் கற்பித்தலிலும் கல்வி அமைச்சின் முயற்சிகளை ஊக்கப்படுத்துவதையும் நோக்கமாகக் கொண்டுள்ளது. தொடக்கத்தில், இந்நிதி பாலர் பள்ளி நிலையிலான முயற்சிகளை மையகப்படுத்தி இயங்கும். பிள்ளைக்கு ஆதரவான மொழிச் சூழலை உருவாக்கித்தர, இந்நிதி பாலர் பள்ளிகள், இல்லங்கள், சமூகம் ஆகியவற்றை உள்ளடக்கிய முயற்சிகளை மையப்படுத்தும்.</p></div><br/>
+ 
 <div><p style="margin: 0px 0px 11px;"><span lang="TA" style="background: white; margin: 0px; color: rgb(90, 90, 90); line-height: 107%; font-family: 'Latha',sans-serif; font-size: 10.5pt;">நம் தாய்மொழிகள்</span><span lang="EN-SG" style="background: white; margin: 0px; color: rgb(90, 90, 90); line-height: 107%; font-family: &quot;Century Gothic&quot;,sans-serif; font-size: 10.5pt;">,</span><span lang="TA" style="background: white; margin: 0px; color: rgb(90, 90, 90); line-height: 107%; font-family: 'Latha',sans-serif; font-size: 10.5pt;"> மரபுடைமை</span><span lang="EN-SG" style="background: white; margin: 0px; color: rgb(90, 90, 90); line-height: 107%; font-family: &quot;Century Gothic&quot;,sans-serif; font-size: 10.5pt;">,</span><span lang="TA" style="background: white; margin: 0px; color: rgb(90, 90, 90); line-height: 107%; font-family: 'Latha',sans-serif; font-size: 10.5pt;"> கலாச்சாரம் ஆகிவை
    சிங்கப்பூரின் </span>
 </p></div>
