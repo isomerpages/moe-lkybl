@@ -59,7 +59,7 @@ additional time for vetting and printing/production before the launch date, espe
 digital resources.</p><div>
 <div><p><strong>Interested applicants can refer to the Fund Application Guidelines and FAQs before completing the two application forms below.</strong></p><div>
 <div><p><strong>Should you wish to apply for funding, please email <a href="mailto:moe_lkyfb@moe.gov.s">moe_lkyfb@moe.gov.sg</a> or contact us at
-6872 2220 to clarify any doubts<u> before you fill in the application forms</u> . We recognise that it
+6879 6975 to clarify any doubts<u> before you fill in the application forms</u> . We recognise that it
 takes time and effort to complete proposals, and strongly encourage applicants to clarify any
   doubts regarding funding criteria prior to commencing your applications.</strong></p></div><br/>
 <div><p><strong>For proposals on teaching and learning resources, programmes and events:</strong>
