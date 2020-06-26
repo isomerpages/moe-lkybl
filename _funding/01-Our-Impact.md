@@ -8,11 +8,6 @@ permalink: /funding/our-impact/
  <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
-   .responsive {
-  width: 100%;
-  max-width: 800px;
-  height: auto;
-}
 </style>
 </head>
 <div><p>Since its inception, the Lee Kuan Yew Fund for Bilingualism has held true to its mission of enabling a steady pipeline of locally contextualised and age-appropriate resources and programmes to foster bilingualism in children.  The focus has been on pre-schoolers, or even younger children, because the foundation for learning both the English and Mother Tongue Languages (MTLs) is best laid when children are young.  Besides focusing on pre-schoolers, we have also broadened our focus to promote bilingualism as a lifelong endeavour. <br/><br/>
