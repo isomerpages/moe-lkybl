@@ -19,5 +19,5 @@ permalink: /privacy/
     a)  For any enquires or feedback on our data protection policies and procedures,<br/>
     b)      If you require more information on or access to the data which you have earlier provided to us.
 
-
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
 
