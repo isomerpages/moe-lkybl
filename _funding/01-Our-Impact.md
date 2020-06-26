@@ -4,8 +4,19 @@ permalink: /funding/our-impact/
 ---
 
 ###  Our Impact
+<html>
+ <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+   .responsive {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+</style>
+</head>
 <div><p>Since its inception, the Lee Kuan Yew Fund for Bilingualism has held true to its mission of enabling a steady pipeline of locally contextualised and age-appropriate resources and programmes to foster bilingualism in children.  The focus has been on pre-schoolers, or even younger children, because the foundation for learning both the English and Mother Tongue Languages (MTLs) is best laid when children are young.  Besides focusing on pre-schoolers, we have also broadened our focus to promote bilingualism as a lifelong endeavour. <br/><br/>
- <img border="0" src="/images/Our-Impact.jpeg" style="width:800px; height:180px;"></p>
+ <img border="0" src="/images/Our-Impact.jpeg" class="responsive" style="width:800px; height:180px;"></p>
 <div><p>We work closely with like-minded stakeholders and community partners, individual and entities to support worthy initiatives and programmes in making MTL learning fun, relevant to everyday life. Some of the partners we have worked with are:</p></div><br/>
 <div><h4>Mediacorp</h4>
 <div><p>“Junction Tree” is Singapore's first locally-produced, bilingual pre-school programme. It is available in English-Chinese, English-Malay and English-Tamil versions. “Junction Tree” won the "Best Preschool Programme" at the Asian Academy Creative Awards in 2018. The programme can be viewed digital entertainment platform <a href="https://www.mewatch.sg/en/" target="_blank"><i>MeWatch</i></a>.</p></div></div><br/>
