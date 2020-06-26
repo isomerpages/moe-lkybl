@@ -52,3 +52,5 @@ permalink: /terms-of-use/
  or
  
  c) the conduct or the views of any person who accesses or uses The Website. </p>
+
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
