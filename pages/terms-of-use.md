@@ -44,6 +44,10 @@ permalink: /terms-of-use/
 
 #### **Disclaimer of Warranties and Liability**
 17. We will not be liable for any loss or damage:
+
  a) that you may incur on account of using, visiting or relying on any statement, opinion, representation or information in The Website;
- b) resulting from any delay in the operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment; or
-c) the conduct or the views of any person who accesses or uses The Website..
+ 
+ b) resulting from any delay in the operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment; 
+ or
+ 
+ c) the conduct or the views of any person who accesses or uses The Website. 
