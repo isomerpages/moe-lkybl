@@ -9,8 +9,8 @@ permalink: /funding/our-impact/
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .responsive {
-  max-width: 620px;
-  height: 125px;
+  max-width: 618px;
+  height: 120px;
 }
 </style>
 </head>
