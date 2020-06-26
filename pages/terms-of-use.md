@@ -14,7 +14,7 @@ permalink: /terms-of-use/
 4. LKYFB reserves the right to change these Terms from time to time. Your use of The Website constitutes your agreement to any modified Terms.
 
 #### **Access to The Website**
-5. The accessibility and operation of The Website relies on technologies outside our control. We do not guarantee continued accessibility or uninterrupted operation of The Website.
+<p>5. The accessibility and operation of The Website relies on technologies outside our control. We do not guarantee continued accessibility or uninterrupted operation of The Website.</p>
 
 #### **Relying on Information**
 6. The Website is provided for general information only. We do not guarantee the timeliness, accuracy, completeness or reliability of any statements, opinion, representation or other information in The Website. You should do your own checks.
