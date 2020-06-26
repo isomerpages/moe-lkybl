@@ -35,15 +35,15 @@ permalink: /terms-of-use/
 
 <p>13. We reserve the right to object to, or disable any link or frame to or from The Website.</p>
 
-14. We reserve the right to change the URL of The Website.
+<p>14. We reserve the right to change the URL of The Website.</p>
 
 #### **Intellectual Property**
-15. Materials, including design, source codes, pages, documents and online graphics, audio and video in The Website are protected by law. The intellectual property rights in the materials are owned or licensed to us. All rights reserved (© Lee Kuan Yew Fund for Bilingualism )
+<p>15. Materials, including design, source codes, pages, documents and online graphics, audio and video in The Website are protected by law. The intellectual property rights in the materials are owned or licensed to us. All rights reserved (© Lee Kuan Yew Fund for Bilingualism )</p>
 
-16. Apart from any fair dealings for the purposes of private study, research, criticism or review, as permitted by law, no part of The Website may be reproduced or reused for any commercial purposes whatsoever without our prior written permission. The modification of the materials on The Website is prohibited.
+<p>16. Apart from any fair dealings for the purposes of private study, research, criticism or review, as permitted by law, no part of The Website may be reproduced or reused for any commercial purposes whatsoever without our prior written permission. The modification of the materials on The Website is prohibited.</p>
 
 #### **Disclaimer of Warranties and Liability**
-17. We will not be liable for any loss or damage:
+<p>17. We will not be liable for any loss or damage:
 
  a) that you may incur on account of using, visiting or relying on any statement, opinion, representation or information in The Website;
  
@@ -51,4 +51,4 @@ permalink: /terms-of-use/
  
  or
  
- c) the conduct or the views of any person who accesses or uses The Website. 
+ c) the conduct or the views of any person who accesses or uses The Website. </p>
