@@ -6,7 +6,8 @@
 
 // Agency brand colors
 $primary: {{- site.colors.primary-color -}};
-$secondary: {{- site.colors.secondary-color -}};
+//$secondary: {{- site.colors.secondary-color -}};
+$secondary: #8e0000;
 $secondary-hover: lighten($secondary, 10%);
 
 {%- for media-color in site.colors.media-colors -%}
@@ -36,7 +37,8 @@ $desktop: 960px + (2 * $gap) !default;
     background-color: $primary !important;
   }
   &-secondary {
-    background-color: $secondary !important;
+    //background-color: $secondary !important;
+     background-color:#8e0000;
   }
   &-media-color {
     {%- for media-color in site.colors.media-colors -%}
@@ -160,7 +162,7 @@ $desktop: 960px + (2 * $gap) !default;
 	    	color: $secondary-hover !important;
 	  	}
 	}
-}
+}  
 
 // Bottom navigation bar
 .bottom-navigation {
@@ -173,7 +175,8 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .bp-section.bp-section-pagetitle {
-  background-color: $primary !important;
+  //background-color: $primary !important;
+ background-color: $secondary !important;
 }
 
 // Pagination
@@ -197,14 +200,18 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Homepage
 #key-highlights{
-	background-color: $primary;
+	//background-color: $primary;
+	background-color: #8e0000;
 	.col {
-		border-left:1px solid darken($primary,10%);
+		//border-left:1px solid darken($primary,10%);
+		border-left:1px solid #c5c3c3;
 		@include touch(){
-			border-top:1px solid darken($primary,10%);
+			//border-top:1px solid darken($primary,10%);
+			border-top:1px solid #c5c3c3;
 		}
 		&:hover{
-			background-color: darken($primary,10%);
+			//background-color: darken($primary,10%);
+			background-color: #8991a2;
 		}
 	}
 }
@@ -229,12 +236,12 @@ $desktop: 960px + (2 * $gap) !default;
 
   .navbar-item{
     .sub-link.is-active{
-      color:$secondary;
+       color:$secondary;
     }
 
     .selector{
       &.active{
-        background-color:$secondary;
+         background-color:$secondary;
       }
     }
     &.active{
@@ -248,7 +255,7 @@ $desktop: 960px + (2 * $gap) !default;
     color:$secondary;
   }
   .selector {
-      background-color:$secondary;
+        background-color:$secondary;
     }
   }
 }
@@ -335,3 +342,67 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+	  
+.tab div {
+  display: none;
+}
+.tab div:target {
+  display: block;
+}	
+	  
+.btnClass{
+  display:inline-block;
+  padding: 15px 15px;
+  text-align:center;
+  text-decoration:none;
+  color:#ffffff;
+  background-color:#8991a2;
+  border-radius:6px;
+  outline:none;
+  cursor:pointer;
+  margin-right: 10px;
+  margin-bottom: 7px;
+  width: 300px;
+}
+.btnClass:hover {
+    background: #8e0000;
+}
+	  .annualImg{
+		  cursor:pointer;
+		  width: 247px;
+		  height: 345px;
+		  float:left;
+	  }
+	  
+	  .btntop:hover{
+		  background-color: #8991a2;
+		  transform: scale(1.05) 
+               translateY(-5px);
+	  }
+	  
+	  .btntop > a{
+		  text-transform: uppercase;
+	  }
+	  
+	  html {
+	scroll-behavior: smooth;
+}
+	  
+.btntop{
+		  position: fixed;
+		  float: right;
+		  /* top: 100px; */
+		  bottom: 20px;
+		  right: 80px;
+		  z-index: 99;
+		  border: none;
+		  outline: none;
+		  background-color: #8e0000;
+		  cursor:pointer;
+		  padding: 15px;
+		  border-radius: 4px;
+		  color: #fff!important;
+		  font-weight: 600;
+	  }
+	
+

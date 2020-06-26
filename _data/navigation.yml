@@ -4,14 +4,14 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/Bilingualism-Logo.jpg
 
 links:
+  - title: About Us
+    collection: about-us
+  - title: Funding
+    collection: funding
+  - title: What's Up
+    collection: whats-up
   - title: Contact Us
     url: /contact-us/
-  - title: Events
-    url: /events/
-  - title: About The Fund
-    collection: about-the-fund
-  - title: Press Room
-    resource_room: true

@@ -1,35 +1,34 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Bilingualism
 description: Brief site description here
-image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+        title: Lee Kuan Yew Fund for Bilingualism
+        background: /images/Hero-BannerGIF.gif
+        button: Learn More
+        url: /about-us/about-the-fund/
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+            - title: About the Fund
+              url: /about-us/about-the-fund/
+            - title: Funding Application
+              url: /funding/apply-for-grant/
+            - title: Our Impact
+              url: /funding/our-impact/
+            - title: Donation
+              url: /about-us/donation/
+    - infopic:
+        title: Special Call for Projects
+        description: <strong>#IAmBilingualSG Call for Project</strong><br/>Lee Kuan Yew Fund for Bilingualism is holding a Special Call for Projects to help young children (aged 0-6) learn MTLs at home.
+        button: Learn More
+        url: /whats-up/news/
+        image: /images/Block001.jpg
+        alt: Special Call for Proposal
+    - infopic:
+        title: Lee Kuan Yew Kuan Fund for Bilingualism's Facebook has moved!
+        description: Follow us at our <a href="https://www.facebook.com/bilingualismsg" target="_blank">Facebook</a> and <a href="https://instagram.com/bilingualismsg?igshid=u6xx0wat0rcd" target="_blank">Instagram</a> page.
+        image: /images/Block002.jpg
+        alt: img02
+     
 ---

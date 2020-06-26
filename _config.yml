@@ -1,6 +1,6 @@
-title: Title
+title: Lee Kuan Yew Fund for Bilingualism
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/Bilingulism-Logo.png
 
 # Site colors
 colors:
@@ -20,7 +20,13 @@ colors:
 
 
 collections:
+  about-us:
+    output: true
   about-the-fund:
+    output: true
+  funding:
+    output: true
+  whats-up:
     output: true
 resources_name: press-room
 
