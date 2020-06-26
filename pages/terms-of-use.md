@@ -12,7 +12,7 @@ permalink: /terms-of-use/
 3. In these Terms, the words “we,” “our” and “us” refer to LKYFB.
 
 4. LKYFB reserves the right to change these Terms from time to time. Your use of The Website constitutes your agreement to any modified Terms.
-<br/>
+
 #### **Access to The Website**
 <p>5. The accessibility and operation of The Website relies on technologies outside our control. We do not guarantee continued accessibility or uninterrupted operation of The Website.</p>
 
