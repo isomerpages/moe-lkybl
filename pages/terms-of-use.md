@@ -17,23 +17,23 @@ permalink: /terms-of-use/
 <p>5. The accessibility and operation of The Website relies on technologies outside our control. We do not guarantee continued accessibility or uninterrupted operation of The Website.</p>
 
 #### **Relying on Information**
-6. The Website is provided for general information only. We do not guarantee the timeliness, accuracy, completeness or reliability of any statements, opinion, representation or other information in The Website. You should do your own checks.
+<p>6. The Website is provided for general information only. We do not guarantee the timeliness, accuracy, completeness or reliability of any statements, opinion, representation or other information in The Website. You should do your own checks.</p>
 
-7. The materials located on The Website, including the information as well as software programs available on or through it (“the Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by LKYFB.
+<p>7. The materials located on The Website, including the information as well as software programs available on or through it (“the Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by LKYFB.</p>
 
 #### **Security**
-8. Where appropriate we use available technology to protect the security of communications made through The Website. We do not, however, accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through The Website.
+<p>8. Where appropriate we use available technology to protect the security of communications made through The Website. We do not, however, accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through The Website.</p>
 
-9. Internet communications may be susceptible to interference or interception by third parties. Despite our best efforts, we make no warranties that The Website is free of infection by computer viruses or other unauthorised software.
+<p>9. Internet communications may be susceptible to interference or interception by third parties. Despite our best efforts, we make no warranties that The Website is free of infection by computer viruses or other unauthorised software.</p>
 
 #### **Hyperlinks**
-10. We are not responsible or liable for the availability or content of any other Internet site (not provided by us) linked to or from The Website. Access to any other site is at your own risk.
+<p>10. We are not responsible or liable for the availability or content of any other Internet site (not provided by us) linked to or from The Website. Access to any other site is at your own risk.</p>
 
-11. If you create a link or frame to The Website you do so at your own risk.
+<p>11. If you create a link or frame to The Website you do so at your own risk.</p>
 
-12. Private entities who wish to have their websites hyperlinked on The Website can write to The Webmaster at moe_lkyfb@moe.gov.sg , with their contact details, the Uniform Resource Locator (URL) of the proposed link, a brief write-up of their website’s function, and reasons for wanting to be hyperlinked on The Website.
+<p>12. Private entities who wish to have their websites hyperlinked on The Website can write to The Webmaster at moe_lkyfb@moe.gov.sg , with their contact details, the Uniform Resource Locator (URL) of the proposed link, a brief write-up of their website’s function, and reasons for wanting to be hyperlinked on The Website.</p>
 
-13. We reserve the right to object to, or disable any link or frame to or from The Website.
+<p>13. We reserve the right to object to, or disable any link or frame to or from The Website.</p>
 
 14. We reserve the right to change the URL of The Website.
 
