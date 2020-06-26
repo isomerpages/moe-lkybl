@@ -10,7 +10,7 @@ permalink: /funding/our-impact/
 <style>
 .responsive {
   max-width: 600px;
-  height: 120px;
+  height: 125px;
 }
 </style>
 </head>
