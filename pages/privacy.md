@@ -3,7 +3,7 @@ title: Privacy Statement
 permalink: /privacy/
 ---
 ###  Privacy Statement
-#### **Government Agency Privacy Statement**
+#### **Government of Singapore Privacy Statement**
 
 1. This is a Lee Kuan Yew Fund for Bilingualism website. Thank you for examining our privacy statement.
 
