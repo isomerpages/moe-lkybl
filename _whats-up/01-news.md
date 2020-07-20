@@ -11,7 +11,8 @@ permalink: /whats-up/news/
  <div><p>From 6 May to 31 July 2020, the Fund will invite submissions of digital resources that are user-friendly and can help parents/caregivers engage and coach their young children (aged 0-6) in the learning and enjoyment of MTLs. The Fund has set aside S$1 million for this initiative and each successful application will receive up to S$10,000 in grants depending on the quality, complexity and creativity of their submission. On a case-by-case basis, the Fund will consider awarding higher funding amounts for more complex and substantive projects with the potential for further development. </p></div><br/>
 <div><p>This initiative is open to individuals (Singaporeans or Permanent Residents) and organisations/institutions (Singapore-based). Applicants may submit more than one submission as long as the content is different. Selected projects may be hosted on <a href="http://www.bilingualism.sg/" target="_blank">Lee Kuan Yew Fund for Bilingualism website</a>, its <a href="https://www.facebook.com/bilingualismsg" target="_blank">Facebook page</a> and other social platforms.</p></div>
 <div><p>Applicants are encouraged to read the FAQ carefully before submitting an application. 
-<ul><li> <a href="/whats-up/FAQ_Call-for-Projects.pdf" target="_blank">FAQ</a></li>
+<li> <a href="/whats-up/FAQ_Call-for-Projects.pdf" target="_blank">FAQ</a></li>
+<li> <a href="/whats-up/Special_Call-for-Projects.pdf" target="_blank">Briefing Slides on Special Call for Projects</a></li>
 <li><a href="/whats-up/Individuals_Call-for-Projects-Application-Form.docx" target="_blank">Application Form for Individuals</a></li>
 <li><a href="/whats-up/Organisation_Call-for-Projects-Application-Form.docx" target="_blank">Application Form for Organisations/Institutions</a></li></ul></p></div>
 <div><p>For queries or assistance, please email to <a href="mailto:moe_lkyfb@moe.gov.sg">moe_lkyfb@moe.gov.sg</a>.<br/>
