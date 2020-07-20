@@ -12,6 +12,7 @@ permalink: /whats-up/news/
 <div><p>This initiative is open to individuals (Singaporeans or Permanent Residents) and organisations/institutions (Singapore-based). Applicants may submit more than one submission as long as the content is different. Selected projects may be hosted on <a href="http://www.bilingualism.sg/" target="_blank">Lee Kuan Yew Fund for Bilingualism website</a>, its <a href="https://www.facebook.com/bilingualismsg" target="_blank">Facebook page</a> and other social platforms.</p></div>
 <div><p>Applicants are encouraged to read the FAQ carefully before submitting an application. 
 <ul><li> <a href="/whats-up/FAQ_Call-for-Projects.pdf" target="_blank">FAQ</a></li>
+<ul><li> <a href="/whats-up/Special_Call-for-Projects.pdf" target="_blank">Briefing Slides on Special Call for Projects</a></li>
 <li><a href="/whats-up/Individuals_Call-for-Projects-Application-Form.docx" target="_blank">Application Form for Individuals</a></li>
 <li><a href="/whats-up/Organisation_Call-for-Projects-Application-Form.docx" target="_blank">Application Form for Organisations/Institutions</a></li></ul></p></div>
 <div><p>For queries or assistance, please email to <a href="mailto:moe_lkyfb@moe.gov.sg">moe_lkyfb@moe.gov.sg</a>.<br/>
