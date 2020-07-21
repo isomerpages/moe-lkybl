@@ -14,7 +14,7 @@ permalink: /whats-up/news/
 <li> <a href="/whats-up/FAQ_Call-for-Projects.pdf" target="_blank">FAQ</a></li>
 <li> <a href="/whats-up/Special_Call-for-Projects.pdf" target="_blank">Briefing Slides on Special Call for Projects</a></li>
 <li><a href="/whats-up/Individuals_Call-for-Projects-Application-Form.docx" target="_blank">Application Form for Individuals</a></li>
-<li><a href="/whats-up/Organisation_Call-for-Projects-Application-Form.docx" target="_blank">Application Form for Organisations/Institutions</a></li></ul></p></div>
+<li><a href="/whats-up/Organisation_Call-for-Projects-Application-Form.docx" target="_blank">Application Form for Organisations/Institutions</a></li></p></div>
 <div><p>For queries or assistance, please email to <a href="mailto:moe_lkyfb@moe.gov.sg">moe_lkyfb@moe.gov.sg</a>.<br/>
 Press Release for the launch <strong>#IAmBilingualSG Call for Projects</strong> is available <a href="https://www.moe.gov.sg/news/press-releases/launch-of-iambilingualsg-call-for-projects" target="_blank">here.</a></p></div><br/>
 <div><h4>04 January 2018 <br/><br/>
