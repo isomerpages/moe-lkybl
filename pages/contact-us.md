@@ -12,8 +12,9 @@ locations:
 contacts:
   - title:
     content:
-    - phone: +65 6879 6975
     - email: moe_lkyfb@moe.gov.sg
+    - phone: +65 6879 6975 
+    
 ---
 
 <div class="btntop"><a href="#top" style="text-decoration:none;">Top</a></div>
