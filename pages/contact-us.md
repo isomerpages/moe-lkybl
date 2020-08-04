@@ -14,7 +14,8 @@ contacts:
     content:
     - email: moe_lkyfb@moe.gov.sg
     - phone: +65 6879 6975
+    
     ---
-    <p style="font-family:Calibri;font-size:25px">(We apologise that we are unable to answer phone enquiries as our staff are working from home during this period of time)</p>
+   <p style="font-family:Calibri;font-size:25px">(We apologise that we are unable to answer phone enquiries as our staff are working from home during this period of time)</p>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;">Top</a></div>
