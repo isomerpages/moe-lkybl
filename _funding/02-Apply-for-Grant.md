@@ -62,7 +62,7 @@ digital resources.</p><div>
 takes time and effort to complete proposals, and strongly encourage applicants to clarify any
   doubts regarding funding criteria prior to commencing your applications.</strong></p></div><br/>
 <div><p><strong>For proposals on teaching and learning resources, programmes and events:</strong>
-<ul><li><a href="/funding/Application-Guide-for-General-Call-for-Proposals.pdf" target="_blank">Fund Application Guidelines</a></li>
+<ul><li><a href="/funding/Application_Guidelines 05082020.pdf" target="_blank">Fund Application Guidelines</a></li>
 <li><a href="/funding/FAQs_20200103.pdf" target="_blank">FAQs</a></li>
 <li><a href="/funding/ApplicantChecklist.docx">Applicant Checklist</a></li>
 <li><a href="/funding/ApplicationForm.docx">Application Form</a></li>
