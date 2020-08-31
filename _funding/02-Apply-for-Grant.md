@@ -13,7 +13,7 @@ language acquisition and lay a stronger foundation for bilingual learning in the
 <div><p>The Lee Kuan Yew Fund for Bilingualism welcome  proposals that have the potential to create an
 impact on promoting bilingualism among pre-school children in pre-school, at home and in the
 community. Please note that the Fund is currently not accepting any research-related proposals.</p><div>
-<div><p><strong>The Fund will be setting specific periods for Call for Proposals (CFP) in January and July each year.  Proposals that are received outside of the CFP period will only be evaluated during the next CFP.  <br/>When to apply:</strong></p><div>
+<div><p><strong>The Fund has set specific periods for Call for Proposals (CFP) in January and July each year.  Proposals that are received outside of the CFP period will only be evaluated during the next CFP.  <br/>When to apply:</strong></p><div>
 <style>
 table {
   font-family: arial, sans-serif;
@@ -38,16 +38,16 @@ tr:nth-child(even) {
     <th>For projects launching during/after*</th>
   </tr>
   <tr>
-    <td>31 Jan 2020</td>
-    <td>Jun 2020</td>
-  </tr>
-  <tr>
-    <td>31 Jul 2020</td>
-    <td>Dec 2020</td>  
-  </tr>
-  <tr>
     <td>31 Jan 2021</td>
-    <td>Jun 2021</td>   
+    <td>Jun 2021</td>
+  </tr>
+  <tr>
+    <td>31 Jul 2022</td>
+    <td>Dec 2022</td>  
+  </tr>
+  <tr>
+    <td>31 Jan 2022</td>
+    <td>Jun 2022</td>   
   </tr>
   <tr>
     <td>31 Jul 2021</td>
