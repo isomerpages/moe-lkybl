@@ -42,16 +42,16 @@ tr:nth-child(even) {
     <td>Jun 2021</td>
   </tr>
   <tr>
-    <td>31 Jul 2022</td>
-    <td>Dec 2022</td>  
+    <td>31 Jul 2021</td>
+    <td>Dec 2021</td>  
   </tr>
   <tr>
     <td>31 Jan 2022</td>
     <td>Jun 2022</td>   
   </tr>
   <tr>
-    <td>31 Jul 2021</td>
-    <td>Dec 2021</td> 
+    <td>31 Jul 2022</td>
+    <td>Dec 2022</td> 
   </tr>
 </table>
 <div><p>* The Fund requires Grantees to take in the Fund&#39;s input to our satisfaction. Please factor in
