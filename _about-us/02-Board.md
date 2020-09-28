@@ -40,17 +40,16 @@ border: 1px solid black;
     <th>Designation</th> 
   </tr>
   <tr>
-    <td>Mr Ong Ye Kung (Chair)<br/>
-王乙康 ( 主席 )</td>
-    <td>Minister for Education</td>
+    <td>Mr Lawrence Wong (Chair)<br/>
+黄循财 ( 主席 )</td>
+    <td>Minister for Education &amp; Second Minister for Finance</td>
+  
   </tr>
   <tr>
-    <td>Ms Low Yen Ling (Vice-
-chair)<br/>刘燕玲 ( 副主席 )</td>
-    <td>Senior Parliamentary Secretary<br/>
-Ministry of Education &amp; Ministry of Manpower<br/><br/>
-    Mayor<br/>
-      South West District
+    <td>Ms Sun Xueling (Vice-
+chair)<br/>孙雪玲 ( 副主席 )</td>
+    <td>Minister for State<br/>
+Ministry of Education &amp; Ministry of Social and Family Development<br/><br/>
 </td>   
   </tr>    
   <tr>

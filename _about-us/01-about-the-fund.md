@@ -6,7 +6,7 @@ permalink: /about-us/about-the-fund/
  <div><h4>Overview &nbsp; &nbsp; &nbsp;          
  <a href="#关于李光耀双语基金" style="font-size:20px"><span style="color:black">Chinese</span></a>&nbsp;&nbsp;
   <a href="#Tentang Dana Kedwibahasaan Lee Kuan Yew" style="font-size:20px"><span style="color:black">Malay</span></a>&nbsp;&nbsp;
-  <a href="#இருமொழிக்கல்விக்கானலீகுவான்யூநிதிபற்றியவிவரங்கள்" style="font-size:20px"><span style="color:black">Tamil</span></a></h4><div>
+  <a href="#இருமொழிக் கல்விக்கான லீ குவான் யூ நிதி பற்றிய விவரங்கள்" style="font-size:20px"><span style="color:black">Tamil</span></a></h4><div>
 <div><p>The Lee Kuan Yew Fund for Bilingualism (the &quot;Fund&quot;) was set up on 28 November, 2011, at the
 launch of Mr Lee Kuan Yew’s new book, “My Lifelong Challenge: Singapore’s Bilingual Journey”.
 The Fund is set up as a company limited by guarantee, with Charity and Institution of a Public
@@ -42,7 +42,7 @@ tumpuan kepada inisiatif di peringkat prasekolah. </p></div><br/>
 Kedwibahasaan Lee Kuan Yew bertujuan memupuk rasa cinta akan pembelajaran dwibahasa dalam
 kalangan kanak-kanak sejak kecil lagi di peringkat prasekolah, di rumah dan dalam kalangan 
  masyarakat.</p></div></div><br/>
- <div><h3 id="இருமொழிக்கல்விக்கானலீகுவான்யூநிதிபற்றியவிவரங்கள்">இருமொழிக்கல்விக்கானலீகுவான்யூநிதிபற்றியவிவரங்கள்</h3></div>
+ <div><h3 id="இருமொழிக் கல்விக்கான லீ குவான் யூ நிதி பற்றிய விவரங்கள்">இருமொழிக் கல்விக்கான லீ குவான் யூ நிதி பற்றிய விவரங்கள்</h3></div>
  <div><h4>கண்ணோட்டம்</h4></div>
  
 <div>
