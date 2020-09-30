@@ -71,12 +71,6 @@ Ministry of Education</td>
 符喜泉</td>
     <td>Honorary Advisor<br/>
 NTUC First Campus Co-operative Limited</td>
-    
-  </tr><tr>
-    <td>Mrs Mildred Tan<br/>
-沈明媚</td>
-    <td>Chairman<br/>
-National Volunteer &amp; Philanthropy Centre</td>
 
   </tr><tr>
     <td>Mr R Rajaram<br/>
