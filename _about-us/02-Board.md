@@ -48,7 +48,7 @@ border: 1px solid black;
   <tr>
     <td>Ms Sun Xueling (Vice-
 chair)<br/>孙雪玲 ( 副主席 )</td>
-    <td>Minister for State<br/>
+    <td>Minister of State<br/>
 Ministry of Education &amp; Ministry of Social and Family Development<br/><br/>
 </td>   
   </tr>    
@@ -67,7 +67,12 @@ Ministry of Education</td>
 Ministry of Education</td>
   
   </tr><tr>
-    <td>Mrs Yu-Foo Yee Shoon<br/>
+  <td>Mr Ong Chao Choon (Board Audit Committee)<br/>
+王绍春</td>  
+     <td>Deputy Chairman & Advisory Leader<br/>
+       PwC Singapore</td>
+  </tr><tr>
+  <td>Mrs Yu-Foo Yee Shoon<br/>
 符喜泉</td>
     <td>Honorary Advisor<br/>
 NTUC First Campus Co-operative Limited</td>
