@@ -48,7 +48,7 @@ border: 1px solid black;
   <tr>
     <td>Ms Sun Xueling (Vice-
 chair)<br/>孙雪玲 ( 副主席 )</td>
-    <td>Minister for State<br/>
+    <td>Minister of State<br/>
 Ministry of Education &amp; Ministry of Social and Family Development<br/><br/>
 </td>   
   </tr>    
