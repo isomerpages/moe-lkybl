@@ -29,7 +29,7 @@ td, th {
  <tr>
      <td>
   <p><a href="/whats-up/LKYFB_Annual-Report_FY2019.pdf" target="_blank">
-    <img border="0" src="/images/Cover-FY2019.jpg" class="responsive" style="width:247px; height:400px;"></a></p>
+    <img border="0" src="/images/Cover_FY2019.jpg" class="responsive" style="width:247px; height:400px;"></a></p>
    <p><a href="/whats-up/LKYFB_FS_FY2019FS.pdf" target="_blank">Financial Statement (FY 2019)</a></p>
    </td>
     <td>
