@@ -67,7 +67,7 @@ Ministry of Education</td>
 Ministry of Education</td>
   
   </tr><tr>
-  <td>Mr Ong Chao Choon (Board Audit Committee)<br/>
+  <td>Mr Ong Chao Choon<br/>
 王绍春</td>  
      <td>Deputy Chairman & Advisory Leader<br/>
        PwC Singapore</td>
