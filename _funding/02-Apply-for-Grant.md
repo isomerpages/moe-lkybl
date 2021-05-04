@@ -65,8 +65,8 @@ takes time and effort to complete proposals, and strongly encourage applicants t
 <ul><li><a href="/funding/Application-Guide-for-General-Call-for-Proposals_20201231.pdf" target="_blank">Fund Application Guidelines</a></li>
 <li><a href="/funding/FAQs_20200103.pdf" target="_blank">FAQs</a></li>
 <li><a href="/funding/ApplicantChecklist.docx">Applicant Checklist</a></li>
-<li><a href="/funding/ApplicationForm.docx">Application Form</a></li>
-  <li><a href="/funding/ProposedBudget.xlsx">Application Form Annex I: Proposed Budget</a></li></ul></p><div>
+<li><a href="/funding/Application_Form.docx">Application Form</a></li>
+  <li><a href="/funding/Proposed_Budget.xlsx">Application Form Annex I: Proposed Budget</a></li></ul></p><div>
 <div><p><strong>Completed application forms and a sample of the product can be submitted in the following
 ways :</strong>
 <ul><li>E-mail to: <a href="mailto:moe_lkyfb@moe.gov.sg"> moe_lkyfb@moe.gov.sg</a> ;</li>
