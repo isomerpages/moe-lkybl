@@ -58,15 +58,15 @@ tr:nth-child(even) {
 additional time for vetting and printing/production before the launch date, especially for print and
 digital resources.</p><div>
 <div><p><strong>Interested applicants can refer to the Fund Application Guidelines and FAQs before completing the two application forms below.</strong></p><div>
-<div><p><strong>Should you wish to apply for funding, please email <a href="mailto:moe_lkyfb@moe.gov.s">moe_lkyfb@moe.gov.sg</a> for submission or clarification. We recognise that it
+<div><p><strong>Should you wish to apply for files/funding, please email <a href="mailto:moe_lkyfb@moe.gov.s">moe_lkyfb@moe.gov.sg</a> for submission or clarification. We recognise that it
 takes time and effort to complete proposals, and strongly encourage applicants to clarify any
-  doubts regarding funding criteria prior to commencing your applications.</strong></p></div><br/>
+  doubts regarding files/funding criteria prior to commencing your applications.</strong></p></div><br/>
 <div><p><strong>For proposals on teaching and learning resources, programmes and events:</strong>
-<ul><li><a href="/funding/Application-Guide-for-General-Call-for-Proposals_20201231.pdf" target="_blank">Fund Application Guidelines</a></li>
-<li><a href="/funding/FAQs_20200103.pdf" target="_blank">FAQs</a></li>
-<li><a href="/funding/ApplicantChecklist.docx">Applicant Checklist</a></li>
-<li><a href="/funding/Application_Form.docx">Application Form</a></li>
-  <li><a href="/funding/Proposed_Budget.xlsx">Application Form Annex I: Proposed Budget</a></li></ul></p><div>
+<ul><li><a href="/files/funding/Application-Guide-for-General-Call-for-Proposals_20201231.pdf" target="_blank">Fund Application Guidelines</a></li>
+<li><a href="/files/funding/FAQs_20200103.pdf" target="_blank">FAQs</a></li>
+<li><a href="/files/funding/ApplicantChecklist.docx">Applicant Checklist</a></li>
+<li><a href="/files/funding/Application_Form.docx">Application Form</a></li>
+  <li><a href="/files/funding/Proposed_Budget.xlsx">Application Form Annex I: Proposed Budget</a></li></ul></p><div>
 <div><p><strong>Completed application forms and a sample of the product can be submitted in the following
 ways :</strong>
 <ul><li>E-mail to: <a href="mailto:moe_lkyfb@moe.gov.sg"> moe_lkyfb@moe.gov.sg</a> ;</li>
