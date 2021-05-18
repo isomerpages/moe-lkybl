@@ -1,0 +1,8 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - about-the-fund.md
+      - board.md
+      - donation.md
+      - fund-policy.md
