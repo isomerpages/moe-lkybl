@@ -42,7 +42,7 @@ border: 1px solid black;
   <tr>
     <td>Mr Chan Chun Sing (Chair)<br/>
 陈振声 ( 主席 )</td>
-    <td>Minister for Education &amp;</td>
+    <td>Minister for Education</td>
   
   </tr>
   <tr>
