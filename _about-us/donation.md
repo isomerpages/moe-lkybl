@@ -34,7 +34,7 @@ back of the cheque:
   <div><h4>C. Obtain an autographed special edition of “My Lifelong Challenge: Singapore’s Bilingual Journey</h4>
   <div><p>Mr Lee Kuan Yew has autographed 200 special edition copies of his new book &quot;My Lifelong
 Challenge: Singapore’s Bilingual Journey”. A copy of the book (only the Chinese Language version is available) can be obtained with a minimum donation of $10,000. Interested donors can make an order by filling up the order form and emailing the completed form to<a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg </a> .</p>
-  <div><p> <a href="/about-us/order-form-for-my-lifelong-challenge.pdf" target="_blank">Order Form</a></p></div></div><div><br/>
+  <div><p> <a href="/files/about-us/order-form-for-my-lifelong-challenge.pdf" target="_blank">Order Form</a></p></div></div><div><br/>
   <div><h3 id="捐款">捐款</h3>
   <div> <p>您慷慨的捐款将协助我们的学前儿童打好语言基础。因此，政府将提供1对1等同值的资助（顶限为五
 千万元）。给予基金会的捐款也符合减免税务的条件（减免250%，即捐款的2.5倍）。要获得捐款扣
@@ -65,7 +65,7 @@ bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilin
   <div><p>我们一共有２００本李光耀先生亲笔签名《我一生的挑战——新加坡双语之路》（仅有华文版）。捐赠至少一万元
     者就可以获得这本书的签名版一本。有意捐款者请把已填妥的订购表格电邮到<a href="mailto:moe_lkyfb@moe.gov.sg">
     moe_lkyfb@moe.gov.sg。</a> </p>
-  <div> <p> <a href="/about-us/order-form-for-my-lifelong-challenge.pdf" target="_blank">Order Form</a></p></div></div></div><br/>
+  <div> <p> <a href="/files/about-us/order-form-for-my-lifelong-challenge.pdf" target="_blank">Order Form</a></p></div></div></div><br/>
   <div><h3 id="Sumbangan Derma">Sumbangan Derma</h3>
   <div><p>Derma anda akan membantu anak-anak kita membina asas bahasa mereka pada peringkat awal lagi, dengan cara yang sesuai dengan usia mereka. Bagi menyokong usaha ini, pemerintah telah menyediakan geran padanan 1:1 bagi sumbangan anda kepada pihak Dana, terhad kepada $50 juta. Anda juga layak mendapat potongan cukai sebanyak 250% (sebanyak dua setengah kali jumlah wang yang didermakan) bagi sumbangan anda itu. Nama dan nombor rujukan cukai perlu disediakan untuk mendapatkan potongan cukai ini.
 </p></div><br/>
@@ -97,7 +97,7 @@ Lifelong Challenge: Singapore’s Bilingual Journey&quot;.  Satu salinan buku in
 derma minimum sebanyak $ 10,000. Penderma yang berminat boleh membuat pesanan dengan
  menggunakan borang dan menghantar borang yang lengkap  melalui e-mel
 kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg </a>&nbsp;Hanya edisi bahasa Cina sahaja yang masih ada untuk dibeli.</p>
- <div><p><a href="/about-us/order-form-for-my-lifelong-challenge.pdf" target="_blank">Order Form</a></p></div></div></div><br/>
+ <div><p><a href="/files/about-us/order-form-for-my-lifelong-challenge.pdf" target="_blank">Order Form</a></p></div></div></div><br/>
  <div><h3 id="நன்கொடை">நன்கொடை</h3>
 <div>
    <p style="margin: 0px 0px 11px; text-align:left;"><span lang="TA" style="background: white; margin: 0px; line-height: 107%; font-family: 'Latha',sans-serif;">நம் பிள்ளைகள் அடிப்படை மொழிவளத்தைத் தம் வயதுக்கேற்ப பொருத்தமான வகையில் வளர்த்துக்கொள்ள நீங்கள் வழங்கும் நன்கொடை உதவும். இதற்கு ஆதரவு அளிக்கும் வகையில் பெறப்படும் நன்கொடைக்கு அரசாங்கம் வெள்ளிக்கு வெள்ளி என்னும் அடிப்படையில் நிதிமானியமாகக் கூடியபட்சம் 50 மில்லியன் வெள்ளிவரை வழங்கும். இந்த நிதிக்கு வழங்கப்படும் நன்கொடைக்கு 250 விழுக்காடு வரிக்கழிவு தரப்படும். வரிக்கழிவுக்குத் தகுதிபெறப் பெயரையும் வரி மேற்கோள் எண்களையும் குறிப்பிட வேண்டும்.</span></p>
@@ -150,7 +150,7 @@ kepada <a href="mailto:moe_lkyfb@moe.gov.sg "> moe_lkyfb@moe.gov.sg </a>&nbsp;Ha
          <p style="margin: 0px 0px 11px; text-align:left;"><span lang="TA" style="background: white; margin: 0px; line-height: 107%; font-family: 'Latha',sans-serif;">சீனமொழிப் பதிப்பு மட்டுமே இன்னும் மீதம் உள்ளது.
           </span></p>
          <div>
-            <p><a href="/about-us/order-form-for-my-lifelong-challenge.pdf" target="_blank">Order Form</a></p>
+            <p><a href="/files/about-us/order-form-for-my-lifelong-challenge.pdf" target="_blank">Order Form</a></p>
          </div>
       </div>
    </div>
