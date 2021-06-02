@@ -40,9 +40,9 @@ border: 1px solid black;
     <th>Designation</th> 
   </tr>
   <tr>
-    <td>Mr Lawrence Wong (Chair)<br/>
-黄循财 ( 主席 )</td>
-    <td>Minister for Education &amp; Second Minister for Finance</td>
+    <td>Mr Chan Chun Sing (Chair)<br/>
+陈振声 ( 主席 )</td>
+    <td>Minister for Education &amp;</td>
   
   </tr>
   <tr>
