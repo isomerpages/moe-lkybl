@@ -23,6 +23,10 @@ sections:
         description: Follow us on our social media platforms to be updated on interesting resources supported by LKYFB.
         button: Follow us on our Facebook
         url: "https://www.facebook.com/bilingualismsg"
+        button: Follow us on our Instagram
+        url: "https://www.instagram.com/bilingualismsg/?hl=en"
+        button: Subscribe to our YouTube channel
+        url: "https://www.youtube.com/channel/UCEIPdWulFJvJKhgIWnoe34w"
         image: /images/LKYFB_FollowUs.jpg
         alt: Follow us on Facebook, Instagram and YouTube
     - infopic:
