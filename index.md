@@ -24,6 +24,7 @@ sections:
        <a href="https://www.facebook.com/bilingualismsg" target="_blank">Follow us on our Facebook</a> 
        <a href="https://www.instagram.com/bilingualismsg/?hl=en" target="_blank">Follow us on our Instagram</a>
        <a href="https://www.youtube.com/channel/UCEIPdWulFJvJKhgIWnoe34w" target="_blank">Follow us on our YouTube channel</a>
+        image: /images/LKYFB_FollowUs.jpg
         alt: Follow us on Facebook, Instagram and YouTube
     - infopic:
         title: Lee Kuan Yew Fund for Bilingualism's Facebook has moved!
