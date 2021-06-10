@@ -93,8 +93,8 @@ Singapore University of Social Sciences</td>
    
   </tr><tr>
     <td>Madam Rahayu Mahzam</td>
-    <td>Member of Parliament<br/>
-Jurong GRC<br/><br/>
+    <td>Parliamentary Secretary<br/>
+Ministry of Communications and Information & Ministry of Health<br/><br/>
   Member<br/>
 Malay Language Council
 </td>
