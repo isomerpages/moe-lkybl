@@ -21,9 +21,9 @@ sections:
     - infopic:
         title: Looking for resources to guide your child in learning Mother Tongue languages?
         description: Follow us on our social media platforms to be updated on interesting resources supported by LKYFB.
-       <a href="https://www.facebook.com/bilingualismsg" target="_blank">Follow us on our Facebook</a> 
-       <a href="https://www.instagram.com/bilingualismsg/?hl=en" target="_blank">Follow us on our Instagram</a>
-       <a href="https://www.youtube.com/channel/UCEIPdWulFJvJKhgIWnoe34w" target="_blank">Follow us on our YouTube channel</a>
+        button: Follow us on our Facebook
+        url: "https://www.facebook.com/bilingualismsg"
+        image: /images/LKYFB_FollowUs.jpg
         alt: Follow us on Facebook, Instagram and YouTube
     - infopic:
         title: Lee Kuan Yew Fund for Bilingualism's Facebook has moved!
