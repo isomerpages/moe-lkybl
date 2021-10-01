@@ -30,7 +30,6 @@ td, th {
 	 <td>
 	<p><a target="_blank" href="/files/whats-up/LKYFB Annual Report FY2020-21.pdf">
     <img style="width:247px; height:349px;" class="responsive" src="/images/Cover-FY2020-21.png" border="0"></a></p>
-		 
    <p><a target="_blank" href="/files/whats-up/LKYFB_FS_FY2020-21.pdf">Financial Statement (FY 2020/21)</a></p>
 		 <p><a target="_blank" href="/files/whats-up/LKYFB_Governance Evaluation Checklist_FY2020-21.pdf">Governance Evaluation Checklist (FY 2020/21)</a></p>
    </td>
@@ -44,13 +43,13 @@ td, th {
     <img style="width:247px; height:349px;" class="responsive" src="/images/Cover-FY2018.jpg" border="0"></a></p>
    <p><a target="_blank" href="/files/whats-up/FY2018-FS.pdf">Financial Statement (FY 2018)</a></p>
    </td>
+	  </tr> 
+  <tr>
     <td>
    <p><a target="_blank" href="/files/whats-up/Annual_Report_FY2017_Final.pdf">
      <img style="width:247px; height:349px;" class="responsive" src="/images/Cover-FY2017.png" border="0"></a></p>
    <p><a target="_blank" href="/files/whats-up/FY2017-FS.pdf">Financial Statement (FY 2017)</a></p>
    </td>
- </tr> 
-  <tr>
     <td>
   <p><a target="_blank" href="/files/whats-up/Annual-Report-2016.pdf">
     <img style="width:247px; height:349px;" class="responsive" src="/images/Cover-FY2016.png" border="0"></a></p>
@@ -73,14 +72,11 @@ td, th {
      <img style="width:247px; height:349px;" class="responsive" src="/images/Cover-FY2013.jpg" border="0"></a></p>
    <p><a target="_blank" href="/files/whats-up/FY2013-FS.pdf">Financial Statement (FY 2013)</a></p>
    </td>
- </tr> 
- <tr>
     <td>
   <p><a target="_blank" href="/files/whats-up/Annual-Report-2012.pdf">
     <img style="width:247px; height:349px;" class="responsive" src="/images/Cover-FY2012.jpg" border="0"></a></p>
    <p><a target="_blank" href="/files/whats-up/FY2012-FS.pdf">Financial Statement (FY 2012)</a></p>
    </td>
-  <td></td>
-  </tr>
+	 </tr>
 </tbody></table><br>
 <div class="btntop"><a style="text-decoration:none;" href="#top"><span style="color:white"><b>Top</b></span></a></div>
