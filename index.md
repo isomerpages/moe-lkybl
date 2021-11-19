@@ -25,7 +25,7 @@ sections:
         experts' and practitioners' insights on the way forward for bilingualism
         in Singapore!
       button: View Event's Programme
-      url: https://www.facebook.com/events/795082611302343/?acontext=%7B%22ref%22%3A%2252%22%2C%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22share_link%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22share_link%5C%22%2C%5C%22extra_data%5C%22%3A%7B%5C%22invite_link_id%5C%22%3A294790355843812%7D%7D]%22%7D
+      url: https://www.bilingualism.sg/whats-up/event/
       image: /images/LKYFB%2010th%20Anniversary.jpg
       alt: LKYFB 10th Anniversary_Join us
   - infopic:
