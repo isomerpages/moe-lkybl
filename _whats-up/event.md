@@ -5,8 +5,12 @@ permalink: /whats-up/event/
 ###   Event
 <div>
 	<div><p><strong> Lee Kuan Yew Fund for Bilingualism 10th Anniversary Commemorative Event<br></strong>
-Join us to celebrate the Fund's 10th Anniversary! To join the livestream, click on the event's programme below.
-		<div></a></p></div><br><img src="..."><br><br>
+To mark the Fund's 10th year milestone, the Commemorative Video, tracing the Fund's journey since inception, will be launched. Centered on the theme "Bilingualism in Singapore 2030 - Our Vision and Way Forward", experts and practitioners will share their insights on their personal experiences in learning to be effective bilinguals, the importance of bilingualism for individuals, and the impact of bilingualism in the community and beyond. 
+		
+Come join us to celebrate the Fund's 10th Anniversary! 
+
+To join the livestream, click on the event's programme below.
+		<div></a></p></div><br><img src="LKYFB 10th Anniversary_Join Us_Full.jpg"><br><br>
 		<div><p> See you online!</p></div>
 		<p></p>
    <div><p><strong>Mother Tongue Languages Symposium 2021<br></strong>
