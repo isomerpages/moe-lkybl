@@ -2,20 +2,19 @@
 title: Board
 permalink: /about-us/board/
 ---
-
 ###   Board
-<html>
+
 <div><p>
-The Fund is managed by a Board and supported by the following committees:<br/> 
-(i) Project Evaluation Committee (PEC)<br/>
-(ii) Publicity and Outreach Committee (POC)<br/>
-(iii) Investment Advisory Committee (IAC) <br/>
-(iv) Audit Committee (AC)<br/>
-(v) Research Advisory Panel<br/>
-  <br/>
+The Fund is managed by a Board and supported by the following committees:<br> 
+(i) Project Evaluation Committee (PEC)<br>
+(ii) Publicity and Outreach Committee (POC)<br>
+(iii) Investment Advisory Committee (IAC) <br>
+(iv) Audit Committee (AC)<br>
+(v) Research Advisory Panel<br>
+  <br>
 The Board members are:</p></div>
-<html>
-<body>
+
+
 <style>
 table, th, td {
   font-family: arial, sans-serif;
@@ -35,97 +34,92 @@ tr:nth-child(even) {
 <table style="width:100%; 
 border: 1px solid black;
   border-collapse: collapse;">
-  <tr>
+  <tbody><tr>
     <th>Name</th>
     <th>Designation</th> 
   </tr>
   <tr>
-    <td>Mr Chan Chun Sing (Chair)<br/>
+    <td>Mr Chan Chun Sing (Chair)<br>
 陈振声 ( 主席 )</td>
     <td>Minister for Education</td>
   
   </tr>
   <tr>
     <td>Ms Sun Xueling (Vice-
-chair)<br/>孙雪玲 ( 副主席 )</td>
-    <td>Minister of State<br/>
-Ministry of Education &amp; Ministry of Social and Family Development<br/><br/>
+chair)<br>孙雪玲 ( 副主席 )</td>
+    <td>Minister of State<br>
+Ministry of Education &amp; Ministry of Social and Family Development<br><br>
 </td>   
   </tr>    
   <tr>
-    <td>Mr Clarence Tang (Treasurer)<br/>
+    <td>Mr Clarence Tang (Treasurer)<br>
 邓各讯 ( 财政 )</td>
-    <td>Divisional Director<br/>
-Finance &amp; Procurement Division<br/>
+    <td>Divisional Director<br>
+Finance &amp; Procurement Division<br>
 Ministry of Education</td>
     
   </tr>
   <tr>
-    <td>Ms Ho Peng<br/>
+    <td>Ms Ho Peng<br>
 何品</td>
-    <td>Advisor<br/>
+    <td>Advisor<br>
 Ministry of Education</td>
   
   </tr><tr>
-  <td>Mr Ong Chao Choon<br/>
+  <td>Mr Ong Chao Choon<br>
 王绍春</td>  
-     <td>Deputy Chairman & Advisory Leader<br/>
+     <td>Deputy Chairman &amp; Advisory Leader<br>
        PwC Singapore</td>
   </tr><tr>
-  <td>Mrs Yu-Foo Yee Shoon<br/>
+  <td>Mrs Yu-Foo Yee Shoon<br>
 符喜泉</td>
-    <td>Honorary Advisor<br/>
+    <td>Honorary Advisor<br>
 NTUC First Campus Co-operative Limited</td>
 
   </tr><tr>
-    <td>Mr R Rajaram<br/>
+    <td>Mr R Rajaram<br>
 ரா. ராஜாராம்</td>
-    <td>Registrar<br/>
+    <td>Registrar<br>
 National University of Singapore</td>
     
   </tr><tr>
-    <td>Professor Eddie Kuo<br/>
+    <td>Professor Eddie Kuo<br>
 郭振羽教授</td>
-    <td>Emeritus Professor<br/>
-Nanyang Technological University<br/> <br/>
-Academic Advisor<br/>  
+    <td>Emeritus Professor<br>
+Nanyang Technological University<br> <br>
+Academic Advisor<br>  
 Singapore University of Social Sciences</td>
    
   </tr><tr>
     <td>Madam Rahayu Mahzam</td>
-    <td>Parliamentary Secretary<br/>
-Ministry of Communications and Information & Ministry of Health<br/><br/>
-  Member<br/>
+    <td>Parliamentary Secretary<br>
+Ministry of Communications and Information &amp; Ministry of Health<br><br>
+  Member<br>
 Malay Language Council
 </td>
   
   </tr><tr>
-    <td>Mr Wong Siew Hoong<br/>
+    <td>Mr Wong Siew Hoong<br>
 王斯芸</td>
-    <td>Director-General of Education<br/>
+    <td>Director-General of Education<br>
 Ministry of Education</td>
     
   </tr>
   <tr>
     <td>Mr Hawazi Daipi</td>
-    <td>Singapore’s Non-Resident High Commissioner to the Republic of Ghana, and <br/>
-      Non-Resident Representative to the Palestine National Authority<br/>   <br/>
-      Chairman<br/>
+    <td>Singapore’s Non-Resident High Commissioner to the Republic of Ghana, and <br>
+      Non-Resident Representative to the Palestine National Authority<br>   <br>
+      Chairman<br>
 National Council Against Drug Abuse
 </td>
-   </tr><tr>
-    <td>Mr Anthony Tan<br/>
-陈康威</td>
-    <td>Deputy Chief Executive Officer <br/>
-Singapore Press Holdings Limited</td>
-    
-  </tr><tr>
-    <td>Mr Chua Chim Kang<br/>
+   </tr>
+	
+  <tr>
+    <td>Mr Chua Chim Kang<br>
 蔡深江</td>
-    <td>Chief Editor <br/>
-Chinese News &amp; Current Affairs<br/>
+    <td>Chief Editor <br>
+Chinese News &amp; Current Affairs<br>
 Mediacorp</td>
   </tr>
-</table><br/>
-<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
-
+</tbody></table><br>
+<div class="btntop"><a style="text-decoration:none;" href="#top"><span style="color:white"><b>Top</b></span></a></div>
