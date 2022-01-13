@@ -59,9 +59,9 @@ digital resources.</p><div>
 <div><p><strong>Interested applicants can refer to the Fund Application Guidelines and FAQs before completing the two application forms below.</strong></p><div>
 <div><p><strong>Should you wish to apply for files/funding, please email <a href="mailto:moe_lkyfb@moe.gov.s">moe_lkyfb@moe.gov.sg</a> for submission or clarification. We recognise that it takes time and effort to complete proposals, and strongly encourage applicants to clarify any doubts regarding files/funding criteria prior to commencing your applications.</strong></p></div><br>
 <div><p><strong>For proposals on teaching and learning resources, programmes and events:</strong>
-</p><ul><li><a target="_blank" href="/files/funding/Application-Guide-for-General-Call-for-Proposals_20220105.pdf">Fund Application Guidelines</a></li>
-<li><a target="_blank" href="/files/funding/FAQs_20200103.pdf">FAQs</a></li>
-<li><a href="/files/funding/ApplicantChecklist.docx">Applicant Checklist</a></li>
+</p><ul><li><a href="/files/funding/Application-Guide-for-General-Call-for-Proposals_20220113.pdf" target="_blank">Fund Application Guidelines</a></li>
+<li><a href="/files/funding/FAQs_20200103.pdf" target="_blank">FAQs</a></li>
+<li><a href="/files/funding/ApplicantChecklist.docx">Application Checklist</a></li>
 <li><a href="/files/funding/Application_Form.docx">Application Form</a></li>
   <li><a href="/files/funding/Proposed_Budget.xlsx">Application Form Annex I: Proposed Budget</a></li></ul><p></p><div>
 <div><p><strong>Completed application forms and a sample of the product can be submitted in the following
@@ -75,4 +75,4 @@ Attention: Lee Kuan Yew Fund for Bilingualism</p></ul><div>
 <div><p>Mondays – Fridays: 8.30am to 5.30pm<br>
 Saturdays, Sundays &amp; Public Holidays: Closed</p></div>
   </div>
- <div class="btntop"><a style="text-decoration:none;" href="#top"><span style="color:white"><b>Top</b></span></a></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+ <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
