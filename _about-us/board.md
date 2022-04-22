@@ -53,7 +53,7 @@ Ministry of Education &amp; Ministry of Social and Family Development<br><br>
   </tr>    
   <tr>
     <td>Ms Goh Poh Gek (Treasurer)<br>
-邓各讯 ( 财政 )</td>
+吴宝玉 ( 财政 )</td>
     <td>Chief Financial Officer<br>
 Finance &amp; Procurement Division<br>
 Ministry of Education</td>
@@ -126,7 +126,5 @@ SPH Media Trust</td>
     <td>Vice-President<br>
 International Business<br>
 iQIYI International Singapore Pte Ltd</td>
-		
-  </tr>
 </tbody></table><br>
 <div class="btntop"><a style="text-decoration:none;" href="#top"><span style="color:white"><b>Top</b></span></a></div>
