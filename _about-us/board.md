@@ -126,7 +126,5 @@ SPH Media Trust</td>
     <td>Vice-President<br>
 International Business<br>
 iQIYI International Singapore Pte Ltd</td>
-		
-  </tr>
 </tbody></table><br>
 <div class="btntop"><a style="text-decoration:none;" href="#top"><span style="color:white"><b>Top</b></span></a></div>
