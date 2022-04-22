@@ -52,16 +52,15 @@ Ministry of Education &amp; Ministry of Social and Family Development<br><br>
 </td>   
   </tr>    
   <tr>
-    <td>Mr Clarence Tang (Treasurer)<br>
+    <td>Ms Goh Poh Gek (Treasurer)<br>
 邓各讯 ( 财政 )</td>
-    <td>Divisional Director<br>
+    <td>Chief Financial Officer<br>
 Finance &amp; Procurement Division<br>
 Ministry of Education</td>
     
-  </tr>
-  <tr>
-    <td>Ms Ho Peng<br>
-何品</td>
+  </tr><tr>
+    <td>Mr Wong Siew Hoong<br>
+王斯芸</td>
     <td>Advisor<br>
 Ministry of Education</td>
   
@@ -71,40 +70,34 @@ Ministry of Education</td>
      <td>Deputy Chairman &amp; Advisory Leader<br>
        PwC Singapore</td>
   </tr><tr>
-  <td>Mrs Yu-Foo Yee Shoon<br>
-符喜泉</td>
-    <td>Honorary Advisor<br>
-NTUC First Campus Co-operative Limited</td>
+  <td>Mr Lim Jim Koon<br>
+林任君</td>
+    <td>Former Editor-in-Chief<br>
+Chinese Newspapers Division<br>
+Singapore Press Holdings</td>
 
   </tr><tr>
-    <td>Mr R Rajaram<br>
-ரா. ராஜாராம்</td>
-    <td>Registrar<br>
-National University of Singapore</td>
+    <td>Mr K Ramamoorthy<br>
+கி. ராமமூர்த்தி</td>
+    <td>Senior Lecturer<br>
+Republic Polytechnic</td>
     
   </tr><tr>
-    <td>Professor Eddie Kuo<br>
-郭振羽教授</td>
-    <td>Emeritus Professor<br>
-Nanyang Technological University<br> <br>
-Academic Advisor<br>  
-Singapore University of Social Sciences</td>
+    <td>Associate Professor Tan Chee Lay<br>
+陈志锐副教授</td>
+    <td>Deputy Head<br>
+Asian Languages and Cultures Academic Group<br> 
+National Institute of Education<br>
+Nanyang Technological University</td>
    
-  </tr><tr>
-    <td>Madam Rahayu Mahzam</td>
-    <td>Parliamentary Secretary<br>
-Ministry of Communications and Information &amp; Ministry of Health<br><br>
-  Member<br>
-Malay Language Council
-</td>
-  
-  </tr><tr>
-    <td>Mr Wong Siew Hoong<br>
-王斯芸</td>
-    <td>Director-General of Education<br>
-Ministry of Education</td>
-    
-  </tr>
+ <tr>
+    <td>Mr Chua Chim Kang<br>
+蔡深江</td>
+    <td>Chief Editor <br>
+Chinese News &amp; Current Affairs<br>
+Mediacorp</td>
+	 
+</tr>
   <tr>
     <td>Mr Hawazi Daipi</td>
     <td>Singapore’s Non-Resident High Commissioner to the Republic of Ghana, and <br>
@@ -112,14 +105,28 @@ Ministry of Education</td>
       Chairman<br>
 National Council Against Drug Abuse
 </td>
-   </tr>
-	
-  <tr>
-    <td>Mr Chua Chim Kang<br>
-蔡深江</td>
-    <td>Chief Editor <br>
-Chinese News &amp; Current Affairs<br>
-Mediacorp</td>
+		
+  </tr><tr>
+    <td>Madam Rahayu Mahzam</td>
+    <td>Parliamentary Secretary<br>
+Ministry of Communications and Information &amp; Ministry of Health<br><br>
+  Member<br>
+Malay Language Council
+</td>
+
+  </tr><tr>
+    <td>Ms Lee Huay Leng<br>
+李慧玲</td>
+    <td>Editor-in-Chief<br>
+Chinese Media Group<br>
+SPH Media Trust</td>
+		</tr><tr>
+    <td>Mr Kuek Yu Chuang<br>
+郭又铨</td>
+    <td>Vice-President<br>
+International Business<br>
+iQIYI International Singapore Pte Ltd</td>
+		
   </tr>
 </tbody></table><br>
 <div class="btntop"><a style="text-decoration:none;" href="#top"><span style="color:white"><b>Top</b></span></a></div>
