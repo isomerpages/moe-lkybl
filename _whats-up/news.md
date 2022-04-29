@@ -14,7 +14,7 @@ permalink: /whats-up/news/
  <p>From 1 August to 31 August 2022, the Fund will invite submissions of a series of picture books (with or without text) comprising 3 to 5 titles to support young children aged 0 to 6 years develop an interest in the MTLs at an early age. </p>
 <p> Each application for funding will be assessed based on the quality, literacy and visual merit, impact and originality. Decision of the evaluation panel is final. </p>
 <p><b>SCP(PB) Virtual Briefing Session</b></p>
-<p><br>Interested applicants may register to attend any one of the virtual briefing sessions to learn more about the SCP(PB):
+<p>Interested applicants may register to attend any one of the virtual briefing sessions to learn more about the SCP(PB):
 <br><br>1. 	Saturday, 7 May 2022 (10 am – 12 pm), or<br>
 2. Thursday, 12 May 2022 (7 pm – 9 pm).<br><br>
 Limited slots available! Register <a href="https://form.gov.sg/#!/626115005a873600123bdfac" target="_blank">here</a> for the virtual briefing session. </p>
