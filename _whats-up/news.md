@@ -66,7 +66,7 @@ Limited slots available! Register <a href="https://form.gov.sg/#!/626115005a8736
 	
 <p>For more details on submission of application documents and samples, refer to the Application Checklist and the Application Guide. </p>
 <p>For queries or assistance, please email <a href="mailto:MOE_LKYFB@moe.gov.sg">MOE_LKYFB@moe.gov.sg</a>.
-<br>Press Release for the launch of the <b>Special Call for Proposals (Picture Books)</b> is available <a href="https://www.moe.gov.sg/news/press-releases/launch-of-iambilingualsg-call-for-projects" target="_blank">here.</a></p>
+<br>Press Release for the launch of the <b>Special Call for Proposals (Picture Books)</b> is available <a href="https://www.moe.gov.sg/news/press-releases/20220429-bilingual-fund-sets-aside-$800000-for-picture-books-to-promote-language-learning" target="_blank">here.</a></p>
 <br><br>
 	
 <div><h4>06 May 2020</h4>
