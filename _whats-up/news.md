@@ -5,7 +5,7 @@ permalink: /whats-up/news/
 ###   News
 <div><h4>29 April 2022</h4>
  <span style="color:#8B0000"> Special Call for Proposals (Picture Books) </span><br/>
-<img src="/images/SCP(PB) Banner.jpg">
+<img src="/images/SCPPB Banner.jpg">
 <br/></div>
 
 <p><b> Application window for the Special Call for Proposals (Picture Books) opens on 1 August 2022 and closes on 31 August 2022. </b>
