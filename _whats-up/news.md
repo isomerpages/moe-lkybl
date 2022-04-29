@@ -8,7 +8,7 @@ permalink: /whats-up/news/
 <img src="/images/SCP(PB) Banner.jpg">
 <br/></div>
 
-<p><b> Application window for the Special Call for Proposals (Picture Books) opens on 1 August 2022 and closes on 31 August 2022. </p></b>
+<p><b> Application window for the Special Call for Proposals (Picture Books) opens on 1 August 2022 and closes on 31 August 2022. </b>
 
 <p>To encourage local writers and content creators to produce picture books to help young children develop literacy in English and the Mother Tongue languages (MTLs), the Lee Kuan Yew Fund for Bilingualism (the “Fund”) has launched a Special Call for Proposals (Picture Books). The books will add to the rich repository of language learning resources that are set in the Singapore context. </p>
  <p>From 1 August to 31 August 2022, the Fund will invite submissions of a series of picture books (with or without text) comprising 3 to 5 titles to support young children aged 0 to 6 years develop an interest in the MTLs at an early age. </p>
@@ -62,11 +62,11 @@ Limited slots available! Register <a href="https://form.gov.sg/#!/626115005a8736
 <li> SCP(PB) Virtual Briefing Slides (includes FAQ) [To be available on 13 May 2022]</li>
 <li><a href="https://go.gov.sg/scppb-application-form" target="_blank">SCP(PB) Application Form</a></li>
 <li><a href="https://go.gov.sg/scppb-budget-proposal-form-annexi" target="_blank">SCP(PB) Budget Proposal Form (Annex I)</a></li>
-<li><a href="https://go.gov.sg/scppb-application-checklist" target="_blank">SCP(PB) Application Checklist</a></li></p></div>
+<li><a href="https://go.gov.sg/scppb-application-checklist" target="_blank">SCP(PB) Application Checklist</a></li></div>
 	
 <p>For more details on submission of application documents and samples, refer to the Application Checklist and the Application Guide. </p>
 <p>For queries or assistance, please email <a href="mailto:MOE_LKYFB@moe.gov.sg">MOE_LKYFB@moe.gov.sg</a>.
-	<p> Press Release for the launch of the <b>Special Call for Proposals (Picture Books)</b> is available <a href="https://www.moe.gov.sg/news/press-releases/launch-of-iambilingualsg-call-for-projects" target="_blank">here.</a></p>
+<br>Press Release for the launch of the <b>Special Call for Proposals (Picture Books)</b> is available <a href="https://www.moe.gov.sg/news/press-releases/launch-of-iambilingualsg-call-for-projects" target="_blank">here.</a></p>
 <br><br>
 	
 <div><h4>06 May 2020</h4>
