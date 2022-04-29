@@ -4,7 +4,7 @@ permalink: /funding/apply-for-grant/
 ---
 <div>
 <p style="border:4px; border-style:solid; border-color:#AD762A; padding: 1em;">
-<b>Applicants interested to produce a series of children's picture books with a local context may apply for the Special Call for Proposals (Picture Books), from 1 to 31 August 2022. <br>For more information, click <a href="www.bilingualism.sg/whats-up/news"> here.</a></b></p>
+<b>Applicants interested to produce a series of children's picture books with a local context may apply for the Special Call for Proposals (Picture Books), from 1 to 31 August 2022. <br>For more information, click <a href="https://www.bilingualism.sg/whats-up/news"> here.</a></b></p>
 
 <div><h3> Call for Proposals</h3>
 <div><p>The Lee Kuan Yew Fund for Bilingualism invites you to submit proposals to promote bilingualism among preschool children.</p></div><br>
