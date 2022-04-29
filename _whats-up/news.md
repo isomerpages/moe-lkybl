@@ -12,18 +12,16 @@ permalink: /whats-up/news/
  <div><p>To encourage local writers and content creators to produce picture books to help young children develop literacy in English and the Mother Tongue languages (MTLs), the Lee Kuan Yew Fund for Bilingualism (the “Fund”) has launched a Special Call for Proposals (Picture Books). The books will add to the rich repository of language learning resources that are set in the Singapore context. </p></div><br/>
  <div><p>From 1 August to 31 August 2022, the Fund will invite submissions of a series of picture books (with or without text) comprising 3 to 5 titles to support young children aged 0 to 6 years develop an interest in the MTLs at an early age. </p></div><br/>
 <div><p> Each application for funding will be assessed based on the quality, literacy and visual merit, impact and originality. Decision of the evaluation panel is final. </p></div><br/>
-
-<div><p><b>SCP(PB) Virtual Briefing Session</b>
-<p>Interested applicants may register to attend any one of the virtual briefing sessions to learn more about the SCP(PB):
-<br>1. 	Saturday, 7 May 2022 (10 am – 12 pm), or<br>
-2. Thursday, 12 May 2022 (7 pm – 9 pm).
-<br>
+	<div><p><b>SCP(PB) Virtual Briefing Session</b><br>
+<br>Interested applicants may register to attend any one of the virtual briefing sessions to learn more about the SCP(PB):
+<br><br>1. 	Saturday, 7 May 2022 (10 am – 12 pm), or<br>
+2. Thursday, 12 May 2022 (7 pm – 9 pm).<br><br>
 Limited slots available! Register <a href="https://form.gov.sg/#!/626115005a873600123bdfac" target="_blank">here</a> for the virtual briefing session. <br>
 
 <div><p><b> Application Eligibility & Criteria</b>
 <p>This initiative is open to individuals (Singaporeans or Permanent Residents) and organisations/institutions (Singapore-based).
 <br><p>Applications are subject to the following criteria:</p>
-
+		</div>
 <div>
 	<div class="container">
    <table class="table table-bordered table-striped table-responsive-stack"  id="tableOne">
@@ -57,8 +55,11 @@ Mandatory inclusion of learning guides/conversation cues for all picture books. 
 							• Chinese-English,<br>
 							• Malay-English, or<br>
 							• Tamil-English<br>
-</div>
-<div><p><b> Submission of Application Documents & Samples</b>
+				</tr>
+		 </tbody>
+		</table>
+	</div>
+							<div><p><b> Submission of Application Documents & Samples</b>
 		<br> Applicants are encouraged to read the Application Guide and FAQ in the virtual briefing slides carefully before submitting an application.<br>
 <li> <a href="https://go.gov.sg/scppb-application-guide" target="_blank">SCP(PB) Application Guide</a></li>
 <li> SCP(PB) Virtual Briefing Slides (includes FAQ) [To be available on 13 May 2022]</li>
