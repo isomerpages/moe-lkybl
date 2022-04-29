@@ -19,15 +19,15 @@ sections:
         - title: Donation
           url: /about-us/donation/
   - infopic:
-      title: LKYFB is 10!
-      subtitle: Anniversary event
-      description: Join us online in the launch of our Commemorative Video and hear
-        experts' and practitioners' insights on the way forward for bilingualism
-        in Singapore!
-      button: View Event's Programme
-      url: https://www.bilingualism.sg/whats-up/event/
-      image: /images/LKYFB%2010th%20Anniversary.jpg
-      alt: LKYFB 10th Anniversary_Join us
+      title: Special Call for Proposals (Picture Books)
+      subtitle: NEWS
+      description: "We are calling for proposals for a series of picture books! Join
+        us in the virtual briefing if you are keen to produce children’s books
+        with a local flavour! "
+      button: Register here
+      url: https://www.bilingualism.sg/whats-up/news/
+      image: /images/SCP(PB) Banner.jpg
+      alt: SCP(PB)
   - infopic:
       title: Looking for resources to guide your child in learning Mother Tongue
         languages?
