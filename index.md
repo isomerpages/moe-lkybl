@@ -26,7 +26,7 @@ sections:
         briefing now!
       button: Learn more
       url: https://www.bilingualism.sg/whats-up/news/
-      image: /images/SCP(PB) Banner.jpg
+      image: /images/SCPPB Banner.jpg
       alt: SCP(PB)
   - infopic:
       title: Looking for resources to guide your child in learning Mother Tongue
