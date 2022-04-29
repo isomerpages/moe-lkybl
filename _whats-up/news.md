@@ -7,21 +7,21 @@ permalink: /whats-up/news/
  <span style="color:#8B0000"> Special Call for Proposals (Picture Books) </span><br/>
 <img src="/images/SCP(PB) Banner.jpg">
 <br/>
-<div><p><b> Application window for the Special Call for Proposals (Picture Books) opens on 1 August 2022 and closes on 31 August 2022. </div></b>
-<br/>
+<div><p><b> Application window for the Special Call for Proposals (Picture Books) opens on 1 August 2022 and closes on 31 August 2022. </b>
+
  <div><p>To encourage local writers and content creators to produce picture books to help young children develop literacy in English and the Mother Tongue languages (MTLs), the Lee Kuan Yew Fund for Bilingualism (the “Fund”) has launched a Special Call for Proposals (Picture Books). The books will add to the rich repository of language learning resources that are set in the Singapore context. </p></div><br/>
  <div><p>From 1 August to 31 August 2022, the Fund will invite submissions of a series of picture books (with or without text) comprising 3 to 5 titles to support young children aged 0 to 6 years develop an interest in the MTLs at an early age. </p></div><br/>
 <div><p> Each application for funding will be assessed based on the quality, literacy and visual merit, impact and originality. Decision of the evaluation panel is final. </p></div><br/>
 <div><p><b>SCP(PB) Virtual Briefing Session</b>
 <br>Interested applicants may register to attend any one of the virtual briefing sessions to learn more about the SCP(PB):
-	<br></br>
+	<br>
 1. 	Saturday, 7 May 2022 (10 am – 12 pm), or
 2. Thursday, 12 May 2022 (7 pm – 9 pm).
-	<br></br>
-Limited slots available! Register <a href="https://form.gov.sg/#!/626115005a873600123bdfac" target="_blank">here</a> for the virtual briefing session. <br></br>
+	<br>
+Limited slots available! Register <a href="https://form.gov.sg/#!/626115005a873600123bdfac" target="_blank">here</a> for the virtual briefing session. <br>
 
 <div><p><b> Application Eligibility & Criteria</b>
-<br><p> This initiative is open to individuals (Singaporeans or Permanent Residents) and organisations/institutions (Singapore-based).
+<br>This initiative is open to individuals (Singaporeans or Permanent Residents) and organisations/institutions (Singapore-based).
 <br><p>Applications are subject to the following criteria:</p>
 
 <div>
@@ -61,18 +61,19 @@ Mandatory inclusion of learning guides/conversation cues for all picture books. 
       </tbody>
    </table>
 </div>
-<!-- /.container -->
+	<br>
 	<div><p><b> Submission of Application Documents & Samples</b>
 		<br> Applicants are encouraged to read the Application Guide and FAQ in the virtual briefing slides carefully before submitting an application.<br>
 <li> <a href="https://go.gov.sg/scppb-application-guide" target="_blank">SCP(PB) Application Guide</a></li>
-<li> SCP(PB) Virtual Briefing Slides (includes FAQ) [To be available on 13 May 2022]</a></li>
+<li> SCP(PB) Virtual Briefing Slides (includes FAQ) [To be available on 13 May 2022]</li>
 <li><a href="https://go.gov.sg/scppb-application-form" target="_blank">SCP(PB) Application Form</a></li>
 <li><a href="https://go.gov.sg/scppb-budget-proposal-form-annexi" target="_blank">SCP(PB) Budget Proposal Form (Annex I)</a></li>
 <li><a href="https://go.gov.sg/scppb-application-checklist" target="_blank">SCP(PB) Application Checklist</a></li></p></div>
 	
 <div><p>For more details on submission of application documents and samples, refer to the Application Checklist and the Application Guide. </p>
 <p>For queries or assistance, please email <a href="mailto:MOE_LKYFB@moe.gov.sg">MOE_LKYFB@moe.gov.sg</a>.
-	<p> Press Release for the launch of the <b>Special Call for Proposals (Picture Books)</b> is available <a href="https://www.moe.gov.sg/news/press-releases/launch-of-iambilingualsg-call-for-projects" target="_blank">here.</a></p></div><br/>
+	<p> Press Release for the launch of the <b>Special Call for Proposals (Picture Books)</b> is available <a href="https://www.moe.gov.sg/news/press-releases/launch-of-iambilingualsg-call-for-projects" target="_blank">here.</a></p>
+<br><br>
 
 <div><h4>06 May 2020</h4>
  <span style="color:#8B0000"> #IAmBilingualSG Call for Projects [CLOSED]</span><br/>
