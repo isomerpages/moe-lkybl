@@ -15,10 +15,9 @@ permalink: /whats-up/news/
 
 <div><p><b>SCP(PB) Virtual Briefing Session</b>
 <p>Interested applicants may register to attend any one of the virtual briefing sessions to learn more about the SCP(PB):
-<p><br>
-1. 	Saturday, 7 May 2022 (10 am – 12 pm), or<br>
+<br>1. 	Saturday, 7 May 2022 (10 am – 12 pm), or<br>
 2. Thursday, 12 May 2022 (7 pm – 9 pm).
-	<p><br>
+<br>
 Limited slots available! Register <a href="https://form.gov.sg/#!/626115005a873600123bdfac" target="_blank">here</a> for the virtual briefing session. <br>
 
 <div><p><b> Application Eligibility & Criteria</b>
@@ -58,11 +57,7 @@ Mandatory inclusion of learning guides/conversation cues for all picture books. 
 							• Chinese-English,<br>
 							• Malay-English, or<br>
 							• Tamil-English<br>
-         </tr>
-      </tbody>
-   </table>
 </div>
-
 <div><p><b> Submission of Application Documents & Samples</b>
 		<br> Applicants are encouraged to read the Application Guide and FAQ in the virtual briefing slides carefully before submitting an application.<br>
 <li> <a href="https://go.gov.sg/scppb-application-guide" target="_blank">SCP(PB) Application Guide</a></li>
