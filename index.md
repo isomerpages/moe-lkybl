@@ -21,10 +21,10 @@ sections:
   - infopic:
       title: Special Call for Proposals (Picture Books)
       subtitle: NEWS
-      description: "We are calling for proposals for a series of picture books! Join
-        us in the virtual briefing if you are keen to produce children’s books
-        with a local flavour! "
-      button: Register here
+      description: We are calling for proposals for a series of picture books with
+        local flavour! Keen to know more? Register for the SCP(PB) virtual
+        briefing now!
+      button: Learn more
       url: https://www.bilingualism.sg/whats-up/news/
       image: /images/SCP(PB) Banner.jpg
       alt: SCP(PB)
