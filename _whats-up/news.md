@@ -13,11 +13,11 @@ permalink: /whats-up/news/
 <p>To encourage local writers and content creators to produce picture books to help young children develop literacy in English and the Mother Tongue languages (MTLs), the Lee Kuan Yew Fund for Bilingualism (the “Fund”) has launched a Special Call for Proposals (Picture Books). The books will add to the rich repository of language learning resources that are set in the Singapore context. </p>
  <p>From 1 August to 31 August 2022, the Fund will invite submissions of a series of picture books (with or without text) comprising 3 to 5 titles to support young children aged 0 to 6 years develop an interest in the MTLs at an early age. </p>
 <p> Each application for funding will be assessed based on the quality, literacy and visual merit, impact and originality. Decision of the evaluation panel is final. </p>
-<p><b>SCP(PB) Virtual Briefing Session</b></p>
+<p><b>SCP(PB) Virtual Briefing Session [CLOSED]</b></p>
 <p>Interested applicants may register to attend any one of the virtual briefing sessions to learn more about the SCP(PB):
 <br><br>1. 	Saturday, 7 May 2022 (10 am – 12 pm), or<br>
 2. Thursday, 12 May 2022 (7 pm – 9 pm).<br><br>
-Limited slots available! Register <a href="https://form.gov.sg/#!/626115005a873600123bdfac" target="_blank">here</a> for the virtual briefing session. </p>
+Limited slots available! Register <a href="https://form.gov.sg/#!/626115005a873600123bdfac" target="_blank">here </a> for the virtual briefing session. </p>
 
 <p><b> Application Eligibility & Criteria</b></p>
 <p>This initiative is open to individuals (Singaporeans or Permanent Residents) and organisations/institutions (Singapore-based).
@@ -59,7 +59,7 @@ Limited slots available! Register <a href="https://form.gov.sg/#!/626115005a8736
 <p><b>Submission of Application Documents & Samples</b></p>
 <p>Applicants are encouraged to read the Application Guide and FAQ in the virtual briefing slides carefully before submitting an application.</p>
 <li> <a href="https://go.gov.sg/scppb-application-guide" target="_blank">SCP(PB) Application Guide</a></li>
-<li> SCP(PB) Virtual Briefing Slides (includes FAQ) [To be available on 13 May 2022]</li>
+<li><a href="https://go.gov.sg/scppb-virtual-briefing-slides" target="blank">SCP(PB) Virtual Briefing Slides (includes FAQ)</a></li>
 <li><a href="https://go.gov.sg/scppb-application-form" target="_blank">SCP(PB) Application Form</a></li>
 <li><a href="https://go.gov.sg/scppb-budget-proposal-form-annexi" target="_blank">SCP(PB) Budget Proposal Form (Annex I)</a></li>
 <li><a href="https://go.gov.sg/scppb-application-checklist" target="_blank">SCP(PB) Application Checklist</a></li></div>
