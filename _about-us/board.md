@@ -48,7 +48,7 @@ border: 1px solid black;
     <td>Ms Sun Xueling (Vice-
 chair)<br>孙雪玲 ( 副主席 )</td>
     <td>Minister of State<br>
-Ministry of Education &amp; Ministry of Social and Family Development<br><br>
+Ministry of Home Affairs & Ministry of Social and Family Development<br><br>
 </td>   
   </tr>    
   <tr>
@@ -108,8 +108,8 @@ National Council Against Drug Abuse
 		
   </tr><tr>
     <td>Madam Rahayu Mahzam</td>
-    <td>Parliamentary Secretary<br>
-Ministry of Communications and Information &amp; Ministry of Health<br><br>
+    <td>Senior Parliamentary Secretary<br>
+Ministry of Health & Ministry of Law<br><br>
   Member<br>
 Malay Language Council
 </td>
@@ -126,5 +126,5 @@ SPH Media Trust</td>
     <td>Vice-President<br>
 International Business<br>
 iQIYI International Singapore Pte Ltd</td>
-</tbody></table><br>
+<br>
 <div class="btntop"><a style="text-decoration:none;" href="#top"><span style="color:white"><b>Top</b></span></a></div>
