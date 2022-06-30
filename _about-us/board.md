@@ -45,13 +45,6 @@ border: 1px solid black;
   
   </tr>
   <tr>
-    <td>Ms Sun Xueling (Vice-
-chair)<br>孙雪玲 ( 副主席 )</td>
-    <td>Minister of State<br>
-Ministry of Home Affairs & Ministry of Social and Family Development<br><br>
-</td>   
-  </tr>    
-  <tr>
     <td>Ms Goh Poh Gek (Treasurer)<br>
 吴宝玉 ( 财政 )</td>
     <td>Chief Financial Officer<br>
