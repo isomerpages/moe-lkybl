@@ -42,7 +42,12 @@ border: 1px solid black;
     <td>Mr Chan Chun Sing (Chair)<br>
 陈振声 ( 主席 )</td>
     <td>Minister for Education</td>
-  
+  </tr>
+		<tr>
+    <td>Ms Gan Siow Huang (Vice-Chair)<br>
+颜晓芳 ( 副主席 )</td>
+    <td>Minister of State
+			Ministry of Education & Ministry of Manpower</td>
   </tr>
   <tr>
     <td>Ms Goh Poh Gek (Treasurer)<br>
