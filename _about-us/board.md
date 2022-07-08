@@ -45,9 +45,8 @@ border: 1px solid black;
   </tr>
 		<tr>
     <td>Ms Gan Siow Huang (Vice-Chair)<br>
-颜晓芳 ( 副主席 )</td>
-    <td>Minister of State
-			Ministry of Education & Ministry of Manpower</td>
+			颜晓芳 ( 副主席 )</td>
+			<td>Minister of State<br>Ministry of Education & Ministry of Manpower</td>
   </tr>
   <tr>
     <td>Ms Goh Poh Gek (Treasurer)<br>
