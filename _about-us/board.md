@@ -72,29 +72,21 @@ Ministry of Education</td>
     <td>Former Editor-in-Chief<br>
 Chinese Newspapers Division<br>
 Singapore Press Holdings</td>
-
-  </tr><tr>
-    <td>Mr K Ramamoorthy<br>
-கி. ராமமூர்த்தி</td>
-    <td>Senior Lecturer<br>
-Republic Polytechnic</td>
-    
-  </tr><tr>
+  </tr>
+		<tr>
     <td>Associate Professor Tan Chee Lay<br>
 陈志锐副教授</td>
     <td>Deputy Head<br>
 Asian Languages and Cultures Academic Group<br> 
 National Institute of Education<br>
 Nanyang Technological University</td>
-   
- <tr>
-    <td>Mr Chua Chim Kang<br>
-蔡深江</td>
-    <td>Chief Editor <br>
-Chinese News &amp; Current Affairs<br>
-Mediacorp</td>
-	 
-</tr>
+		</tr>
+		<tr>
+    <td>Mr K Ramamoorthy<br>
+கி. ராமமூர்த்தி</td>
+    <td>Senior Lecturer<br>
+Republic Polytechnic</td>
+  </tr>
   <tr>
     <td>Mr Hawazi Daipi</td>
     <td>Singapore’s Non-Resident High Commissioner to the Republic of Ghana, and <br>
@@ -102,16 +94,23 @@ Mediacorp</td>
       Chairman<br>
 National Council Against Drug Abuse
 </td>
-		
-  </tr><tr>
+  </tr>
+<tr>
+    <td>Mr Chua Chim Kang<br>
+蔡深江</td>
+    <td>Chief Editor <br>
+Chinese News &amp; Current Affairs<br>
+Mediacorp</td>
+</tr>
+		<tr>
     <td>Madam Rahayu Mahzam</td>
     <td>Senior Parliamentary Secretary<br>
 Ministry of Health & Ministry of Law<br><br>
   Member<br>
 Malay Language Council
 </td>
-
-  </tr><tr>
+		</tr>
+  <tr>
     <td>Ms Lee Huay Leng<br>
 李慧玲</td>
     <td>Editor-in-Chief<br>
