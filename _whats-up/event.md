@@ -5,14 +5,13 @@ permalink: /whats-up/event/
 ###   Event
 
  <div><p><strong>Mother Tongue Languages Symposium 2022<br></strong>
-     Look out for us at the upcoming <a href="https://www.mtls.edu.sg/">Mother Tongue Languages Symposium 2022.</a></p></div>
-		 <br>
+	Look out for us at the upcoming <a href="https://www.mtls.edu.sg/">Mother Tongue Languages Symposium 2022.</a></p></div><br>
 <img src="/images/MTLS 2022 Banner.jpeg">
 
- <div><p>The Mother Tongue Languages Symposium (MTLS) is an annual event co-organised by the Ministry of Education (MOE), the Committee to Promote Chinese Language Learning (CPCLL), the Malay Language Learning and Promotion Committee (MLLPC) and the Tamil Language Learning and Promotion Committee (TLLPC).</p></div><br>
-<div><p>The 11th Mother Tongue Languages Symposium (MTLS) will be held on Saturday, 27 August 2022. This year's MTLS is a hybrid event, with the Opening and Award Ceremony and sharing sessions being held at The Republic Cultural Centre, Republic Polytechnic. </p></div><br>
+ <div><p>The Mother Tongue Languages Symposium (MTLS) is an annual event co-organised by the Ministry of Education (MOE), the Committee to Promote Chinese Language Learning (CPCLL), the Malay Language Learning and Promotion Committee (MLLPC) and the Tamil Language Learning and Promotion Committee (TLLPC).</p></div>
+<div><p>The 11th Mother Tongue Languages Symposium (MTLS) will be held on Saturday, 27 August 2022. This year's MTLS is a hybrid event, with the Opening and Award Ceremony and sharing sessions being held at The Republic Cultural Centre, Republic Polytechnic. </p></div>
   
-<div><p>Themed 'A Garden of Joyful Discovery', the 11th MTLS focuses on harnessing the efforts of not only educators, but also parents and community partners in creating a joyful, nurturing, and vibrant MTL learning environment for our children.</p></div><br>
+<div><p>Themed 'A Garden of Joyful Discovery', the 11th MTLS focuses on harnessing the efforts of not only educators, but also parents and community partners in creating a joyful, nurturing, and vibrant MTL learning environment for our children.</p></div>
 
 <div><p>This year, there are new features and activities not just for parents and educators, but also for young children to take part in, such as Online Interative Workshops, Online Engagement Sessions, Online Storytelling Sessions and the Explore@MTLS Activity Package. Invited guests and audience online will also get to hear from the Minister of Education, Mr Chan Chun Sing and Chairpersons of the Mother Tongue Languages Learning and Promotion Committees, Second Minister for Education, Dr Mohamad Maliki Bin Osman, Minister of State for Education, Ms Gan Siow Huang and Mr Vikram Nair who will be discussing on 'Co-creating a Joyful MTL Learning Environment for Our Children' in the Panel Discussion. There will also be an Online Quest, more than 40 online exhibits, 29 sharing sessions and an online sale of recommended books. For more information, visit www.mtls.edu.sg now!</p></div>
 <p></p>
