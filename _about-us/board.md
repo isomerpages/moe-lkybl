@@ -95,13 +95,6 @@ Republic Polytechnic</td>
 National Council Against Drug Abuse
 </td>
   </tr>
-<tr>
-    <td>Mr Chua Chim Kang<br>
-蔡深江</td>
-    <td>Chief Editor <br>
-Chinese News &amp; Current Affairs<br>
-Mediacorp</td>
-</tr>
 		<tr>
     <td>Madam Rahayu Mahzam</td>
     <td>Senior Parliamentary Secretary<br>
@@ -110,12 +103,19 @@ Ministry of Health & Ministry of Law<br><br>
 Malay Language Council
 </td>
 		</tr>
+		<tr>
+    <td>Mr Chua Chim Kang<br>
+蔡深江</td>
+    <td>Chief Editor <br>
+Chinese News &amp; Current Affairs<br>
+Mediacorp</td>
+</tr>
   <tr>
     <td>Ms Lee Huay Leng<br>
 李慧玲</td>
     <td>Editor-in-Chief<br>
 Chinese Media Group<br>
-SPH Media Trust</td>
+SPH Media Limited</td>
 		</tr><tr>
     <td>Mr Kuek Yu Chuang<br>
 郭又铨</td>
