@@ -4,7 +4,7 @@ permalink: /whats-up/news/
 ---
 ###   News
 <div><h4>29 April 2022</h4>
- <span style="color:#8B0000"> Special Call for Proposals (Picture Books) </span><br/>
+ <span style="color:#8B0000"> Special Call for Proposals (Picture Books) [CLOSED] </span><br/>
 <img src="/images/SCPPB Banner.jpg">
 <br/></div>
 

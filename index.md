@@ -19,16 +19,6 @@ sections:
         - title: Donation
           url: /about-us/donation/
   - infopic:
-      title: Special Call for Proposals (Picture Books)
-      subtitle: NEWS
-      description: We are calling for proposals for a series of picture books with
-        local flavour! Application window opens on 1 August and closes on 31
-        August 2022.
-      button: Learn more
-      url: https://www.bilingualism.sg/whats-up/news/
-      image: /images/SCPPB Banner.jpg
-      alt: SCP(PB)
-  - infopic:
       title: Looking for resources to guide your child in learning Mother Tongue
         languages?
       description: Follow us on our <a href="https://www.facebook.com/bilingualismsg"
