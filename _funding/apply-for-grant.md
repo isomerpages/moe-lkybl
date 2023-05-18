@@ -20,20 +20,20 @@ community. Please note that the Fund is currently not accepting any research-rel
 		<th><b>For projects launching during/after*</b></th>
   </tr>
   <tr>
-    <td>31 Jan 2023</td>
-    <td>Jul 2023</td>
-  </tr>
-  <tr>
     <td>31 Jul 2023</td>
-    <td>Dec 2023</td>  
+    <td>Dec 2023</td>
   </tr>
   <tr>
     <td>31 Jan 2024</td>
-    <td>Jul 2024</td>   
+    <td>Jul 2024</td>  
   </tr>
   <tr>
     <td>31 Jul 2024</td>
-    <td>Dec 2024</td> 
+    <td>Dec 2024</td>   
+  </tr>
+  <tr>
+    <td>31 Jan 2025</td>
+    <td>Jul 2025</td> 
   </tr>
 </tbody></table>
 <div><p>*The Fund requires Grantees to take in the Fund's input to our satisfaction. Please factor in
@@ -42,11 +42,11 @@ digital resources.</p><div>
 <div><p><strong>Interested applicants can refer to the Fund Application Guidelines and FAQs before completing the two application forms below.</strong></p><div>
 <div><p><strong>Should you wish to apply for files/funding, please email <a href="mailto:moe_lkyfb@moe.gov.s">moe_lkyfb@moe.gov.sg</a> for submission or clarification. We recognise that it takes time and effort to complete proposals, and strongly encourage applicants to clarify any doubts regarding files/funding criteria prior to commencing your applications.</strong></p></div><br>
 <div><p><strong>For proposals on teaching and learning resources, programmes and events:</strong>
-</p><ul><li><a href="/files/funding/CFP-Application-Guide_20220617.pdf" target="_blank">Fund Application Guidelines</a></li>
-<li><a href="/files/funding/FAQs_20200103.pdf" target="_blank">FAQs</a></li>
-<li><a href="/files/funding/Application_Checklist.docx">Application Checklist</a></li>
-<li><a href="/files/funding/Application_Form.docx">Application Form</a></li>
-  <li><a href="/files/funding/Proposed_Budget.xlsx">Application Form Annex I: Proposed Budget</a></li></ul><p></p><div>
+</p><ul><li><a href="/files/funding/CFP Application Guide_20230516.pdf" target="_blank">Fund Application Guidelines</a></li>
+<li><a href="/files/funding/FAQs_20230516.pdf" target="_blank">FAQs</a></li>
+<li><a href="https://go.gov.sg/cfp-application-checklist">Application Checklist</a></li>
+<li><a href="https://go.gov.sg/cfp-application-form">Application Form</a></li>
+  <li><a href="https://go.gov.sg/cfp-budget-proposal-form">Proposed Budget Form (Annex I)</a></li></ul><p></p><div>
 <div><p><strong>Completed application forms and a sample of the product can be submitted in the following
 ways :</strong>
 </p><ul><li>E-mail to: <a href="mailto:moe_lkyfb@moe.gov.sg"> moe_lkyfb@moe.gov.sg</a> ;</li>
