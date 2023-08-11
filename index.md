@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Bilingualism
+title: Lee Kuan Yew Fund for Bilingualism
 description: Brief site description here
 permalink: /
 sections:
@@ -30,4 +30,5 @@ sections:
         resources supported by LKYFB.
       image: /images/LKYFB_FollowUs.jpg
       alt: Follow us on Facebook, Instagram and YouTube
+image: /images/isomer-logo.svg
 ---

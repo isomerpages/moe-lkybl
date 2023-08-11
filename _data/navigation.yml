@@ -1,11 +1,4 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/Bilingualism-Logo.jpg
-
 links:
   - title: About Us
     collection: about-us
