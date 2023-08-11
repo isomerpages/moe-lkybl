@@ -31,7 +31,7 @@ td, th {
 tr:nth-child(even) {
   background-color: #dddddd;
 </style>
-<table style="width:100%; 
+<br><div class="btntop"><a style="text-decoration:none;" href="#top"><span style="color:white"><b>Top</b></span></a></div><table style="width:100%; 
 border: 1px solid black;
   border-collapse: collapse;">
   <tbody><tr>
@@ -46,7 +46,7 @@ border: 1px solid black;
 		<tr>
     <td>Ms Gan Siow Huang (Vice-Chair)<br>
 			颜晓芳 ( 副主席 )</td>
-			<td>Minister of State<br>Ministry of Education & Ministry of Manpower</td>
+			<td>Minister of State<br>Ministry of Education &amp; Ministry of Manpower</td>
   </tr>
   <tr>
     <td>Ms Goh Poh Gek (Treasurer)<br>
@@ -64,7 +64,7 @@ Ministry of Education</td>
   </tr><tr>
   <td>Mr Ong Chao Choon<br>
 王绍春</td>  
-     <td>Deputy Chairman &amp; Advisory Leader<br>
+     <td>Former Deputy Chairman &amp; Advisory Leader<br>
        PwC Singapore</td>
   </tr><tr>
   <td>Mr Lim Jim Koon<br>
@@ -98,7 +98,7 @@ National Council Against Drug Abuse
 		<tr>
     <td>Madam Rahayu Mahzam</td>
     <td>Senior Parliamentary Secretary<br>
-Ministry of Health & Ministry of Law<br><br>
+Ministry of Health &amp; Ministry of Law<br><br>
   Member<br>
 Malay Language Council
 </td>
@@ -122,5 +122,5 @@ SPH Media Limited</td>
     <td>Vice-President<br>
 International Business<br>
 iQIYI International Singapore Pte Ltd</td>
-<br>
-<div class="btntop"><a style="text-decoration:none;" href="#top"><span style="color:white"><b>Top</b></span></a></div>
+
+</tr></tbody></table>
