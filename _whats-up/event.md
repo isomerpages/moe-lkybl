@@ -3,19 +3,7 @@ title: Event
 permalink: /whats-up/event/
 ---
 ###   Event
-
-Fun with Bilingualism Carnival
-
-In commemoration of the late Mr Lee Kuan Yew’s 100th&nbsp;birth anniversary, LKYFB is supporting a Bilingualism Carnival organised by SPH Media Limited.
-
-Come join us at the Bilingualism Carnival with your loved ones!
-
-<img src="/images/mtls 2023_edm.jpg">
-
-
-
-
- <div><p><strong>Mother Tongue Languages Symposium 2023<br></strong>
+<div><p><strong>Mother Tongue Languages Symposium 2023<br></strong>
 Look out for us at the upcoming <a href="https://www.mtls.edu.sg/">Mother Tongue Languages Symposium 2023.</a></p></div><br>
 <img src="/images/mtls 2023_edm.jpg">
 
@@ -26,6 +14,15 @@ Look out for us at the upcoming <a href="https://www.mtls.edu.sg/">Mother Tongue
 
 <div><p>Drawing from the perspectives of academics, educators, curriculum specialists and media personalities to share insights in promoting MTL literacy and appreciation, there will be 19 sharing sessions for parents and educators, and 26 interactive workshops for parent-child bonding.For more information, visit <a href="https://www.mtls.edu.sg/">www.mtls.edu.sg</a> now!</p></div><br><br>
 
+<div><b>Fun with Bilingualism (Bilingual Carnival 2023)</b>
+	
+In commemoration of the late Mr Lee Kuan Yew’s 100th&nbsp;birth anniversary, LKYFB is supporting a Bilingualism Carnival organised by SPH Media Limited.
+
+Come join us at the Bilingualism Carnival with your loved ones!
+
+<img src="/images/bilingualism carnival poster.jpg">
+
+<br>
 <div><p><strong> Lee Kuan Yew Fund for Bilingualism 10th Anniversary Commemorative Event</strong></p></div><strong><br></strong>
 <div><p>To mark the Fund's 10th year milestone, the Commemorative Video, tracing the Fund's journey since inception, will be launched. Centered on the theme "Bilingualism in Singapore 2030 - Our Vision and Way Forward", experts and practitioners will share their insights on their personal experiences in learning to be effective bilinguals, the importance of bilingualism for individuals, and the impact of bilingualism in the community and beyond. </p></div>
 		
@@ -37,4 +34,4 @@ Look out for us at the upcoming <a href="https://www.mtls.edu.sg/">Mother Tongue
 		<div><p> See you online!</p></div>
 		<p></p>
 
-<div class="btntop"><a style="text-decoration:none;" href="#top"><span style="color:white"><b>Top</b></span></a></div></div>
+<div class="btntop"><a style="text-decoration:none;" href="#top"><span style="color:white"><b>Top</b></span></a></div></div></div>
