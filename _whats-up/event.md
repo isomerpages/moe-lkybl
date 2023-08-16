@@ -20,7 +20,7 @@ In commemoration of the late Mr Lee Kuan Yew’s 100th&nbsp;birth anniversary, L
 
 Come join us at the Bilingualism Carnival with your loved ones!
 
-![E-direct mailer for Fun with Bilingualism Carnival](/images/bilingualism%20carnival%20poster.jpg)
+<img src="/images/bilingualism carnival poster.jpg">
 
 <br>
 <div><p><strong> Lee Kuan Yew Fund for Bilingualism 10th Anniversary Commemorative Event</strong></p></div><strong><br></strong>
