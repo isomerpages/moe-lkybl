@@ -4,6 +4,17 @@ permalink: /whats-up/event/
 ---
 ###   Event
 
+Fun with Bilingualism Carnival
+
+In commemoration of the late Mr Lee Kuan Yew’s 100th&nbsp;birth anniversary, LKYFB is supporting a Bilingualism Carnival organised by SPH Media Limited.
+
+Come join us at the Bilingualism Carnival with your loved ones!
+
+<img src="/images/mtls 2023_edm.jpg">
+
+
+
+
  <div><p><strong>Mother Tongue Languages Symposium 2023<br></strong>
 Look out for us at the upcoming <a href="https://www.mtls.edu.sg/">Mother Tongue Languages Symposium 2023.</a></p></div><br>
 <img src="/images/mtls 2023_edm.jpg">
