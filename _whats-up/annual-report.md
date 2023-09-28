@@ -28,6 +28,12 @@ td, th {
 <table>
  <tbody><tr>
 	 <td>
+	<p><a target="_blank" href="https://go.gov.sg/lkyfb-ar-fy2022-23">
+    <img style="width:247px; height:349px;" class="responsive" src="/images/Cover-FY2022-23.jpg" border="0"></a></p>
+   <p><a target="_blank" href="">[To be uploaded] Financial Statement (FY 2022/23)</a></p>
+		 <p><a target="_blank" href="/files/whats-up/LKYFB_GEC_FY2022-23.pdf">[To be uploaded] Governance Evaluation Checklist (FY 2022/23)</a></p>
+   </td>
+	 <td>
 	<p><a target="_blank" href="https://go.gov.sg/lkyfb-ar-fy2021-22">
     <img style="width:247px; height:349px;" class="responsive" src="/images/Cover-FY2021-22.png" border="0"></a></p>
    <p><a target="_blank" href="/files/whats-up/LKYFB_FS_FY2021-22.pdf">Financial Statement (FY 2021/22)</a></p>
