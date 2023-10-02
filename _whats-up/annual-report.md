@@ -29,7 +29,7 @@ td, th {
  <tbody><tr>
 	 <td>
 	<p><a href="https://go.gov.sg/lkyfb-ar-fy2022-23" target="_blank">
-    <img border="0" src="/images/Cover-FY2022-23.jpg" class="responsive" style="width:247px; height:349px;"></a></p>
+    <img border="0" src="/images/cover-fy2022-23.jpg" class="responsive" style="width:247px; height:349px;"></a></p>
   <p><a href="/files/whats-up/LKYFB_FS_FY2022-23.pdf" target="_blank">Financial Statement (FY 2022/23)</a></p>
 		 <p><a href="/files/whats-up/LKYFB_GEC_FY2022-23.pdf" target="_blank">Governance Evaluation Checklist (FY 2022/23)</a></p>
    </td>
