@@ -3,10 +3,7 @@ title: Apply for Grant
 permalink: /funding/apply-for-grant/
 ---
 <div><h3>Call for Proposals</h3>
-
-
-
-	<style>
+<style>
 		.main {
 			font-size: 2px;
 			font-weight: bold;
@@ -23,15 +20,10 @@ permalink: /funding/apply-for-grant/
 			font-weight: bold;
 		}
 	</style>
-
-
-
 	<div id="box">Note to applicants:<br> 
 The January 2024 Call for Proposals (CFP) is designated as a Special Call with  
 a core focus on funding applications for bilingual events and programmes,  
 for example: plays/dramas, booths/exhibitions, competitions, social media campaigns.</div>
-
-
 
 <div><p>The Lee Kuan Yew Fund for Bilingualism invites you to submit proposals to promote bilingualism.</p></div><br>
 <div><p>Bilingual education is a cornerstone of our education system. Learning two languages helps
