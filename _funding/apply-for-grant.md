@@ -13,7 +13,7 @@ permalink: /funding/apply-for-grant/
 			padding: 5px;
 			position: relative;
 			border: 5px solid #990000;
-			margin: auto;
+			margin: 20px;
 			text-align: center;
 			font-size: relative;
 			font-weight: bold;
