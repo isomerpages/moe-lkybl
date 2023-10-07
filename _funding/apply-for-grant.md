@@ -11,12 +11,11 @@ permalink: /funding/apply-for-grant/
 		}
 		#box {
 			padding: 5px;
-			width: 700px;
-			height: 120px;
+			position: relative;
 			border: 5px solid #990000;
 			margin: 20px;
 			text-align: center;
-			font-size: 16px;
+			font-size: relative;
 			font-weight: bold;
 		}
 	</style>
@@ -30,11 +29,10 @@ for example: plays/dramas, booths/exhibitions, competitions, social media campai
 Singaporeans plug into a globalised world and strengthen links to our Asian heritage.</p><div>
 <div><p>Research has shown that exposure in early years is effective for nurturing bilingualism and the learning of multiple languages. Strengthening our efforts to encourage bilingualism in the early
 years, especially in listening and speaking capabilities, would provide our children with a headstart in language acquisition and lay a stronger foundation for bilingual learning in their later years.</p><div>
-<div><p><strong>The Fund has set specific periods for Call for Proposals (CFP) in January and July each year.  Proposals that are received outside of the CFP period will only be evaluated during the next CFP. </strong>
+<div><p><strong>The Fund has set specific periods for Call for Proposals (CFP) in January and July each year.  Proposals that are received outside of the CFP period will only be evaluated during the next CFP. </strong></p><strong>
 
-</p><div><p>Please note that the Fund is currently not accepting any research-related proposals.</p><div>
-	
-<br><strong>When to apply:</strong><p></p><div>
+</strong><div><strong></strong><p><strong>Please note that the Fund is currently not accepting any research-related proposals.
+<br>When to apply:</strong></p><p></p><div>
 
 <table>
   <tbody><tr>
@@ -43,7 +41,7 @@ years, especially in listening and speaking capabilities, would provide our chil
   </tr>
   <tr>
     <td>31 Jan 2024</td>
-    <td>Dec 2024</td>
+    <td>Jul 2024</td>
   </tr>
   <tr>
     <td>31 Jul 2024</td>
@@ -55,7 +53,7 @@ years, especially in listening and speaking capabilities, would provide our chil
   </tr>
   <tr>
     <td>31 Jul 2025</td>
-    <td>Ded 2025</td> 
+    <td>Dec 2025</td> 
   </tr>
 </tbody></table>
 <div><p>*The Fund requires Grantees to take in the Fund's input to our satisfaction. Please factor in
@@ -81,4 +79,4 @@ Attention: Lee Kuan Yew Fund for Bilingualism</p></ul><div>
 <div><p>Mondays – Fridays: 8.30am to 5.30pm<br>
 Saturdays, Sundays &amp; Public Holidays: Closed</p></div>
   </div>
- <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+ <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
