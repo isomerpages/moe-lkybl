@@ -22,7 +22,7 @@ permalink: /funding/apply-for-grant/
 	<div id="box">Note to applicants:<br> 
 The January 2024 Call for Proposals (CFP) is designated as a Special Call with  
 a core focus on funding applications for bilingual events and programmes,  
-for example: plays/dramas, booths/exhibitions, competitions, social media campaigns.</div>
+for example: plays/dramas, booths/exhibitions, competitions, social media campaigns, etc.</div>
 
 <div><p>The Lee Kuan Yew Fund for Bilingualism invites you to submit proposals to promote bilingualism.</p></div><br>
 <div><p>Bilingual education is a cornerstone of our education system. Learning two languages helps
@@ -56,9 +56,7 @@ years, especially in listening and speaking capabilities, would provide our chil
     <td>Dec 2025</td> 
   </tr>
 </tbody></table>
-<div><p>*The Fund requires Grantees to take in the Fund's input to our satisfaction. Please factor in
-additional time for vetting and printing/production before the launch date, especially for print and
-digital resources.</p><div>
+<div><p>*The Fund requires Grantees to take in the Fund's input to our satisfaction. Please factor in additional time for vetting and printing/production before the launch date, especially for print and digital resources.</p><div>
 <div><p><strong>Interested applicants can refer to the Fund Application Guidelines and FAQs before completing the required application documents below.</strong></p><div>
 <div><p><strong>Should you wish to apply for funding, please email <a href="mailto:moe_lkyfb@moe.gov.s">moe_lkyfb@moe.gov.sg</a> for submission or clarification. We recognise that it takes time and effort to complete proposals, and strongly encourage applicants to clarify any doubts regarding funding criteria prior to commencing your applications.</strong></p></div><br>
 <div><p><strong>For more information on the application process, please refer to:</strong>
