@@ -13,114 +13,19 @@ The Fund is managed by a Board and supported by the following committees:<br>
 (v) Research Advisory Panel<br>
   <br>
 The Board members are:</p></div>
-
-
-<style>
-table, th, td {
-  font-family: arial, sans-serif;
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-  width:50%
-  
-}
-tr:nth-child(even) {
-  background-color: #dddddd;
-</style>
-<br><div class="btntop"><a style="text-decoration:none;" href="#top"><span style="color:white"><b>Top</b></span></a></div><table style="width:100%; 
-border: 1px solid black;
-  border-collapse: collapse;">
-  <tbody><tr>
-    <th>Name</th>
-    <th>Designation</th> 
-  </tr>
-  <tr>
-    <td>Mr Chan Chun Sing (Chair)<br>
-陈振声 ( 主席 )</td>
-    <td>Minister for Education</td>
-  </tr>
-		<tr>
-    <td>Ms Gan Siow Huang (Vice-Chair)<br>
-			颜晓芳 ( 副主席 )</td>
-			<td>Minister of State<br>Ministry of Education &amp; Ministry of Manpower</td>
-  </tr>
-  <tr>
-    <td>Ms Goh Poh Gek (Treasurer)<br>
-吴宝玉 ( 财政 )</td>
-    <td>Chief Financial Officer<br>
-Finance &amp; Procurement Division<br>
-Ministry of Education</td>
-    
-  </tr><tr>
-    <td>Mr Wong Siew Hoong<br>
-王斯芸</td>
-    <td>Advisor<br>
-Ministry of Education</td>
-  
-  </tr><tr>
-  <td>Mr Ong Chao Choon<br>
-王绍春</td>  
-     <td>Former Deputy Chairman &amp; Advisory Leader<br>
-       PwC Singapore</td>
-  </tr><tr>
-  <td>Mr Lim Jim Koon<br>
-林任君</td>
-    <td>Former Editor-in-Chief<br>
-Chinese Newspapers Division<br>
-Singapore Press Holdings</td>
-  </tr>
-		<tr>
-    <td>Associate Professor Tan Chee Lay<br>
-陈志锐副教授</td>
-    <td>Deputy Head<br>
-Asian Languages and Cultures Academic Group<br> 
-National Institute of Education<br>
-Nanyang Technological University</td>
-		</tr>
-		<tr>
-    <td>Mr K Ramamoorthy<br>
-கி. ராமமூர்த்தி</td>
-    <td>Senior Lecturer<br>
-Republic Polytechnic</td>
-  </tr>
-  <tr>
-    <td>Mr Hawazi Daipi</td>
-    <td>Singapore’s Non-Resident High Commissioner to the Republic of Ghana, and <br>
-      Non-Resident Representative to the Palestine National Authority<br>   <br>
-      Chairman<br>
-National Council Against Drug Abuse
-</td>
-  </tr>
-		<tr>
-    <td>Madam Rahayu Mahzam</td>
-    <td>Senior Parliamentary Secretary<br>
-Ministry of Health &amp; Ministry of Law<br><br>
-  Member<br>
-Malay Language Council
-</td>
-		</tr>
-		<tr>
-    <td>Mr Chua Chim Kang<br>
-蔡深江</td>
-    <td>Chief Editor <br>
-Chinese News &amp; Current Affairs<br>
-Mediacorp</td>
-</tr>
-  <tr>
-    <td>Ms Lee Huay Leng<br>
-李慧玲</td>
-    <td>Editor-in-Chief<br>
-Chinese Media Group<br>
-SPH Media Limited</td>
-		</tr><tr>
-    <td>Mr Kuek Yu Chuang<br>
-郭又铨</td>
-    <td>Vice-President<br>
-International Business<br>
-iQIYI International Singapore Pte Ltd</td>
-
-</tr></tbody></table>
+	
+| Name | Designation |
+| -------- | -------- | 
+| Mr Chan Chun Sing (Chair)<br>陈振声 ( 主席 )     | Minister for Education | 
+| Ms Gan Siow Huang (Vice-Chair)<br>颜晓芳 ( 副主席 )| Minister of State<br> Minister of Education &amp; Ministry of Manpower |
+| Ms Goh Poh Gek (Treasurer)<br>吴宝玉 ( 财政 ) | Chief Financial Officer<br>Finance &amp; Procurement Division<br> Ministry of Education | 
+| Mr Wong Siew Hoong<br>王斯芸 | Advisor<br>Ministry of Education |
+| Mr Ong Chao Choon<br>王绍春 | Former Deputy Chairman &amp; Advisory Leader<br>PwC Singapore |
+| Mr Lim Jim Koon<br>林任君 | Former Editor-in-Chief<br>Chinese Newspapers Division<br>Singapore Press Holdings | 
+| Associate Professor Tan Chee Lay<br>陈志锐副教授 | Deputy Head<br>Asian Languages and Cultures Academic Group<br>National Institute of Education<br>Nanyang Technological University |
+| Mr K Ramamoorthy<br>கி. ராமமூர்த்தி | Senior Lecturer<br>Republic Polytechnic |
+| Mr Hawazi Daipi | Singapore’s Non-Resident High Commissioner to the Republic of Ghana, and Non-Resident Representative to the Palestine National Authority <br><br>Chairman<br> National Council Against Drug Abuse |
+| Madam Rahayu Mahzam | Senior Parliamentary Secretary<br>Minister of Health &amp; Ministry of Law<br><br>Member<br>Malay Language Council |
+| Mr Chua Chim Kang <br>蔡深江 | Chief Editor<br>Chinese News &amp; Current Affairs<br>Mediacorp |
+| Ms Lee Huay Leng<br>李慧玲 | Editor-in-Chief<br>Chinese Media Group<br>SPH Media Limited |
+| Mr Kuek Yu Chuang<br>郭又铨 | Vice-President<br>International Business<br>iQIYI International Singapore Pte Ltd |
