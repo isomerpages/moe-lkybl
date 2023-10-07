@@ -10,13 +10,13 @@ permalink: /funding/apply-for-grant/
 			text-align: left;
 		}
 		#box {
-			padding: 3px;
-			width: 600px;
-			height: 110px;
+			padding: 5px;
+			width: 700px;
+			height: 120px;
 			border: 5px solid #990000;
 			margin: 20px;
 			text-align: center;
-			font-size: 15px;
+			font-size: 16px;
 			font-weight: bold;
 		}
 	</style>
