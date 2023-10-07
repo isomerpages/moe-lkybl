@@ -11,8 +11,7 @@ permalink: /funding/apply-for-grant/
 		}
 		#box {
 			padding: 5px;
-			width: 700px;
-			height: 120px;
+			position: relative;
 			border: 5px solid #990000;
 			margin: 20px;
 			text-align: center;
@@ -43,7 +42,7 @@ years, especially in listening and speaking capabilities, would provide our chil
   </tr>
   <tr>
     <td>31 Jan 2024</td>
-    <td>Dec 2024</td>
+    <td>Jul 2024</td>
   </tr>
   <tr>
     <td>31 Jul 2024</td>
@@ -55,7 +54,7 @@ years, especially in listening and speaking capabilities, would provide our chil
   </tr>
   <tr>
     <td>31 Jul 2025</td>
-    <td>Ded 2025</td> 
+    <td>Dec 2025</td> 
   </tr>
 </tbody></table>
 <div><p>*The Fund requires Grantees to take in the Fund's input to our satisfaction. Please factor in
