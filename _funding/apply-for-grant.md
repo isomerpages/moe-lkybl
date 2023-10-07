@@ -32,7 +32,7 @@ years, especially in listening and speaking capabilities, would provide our chil
 <div><p><strong>The Fund has set specific periods for Call for Proposals (CFP) in January and July each year.  Proposals that are received outside of the CFP period will only be evaluated during the next CFP. </strong></p><strong>
 
 </strong><div><strong></strong><p><strong>Please note that the Fund is currently not accepting any research-related proposals.
-<br>When to apply:</strong></p><p></p><div>
+<br><br>When to apply:</strong></p><p></p><div>
 
 <table>
   <tbody><tr>
