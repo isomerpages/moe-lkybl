@@ -11,7 +11,7 @@ news, information on the school curriculum and resources for parents to support 
 learning and development.</p></div></div><br/>
 <div><h5><a href="https://www.facebook.com/speakgoodenglishmovement" target="_blank"><u>Speak Good English Movement Facebook Page</u></a></h5>
 <div><p>Read tips and acquire strategies to improve your child&#39;s English.</p></div></div><br/>
-<div><h5><a href="/files/whats-up/LKYFB-Fund-supported-Print-Resources.pdf" target="_blank"><u>List of Fund-supported Resources</u></a></h5>
+<div><h5><a href="/files/whats-up/lkyfb-fund-supported-print-resources.pdf" target="_blank"><u>List of Fund-supported Resources</u></a></h5>
 <div><p>The Fund supports numerous initiatives to support young learners in language
 learning, including the production of resources. These resources include print and
 electronic books, periodicals and songs.</p></div></div> <br/>

@@ -60,8 +60,8 @@ years, especially in listening and speaking capabilities, would provide our chil
 <div><p><strong>Interested applicants can refer to the Fund Application Guidelines and FAQs before completing the required application documents below.</strong></p><div>
 <div><p><strong>Should you wish to apply for funding, please email <a href="mailto:moe_lkyfb@moe.gov.s">moe_lkyfb@moe.gov.sg</a> for submission or clarification. We recognise that it takes time and effort to complete proposals, and strongly encourage applicants to clarify any doubts regarding funding criteria prior to commencing your applications.</strong></p></div><br>
 <div><p><strong>For more information on the application process, please refer to:</strong>
-</p><ul><li><a href="/files/funding/CFP Application Guide_20231005.pdf" target="_blank">Fund Application Guidelines</a></li>
-	<li><a href="/files/funding/FAQs_20231005.pdf" target="_blank">FAQs</a></li><p></p></ul>
+</p><ul><li><a href="/files/funding/cfp application guide_20231005.pdf" target="_blank">Fund Application Guidelines</a></li>
+	<li><a href="/files/funding/faqs_20231005.pdf" target="_blank">FAQs</a></li><p></p></ul>
 <div><p><strong>Documents Required for Application:</strong>
 </p><ul><li><a href="https://go.gov.sg/cfp-application-checklist">Application Checklist</a></li>
 <li><a href="https://go.gov.sg/cfp-application-form">Application Form</a></li>
