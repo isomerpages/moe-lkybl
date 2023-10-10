@@ -45,8 +45,8 @@ paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: ""
-staging: https://staging.d8u7xu1xiccdm.amplifyapp.com/
-prod: https://master.d8u7xu1xiccdm.amplifyapp.com/
+staging: https://staging.d2n7r01mpp9eos.amplifyapp.com/
+prod: https://master.d2n7r01mpp9eos.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
