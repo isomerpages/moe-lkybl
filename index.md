@@ -6,7 +6,7 @@ permalink: /
 sections:
   - hero:
       title: Lee Kuan Yew Fund for Bilingualism
-      background: /images/Hero-BannerGIF.gif
+      background: /images/hero-bannergif.gif
       button: Learn More
       url: /about-us/about-the-fund/
       key_highlights:
@@ -28,7 +28,7 @@ sections:
         href="https://www.youtube.com/channel/UCEIPdWulFJvJKhgIWnoe34w"
         target="_blank">YouTube</a> channel to be updated on interesting
         resources supported by LKYFB.
-      image: /images/LKYFB_FollowUs.jpg
+      image: /images/lkyfb_followus.jpg
       alt: Follow us on Facebook, Instagram and YouTube
 image: /images/isomer-logo.svg
 ---
