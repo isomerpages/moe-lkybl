@@ -2,7 +2,8 @@
 title: Donation
 permalink: /about-us/donation/
 ---
-<div><h3>Donation &nbsp; &nbsp; &nbsp;   
+
+<div><h3>Donation &nbsp; &nbsp; &nbsp;
  <a href="#捐款" style="font-size:20px"><span style="color:black">Chinese</span></a> &nbsp;&nbsp;
  <a href="#Sumbangan Derma" style="font-size:20px"><span style="color:black">Malay</span></a>&nbsp;&nbsp;
  <a href="#நன்கொடை" style="font-size:20px"><span style="color:black">Tamil</span></a></h3>
@@ -30,7 +31,7 @@ back of the cheque:
   1 North Buona Vista Drive  <br/>
   Singapore 138675 <br/>
      Attn: Ms Cynthia Chandramuljana, Financial Management Section</p></div></div><br/>
-  
+
   <div><h3 id="捐款">捐款</h3>
   <div> <p>您慷慨的捐款将协助我们的学前儿童打好语言基础。因此，政府将提供1对1等同值的资助（顶限为五
 千万元）。给予基金会的捐款也符合减免税务的条件（减免250%，即捐款的2.5倍）。要获得捐款扣
@@ -42,7 +43,7 @@ back of the cheque:
 bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilingualism</a></p></div></div>
   <br/>
  <div> <h4>B. 支票</h4>
-  <div><p>请用划线支票，注明收款为 
+  <div><p>请用划线支票，注明收款为
  “Lee Kuan Yew Fund for Bilingualism”。
 请在支票背面提供以下信息：
     <ul><li>全名（与身份证上的姓名相同）或公司名称 , 以便我们提供可减免税务的收据</li>
@@ -56,7 +57,7 @@ bilingualism" target="_blank">https://www.giving.sg/lee-kuan-yew-fund-for- bilin
   c/o Ministry of Education  <br/>
   1 North Buona Vista Drive  <br/>
   Singapore 138675 <br/>
-  Attn: Ms Cynthia Chandramuljana, Financial Management Section</p></div></div><br/> 
+  Attn: Ms Cynthia Chandramuljana, Financial Management Section</p></div></div><br/>
   <div><h3 id="Sumbangan Derma">Sumbangan Derma</h3>
   <div><p>Derma anda akan membantu anak-anak kita membina asas bahasa mereka pada peringkat awal lagi, dengan cara yang sesuai dengan usia mereka. Bagi menyokong usaha ini, pemerintah telah menyediakan geran padanan 1:1 bagi sumbangan anda kepada pihak Dana, terhad kepada $50 juta. Anda juga layak mendapat potongan cukai sebanyak 250% (sebanyak dua setengah kali jumlah wang yang didermakan) bagi sumbangan anda itu. Nama dan nombor rujukan cukai perlu disediakan untuk mendapatkan potongan cukai ini.
 </p></div><br/>
@@ -118,12 +119,11 @@ Penderma harus memberikan keterangan yang berikut di belakang cek tersebut:<br/>
          1 North Buona Vista Drive <br/>
          MOE  Building, #09-55  <br/>
          Singapore 138675 <br/>
-				Attn: Ms Cynthia Chandramuljana, Financial Management Branch </p> 
+				Attn: Ms Cynthia Chandramuljana, Financial Management Branch </p>
    </div>
 </div>
 <br/>
 <div>
-         </div>
       </div>
    </div>
 </div>
