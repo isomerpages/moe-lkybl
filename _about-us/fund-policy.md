@@ -8,9 +8,9 @@ permalink: /about-us/fund-policy/
   <div><h4  style= "text-decoration: underline;">Policy</h4>
   <div><p>1.    This   policy   addresses   the   commitment   of   the   Lee Kuan   Yew   Fund  for Bilingualism  (“the  Fund”)  to  integrity  and  ethical behavior  by  helping  to  foster  and maintain an environment where all its stakeholders can act appropriately, without fear of retaliation.  To  maintain  these  standards,  the  Fund encourages  its  stakeholders  who have concerns about suspected serious misconduct or any breach or suspected breach of law or regulation that may adversely impact the Fund, to come forward and express these concerns without fear of punishment or unfair treatment.</p></div><br/>
 <div><p>2.     The  Fund  runs  its  operations  based  on  the  principles  of  fairness,  honesty, openness,  decency,  integrity  and  respect.  It  is  the  Fund’s  policy  to  support  and encourage  its  stakeholders  to  report  and  disclose  improper  or  illegal  activities,  and  to fully investigate such reports and disclosures. It is also the Fund’s policy to address any complaints  that  allege  acts  or  attempted  acts  of  interference,  reprisal,  retaliation, threats, coercion or intimidation against stakeholders who report, disclose or investigate improper  or  illegal  activities  (the  “Whistleblowers”)  and  to  protect  those  who  come forward to report such activities. The Fund assures that all reports will be treated strictly confidentially  and  promptly  investigated  and  that  reports  can  be made anonymously,  if desired.</p></div><br/>
-<div><p>3.    The Fund’s internal control and operating procedures are intended to detect and to  prevent  or  deter  improper  activities.  However,  even  the  best  systems  of  controls cannot   provide   absolute   safeguards   against   irregularities.   The   Fund   has   the responsibility  to  investigate  and  report  to  appropriate  parties,  allegations  of  suspected improper activities and to take appropriate actions. Stakeholders are encouraged to use guidance provided by this policy for reporting all allegations of suspected misconduct or improper activities. </p> 
+<div><p>3.    The Fund’s internal control and operating procedures are intended to detect and to  prevent  or  deter  improper  activities.  However,  even  the  best  systems  of  controls cannot   provide   absolute   safeguards   against   irregularities.   The   Fund   has   the responsibility  to  investigate  and  report  to  appropriate  parties,  allegations  of  suspected improper activities and to take appropriate actions. Stakeholders are encouraged to use guidance provided by this policy for reporting all allegations of suspected misconduct or improper activities. </p>
 <div><h4 style= "text-decoration: underline;">Objective and Scope of Policy </h4>
-<div><p>4. The Whistle Blowing Policy (“the Code”) is intended to: 
+<div><p>4. The Whistle Blowing Policy (“the Code”) is intended to:
   <ul>
   <li>To  provide  avenues  for  stakeholders  to  raise  concerns  and  define  a  way  to handle these concerns. </li>
   <li>To enable the Board of Directors to be informed at an early stage about acts of misconduct.  </li>
@@ -55,21 +55,21 @@ permalink: /about-us/fund-policy/
   <div><p>12. This policy presumes that whistleblowers will act in good faith and will not make false  accusations  when  reporting  of  misconduct.    A whistleblower  who  knowingly  or recklessly makes statements or disclosures that are not in good faith may be subject to disciplinary procedures, which may include termination. Whistleblowers who report acts of misconduct pursuant to this policy can and will continue to be required to adhere to the Fund’s policies and procedures.</p> </div></div> <br/>
 <div><h4>Reporting Allegations of Misconduct or Improper Activities </h4>
   <div><p>13. Any  person  may  report  allegations  of  suspected serious  misconduct  or  any breach  or  suspected  breach  of  law  or  regulation  that  may  adversely  impact  the  Fund, the Fund’s stakeholders or the public at large</p></div><br/>
-  <div><p>14. Acts  of  misconduct  must  be  disclosed  in  writing,  so  as  to  assure  a  clear understanding of the issues raised. The format provided in Appendix A may be used for reporting purposes. </p></div> <br/> 
+  <div><p>14. Acts  of  misconduct  must  be  disclosed  in  writing,  so  as  to  assure  a  clear understanding of the issues raised. The format provided in Appendix A may be used for reporting purposes. </p></div> <br/>
 <div><p>15. Individuals are recommended to self-identify, though it is not a requirement of the policy.</p></div>  <br/>
  <div><p>16. The Audit Committee will review allegations of suspected serious misconduct or any  breach  or  suspected  breach  of  law  or  regulation  that  may  adversely  impact  the Fund,  the  Fund’s  stakeholders  or  the  public  at  large.  All  reports  should  be  sent  to  the Audit  Committee.  Contact  information of  the  Chairperson of  the  Audit  Committee  is as follows:  <br/>
    Chairperson, Audit Committee <br/>
    Lee Kuan Yew Fund for Bilingualism<br/>
    1 North Buona Vista Drive<br/>
    Singapore 138675 <br/>
-   c/o: Financial Management Branch 
+   c/o: Financial Management Branch
   </p></div><br/>
   <div><p>17. Although the whistleblower is not expected to prove the truth of an allegation, he / she needs to demonstrate to the person contacted that there are sufficient grounds for concern.</p> </div></div>  <br/>
 <div><h4>Investigating Alleged Misconduct or Improper Activities  </h4>
   <div><p>18. The Chairperson of the Audit Committee will notify the sender and acknowledge receipt of the reported violation or suspected violation within five business days.</p></div>  <br/>
   <div><p>19. The  Audit  Committee  has  the  responsibility  to  conduct  investigations  and  will ensure  investigations  are  carried  out  using  appropriate  channels,  resources  and expertise. In addition, other parties may also be involved in the investigations.
     <ul><li>The Audit Committee may meet to discuss the action / investigation on the reports  received  from  whistleblowers.  The  Committee  may  also  exclude from  its  meetings  any  persons  it  deems  appropriate,  depending  on  the nature of the complaint.</li>
-    <li>Some concerns may be resolved by agreed action without the need for an investigation.  Concerns  about  allegations  which  fall  within  the  scope  of specific  procedures  of  the  Fund  will  be  referred  for  consideration  under those procedures. </li></ul></p></div>  
+    <li>Some concerns may be resolved by agreed action without the need for an investigation.  Concerns  about  allegations  which  fall  within  the  scope  of specific  procedures  of  the  Fund  will  be  referred  for  consideration  under those procedures. </li></ul></p></div>
   <div><p>20. The Audit Committee will report to the Chairman of the Board on a periodic basis about the reports received and actions taken.</p></div>  <br/>
   <div><p>21. The  Board  of  Directors  reserves  the  right  to  make  any  decision  based  on  the findings by the Audit Committee.</p></div><br/>
    <div><p>22. When a concern is raised, the whistleblower must indicate if the concern is to be treated in confidence. The extent off the confidentiality  will be determined by the Audit Committee </p> </div><br/>
@@ -90,7 +90,4 @@ permalink: /about-us/fund-policy/
   <div><h4>Investigation Participants: </h4>
    <div><p>31. Stakeholders who are interviewed or asked to provide information have a duty to fully  cooperate  with  the  investigators.  Participants  should  refrain  from  discussing  or disclosing matters concerning the investigations.</p></div>
  <p><a href="/files/about-us/appendixa_whistleblower-report-form.pdf" target="_blank">Whistleblower Report Form</a> </p>
- </div>
  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
-
-
