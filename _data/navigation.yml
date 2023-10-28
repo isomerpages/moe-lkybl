@@ -1,0 +1,10 @@
+logo: /images/bilingualism-logo.jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: Funding
+    collection: funding
+  - title: What's Up
+    collection: whats-up
+  - title: Contact Us
+    url: /contact-us/

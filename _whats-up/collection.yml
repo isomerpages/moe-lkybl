@@ -1,0 +1,8 @@
+collections:
+  whats-up:
+    output: true
+    order:
+      - news.md
+      - event.md
+      - annual-report.md
+      - language-learning-resource.md
