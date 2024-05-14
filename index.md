@@ -19,8 +19,7 @@ sections:
         - title: Donation
           url: /about-us/donation/
   - infopic:
-      title: Looking for resources to guide your child in learning Mother Tongue
-        languages?
+      title: Empower yourself in your quest to be effectively bilingual!
       description: Follow us on our <a href="https://www.facebook.com/bilingualismsg"
         target="_blank">Facebook</a> and <a
         href="https://www.instagram.com/bilingualismsg/?hl=en"
