@@ -7,17 +7,10 @@ sections:
   - hero:
       title: Lee Kuan Yew Fund for Bilingualism
       background: /images/LKYFB_Herov3.gif
-      button: Learn More
-      url: /about-us/about-the-fund/
-      key_highlights:
-        - title: About the Fund
-          url: /about-us/about-the-fund/
-        - title: Funding Application
-          url: /funding/apply-for-grant/
-        - title: Our Impact
-          url: /funding/our-impact/
-        - title: Donation
-          url: /about-us/donation/
+      variant: image
+      dropdown:
+        title: ;
+        options: []
   - infopic:
       title: Empower yourself in your quest to be effectively bilingual!
       description: Follow us on our <a href="https://www.facebook.com/bilingualismsg"
