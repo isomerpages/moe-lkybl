@@ -1,6 +1,7 @@
 ---
 title: Board
 permalink: /about-us/board/
+variant: markdown
 ---
 ###   Board
 
@@ -24,8 +25,9 @@ The Board members are:</p></div>
 | Mr Lim Jim Koon<br>林任君 | Former Editor-in-Chief<br>Chinese Newspapers Division<br>Singapore Press Holdings | 
 | Associate Professor Tan Chee Lay<br>陈志锐副教授 | Deputy Head<br>Asian Languages and Cultures Academic Group<br>National Institute of Education<br>Nanyang Technological University |
 | Mr K Ramamoorthy<br>கி. ராமமூர்த்தி | Senior Lecturer<br>Republic Polytechnic |
-| Mr Hawazi Daipi | Singapore’s Non-Resident High Commissioner to the Republic of Ghana, and Non-Resident Representative to the Palestine National Authority <br><br>Chairman<br> National Council Against Drug Abuse |
 | Madam Rahayu Mahzam | Senior Parliamentary Secretary<br>Minister of Health &amp; Ministry of Law<br><br>Member<br>Malay Language Council |
 | Mr Chua Chim Kang <br>蔡深江 | Chief Editor<br>Chinese News &amp; Current Affairs<br>Mediacorp |
 | Ms Lee Huay Leng<br>李慧玲 | Editor-in-Chief<br>Chinese Media Group<br>SPH Media Limited |
 | Mr Kuek Yu Chuang<br>郭又铨 | Vice-President<br>International Business<br>iQIYI International Singapore Pte Ltd |
+| Dr. Noorshahril Saat | Coordinator<br>Regional Social and Cultural Studies Programme<br>ISEAS - Yusof Ishak Institute |
+| Ms Lim Sau Hoong<br>林少芬女士 | Chief Executive Officer<br>&amp;<br>Executive Creative Director<br>10AM Communications |
