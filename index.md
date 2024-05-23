@@ -19,9 +19,6 @@ sections:
           url: /about-us/donation/
       button: Learn More
       url: /about-us/about-the-fund/
-  - resources:
-      title: Resources
-      id: resources
   - infopic:
       title: Empower yourself in your quest to be effectively bilingual!
       description: Follow us on Facebook and Instagram, and subscribe to our YouTube
