@@ -28,5 +28,5 @@ The Board members are:</p></div>
 | Mr Chua Chim Kang <br>蔡深江 | Chief Editor<br>Chinese News &amp; Current Affairs<br>Mediacorp |
 | Ms Lee Huay Leng<br>李慧玲 | Editor-in-Chief<br>Chinese Media Group<br>SPH Media Limited |
 | Mr Kuek Yu Chuang<br>郭又铨 | Vice-President<br>International Business<br>iQIYI International Singapore Pte Ltd |
-| Dr. Noorshahril Saat | Coordinator<br>Regional Social and Cultural Studies Programme<br>ISEAS - Yusof Ishak Institute |
+| Dr Noorshahril Saat | Coordinator<br>Regional Social and Cultural Studies Programme<br>ISEAS - Yusof Ishak Institute |
 | Ms Lim Sau Hoong<br>林少芬女士 | Chief Executive Officer<br>&amp;<br>Executive Creative Director<br>10AM Communications |
