@@ -21,8 +21,7 @@ The Board members are:</p></div>
 | Ms Gan Siow Huang (Vice-Chair)<br>颜晓芳 ( 副主席 )| Minister of State<br> Minister of Education &amp; Ministry of Manpower |
 | Ms Goh Poh Gek (Treasurer)<br>吴宝玉 ( 财政 ) | Chief Financial Officer<br>Finance &amp; Procurement Division<br> Ministry of Education | 
 | Mr Wong Siew Hoong<br>王斯芸 | Advisor<br>Ministry of Education |
-| Mr Ong Chao Choon<br>王绍春 | Former Deputy Chairman &amp; Advisory Leader<br>PwC Singapore |
-| Mr Lim Jim Koon<br>林任君 | Former Editor-in-Chief<br>Chinese Newspapers Division<br>Singapore Press Holdings | 
+| Mr Ong Chao Choon<br>王绍春 | Former Deputy Chairman &amp; Advisory Leader<br>PwC Singapore | 
 | Associate Professor Tan Chee Lay<br>陈志锐副教授 | Deputy Head<br>Asian Languages and Cultures Academic Group<br>National Institute of Education<br>Nanyang Technological University |
 | Mr K Ramamoorthy<br>கி. ராமமூர்த்தி | Senior Lecturer<br>Republic Polytechnic |
 | Madam Rahayu Mahzam | Senior Parliamentary Secretary<br>Minister of Health &amp; Ministry of Law<br><br>Member<br>Malay Language Council |
