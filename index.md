@@ -27,7 +27,6 @@ sections:
       alt: Follow us on Facebook, Instagram and YouTube
   - resources:
       title: Resources
-      subtitle: Add a preview and link to your Resource Room
       id: resources
 image: /images/isomer-logo.svg
 ---
