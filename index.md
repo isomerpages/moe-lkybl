@@ -19,14 +19,14 @@ sections:
           url: /about-us/donation/
       button: Learn More
       url: /about-us/about-the-fund/
+  - resources:
+      title: Resources
+      id: resources
   - infopic:
       title: Empower yourself in your quest to be effectively bilingual!
       description: Follow us on Facebook and Instagram, and subscribe to our YouTube
         channel to be updated on interesting resources supported by LKYFB.
       image: /images/lkyfb_breakdancingv2.jpg
       alt: Follow us on Facebook, Instagram and YouTube
-  - resources:
-      title: Resources
-      id: resources
 image: /images/isomer-logo.svg
 ---
