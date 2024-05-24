@@ -20,7 +20,6 @@ booths/exhibitions, competitions, social media campaigns, etc.</p>
 <p></p>
 <p><strong>Please note that the Fund is currently not accepting any research-related proposals. <br><br>When to apply:</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -36,14 +35,6 @@ booths/exhibitions, competitions, social media campaigns, etc.</p>
 <p><strong>For projects launching during/after*</strong>
 </p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>31 Jan 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jul 2024</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -74,10 +65,12 @@ booths/exhibitions, competitions, social media campaigns, etc.</p>
 <p>*The Fund requires Grantees to take in the Fund's input to our satisfaction.
 Please factor in additional time for vetting and printing/production before
 the launch date, especially for print and digital resources.</p>
-<p><strong>Interested applicants can refer to the Fund Application Guidelines and FAQs before completing the required application documents below.</strong>
-</p>
-<p><strong>Should you wish to apply for funding, please email <a href="mailto:moe_lkyfb@moe.gov.s" rel="noopener noreferrer nofollow" target="_blank">moe_lkyfb@moe.gov.sg</a> for submission or clarification. We recognise that it takes time and effort to complete proposals, and strongly encourage applicants to clarify any doubts regarding funding criteria prior to commencing your applications.</strong>
-</p>
+<p>Interested applicants can refer to the Fund Application Guidelines and
+FAQs before completing the required application documents below.</p>
+<p>Should you wish to apply for funding, please email <a href="mailto:moe_lkyfb@moe.gov.s" rel="noopener noreferrer nofollow" target="_blank">moe_lkyfb@moe.gov.sg</a> for submission
+or clarification. We recognise that it takes time and effort to complete
+proposals, and strongly encourage applicants to clarify any doubts regarding
+funding criteria prior to commencing your applications.</p>
 <p></p>
 <p><strong>For more information on the application process, please refer to:</strong>
 </p>
@@ -89,8 +82,6 @@ the launch date, especially for print and digital resources.</p>
 <li>
 <p><a href="/files/funding/faqs_20231005.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs</a>
 </p>
-</li>
-<li>
 <p></p>
 </li>
 </ul>
@@ -102,32 +93,46 @@ the launch date, especially for print and digital resources.</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/cfp-application-form" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
-</p>
-</li>
-<li>
 <p><a href="https://go.gov.sg/cfp-budget-proposal-form" rel="noopener noreferrer nofollow" target="_blank">Proposed Budget Form (Annex I)</a>
 </p>
-</li>
-</ul>
 <p></p>
-<p><strong>Completed application forms and a sample of the product can be submitted in the following ways:</strong>
-</p>
-<ul>
-<li>
-<p>E-mail to: <a href="mailto:moe_lkyfb@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe_lkyfb@moe.gov.sg</a>;</p>
-</li>
-<li>
-<p>Mail or deliver in person to:</p>
-</li>
-<li>
-<p>Ministry of Education
-<br>1 North Buona Vista Drive
-<br>Singapore 138675
-<br>Attention: Lee Kuan Yew Fund for Bilingualism</p>
 </li>
 </ul>
-<p>Mondays – Fridays: 8.30am to 5.30pm
-<br>Saturdays, Sundays &amp; Public Holidays: Closed</p>
+<p><strong>Completed application forms and a sample of the product can be submitted online via the following electronic forms:</strong>
+</p>
+<p>Organisation</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Organisation</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="LKYFB Call for Proposal Grant Application Form (Organisation)" src="/images/organisation_Form_SG.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Individual</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Individual.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p><strong><a href="#top" rel="noopener noreferrer nofollow" target="_blank">Top</a></strong>
 </p>
