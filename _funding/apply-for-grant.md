@@ -1,80 +1,134 @@
 ---
 title: Apply for Grant
 permalink: /funding/apply-for-grant/
+variant: tiptap
 ---
-<div><h3>Call for Proposals</h3>
-<style>
-		.main {
-			font-size: 2px;
-			font-weight: bold;
-			text-align: left;
-		}
-		#box {
-			padding: 5px;
-			position: relative;
-			border: 5px solid #990000;
-			margin: 20px;
-			text-align: center;
-			font-size: relative;
-			font-weight: bold;
-		}
-	</style>
-	<div id="box">Note to applicants:<br> 
-The January 2024 Call for Proposals (CFP) is designated as a Special Call with  
-a core focus on funding applications for bilingual events and programmes,  
-for example: plays/dramas, booths/exhibitions, competitions, social media campaigns, etc.</div>
-
-<div><p>The Lee Kuan Yew Fund for Bilingualism invites you to submit proposals to promote bilingualism.</p></div><br>
-<div><p>Bilingual education is a cornerstone of our education system. Learning two languages helps
-Singaporeans plug into a globalised world and strengthen links to our Asian heritage.</p><div>
-<div><p>Research has shown that exposure in early years is effective for nurturing bilingualism and the learning of multiple languages. Strengthening our efforts to encourage bilingualism in the early
-years, especially in listening and speaking capabilities, would provide our children with a headstart in language acquisition and lay a stronger foundation for bilingual learning in their later years.</p><div>
-<div><p><strong>The Fund has set specific periods for Call for Proposals (CFP) in January and July each year.  Proposals that are received outside of the CFP period will only be evaluated during the next CFP. </strong></p><strong>
-
-</strong><div><strong></strong><p><strong>Please note that the Fund is currently not accepting any research-related proposals.
-<br><br>When to apply:</strong></p><p></p><div>
-
-<table>
-  <tbody><tr>
-		<th><b>Apply by</b></th>
-		<th><b>For projects launching during/after*</b></th>
-  </tr>
-  <tr>
-    <td>31 Jan 2024</td>
-    <td>Jul 2024</td>
-  </tr>
-  <tr>
-    <td>31 Jul 2024</td>
-    <td>Dec 2024</td>  
-  </tr>
-  <tr>
-    <td>31 Jan 2025</td>
-    <td>Jul 2025</td>   
-  </tr>
-  <tr>
-    <td>31 Jul 2025</td>
-    <td>Dec 2025</td> 
-  </tr>
-</tbody></table>
-<div><p>*The Fund requires Grantees to take in the Fund's input to our satisfaction. Please factor in additional time for vetting and printing/production before the launch date, especially for print and digital resources.</p><div>
-<div><p><strong>Interested applicants can refer to the Fund Application Guidelines and FAQs before completing the required application documents below.</strong></p><div>
-<div><p><strong>Should you wish to apply for funding, please email <a href="mailto:moe_lkyfb@moe.gov.s">moe_lkyfb@moe.gov.sg</a> for submission or clarification. We recognise that it takes time and effort to complete proposals, and strongly encourage applicants to clarify any doubts regarding funding criteria prior to commencing your applications.</strong></p></div><br>
-<div><p><strong>For more information on the application process, please refer to:</strong>
-</p><ul><li><a href="/files/funding/cfp application guide_20231005.pdf" target="_blank">Fund Application Guidelines</a></li>
-	<li><a href="/files/funding/faqs_20231005.pdf" target="_blank">FAQs</a></li><p></p></ul>
-<div><p><strong>Documents Required for Application:</strong>
-</p><ul><li><a href="https://go.gov.sg/cfp-application-checklist">Application Checklist</a></li>
-<li><a href="https://go.gov.sg/cfp-application-form">Application Form</a></li>
-  <li><a href="https://go.gov.sg/cfp-budget-proposal-form">Proposed Budget Form (Annex I)</a></li></ul><p></p><div>
-<div><p><strong>Completed application forms and a sample of the product can be submitted in the following
-ways:</strong>
-</p><ul><li>E-mail to: <a href="mailto:moe_lkyfb@moe.gov.sg"> moe_lkyfb@moe.gov.sg</a>;</li>
-<li>Mail or deliver in person to:</li>
-<p>Ministry of Education<br>
-1 North Buona Vista Drive<br>
-Singapore 138675<br>
-Attention: Lee Kuan Yew Fund for Bilingualism</p></ul><div>
-<div><p>Mondays – Fridays: 8.30am to 5.30pm<br>
-Saturdays, Sundays &amp; Public Holidays: Closed</p></div>
-  </div>
- <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+<h3>Call for Proposals</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/furious_young_man_looking_pointing_camera_shouting_loud_speaker.jpg">
+</div>
+<p>Note to applicants:
+<br>Call for Proposals (CFP) are made to invite aspiring publishers, artists,
+content developers, authors or individuals who may be interested in developing
+programmes or resources to promote bilingualism in Singapore. The recently
+concluded CFP 10 was designated as a Special Call with a core focus on
+funding applications for bilingual events and programmes, for example:
+plays/dramas, booths/exhibitions, competitions, social media campaigns,
+etc.</p>
+<p><strong>The Fund has set specific periods for Call for Proposals (CFP) in January and July each year. Proposals that are received outside of the CFP period will only be evaluated during the next CFP.</strong>
+</p>
+<p></p>
+<p><strong>Please note that the Fund is currently not accepting any research-related proposals. <br><br>When to apply:</strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Apply by</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>For projects launching during/after*</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 Jan 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jul 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 Jul 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 Jan 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jul 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 Jul 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2025</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>*The Fund requires Grantees to take in the Fund's input to our satisfaction.
+Please factor in additional time for vetting and printing/production before
+the launch date, especially for print and digital resources.</p>
+<p><strong>Interested applicants can refer to the Fund Application Guidelines and FAQs before completing the required application documents below.</strong>
+</p>
+<p><strong>Should you wish to apply for funding, please email <a href="mailto:moe_lkyfb@moe.gov.s" rel="noopener noreferrer nofollow" target="_blank">moe_lkyfb@moe.gov.sg</a> for submission or clarification. We recognise that it takes time and effort to complete proposals, and strongly encourage applicants to clarify any doubts regarding funding criteria prior to commencing your applications.</strong>
+</p>
+<p></p>
+<p><strong>For more information on the application process, please refer to:</strong>
+</p>
+<ul>
+<li>
+<p><a href="/files/funding/cfp application guide_20231005.pdf" rel="noopener noreferrer nofollow" target="_blank">Fund Application Guidelines</a>
+</p>
+</li>
+<li>
+<p><a href="/files/funding/faqs_20231005.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs</a>
+</p>
+</li>
+<li>
+<p></p>
+</li>
+</ul>
+<p><strong>Documents Required for Application:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/cfp-application-checklist" rel="noopener noreferrer nofollow" target="_blank">Application Checklist</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/cfp-application-form" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/cfp-budget-proposal-form" rel="noopener noreferrer nofollow" target="_blank">Proposed Budget Form (Annex I)</a>
+</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Completed application forms and a sample of the product can be submitted in the following ways:</strong>
+</p>
+<ul>
+<li>
+<p>E-mail to: <a href="mailto:moe_lkyfb@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe_lkyfb@moe.gov.sg</a>;</p>
+</li>
+<li>
+<p>Mail or deliver in person to:</p>
+</li>
+<li>
+<p>Ministry of Education
+<br>1 North Buona Vista Drive
+<br>Singapore 138675
+<br>Attention: Lee Kuan Yew Fund for Bilingualism</p>
+</li>
+</ul>
+<p>Mondays – Fridays: 8.30am to 5.30pm
+<br>Saturdays, Sundays &amp; Public Holidays: Closed</p>
+<p><strong><a href="#top" rel="noopener noreferrer nofollow" target="_blank">Top</a></strong>
+</p>
