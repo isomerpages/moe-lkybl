@@ -131,8 +131,5 @@ funding criteria prior to commencing your applications.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
 <p><strong><a href="#top" rel="noopener noreferrer nofollow" target="_blank">Top</a></strong>
 </p>
