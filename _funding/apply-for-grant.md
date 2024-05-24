@@ -9,13 +9,12 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/furious_young_man_looking_pointing_camera_shouting_loud_speaker.jpg">
 </div>
 <p>Note to applicants:
-<br>Call for Proposals (CFP) are made to invite aspiring publishers, artists,
-content developers, authors or individuals who may be interested in developing
+<br>Calls for Proposals (CFP) are made to invite aspiring publishers, artists,
+content developers, authors, or individuals who may be interested in developing
 programmes or resources to promote bilingualism in Singapore. The recently
 concluded CFP 10 was designated as a Special Call with a core focus on
-funding applications for bilingual events and programmes, for example:
-plays/dramas, booths/exhibitions, competitions, social media campaigns,
-etc.</p>
+funding applications for bilingual events and programmes, such as plays/dramas,
+booths/exhibitions, competitions, social media campaigns, etc.</p>
 <p><strong>The Fund has set specific periods for Call for Proposals (CFP) in January and July each year. Proposals that are received outside of the CFP period will only be evaluated during the next CFP.</strong>
 </p>
 <p></p>
