@@ -26,7 +26,7 @@ sections:
       image: /images/lkyfb_breakdancingv2.jpg
       alt: Follow us on Facebook, Instagram and YouTube
   - resources:
-      title: Resources
+      title: Fund-Supported Programmes/Resources
       id: resources
 image: /images/isomer-logo.svg
 ---
