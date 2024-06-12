@@ -46,7 +46,7 @@ sections:
       title: Lukisan Batik Nawrah Book Launch
       subtitle: Lukisan Batik Nawrah
       id: infopic
-      description: 8 Oktober 2023
+      description: 8 October 2023
       button: Read More
       url: https://www.beritaharian.sg/bahasa-budaya/buku-kanak-kanak-terap-nilai-penting-seni-tradisi-batik
       image: /images/Screenshot_2024_06_12_at_4_24_08_PM.png
