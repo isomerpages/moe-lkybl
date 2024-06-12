@@ -34,5 +34,12 @@ sections:
       id: infopic
       alt: Author, Sin Joo Ee with book
       image: /images/15796373_7671_40cf_9b2c_6d1076824e0c.jpg
+  - infopic:
+      title: App Launch
+      subtitle: Min Agaram Tamil E-Dictionary
+      id: infopic
+      button: Button Text
+      image: /images/unnamed.png
+      alt: Min Agaram TL E-Dictionary
 image: /images/isomer-logo.svg
 ---
