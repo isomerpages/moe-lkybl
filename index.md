@@ -42,5 +42,14 @@ sections:
       image: /images/unnamed.png
       alt: Min Agaram TL E-Dictionary
       description: 21 April 2024
+  - infopic:
+      title: Lukisan Batik Nawrah Book Launch
+      subtitle: Lukisan Batik Nawrah
+      id: infopic
+      description: 8 Oktober 2023
+      button: Read More
+      url: https://www.beritaharian.sg/bahasa-budaya/buku-kanak-kanak-terap-nilai-penting-seni-tradisi-batik
+      image: /images/Screenshot_2024_06_12_at_4_24_08_PM.png
+      alt: Image alt text
 image: /images/isomer-logo.svg
 ---
