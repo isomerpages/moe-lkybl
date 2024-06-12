@@ -34,11 +34,13 @@ sections:
       id: infopic
       alt: Author, Sin Joo Ee with book
       image: /images/15796373_7671_40cf_9b2c_6d1076824e0c.jpg
+      description: 1 June 2024
   - infopic:
       title: App Launch
       subtitle: Min Agaram Tamil E-Dictionary
       id: infopic
       image: /images/unnamed.png
       alt: Min Agaram TL E-Dictionary
+      description: 21 April 2024
 image: /images/isomer-logo.svg
 ---
