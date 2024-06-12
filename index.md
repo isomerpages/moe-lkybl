@@ -28,5 +28,12 @@ sections:
   - resources:
       title: Fund-Supported Programmes/Resources
       id: resources
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 image: /images/isomer-logo.svg
 ---
