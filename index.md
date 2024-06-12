@@ -29,11 +29,10 @@ sections:
       title: Fund-Supported Programmes/Resources
       id: resources
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Book Launch
+      subtitle: Xiang Du Bao Graded Reader
       id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      alt: Author, Sin Joo Ee with book
+      image: /images/15796373_7671_40cf_9b2c_6d1076824e0c.jpg
 image: /images/isomer-logo.svg
 ---
