@@ -22,29 +22,23 @@ endeavour.
 individuals and entities to support worthy initiatives and programmes in
 making MTL learning fun and relevant to everyday life. Some of the partners
 we have worked with are:</p>
-<p></p>
 <h4>Mediacorp</h4>
 <p>“Junction Tree” is Singapore's first locally-produced, bilingual pre-school
 programme. It is available in English-Chinese, English-Malay and English-Tamil
 versions. “Junction Tree” won the "Best Preschool Programme" at the Asian
 Academy Creative Awards in 2018. The programme can be viewed digital entertainment
 platform <em><a href="https://www.mewatch.sg/en/" rel="noopener noreferrer nofollow" target="_blank">MeWatch</a></em>.</p>
-<p>
-<br>
-</p>
 <h4>Singapore Federation of Chinese Clans Associations (SFCCA)</h4>
 <p>To commemorate the Singapore Bicentennial, Singapore Federation of Chinese
 Clans Associations (SFCCA) showcased the "New World. New Life" exhibition
 to pay tribute to our nation's forefathers. The bilingual (CL-EL) exhibition,
 which was supported by LKYFB, is the biggest and longest multi-sensory
 interactive exhibition ever held in 33 years of SFCCA's history.</p>
-<p></p>
 <h4>Tamil Language Council and the Malay Language Council Singapore</h4>
 <p>Tamil Language Council and the Malay Language Council Singapore are the
 main organisers of the Tamil Language Festival (TLF) and Malay Language
 Month (Bulan Bahasa) respectively. TLF and Bulan Bahasa programmes are
 developed and presented by community partners.</p>
-<p></p>
 <h4>National University of Singapore Tamil Language Society</h4>
 <p>Singapore Tamil Youth Conference is a biennial event organised by tertiary
 students to discuss matters related to Tamil community and the teaching
