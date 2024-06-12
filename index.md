@@ -38,7 +38,6 @@ sections:
       title: App Launch
       subtitle: Min Agaram Tamil E-Dictionary
       id: infopic
-      button: Button Text
       image: /images/unnamed.png
       alt: Min Agaram TL E-Dictionary
 image: /images/isomer-logo.svg
