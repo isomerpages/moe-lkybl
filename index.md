@@ -13,7 +13,7 @@ sections:
           url: /about-us/about-the-fund/
         - title: Funding Application
           url: /funding/apply-for-grant/
-        - title: Our Impact
+        - title: Fund's Footprints
           url: /funding/our-impact/
         - title: Donation
           url: /about-us/donation/
