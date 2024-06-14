@@ -1,7 +1,7 @@
 title: Lee Kuan Yew Fund for Bilingualism
 url: https://bilingualism.sg
 favicon: /images/bilingulism-logo.png
-is_government: false
+is_government: true
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
