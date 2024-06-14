@@ -29,27 +29,12 @@ sections:
       title: Fund-Supported Programmes/Resources
       id: resources
   - infopic:
-      title: Book Launch
-      subtitle: Xiang Du Bao Graded Reader
+      title: Call for Proposal
+      subtitle: Latest
       id: infopic
-      alt: Author, Sin Joo Ee with book
       image: /images/15796373_7671_40cf_9b2c_6d1076824e0c.jpg
-      description: 1 June 2024
-  - infopic:
-      title: App Launch
-      subtitle: Min Agaram Tamil E-Dictionary
-      id: infopic
-      image: /images/unnamed.png
-      alt: Min Agaram TL E-Dictionary
-      description: 21 April 2024
-  - infopic:
-      title: Lukisan Batik Nawrah Book Launch
-      subtitle: Lukisan Batik Nawrah
-      id: infopic
-      description: 8 October 2023
-      button: Read More
-      url: https://www.beritaharian.sg/bahasa-budaya/buku-kanak-kanak-terap-nilai-penting-seni-tradisi-batik
-      image: /images/Screenshot_2024_06_12_at_4_24_08_PM.png
-      alt: Image alt text
+      description: 1-31 July 2024
+      button: Apply
+      url: www.google.com
 image: /images/isomer-logo.svg
 ---
