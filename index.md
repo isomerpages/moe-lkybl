@@ -14,7 +14,7 @@ sections:
         - title: Funding Application
           url: /funding/apply-for-grant/
         - title: Fund's Footprints
-          url: /funding/funds_impact/
+          url: /funding/funds-footprints/
         - title: Donation
           url: /about-us/donation/
       button: Learn More
