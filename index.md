@@ -6,7 +6,7 @@ permalink: /
 sections:
   - hero:
       title: Lee Kuan Yew Fund for Bilingualism
-      background: /images/lkyfb_herov6.gif
+      background: /images/LKYFB_Herov7.gif
       variant: image
       key_highlights:
         - title: About the Fund
