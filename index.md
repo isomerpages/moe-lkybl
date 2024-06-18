@@ -27,14 +27,11 @@ sections:
       alt: Follow us on Facebook, Instagram and YouTube
   - resources:
       id: resources
-  - infopic:
+  - infobar:
       title: Call for Proposal
-      subtitle: Latest
-      id: infopic
-      image: /images/15796373_7671_40cf_9b2c_6d1076824e0c.jpg
+      id: infobar
       description: 1-31 July 2024
-      button: Apply
+      button: Apply now
       url: www.google.com
-      alt: Apply now.
 image: /images/isomer-logo.svg
 ---
