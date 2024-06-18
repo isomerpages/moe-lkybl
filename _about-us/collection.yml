@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Annual Report.md
       - about-the-fund.md
       - board.md
       - Secretariat.md
+      - Annual Report.md
       - donation.md
       - fund-policy.md
