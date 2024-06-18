@@ -35,5 +35,6 @@ sections:
       description: 1-31 July 2024
       button: Apply
       url: www.google.com
+      alt: Apply now.
 image: /images/isomer-logo.svg
 ---
