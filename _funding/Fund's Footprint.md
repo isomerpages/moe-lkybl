@@ -21,7 +21,7 @@ individuals and entities to support worthy initiatives and programmes in
 making MTL learning fun and relevant to everyday life. Some of our signature
 events as well as its impact includes:</p>
 <p></p>
-<p>Bla bla bla</p>
+<p>(To Relook)</p>
 <h4>Mediacorp</h4>
 <p>“Junction Tree” is Singapore's first locally-produced, bilingual pre-school
 programme. It is available in English-Chinese, English-Malay and English-Tamil
