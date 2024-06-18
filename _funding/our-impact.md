@@ -3,7 +3,7 @@ title: Our Impact
 permalink: /funding/our-impact/
 variant: tiptap
 ---
-<h3>Our Impact</h3>
+<h3>Fund's Footprint</h3>
 <p>Since its inception, the Lee Kuan Yew Fund for Bilingualism has held true
 to its mission of enabling a steady pipeline of locally contextualised
 and age-appropriate resources and programmes to foster bilingualism in
