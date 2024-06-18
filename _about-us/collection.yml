@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Secretariat.md
       - about-the-fund.md
       - board.md
       - donation.md
