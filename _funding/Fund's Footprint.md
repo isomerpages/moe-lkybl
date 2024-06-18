@@ -12,12 +12,9 @@ children. The focus has been on pre-schoolers, or even younger children
 because the foundation for learning both English and Mother Tongue Languages
 (MTLs) is best laid when children are young. Besides focusing on pre-schoolers,
 we have also broadened our focus to promote bilingualism as a lifelong
-endeavour.
-<br>
-<br>
-</p>
+endeavour.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/our-impact.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_06_18_at_8_31_59_AM.png">
 </div>
 <p>We work closely with like-minded stakeholders and community partners,
 individuals and entities to support worthy initiatives and programmes in
