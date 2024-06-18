@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Social Media.md
       - about-the-fund.md
       - board.md
       - Secretariat.md
+      - Social Media.md
       - Annual Report.md
       - donation.md
       - fund-policy.md
