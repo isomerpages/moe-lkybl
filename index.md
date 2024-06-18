@@ -11,12 +11,16 @@ sections:
       key_highlights:
         - title: About the Fund
           url: /about-us/about-the-fund/
+          description: Learn more about us
         - title: Funding Application
           url: /funding/apply-for-grant/
+          description: Apply now
         - title: Fund's Footprint
           url: /funding/funds-footprints/
-        - title: Donation
+          description: Fund-Organised Events
+        - title: Fund's Support
           url: /about-us/donation/
+          description: Fund-Supported Materials
       button: Learn More
       url: /about-us/about-the-fund/
   - infopic:
