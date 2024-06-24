@@ -19,7 +19,7 @@ sections:
           url: /funding/funds-footprints/
           description: Fund-Organised Events
         - title: Fund's Support
-          url: /about-us/donation/
+          url: /fund-supported-resources/
           description: Fund-Supported Materials
       button: Learn More
       url: /about-us/about-the-fund/
