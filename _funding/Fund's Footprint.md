@@ -5,9 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h3>Fund's Footprint</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_06_18_at_8_31_59_AM.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Funds_Footprints.gif">
