@@ -2,4 +2,4 @@ collections:
   fund-supported-resources:
     output: true
     order:
-      - events.md
+      - Fund Supported Resources.md
