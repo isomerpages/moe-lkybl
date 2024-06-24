@@ -54,7 +54,7 @@ a photo story segment that exposes young children to local bite-sized current
 affairs.</p>
 <p>The periodical is well-received by preschool educators who have incorporated
 the use of Cilik Cerdik in their Malay language lessons.</p>
-<h4>Balar Murasu </h4>
+<h4>Balar Murasu</h4>
 <p>Balar Murasu by SPH Media Limited is a Fund-supported monthly periodical
 in Tamil language for preschool children. The attractively illustrated
 and colourful periodical takes preschool children through theme-based articles
