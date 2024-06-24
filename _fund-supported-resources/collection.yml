@@ -1,4 +1,5 @@
 collections:
   fund-supported-resources:
     output: true
-    order: []
+    order:
+      - events.md
