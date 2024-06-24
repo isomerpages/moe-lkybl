@@ -4,5 +4,4 @@ collections:
     order:
       - news.md
       - event.md
-      - annual-report.md
       - language-learning-resource.md
