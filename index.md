@@ -36,6 +36,6 @@ sections:
       id: infobar
       description: 1-31 July 2024
       button: Apply now
-      url: www.google.com
+      url: /funding/apply-for-grant/
 image: /images/isomer-logo.svg
 ---
