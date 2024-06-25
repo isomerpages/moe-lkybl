@@ -21,7 +21,6 @@ sections:
         - title: Fund's Support
           url: /fund-supported-resources/
           description: Fund-Supported Materials
-      button: Learn More
       url: /about-us/about-the-fund/
   - infopic:
       title: Empower yourself in your quest to be effectively bilingual!
