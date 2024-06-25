@@ -28,13 +28,13 @@ sections:
         channel to be updated on interesting resources supported by LKYFB.
       image: /images/block01.jpg
       alt: Follow us on Facebook, Instagram and YouTube
-  - resources:
-      id: resources
   - infobar:
       title: Call for Proposal
       id: infobar
       description: 1-31 July 2024
       button: Apply now
       url: /funding/apply-for-grant/
+  - resources:
+      id: resources
 image: /images/isomer-logo.svg
 ---
