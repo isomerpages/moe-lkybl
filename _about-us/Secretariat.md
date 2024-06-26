@@ -27,7 +27,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Consultant</p>
+<p>Senior Consultant
+<br>kwek_hiok_chuang@moe.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -35,7 +36,8 @@ description: ""
 <p>Ms Per Yen Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Programme Director</p>
+<p>Programme Director
+<br>per_yen_leng@moe.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -43,17 +45,16 @@ description: ""
 <p>Ms Zhou Huimin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Programme Director</p>
-<p>zhou_huimin@moe.gov.sg</p>
+<p>Assistant Programme Director zhou_huimin@moe.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Thevagi</p>
+<p>Mdm Thevagi Sivalingam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Project Officer
-<br>Tamil Language</p>
+<p>Senior Project Officer (Tamil Language)
+<br>thevagi_sivalingam@moe.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -61,8 +62,8 @@ description: ""
 <p>Mr Muhammad Jailani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Project Officer
-<br>English Language &amp; Malay Language</p>
+<p>Project Officer (English Language &amp; Malay Language)
+<br>muhammad_jailani_abu_talib@moe.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -70,8 +71,8 @@ description: ""
 <p>Ms Patricia Sin Pingting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Project Officer
-<br>Chinese Language</p>
+<p>Project Officer (Chinese Language)
+<br>patricia_sin@moe.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -79,8 +80,8 @@ description: ""
 <p>Ms Izzalina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Project Officer
-<br>Malay Language</p>
+<p>Project Officer (Malay Language)
+<br>izzalina_mohamad_ali@moe.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -88,7 +89,8 @@ description: ""
 <p>Ms Margaret</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admin Officer</p>
+<p>Admin Officer
+<br>margaret_amirdham@moe.gov.sg</p>
 </td>
 </tr>
 </tbody>
