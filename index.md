@@ -26,7 +26,7 @@ sections:
       title: Empower yourself in your quest to be effectively bilingual!
       description: Follow us on Facebook and Instagram, and subscribe to our YouTube
         channel to be updated on interesting resources supported by LKYFB.
-      image: /images/block01.jpg
+      image: /images/block02.jpg
       alt: Follow us on Facebook, Instagram and YouTube
   - infobar:
       title: Call for Proposal
