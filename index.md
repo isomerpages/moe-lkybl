@@ -29,7 +29,7 @@ sections:
       image: /images/block02.jpg
       alt: Follow us on Facebook, Instagram and YouTube
   - infobar:
-      title: Call for Proposal
+      title: Call for Proposals
       id: infobar
       description: 1-31 July 2024
       button: Apply now
