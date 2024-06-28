@@ -22,7 +22,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kwek
+<p>Mr Kwek Hiok Chuang
 <br>
 </p>
 </td>
@@ -86,7 +86,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Margaret</p>
+<p>Ms Margaret Amirdham</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Admin Officer
