@@ -24,10 +24,12 @@ sections:
       url: /about-us/about-the-fund/
   - infopic:
       title: Empower yourself in your quest to be effectively bilingual!
-      description: Follow us on Facebook and Instagram, and subscribe to our YouTube
-        channel to be updated on interesting resources supported by LKYFB.
+      description: Follow us on Instagram to be updated on interesting resources
+        supported by LKYFB.
       image: /images/block02.jpg
       alt: Follow us on social media.
+      button: Your Quest Begins Here
+      url: https://www.instagram.com/bilingualismsg/
   - infobar:
       title: Call for Proposals
       id: infobar

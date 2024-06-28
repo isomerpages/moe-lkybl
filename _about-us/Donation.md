@@ -49,7 +49,7 @@ receipt)</p>
 <br>
 </p>
 <h3>捐款</h3>
-<p>您慷慨的捐款将协助我们的学前儿童打好语言基础。因此，政府将提供1对1等同值的资助（顶限为五 千万元）。给予基金会的捐款也符合减免税务的条件（减免250%，即捐款的2.5倍）。要获得捐款扣
+<p>您慷慨的捐款将协助我们的学前儿童与年轻人打好语言基础。因此，政府将提供1对1等同值的资助（顶限为五 千万元）。给予基金会的捐款也符合减免税务的条件（减免250%，即捐款的2.5倍）。要获得捐款扣
 税的优惠，请提供姓名以及税务帐号。</p>
 <p>
 <br>
@@ -88,13 +88,13 @@ bilingualism" rel="noopener noreferrer nofollow" target="_blank">https://www.giv
 <br>
 </p>
 <h3>Sumbangan Derma</h3>
-<p>Derma anda akan membantu anak-anak kita membina asas bahasa mereka pada
-peringkat awal lagi, dengan cara yang sesuai dengan usia mereka. Bagi menyokong
-usaha ini, pemerintah telah menyediakan geran padanan 1:1 bagi sumbangan
-anda kepada pihak Dana, terhad kepada $50 juta. Anda juga layak mendapat
-potongan cukai sebanyak 250% (sebanyak dua setengah kali jumlah wang yang
-didermakan) bagi sumbangan anda itu. Nama dan nombor rujukan cukai perlu
-disediakan untuk mendapatkan potongan cukai ini.</p>
+<p>Sumbangan anda akan membantu para belia serta anak-anak kita membina asas
+bahasa mereka pada peringkat awal lagi, dengan cara yang sesuai dengan
+usia mereka. Bagi menyokong usaha ini, pemerintah telah menyediakan geran
+padanan 1:1 bagi sumbangan anda kepada pihak Dana, terhad kepada $50 juta.
+Anda juga layak mendapat potongan cukai sebanyak 250% (sebanyak dua setengah
+kali jumlah wang yang didermakan) bagi sumbangan anda itu. Nama dan nombor
+rujukan cukai perlu disediakan untuk mendapatkan potongan cukai ini.</p>
 <p>
 <br>
 </p>
