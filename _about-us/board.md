@@ -6,10 +6,10 @@ variant: tiptap
 <h3>Board</h3>
 <p>The Fund is managed by a Board and supported by the following committees:
 <br>(i) Project Evaluation Committee (PEC)
-<br>(ii) Publicity and Outreach Committee (POC)
+<br>(ii) Publicity and Outreach Resource Panel (PORP)
 <br>(iii) Investment Advisory Committee (IAC)
 <br>(iv) Audit Committee (AC)
-<br>(v) Research Advisory Panel
+<br>(v) Research Advisory Panel (RAP)
 <br>
 <br>The Board members are:</p>
 <table style="minWidth: 50px">
@@ -42,7 +42,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Minister of State
-<br>Minister of Education &amp; Ministry of Manpower</p>
+<br>Ministry of Education &amp; Ministry of Manpower</p>
 </td>
 </tr>
 <tr>
@@ -103,8 +103,8 @@ variant: tiptap
 <p>Madam Rahayu Mahzam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Parliamentary Secretary
-<br>Minister of Health &amp; Ministry of Law
+<p>Minister of State
+<br>Ministry of Health &amp; Ministry of Digital Development &amp; Information
 <br>
 <br>Member
 <br>Malay Language Council</p>
@@ -159,7 +159,7 @@ variant: tiptap
 <br>林少芬女士</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chief Executive Officer
+<p>Former Chief Executive Officer
 <br>&amp;
 <br>Executive Creative Director
 <br>10AM Communications</p>
