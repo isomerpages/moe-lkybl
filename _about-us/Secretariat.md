@@ -42,7 +42,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zhou Huimin</p>
+<p>Ms Zhou Huimin, Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Programme Director zhou_huimin@moe.gov.sg</p>
