@@ -59,7 +59,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Jailani</p>
+<p>Mr Muhammad Jailani bin Abu Talib</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Project Officer (English Language &amp; Malay Language)
@@ -77,7 +77,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Izzalina</p>
+<p>Ms Izzalina binte Mohamad Ali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Project Officer (Malay Language)
