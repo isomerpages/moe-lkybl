@@ -4,3 +4,5 @@ links:
     collection: about-us
   - title: Contact Us
     url: /contact-us/
+  - title: What's Up
+    resource_room: true
