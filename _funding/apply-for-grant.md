@@ -8,13 +8,13 @@ variant: tiptap
 <p>Note to applicants:
 <br>Calls for Proposals (CFP) are made to invite aspiring publishers, artists,
 content developers, authors, or individuals who may be interested in developing
-programmes or resources to promote bilingualism in Singapore. The recently
-concluded CFP 10 was designated as a Special Call with a core focus on
-funding applications for bilingual events and programmes, such as plays/dramas,
-booths/exhibitions, competitions, social media campaigns, etc.</p>
+programmes or resources to promote bilingualism in Singapore.</p>
+<p>Applicants may submit applications focusing on funding bilingual events
+and programmes, such as competitions, social media campaigns, plays/dramas,
+booths/exhibitions, etc. The Fund looks forward to receiving applications
+promoting bilingualism through refreshed, meaningful and novel approaches.</p>
 <p><strong>The Fund has set specific periods for Call for Proposals (CFP) in January and July each year. Proposals that are received outside of the CFP period will only be evaluated during the next CFP.</strong>
 </p>
-<p></p>
 <p><strong>Please note that the Fund is currently not accepting any research-related proposals. <br><br>When to apply:</strong>
 </p>
 <table style="minWidth: 50px">
