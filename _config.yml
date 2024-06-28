@@ -1,7 +1,7 @@
 title: Lee Kuan Yew Fund for Bilingualism
 url: https://bilingualism.sg
-favicon: /images/Bilingulism-Logo.png
-is_government: false
+favicon: /images/bilingulism-logo.png
+is_government: true
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -16,7 +16,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-resources_name: press-room
+resources_name: resources-and-events
 permalink: none
 baseurl: ""
 exclude:
@@ -45,8 +45,8 @@ paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: ""
-staging: https://staging.d8u7xu1xiccdm.amplifyapp.com/
-prod: https://master.d8u7xu1xiccdm.amplifyapp.com/
+staging: https://staging.d2n7r01mpp9eos.amplifyapp.com/
+prod: https://master.d2n7r01mpp9eos.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets

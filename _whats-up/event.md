@@ -30,7 +30,7 @@ Come join us at the Bilingualism Carnival with your loved ones!
 <br>
 <div><p>To join the livestream, click <a href="https://www.facebook.com/events/795082611302343/?acontext=%7B%22ref%22%3A%2252%22%2C%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22share_link%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22share_link%5C%22%2C%5C%22extra_data%5C%22%3A%7B%5C%22invite_link_id%5C%22%3A294790355843812%7D%7D]%22%7D/">here</a> or click on the event's programme below.
 	</p><div></div><br>
-	<br><a href="https://www.facebook.com/events/795082611302343/?acontext=%7B%22ref%22%3A%2252%22%2C%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22share_link%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22share_link%5C%22%2C%5C%22extra_data%5C%22%3A%7B%5C%22invite_link_id%5C%22%3A294790355843812%7D%7D]%22%7D"><img src="/images/LKYFB_10th Anniversary_Join Us_Full.jpg"></a><br>
+	<br><a href="https://www.facebook.com/events/795082611302343/?acontext=%7B%22ref%22%3A%2252%22%2C%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22share_link%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22share_link%5C%22%2C%5C%22extra_data%5C%22%3A%7B%5C%22invite_link_id%5C%22%3A294790355843812%7D%7D]%22%7D"><img src="/images/lkyfb_10th anniversary_join us_full.jpg"></a><br>
 		<div><p> See you online!</p></div>
 		<p></p>
 

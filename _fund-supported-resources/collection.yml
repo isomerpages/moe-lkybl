@@ -1,0 +1,5 @@
+collections:
+  fund-supported-resources:
+    output: true
+    order:
+      - Fund Supported Resources.md

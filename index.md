@@ -6,29 +6,35 @@ permalink: /
 sections:
   - hero:
       title: Lee Kuan Yew Fund for Bilingualism
-      background: /images/Hero-BannerGIF.gif
-      button: Learn More
-      url: /about-us/about-the-fund/
+      background: /images/LKYFB_Hero_6_9.gif
+      variant: image
       key_highlights:
         - title: About the Fund
           url: /about-us/about-the-fund/
+          description: Learn more about us
         - title: Funding Application
           url: /funding/apply-for-grant/
-        - title: Our Impact
-          url: /funding/our-impact/
-        - title: Donation
-          url: /about-us/donation/
+          description: Apply now
+        - title: Fund's Footprint
+          url: /funding/funds-footprints/
+          description: Fund-Organised Events
+        - title: Fund's Support
+          url: /fund-supported-resources/
+          description: Fund-Supported Materials
+      url: /about-us/about-the-fund/
   - infopic:
-      title: Looking for resources to guide your child in learning Mother Tongue
-        languages?
-      description: Follow us on our <a href="https://www.facebook.com/bilingualismsg"
-        target="_blank">Facebook</a> and <a
-        href="https://www.instagram.com/bilingualismsg/?hl=en"
-        target="_blank">Instagram </a> page, and subscribe to our <a
-        href="https://www.youtube.com/channel/UCEIPdWulFJvJKhgIWnoe34w"
-        target="_blank">YouTube</a> channel to be updated on interesting
-        resources supported by LKYFB.
-      image: /images/LKYFB_FollowUs.jpg
-      alt: Follow us on Facebook, Instagram and YouTube
+      title: Empower yourself in your quest to be effectively bilingual!
+      description: Follow us on Facebook and Instagram, and subscribe to our YouTube
+        channel to be updated on interesting resources supported by LKYFB.
+      image: /images/block02.jpg
+      alt: Follow us on social media.
+  - infobar:
+      title: Call for Proposals
+      id: infobar
+      description: 1-31 July 2024
+      button: Apply now
+      url: /funding/apply-for-grant/
+  - resources:
+      id: resources
 image: /images/isomer-logo.svg
 ---

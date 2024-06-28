@@ -2,5 +2,5 @@ collections:
   funding:
     output: true
     order:
-      - our-impact.md
+      - Fund's Footprint.md
       - apply-for-grant.md

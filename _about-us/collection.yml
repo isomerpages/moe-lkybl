@@ -4,5 +4,7 @@ collections:
     order:
       - about-the-fund.md
       - board.md
-      - donation.md
+      - Secretariat.md
+      - annual-report.md
+      - Donation.md
       - fund-policy.md
