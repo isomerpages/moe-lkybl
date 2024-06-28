@@ -7,6 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHOTO_2024_06_01_13_53_53_2.jpg">
+</div>
 <p>The Lee Kuan Yew Fund for Bilingualism is proud to have contributed to
 the development and successful launch of the Xiang Du Bao (XDB) Graded
 Readers for Kindergarteners. This unique series beautifully blends the
@@ -31,7 +34,4 @@ clear and engaging articulation.</p>
 Du Bao Graded Readers Series, where each story is a step towards a lifelong
 journey of learning and discovery.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHOTO_2024_06_01_13_53_53_2.jpg">
-</div>
 <p></p>
