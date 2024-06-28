@@ -5,9 +5,6 @@ variant: tiptap
 ---
 <h3>Call for Proposals</h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/furious_young_man_looking_pointing_camera_shouting_loud_speaker.jpg">
-</div>
 <p>Note to applicants:
 <br>Calls for Proposals (CFP) are made to invite aspiring publishers, artists,
 content developers, authors, or individuals who may be interested in developing
