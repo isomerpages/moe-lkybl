@@ -7,6 +7,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_06_28_at_10_19_31_AM.png">
+</div>
+<p></p>
 <p>In pursuit of the Fund’s strategic shift towards youth engagement, LKYFB
 collaborated with OKJ Works to develop 4 video podcasts and an event showcase
 to inspire youths through documentary stories. Episodes 1 and 2 of a four-part
