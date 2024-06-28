@@ -6,11 +6,8 @@ variant: tiptap
 <h3>About the Fund</h3>
 <h4>Overview &nbsp; &nbsp; &nbsp; <a href="#关于李光耀双语基金" rel="noopener noreferrer nofollow" target="_blank">Chinese</a>&nbsp;&nbsp; <a href="#Tentang Dana Kedwibahasaan Lee Kuan Yew" rel="noopener noreferrer nofollow" target="_blank">Malay</a>&nbsp;&nbsp; <a href="#இருமொழிக் கல்விக்கான லீ குவான் யூ நிதி பற்றிய விவரங்கள்" rel="noopener noreferrer nofollow" target="_blank">Tamil</a></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/girl_with_book_sitting_floor.jpg">
-</div>
 <p>The establishment of the Lee Kuan Yew Fund for Bilingualism (the "Fund")
-was announced by Mr Lee Kuan Yew on 28 November, 2011, at the launch of
+was announced by Mr Lee Kuan Yew on 28 November 2011, at the launch of
 his new book, “My Lifelong Challenge: Singapore’s Bilingual Journey”. The
 Fund is set up as a company limited by guarantee, with Charity and Institution
 of a Public Character status.</p>
