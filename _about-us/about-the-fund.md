@@ -26,10 +26,7 @@ of our Mother Tongue Languages as living languages and lifelong endeavours.</p>
 <h3>关于李光耀双语基金</h3>
 <h4>概述</h4>
 <p>李光耀双语基金是李光耀先生于2011年11月在他的新书《我一生的挑战：新加坡双语之路》发布会上 正式宣布成立的。</p>
-<p>随着家庭用语的改变，成立李光耀双语基金的目的是要促进双语教育，并辅助教育部加强英语与母语 的教学。基金首先会着重于学前教育双语学习。为了给孩童营造有利的学习环境，基金将在学前教育
-机构、家庭与社区三个方面展开工作。</p>
-<p>幼儿阶段是奠定语言学习基础的重要时期。成立李光耀双语基金的目的是希望通过学校、家庭与社区 培养学前儿童对学习双语的热忱。</p>
-<p></p>
+<p>随着家庭用语的改变，成立李光耀双语基金的目的是要促进双语教育，并辅助教育部加强英语与母语的教学。除了培养学前儿童对学习双语的热忱，基金也希望鼓励年轻人善用双语，为他们打开与世界交流的大门，并打下他们的文化根基。</p>
 <h3>Tentang Dana Kedwibahasaan Lee Kuan Yew</h3>
 <h4>Gambaran Keseluruhan</h4>
 <p>Dana Kedwibahasaan Lee Kuan Yew (“Dana”) telah diumumkan buat pertama
