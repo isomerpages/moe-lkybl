@@ -11,10 +11,11 @@ was announced by Mr Lee Kuan Yew on 28 November 2011, at the launch of
 his new book, “My Lifelong Challenge: Singapore’s Bilingual Journey”. The
 Fund is set up as a Company Limited by Guarantee, with Charity and Institution
 of a Public Character status.</p>
-<p>Bilingual education plays a crucial role in empowering our youths. Equipping
-them with proficiency in both English and their Mother Tongue Languages
-not only prepares them for a connected world but also fortifies their connection
-to our rich Asian heritage.</p>
+<p>Apart from promoting bilingualism from a young age, the Fund also hopes
+to encourage the active use of bilingualism amongst youths. Equipping them
+with proficiency in both English and their Mother Tongue Languages not
+only prepares them for a globalised environment but also fortifies their
+connection to our rich Asian heritage.</p>
 <p>LKYFB was set up to supplement efforts by the Ministry of Education (MOE)
 in the teaching and learning of English and the Mother Tongue Languages.</p>
 <h4>What the Fund Does</h4>
@@ -32,16 +33,14 @@ of our Mother Tongue Languages as living languages and lifelong endeavours.</p>
 <p>Dana Kedwibahasaan Lee Kuan Yew (“Dana”) telah diumumkan buat pertama
 kalinya sewaktu pelancaran buku Encik Lee Kuan Yew, “My Lifelong Challenge:
 Singapore’s Bilingual Journey” pada November 2011.</p>
-<p>Dana ini bertujuan untuk menggalakkan pendidikan dwibahasa dan menambah
-usaha MOE dalam pengajaran dan pembelajaran Bahasa Inggeris dan Bahasa
-Ibunda, di tengah-tengah perubahan persekitaran penggunaan bahasa di rumah.
-Sebagai permulaan, Dana ini akan memberikan tumpuan kepada inisiatif di
-peringkat prasekolah.</p>
-<p>Tahun-tahun awal penting untuk membina asas yang kukuh dalam pembelajaran
-bahasa. Dana Kedwibahasaan Lee Kuan Yew bertujuan memupuk rasa cinta akan
-pembelajaran dwibahasa dalam kalangan kanak-kanak sejak kecil lagi di peringkat
-prasekolah, di rumah dan dalam kalangan masyarakat.</p>
-<p></p>
+<p>Selain daripada menggalakkan ilmu dwibahasa dari usia kecil, Dana ini
+turut berharap untuk memupuk penggunaan dwibahasa secara aktif dalam kalangan
+belia. Usaha bagi memastikan mereka menguasai Bahasa Inggeris dan Bahasa
+Melayu bukan sahaja mempersiapkan mereka kepada dunia yang lebih global
+tetapi memperkukuhkan jati diri mereka.</p>
+<p>Dana LKYFB telah dibangunkan untuk melengkapi usaha Kementerian Pendidikan
+(MOE) dalam Pengajaran dan Pembelajaran Bahasa Inggeris dan Bahasa-bahasa
+Ibunda.</p>
 <h3>இருமொழிக் கல்விக்கான லீ குவான் யூ நிதி பற்றிய விவரங்கள்</h3>
 <h4>கண்ணோட்டம்</h4>
 <p>இருமொழிக் கல்விக்கான லீ குவான் யூ நிதி, திரு லீ குவான் யூவின் ‘எனது வாழ்நாள்
