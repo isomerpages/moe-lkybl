@@ -11,10 +11,11 @@ was announced by Mr Lee Kuan Yew on 28 November 2011, at the launch of
 his new book, “My Lifelong Challenge: Singapore’s Bilingual Journey”. The
 Fund is set up as a Company Limited by Guarantee, with Charity and Institution
 of a Public Character status.</p>
-<p>Bilingual education plays a crucial role in empowering our youths. Equipping
-them with proficiency in both English and their Mother Tongue Languages
-not only prepares them for a connected world but also fortifies their connection
-to our rich Asian heritage.</p>
+<p>Apart from promoting bilingualism from a young age, the Fund also hopes
+to encourage the active use of bilingualism amongst youths. Equipping them
+with proficiency in both English and their Mother Tongue Languages not
+only prepares them for a globalised environment but also fortifies their
+connection to our rich Asian heritage.</p>
 <p>LKYFB was set up to supplement efforts by the Ministry of Education (MOE)
 in the teaching and learning of English and the Mother Tongue Languages.</p>
 <h4>What the Fund Does</h4>
@@ -26,25 +27,20 @@ of our Mother Tongue Languages as living languages and lifelong endeavours.</p>
 <h3>关于李光耀双语基金</h3>
 <h4>概述</h4>
 <p>李光耀双语基金是李光耀先生于2011年11月在他的新书《我一生的挑战：新加坡双语之路》发布会上 正式宣布成立的。</p>
-<p>随着家庭用语的改变，成立李光耀双语基金的目的是要促进双语教育，并辅助教育部加强英语与母语 的教学。基金首先会着重于学前教育双语学习。为了给孩童营造有利的学习环境，基金将在学前教育
-机构、家庭与社区三个方面展开工作。</p>
-<p>幼儿阶段是奠定语言学习基础的重要时期。成立李光耀双语基金的目的是希望通过学校、家庭与社区 培养学前儿童对学习双语的热忱。</p>
-<p></p>
+<p>随着家庭用语的改变，成立李光耀双语基金的目的是要促进双语教育，并辅助教育部加强英语与母语的教学。除了培养学前儿童对学习双语的热忱，基金也希望鼓励年轻人善用双语，为他们打开与世界交流的大门，并打下他们的文化根基。</p>
 <h3>Tentang Dana Kedwibahasaan Lee Kuan Yew</h3>
 <h4>Gambaran Keseluruhan</h4>
 <p>Dana Kedwibahasaan Lee Kuan Yew (“Dana”) telah diumumkan buat pertama
 kalinya sewaktu pelancaran buku Encik Lee Kuan Yew, “My Lifelong Challenge:
 Singapore’s Bilingual Journey” pada November 2011.</p>
-<p>Dana ini bertujuan untuk menggalakkan pendidikan dwibahasa dan menambah
-usaha MOE dalam pengajaran dan pembelajaran Bahasa Inggeris dan Bahasa
-Ibunda, di tengah-tengah perubahan persekitaran penggunaan bahasa di rumah.
-Sebagai permulaan, Dana ini akan memberikan tumpuan kepada inisiatif di
-peringkat prasekolah.</p>
-<p>Tahun-tahun awal penting untuk membina asas yang kukuh dalam pembelajaran
-bahasa. Dana Kedwibahasaan Lee Kuan Yew bertujuan memupuk rasa cinta akan
-pembelajaran dwibahasa dalam kalangan kanak-kanak sejak kecil lagi di peringkat
-prasekolah, di rumah dan dalam kalangan masyarakat.</p>
-<p></p>
+<p>Selain daripada menggalakkan ilmu dwibahasa dari usia kecil, Dana ini
+turut berharap untuk memupuk penggunaan dwibahasa secara aktif dalam kalangan
+belia. Usaha bagi memastikan mereka menguasai Bahasa Inggeris dan Bahasa
+Melayu bukan sahaja mempersiapkan mereka kepada dunia yang lebih global
+tetapi memperkukuhkan jati diri mereka.</p>
+<p>Dana LKYFB telah dibangunkan untuk melengkapi usaha Kementerian Pendidikan
+(MOE) dalam Pengajaran dan Pembelajaran Bahasa Inggeris dan Bahasa-bahasa
+Ibunda.</p>
 <h3>இருமொழிக் கல்விக்கான லீ குவான் யூ நிதி பற்றிய விவரங்கள்</h3>
 <h4>கண்ணோட்டம்</h4>
 <p>இருமொழிக் கல்விக்கான லீ குவான் யூ நிதி, திரு லீ குவான் யூவின் ‘எனது வாழ்நாள்
