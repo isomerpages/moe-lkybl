@@ -9,7 +9,7 @@ variant: tiptap
 <p>The establishment of the Lee Kuan Yew Fund for Bilingualism (the "Fund")
 was announced by Mr Lee Kuan Yew on 28 November 2011, at the launch of
 his new book, “My Lifelong Challenge: Singapore’s Bilingual Journey”. The
-Fund is set up as a company limited by guarantee, with Charity and Institution
+Fund is set up as a Company Limited by Guarantee, with Charity and Institution
 of a Public Character status.</p>
 <p>Bilingual education plays a crucial role in empowering our youths. Equipping
 them with proficiency in both English and their Mother Tongue Languages
