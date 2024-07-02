@@ -104,10 +104,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Minister of State
-<br>Ministry of Health &amp; Ministry of Digital Development &amp; Information
-<br>
-<br>Member
-<br>Malay Language Council</p>
+<br>Ministry of Health &amp; Ministry of Digital Development &amp; Information</p>
 </td>
 </tr>
 <tr>
