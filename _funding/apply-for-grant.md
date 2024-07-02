@@ -109,8 +109,9 @@ funding criteria prior to commencing your applications.</p>
 <p>Organisation</p>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="LKYFB Call for Proposal Grant Application Form (Organisation)" src="/images/organisation_Form_SG.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Application_Form__Organisation_.png">
 </div>
 </th>
 </tr>
@@ -120,8 +121,9 @@ funding criteria prior to commencing your applications.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Individual.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Application_Form__individual_.png">
 </div>
 </td>
 </tr>
