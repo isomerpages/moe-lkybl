@@ -1,6 +1,7 @@
 ---
 title: Privacy Statement
 permalink: /privacy/
+variant: markdown
 ---
 ###  Privacy Statement
 #### **Government of Singapore Privacy Statement**
@@ -15,9 +16,8 @@ permalink: /privacy/
 
 5. This site may contain links to other sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
 
-6. Please contact us: <br/>
-    a)  For any enquires or feedback on our data protection policies and procedures,<br/>
+6. Please contact us: <br>
+    a)  For any enquires or feedback on our data protection policies and procedures,<br>
     b)      If you require more information on or access to the data which you have earlier provided to us.
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
-
