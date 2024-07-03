@@ -77,7 +77,7 @@ funding criteria prior to commencing your applications.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/funding/faqs_20231005.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs</a>
+<p><a href="/files/faqs_20240703.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs</a>
 </p>
 <p></p>
 </li>
