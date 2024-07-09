@@ -97,7 +97,6 @@ funding criteria prior to commencing your applications.</p>
 </ul>
 <p><strong>Completed application forms and a sample of the product can be submitted online via the following electronic forms:</strong>
 </p>
-<p>Organisation</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -117,6 +116,15 @@ funding criteria prior to commencing your applications.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/65f12376431e7d2e5517b199" rel="noopener noreferrer nofollow" target="_blank">Application Form (Organisation)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Individual</strong>
 </p>
 </td>
@@ -125,6 +133,15 @@ funding criteria prior to commencing your applications.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Application_Form__individual_.png">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/65effd471b019bf7b5188890" rel="noopener noreferrer nofollow" target="_blank">Application Form (Individual)</a>
+</p>
 </td>
 </tr>
 </tbody>
