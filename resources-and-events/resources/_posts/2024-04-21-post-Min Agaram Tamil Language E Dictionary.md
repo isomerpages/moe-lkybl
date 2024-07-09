@@ -24,5 +24,5 @@ to mastering Tamil through a comprehensive, multi-layered learning approach.
 Min Agaram not only helps users expand their vocabulary but also immerses
 them in the rich cultural heritage of the Tamil language.</p>
 <p>Unlock the essence of Tamil culture and language with the Min Agaram App.
-Download it today and begin your path to fluency in one of the world's
-oldest and most vibrant languages.</p>
+Download it today from Google Play Store and Apple Store, and begin your
+path to fluency in one of the world's oldest and most vibrant languages.</p>
