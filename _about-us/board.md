@@ -142,7 +142,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Noorshahril Saat</p>
+<p>Dr Norshahril Saat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Coordinator
