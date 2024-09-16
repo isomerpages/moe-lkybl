@@ -4,7 +4,6 @@ permalink: /funding/apply-for-grant/
 variant: tiptap
 ---
 <h3>Call for Proposals</h3>
-<p></p>
 <p>Note to applicants:
 <br>Calls for Proposals (CFP) are made to invite aspiring publishers, artists,
 content developers, authors, or individuals who may be interested in developing
@@ -76,10 +75,6 @@ to commencing your applications.</p>
 <ul>
 <li>
 <p><a href="/files/LKYFB_Application_Guide_for_CFP.pdf" rel="noopener noreferrer nofollow" target="_blank">Fund Application Guidelines</a>
-</p>
-</li>
-<li>
-<p><a href="/files/faqs_20240703.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs</a>
 </p>
 <p></p>
 </li>
