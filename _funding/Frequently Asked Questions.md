@@ -41,8 +41,7 @@ adults.</p>
 </p>
 <p>The Fund is likely to support proposals which fall under one or more of
 the following categories: (a) teaching and learning resources; (b) events;
-and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)
-programmes.</p>
+and (c) programmes.</p>
 <p><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How much will the Fund give out every year to supported proposals?</strong>
 </p>
 <p>The Fund will support worthy and good proposals. As such, there is no
@@ -129,7 +128,7 @@ codes and other required application documents.</p>
 <p>Only applications submitted using the Fund’s application form will be
 considered. You may refer to the <a href="http://www.bilingualism.sg/funding/apply-for-grant" rel="noopener noreferrer nofollow" target="_blank">Applicant Checklist </a>for
 the list of documents needed. Other guidelines for application can also
-be found in the <a href="http://www.bilingualism.sg/funding/apply-for-grant" rel="noopener noreferrer nofollow" target="_blank">Fund Application</a>
+be found in the <a href="http://www.bilingualism.sg/funding/apply-for-grant" rel="noopener noreferrer nofollow" target="_blank">Fund Application </a>
 <a href="http://www.bilingualism.sg/call-for-proposals/call-for-proposals" rel="noopener noreferrer nofollow" target="_blank">Guidelines.</a>
 </p>
 <p><strong>21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When can I apply?</strong>
@@ -179,7 +178,7 @@ can be found in the <a href="http://www.bilingualism.sg/funding/apply-for-grant"
 </p>
 <p>Successful applicants can generally expect the first tranche of funds
 to be disbursed one month after signing the Project Agreement.</p>
-<p><strong>29.       Who evaluates and approves the proposals? What is the Fund’s basis for approval of proposals?</strong>
+<p><strong>29. Who evaluates and approves the proposals? What is the Fund’s basis for approval of proposals?</strong>
 </p>
 <p>All proposals are reviewed and evaluated by the Project Evaluation Committee
 (PEC) based on a set of evaluation criteria that consider the application’s
