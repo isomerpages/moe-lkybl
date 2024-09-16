@@ -104,158 +104,104 @@ However, the Fund may propose different ownership structures of the IP
 or conditions of use of the IP, on a case-by-case basis where there is
 good reason. This will be clearly indicated in the Project Agreement to
 successful applicants.</p>
-<p>&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>C.&nbsp;&nbsp; ELIGIBILITY FOR FUNDING APPLICATION</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<h4><strong>C.&nbsp;&nbsp; ELIGIBILITY FOR FUNDING APPLICATION</strong></h4>
 <p><strong>17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Who is eligible to apply for the Fund?</strong>
 </p>
-<p>&nbsp;</p>
 <p>The Fund is open to individuals, and organisations/institutions. All applicants
 should have the relevant experience and expertise to implement the project.&nbsp;</p>
-<p>&nbsp;</p>
 <p>Organisations and institutions must be registered with Singapore authorities
 such as the Accounting and Corporate Regulatory Authority (ACRA) and Registry
 of Societies (ROS).</p>
-<p></p>
-<p></p>
-<p></p>
-<p>&nbsp;</p>
 <p><strong>18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do applicants have to be Singapore-based to be eligible for a funding application? Can foreigners apply?</strong>
 </p>
-<p>&nbsp;</p>
 <p>Foreigners or organisations based overseas may apply for the Fund. However,
 there would be a preference for applicants who are working in partnership
 with locally-based organisations. This is to ensure that the project takes
 into account the unique socio-linguistic context of Singapore.</p>
-<p>&nbsp;</p>
 <p><strong>19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Are for-profit organisations allowed to apply for the Fund?</strong>
 </p>
-<p>&nbsp;</p>
 <p>Yes, for-profit organisations may apply for the Fund.</p>
-<p></p>
-<h1>D.&nbsp;&nbsp; APPLYING FOR THE FUND</h1>
+<h4><strong>D.&nbsp;&nbsp; APPLYING FOR THE FUND</strong></h4>
 <p><strong>20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do I apply?</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <p>You may fill in the Fund’s digital application form via the provided QR
 codes and other required application documents.</p>
-<p>&nbsp;</p>
 <p>Only applications submitted using the Fund’s application form will be
 considered. You may refer to the <a href="http://www.bilingualism.sg/funding/apply-for-grant" rel="noopener noreferrer nofollow" target="_blank">Applicant Checklist </a>for
 the list of documents needed. Other guidelines for application can also
 be found in the <a href="http://www.bilingualism.sg/funding/apply-for-grant" rel="noopener noreferrer nofollow" target="_blank">Fund Application</a>
 <a href="http://www.bilingualism.sg/call-for-proposals/call-for-proposals" rel="noopener noreferrer nofollow" target="_blank">Guidelines.</a>
 </p>
-<p>&nbsp;</p>
 <p><strong>21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When can I apply?</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <p><strong>The Fund has specific Calls for Proposals (CFP) periods and only accepts proposals received in January and July each year</strong>.
 Proposals may also sometimes be received through applications made for
-Bulan Bahasa and Tamil Language Festival.</p>
-<p></p>
+Bulan Bahasa, Tamil Language Festival and Tamil Youth Festival.</p>
 <p>Applicants are advised that the Fund requires Grantees to take in the
 Fund’s input to our satisfaction. Please factor in additional time for
 vetting and printing/production before the launch date, especially for
 print and digital resources, and submit your applications in the appropriate
 CFP period of January or July.&nbsp;</p>
-<p>&nbsp;</p>
 <p>Proposals that are received outside of the CFP period will only be evaluated
 during the next CFP. Expenses incurred before the projects are approved
 will not be eligible for funding.</p>
-<p>&nbsp;</p>
 <p><strong>22.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do I have to submit a single complete application or may I send it in parts? </strong>&nbsp;</p>
-<p></p>
 <p>All applications have to be submitted as a single complete application.
 Only complete applications will be evaluated.</p>
-<p>&nbsp;</p>
-<p></p>
-<p></p>
-<p></p>
 <p><strong>23.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I submit more than one proposal?</strong>
 </p>
-<p>&nbsp;</p>
 <p>Yes, applicants may submit more than one proposal. Each proposal will
 be evaluated with a set of pre-determined evaluation criteria.</p>
-<p>&nbsp;</p>
 <p><strong>24.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I collaborate with other organisations/institutions to submit proposals?</strong>
 </p>
-<p>&nbsp;</p>
 <p>Yes, joint proposals may be submitted.</p>
-<p></p>
 <p><strong>25.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I submit a manual application form and submit my proposals via e-mail or through a manual submission?</strong>
 </p>
-<p></p>
 <p>No. Only submissions made online via the links provided via LKYFB’s
 <a href="http://www.bilingualism.sg/funding/apply-for-grant" rel="noopener noreferrer nofollow" target="_blank">website</a>only.</p>
-<p></p>
-<h1>E. PROCESSING OF APPLICATIONS</h1>
-<p><strong>&nbsp;</strong>
-</p>
+<h4><strong>E. PROCESSING OF APPLICATIONS</strong></h4>
 <p><strong>26.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is the selection process?</strong>
 </p>
-<p>&nbsp;</p>
 <p>The Fund will only evaluate proposals with complete applications. The
 Fund’s Programme Office may contact applicants to ask for further details.
 All applicants will be notified of the final outcome. Successful applicants
 will receive a Letter of Offer stating the terms and conditions of the
 funding support. A Project Agreement will be signed between the Fund and
 successful applicants.</p>
-<p>&nbsp;</p>
 <p><strong>27.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How are the proposals evaluated?</strong>
 </p>
-<p>&nbsp;</p>
 <p>Proposals will be evaluated using a set of pre-determined evaluation criteria
 that consider the application’s relevance, impact, scalability, sustainability
 and the potential of the applicant. Details of the evaluation criteria
 can be found in the <a href="http://www.bilingualism.sg/funding/apply-for-grant" rel="noopener noreferrer nofollow" target="_blank">Fund Application Guidelines.</a>
 </p>
-<p>&nbsp;</p>
-<p><strong>28.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How soon can successful applicants receive funding?</strong>
+<p><strong>28.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How soon can successful applicants receive funding?</strong>
 </p>
-<p>&nbsp;</p>
 <p>Successful applicants can generally expect the first tranche of funds
 to be disbursed one month after signing the Project Agreement.</p>
-<p></p>
-<p><strong>29.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Who evaluates and approves the proposals? What is the Fund’s basis for approval of proposals?</strong>
+<p><strong>29.       Who evaluates and approves the proposals? What is the Fund’s basis for approval of proposals?</strong>
 </p>
-<p>&nbsp;</p>
 <p>All proposals are reviewed and evaluated by the Project Evaluation Committee
 (PEC) based on a set of evaluation criteria that consider the application’s
 relevance, impact, scalability, sustainability and the potential of the
 applicant.&nbsp;</p>
-<p>&nbsp;</p>
 <p>The members of the PEC have the relevant expertise and experience to assess
 the quality and worthiness of the proposals received. Where applicable,
 other experts and specialists such as those from within MOE are also consulted.
 Depending on the quantum of funding requested, either the PEC or the Board
 (considering the recommendations of the PEC) approves the proposals.</p>
-<p>&nbsp;</p>
 <p><strong>30.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Are proposals that focus only on one language accepted? If they are, are they less preferred than proposals that cover two or more languages?</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <p>While we do accept proposals that cover only one language, the evaluation
 considers the relevance and impact of the proposal in promoting bilingual
 education.</p>
-<p>&nbsp;</p>
 <p><strong>31.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can rejected applicants appeal for reconsideration of their proposals?</strong>
 </p>
-<p>&nbsp;</p>
 <p>The Fund does not accept appeals. However, applicants whose proposals
 have not been supported may revise their proposal and submit it again.
 The Fund adopts an open approach and will review proposals that are refined
 and revised.</p>
-<p></p>
 <p><strong>32.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can current grantees with ongoing projects apply for funds?</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <p>No. LKYFB is currently not accepting any applications made by applicants
 with ongoing projects that have yet to be completed.&nbsp;The new application
