@@ -77,10 +77,6 @@ to commencing your applications.</p>
 <li>
 <p><a href="/files/LKYFB_Application_Guide_for_CFP.pdf" rel="noopener noreferrer nofollow" target="_blank">Fund Application Guidelines</a>
 </p>
-</li>
-<li>
-<p><a href="/files/faqs_20240916.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs</a>
-</p>
 <p></p>
 </li>
 </ul>
