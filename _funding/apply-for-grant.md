@@ -64,16 +64,18 @@ Please factor in additional time for vetting and printing/production before
 the launch date, especially for print and digital resources.</p>
 <p>Interested applicants can refer to the Fund Application Guidelines and
 FAQs before completing the required application documents below.</p>
-<p>Should you wish to apply for funding, please email <a href="mailto:moe_lkyfb@moe.gov.s" rel="noopener noreferrer nofollow" target="_blank">moe_lkyfb@moe.gov.sg</a> for submission
-or clarification. We recognise that it takes time and effort to complete
-proposals, and strongly encourage applicants to clarify any doubts regarding
-funding criteria prior to commencing your applications.</p>
+<p>Should you wish to apply for funding, please make an application through
+the links below. <strong>Only submissions made via the links below will be considered</strong>.
+You may, however, email <a href="mailto:moe_lkyfb@moe.gov.s" rel="noopener noreferrer nofollow" target="_blank">moe_lkyfb@moe.gov.sg</a> for clarification.
+We recognise that it takes time and effort to complete proposals, and strongly
+encourage applicants to clarify any doubts regarding funding criteria prior
+to commencing your applications.</p>
 <p></p>
 <p><strong>For more information on the application process, please refer to:</strong>
 </p>
 <ul>
 <li>
-<p><a href="/files/cfp_application_guide_20231005.pdf" rel="noopener noreferrer nofollow" target="_blank">Fund Application Guidelines</a>
+<p><a href="/files/LKYFB_Application_Guide_for_CFP.pdf" rel="noopener noreferrer nofollow" target="_blank">Fund Application Guidelines</a>
 </p>
 </li>
 <li>
