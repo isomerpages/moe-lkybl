@@ -73,7 +73,7 @@ funding criteria prior to commencing your applications.</p>
 </p>
 <ul>
 <li>
-<p><a href="/files/cfp_application_guide_20231005.pdf" rel="noopener noreferrer nofollow" target="_blank">Fund Application Guidelines</a>
+<p><a href="/files/LKYFB_Application_Guide_for_CFP.pdf" rel="noopener noreferrer nofollow" target="_blank">Fund Application Guidelines</a>
 </p>
 </li>
 <li>
