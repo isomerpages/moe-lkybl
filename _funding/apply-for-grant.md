@@ -4,7 +4,6 @@ permalink: /funding/apply-for-grant/
 variant: tiptap
 ---
 <h3>Call for Proposals</h3>
-<p></p>
 <p>Note to applicants:
 <br>Calls for Proposals (CFP) are made to invite aspiring publishers, artists,
 content developers, authors, or individuals who may be interested in developing
