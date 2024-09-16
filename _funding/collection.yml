@@ -2,6 +2,6 @@ collections:
   funding:
     output: true
     order:
-      - FAQs.md
       - Fund's Footprint.md
       - apply-for-grant.md
+      - FAQs.md
