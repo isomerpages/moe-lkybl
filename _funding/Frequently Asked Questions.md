@@ -170,9 +170,9 @@ successful applicants.</p>
 <p><strong>27.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How are the proposals evaluated?</strong>
 </p>
 <p>Proposals will be evaluated using a set of pre-determined evaluation criteria
-that consider the application’s relevance, impact, scalability, sustainability
-and the potential of the applicant. Details of the evaluation criteria
-can be found in the <a href="http://www.bilingualism.sg/funding/apply-for-grant" rel="noopener noreferrer nofollow" target="_blank">Fund Application Guidelines.</a>
+that consider the application’s relevance, impact, sustainability and the
+potential of the applicant. Details of the evaluation criteria can be found
+in the <a href="http://www.bilingualism.sg/funding/apply-for-grant" rel="noopener noreferrer nofollow" target="_blank">Fund Application Guidelines.</a>
 </p>
 <p><strong>28.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How soon can successful applicants receive funding?</strong>
 </p>
