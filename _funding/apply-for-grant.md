@@ -128,7 +128,7 @@ to commencing your applications.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Application_Form__individual_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_09_17_at_8_45_28_AM.png">
 </div>
 </td>
 </tr>

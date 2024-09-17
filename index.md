@@ -33,7 +33,6 @@ sections:
   - infobar:
       title: Call for Proposals
       id: infobar
-      description: 1-31 July 2024
       button: Apply now
       url: /funding/apply-for-grant/
   - resources:
