@@ -14,7 +14,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/files/whats-up/annual-report-2023.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/annual_report_2023.jpg"></a>
-<p><a href="/files/whats-up/financial-statement-2023" rel="noopener nofollow" target="_blank">Financial Statement (FY 2023/24)</a>
+<p><a href="/files/whats-up/financial-statement-2023.pdf" rel="noopener nofollow" target="_blank">Financial Statement (FY 2023/24)</a>
 </p>
 <p><a href="/files/whats-up/GEC-2023.pdf" rel="noopener nofollow" target="_blank">Governance Evaluation Checklist (FY 2022/2023)</a>
 </p>
