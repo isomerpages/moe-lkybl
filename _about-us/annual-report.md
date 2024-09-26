@@ -112,10 +112,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/annual_report_2012.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/files/whats-up/annual-report-2012.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/annual_report_2012.jpg"></a>
 <p><a href="/files/whats-up/fy2012-fs.pdf" rel="noopener noreferrer nofollow" target="_blank">Financial Statement (FY 2012)</a>
 </p>
 </td>
