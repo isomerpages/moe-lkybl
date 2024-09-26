@@ -14,10 +14,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/files/whats-up/annual-report-2023.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/annual_report_2023.jpg"></a>
-<p><a href="/files/whats-up/lkyfb_annual_report_fy2023_2024__3__compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Financial Statement (FY 2023/24)</a>
-</p>
-<p><a href="/files/whats-up/lkyfb_gec_fy2022-23.pdf" rel="noopener noreferrer nofollow" target="_blank">Governance Evaluation Checklist (FY 2023/24)</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/files/whats-up/annual-report-2022.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/annual_report_2022.jpg"></a>
