@@ -17,8 +17,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/annual_report_2023.jpg">
 </div>
-<p><a href="/files/whats-up/lkyfb_fs_fy2022-23.pdf" rel="noopener noreferrer nofollow" target="_blank">Financial Statement (FY 2023/24)</a>
-<a href="/files/whats-up/lkyfb_annual_report_fy2023_2024__3__compressed.pdf" rel="noopener nofollow" target="_blank">file</a>
+<p><a href="/files/whats-up/lkyfb_annual_report_fy2023_2024__3__compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Financial Statement (FY 2023/24)</a>
 </p>
 <p><a href="/files/whats-up/lkyfb_gec_fy2022-23.pdf" rel="noopener noreferrer nofollow" target="_blank">Governance Evaluation Checklist (FY 2023/24)</a>
 </p>
