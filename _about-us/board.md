@@ -135,9 +135,8 @@ variant: tiptap
 <br>郭又铨</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-President
-<br>International Business
-<br>iQIYI International Singapore Pte Ltd</p>
+<p>Deputy Chief Executive Officer
+<br>SPH Media Limited</p>
 </td>
 </tr>
 <tr>
