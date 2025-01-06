@@ -42,14 +42,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zhou Huimin, Rachel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Programme Director zhou_huimin@moe.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Thevagi Sivalingam</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,15 +65,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Project Officer (Chinese Language)
 <br>patricia_sin@moe.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Izzalina binte Mohamad Ali</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Project Officer (Malay Language)
-<br>izzalina_mohamad_ali@moe.gov.sg</p>
 </td>
 </tr>
 <tr>

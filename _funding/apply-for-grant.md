@@ -74,7 +74,7 @@ to commencing your applications.</p>
 </p>
 <ul>
 <li>
-<p><a href="/files/LKYFB_Application_Guide_for_CFP.pdf" rel="noopener noreferrer nofollow" target="_blank">Fund Application Guidelines</a>
+<p><a href="/files/LKYFB_Application_Guide_for_CFP010125.pdf" rel="noopener noreferrer nofollow" target="_blank">Fund Application Guidelines</a>
 </p>
 <p></p>
 </li>
@@ -105,20 +105,9 @@ to commencing your applications.</p>
 <p>Organisation</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Application_Form__Organisation_.png">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/65f12376431e7d2e5517b199" rel="noopener noreferrer nofollow" target="_blank">Application Form (Organisation)</a>
 </p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -126,18 +115,7 @@ to commencing your applications.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_09_17_at_8_45_28_AM.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/65effd471b019bf7b5188890" rel="noopener noreferrer nofollow" target="_blank">Application Form (Individual)</a>
+<p><strong><a href="https://form.gov.sg/65effd471b019bf7b5188890" rel="noopener noreferrer nofollow" target="_blank">Application Form (Individual)</a></strong>
 </p>
 </td>
 </tr>
