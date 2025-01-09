@@ -8,10 +8,9 @@ description: ""
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is the Lee Kuan Yew Fund for Bilingualism?</strong>
 </p>
 <p>The Lee Kuan Yew Fund for Bilingualism was first announced at the launch
-of &nbsp;&nbsp;&nbsp;Mr Lee Kuan Yew’s book, “My Lifelong Challenge: Singapore’s
-Bilingual Journey” on 28 November 2011. The Fund is set up as a company
-limited by guarantee, with Charity and Institution of a Public Character
-(IPC) status.</p>
+of&nbsp;Mr Lee Kuan Yew’s book, “My Lifelong Challenge: Singapore’s Bilingual
+Journey” on 28 November 2011. The Fund is set up as a company limited by
+guarantee, with Charity and Institution of a Public Character (IPC) status.</p>
 <p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Who manages the Fund?</strong>
 </p>
 <p>The Fund is managed by its Board. The Board is supported by a Project
