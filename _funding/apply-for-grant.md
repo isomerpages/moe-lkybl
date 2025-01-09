@@ -74,7 +74,7 @@ to commencing your applications.</p>
 </p>
 <ul>
 <li>
-<p><a href="/files/LKYFB_Application_Guide_for_CFP010125.pdf" rel="noopener noreferrer nofollow" target="_blank">Fund Application Guidelines</a>
+<p><a href="/files/LKYFB_Application_Guide_for_CFP_9_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Fund Application Guidelines</a>
 </p>
 <p></p>
 </li>
