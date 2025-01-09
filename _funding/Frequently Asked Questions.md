@@ -202,5 +202,5 @@ and revised.</p>
 <p><strong>32.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can current grantees with ongoing projects apply for funds?</strong>
 </p>
 <p>No. LKYFB is currently not accepting any applications made by applicants
-with ongoing projects that have yet to be completed.&nbsp;The new application
+with ongoing projects that have yet to be completed. The new application
 would be automatically withdrawn and will not be considered.</p>
