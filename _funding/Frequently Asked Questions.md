@@ -182,8 +182,7 @@ to be disbursed one month after signing the Project Agreement.</p>
 </p>
 <p>All proposals are reviewed and evaluated by the Project Evaluation Committee
 (PEC) based on a set of evaluation criteria that consider the application’s
-relevance, impact, scalability, sustainability and the potential of the
-applicant.&nbsp;</p>
+relevance, impact, sustainability and the potential of the applicant.&nbsp;</p>
 <p>The members of the PEC have the relevant expertise and experience to assess
 the quality and worthiness of the proposals received. Where applicable,
 other experts and specialists such as those from within MOE are also consulted.
