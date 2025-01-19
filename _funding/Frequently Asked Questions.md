@@ -8,10 +8,9 @@ description: ""
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is the Lee Kuan Yew Fund for Bilingualism?</strong>
 </p>
 <p>The Lee Kuan Yew Fund for Bilingualism was first announced at the launch
-of &nbsp;&nbsp;&nbsp;Mr Lee Kuan Yew’s book, “My Lifelong Challenge: Singapore’s
-Bilingual Journey” on 28 November 2011. The Fund is set up as a company
-limited by guarantee, with Charity and Institution of a Public Character
-(IPC) status.</p>
+of&nbsp;Mr Lee Kuan Yew’s book, “My Lifelong Challenge: Singapore’s Bilingual
+Journey” on 28 November 2011. The Fund is set up as a company limited by
+guarantee, with Charity and Institution of a Public Character (IPC) status.</p>
 <p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Who manages the Fund?</strong>
 </p>
 <p>The Fund is managed by its Board. The Board is supported by a Project
@@ -182,8 +181,7 @@ to be disbursed one month after signing the Project Agreement.</p>
 </p>
 <p>All proposals are reviewed and evaluated by the Project Evaluation Committee
 (PEC) based on a set of evaluation criteria that consider the application’s
-relevance, impact, scalability, sustainability and the potential of the
-applicant.&nbsp;</p>
+relevance, impact, sustainability and the potential of the applicant.&nbsp;</p>
 <p>The members of the PEC have the relevant expertise and experience to assess
 the quality and worthiness of the proposals received. Where applicable,
 other experts and specialists such as those from within MOE are also consulted.
@@ -203,5 +201,5 @@ and revised.</p>
 <p><strong>32.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can current grantees with ongoing projects apply for funds?</strong>
 </p>
 <p>No. LKYFB is currently not accepting any applications made by applicants
-with ongoing projects that have yet to be completed.&nbsp;The new application
+with ongoing projects that have yet to be completed. The new application
 would be automatically withdrawn and will not be considered.</p>
