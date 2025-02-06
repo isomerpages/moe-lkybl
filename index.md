@@ -22,10 +22,6 @@ sections:
           url: /fund-supported-resources/
           description: Fund-Supported Materials
       url: /about-us/about-the-fund/
-  - infobar:
-      title: Call For Proposal 11 Is Now Open!
-      subtitle: support bilingualism
-      id: infobar
   - infopic:
       title: Empower yourself in your quest to be effectively bilingual!
       description: Follow us on Instagram to be updated on interesting resources
