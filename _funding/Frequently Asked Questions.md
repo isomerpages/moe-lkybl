@@ -127,9 +127,7 @@ codes and other required application documents.</p>
 <p>Only applications submitted using the Fund’s application form will be
 considered. You may refer to the <a href="http://www.bilingualism.sg/funding/apply-for-grant" rel="noopener noreferrer nofollow" target="_blank">Applicant Checklist </a>for
 the list of documents needed. Other guidelines for application can also
-be found in the <a href="http://www.bilingualism.sg/funding/apply-for-grant" rel="noopener noreferrer nofollow" target="_blank">Fund Application </a>
-<a href="http://www.bilingualism.sg/call-for-proposals/call-for-proposals" rel="noopener noreferrer nofollow" target="_blank">Guidelines.</a>
-</p>
+be found in the Fund Application Guidelines.</p>
 <p><strong>21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When can I apply?</strong>
 </p>
 <p><strong>The Fund has specific Calls for Proposals (CFP) periods and only accepts proposals received in January and July each year</strong>.
@@ -187,18 +185,13 @@ the quality and worthiness of the proposals received. Where applicable,
 other experts and specialists such as those from within MOE are also consulted.
 Depending on the quantum of funding requested, either the PEC or the Board
 (considering the recommendations of the PEC) approves the proposals.</p>
-<p><strong>30.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Are proposals that focus only on one language accepted? If they are, are they less preferred than proposals that cover two or more languages?</strong>
-</p>
-<p>While we do accept proposals that cover only one language, the evaluation
-considers the relevance and impact of the proposal in promoting bilingual
-education.</p>
-<p><strong>31.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can rejected applicants appeal for reconsideration of their proposals?</strong>
+<p><strong>30.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can rejected applicants appeal for reconsideration of their proposals?</strong>
 </p>
 <p>The Fund does not accept appeals. However, applicants whose proposals
 have not been supported may revise their proposal and submit it again.
 The Fund adopts an open approach and will review proposals that are refined
 and revised.</p>
-<p><strong>32.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can current grantees with ongoing projects apply for funds?</strong>
+<p><strong>31.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can current grantees with ongoing projects apply for funds?</strong>
 </p>
 <p>No. LKYFB is currently not accepting any applications made by applicants
 with ongoing projects that have yet to be completed. The new application
