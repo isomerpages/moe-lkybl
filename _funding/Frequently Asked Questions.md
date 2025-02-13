@@ -127,9 +127,7 @@ codes and other required application documents.</p>
 <p>Only applications submitted using the Fund’s application form will be
 considered. You may refer to the <a href="http://www.bilingualism.sg/funding/apply-for-grant" rel="noopener noreferrer nofollow" target="_blank">Applicant Checklist </a>for
 the list of documents needed. Other guidelines for application can also
-be found in the <a href="http://www.bilingualism.sg/funding/apply-for-grant" rel="noopener noreferrer nofollow" target="_blank">Fund Application </a>
-<a href="http://www.bilingualism.sg/call-for-proposals/call-for-proposals" rel="noopener noreferrer nofollow" target="_blank">Guidelines.</a>
-</p>
+be found in the Fund Application Guidelines.</p>
 <p><strong>21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When can I apply?</strong>
 </p>
 <p><strong>The Fund has specific Calls for Proposals (CFP) periods and only accepts proposals received in January and July each year</strong>.
