@@ -48,7 +48,7 @@ funding given out depends on the nature and scope of the project, as well
 as the availability of funds. Where necessary, the Fund will also redirect
 worthy proposals to relevant organisations.</p>
 <h4><strong>B.&nbsp;&nbsp; FUNDING PARAMETERS (FOR PROPOSALS)</strong></h4>
-<p><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Are funding opportunities specific to proposals for preschool children? </strong>
+<p><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Are funding opportunities specific to proposals for preschool children?</strong>
 </p>
 <p>The Fund will consider any worthy proposals targeted at preschool children
 or youths, so long as it serves to promote bilingualism and bilingual education
@@ -170,7 +170,7 @@ in the <a href="http://www.bilingualism.sg/funding/apply-for-grant" rel="noopene
 </p>
 <p>Successful applicants can generally expect the first tranche of funds
 to be disbursed one month after signing the Project Agreement.</p>
-<p><strong>29. Who evaluates and approves the proposals? What is the Fund’s basis for approval of proposals?</strong>
+<p><strong>29.       Who evaluates and approves the proposals? What is the Fund’s basis for approval of proposals?</strong>
 </p>
 <p>All proposals are reviewed and evaluated by the Project Evaluation Committee
 (PEC) based on a set of evaluation criteria that consider the application’s
@@ -180,12 +180,12 @@ the quality and worthiness of the proposals received. Where applicable,
 other experts and specialists such as those from within MOE are also consulted.
 Depending on the quantum of funding requested, either the PEC or the Board
 (considering the recommendations of the PEC) approves the proposals.</p>
-<p><strong>30.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can rejected applicants appeal for reconsideration of their proposals?</strong>
+<p><strong>30.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can rejected applicants appeal for reconsideration of their proposals?</strong>
 </p>
 <p>The Fund does not accept appeals. However, applicants whose proposals
-have not been supported may revise their proposal and submit it again.
-The Fund adopts an open approach and will review proposals that are refined
-and revised.</p>
+have not been supported may revise their proposal and submit it again in
+the next CFP. The Fund adopts an open approach and will review proposals
+that are refined and revised.</p>
 <p><strong>31.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can current grantees with ongoing projects apply for funds?</strong>
 </p>
 <p>No. LKYFB is currently not accepting any applications made by applicants
