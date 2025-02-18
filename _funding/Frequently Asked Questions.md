@@ -170,7 +170,7 @@ in the <a href="http://www.bilingualism.sg/funding/apply-for-grant" rel="noopene
 </p>
 <p>Successful applicants can generally expect the first tranche of funds
 to be disbursed one month after signing the Project Agreement.</p>
-<p><strong>29.       Who evaluates and approves the proposals? What is the Fund’s basis for approval of proposals?</strong>
+<p><strong>29. Who evaluates and approves the proposals? What is the Fund’s basis for approval of proposals?</strong>
 </p>
 <p>All proposals are reviewed and evaluated by the Project Evaluation Committee
 (PEC) based on a set of evaluation criteria that consider the application’s
