@@ -74,7 +74,8 @@ to commencing your applications.</p>
 </p>
 <ul>
 <li>
-<p>Fund Application Guidelines</p>
+<p><a href="" rel="noopener nofollow" target="_blank">Fund Application Guidelines</a>
+</p>
 </li>
 </ul>
 <p><strong>Documents Required for Application:</strong>
