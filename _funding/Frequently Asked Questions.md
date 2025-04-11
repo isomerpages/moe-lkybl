@@ -64,7 +64,8 @@ duration of the project must be factored in and clearly stated in the
 </p>
 <p>Funding support for proposals are subject to the Fund’s project funding
 criteria and the achievement of committed targets. Examples of non-fundable
-items can be found in the <a href="http://www.bilingualism.sg/funding/apply-for-grant" rel="noopener noreferrer nofollow" target="_blank">Fund’s Application Guidelines.</a>
+items can be found in the <a href="LKYFB_Application_Guide_for_CFP_9_Jan" rel="noopener noreferrer nofollow" target="_blank">Fund’s Application Guidelines</a>
+<a href="http://www.bilingualism.sg/funding/apply-for-grant" rel="noopener noreferrer nofollow" target="_blank">.</a>
 </p>
 <p><strong>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is the anticipated funding amount for each successful project?</strong>
 </p>
