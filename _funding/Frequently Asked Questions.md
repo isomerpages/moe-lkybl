@@ -164,7 +164,7 @@ successful applicants.</p>
 <p>Proposals will be evaluated using a set of pre-determined evaluation criteria
 that consider the application’s relevance, impact, sustainability and the
 potential of the applicant. Details of the evaluation criteria can be found
-in the <a href="http://www.bilingualism.sg/funding/apply-for-grant" rel="noopener noreferrer nofollow" target="_blank">Fund Application Guidelines.</a>
+in the <a href="LKYFB_Application_Guide_for_CFP_9_Jan" rel="noopener noreferrer nofollow" target="_blank">Fund Application Guidelines.</a>
 </p>
 <p><strong>28.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How soon can successful applicants receive funding?</strong>
 </p>
