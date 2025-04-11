@@ -118,9 +118,9 @@ of Societies (ROS).</p>
 <p>You may fill in the Fund’s digital application form via the provided QR
 codes and other required application documents.</p>
 <p>Only applications submitted using the Fund’s application form will be
-considered. You may refer to the <a href="/files/LKYFB_Application_Guide_for_CFP_9_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Applicant Checklist</a>
-<a href="http://www.bilingualism.sg/funding/apply-for-grant" rel="noopener noreferrer nofollow" target="_blank"></a>for the list of documents needed. Other guidelines for application
-can also be found in the <a href="/files/LKYFB_Application_Guide_for_CFP_9_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Fund Application Guidelines</a>.</p>
+considered. You may refer to the <a href="/files/LKYFB_Application_Guide_for_CFP_9_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Applicant Checklist</a>for
+the list of documents needed. Other guidelines for application can also
+be found in the <a href="/files/LKYFB_Application_Guide_for_CFP_9_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Fund Application Guidelines</a>.</p>
 <p><strong>20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When can I apply?</strong>
 </p>
 <p><strong>The Fund has specific Calls for Proposals (CFP) periods and only accepts proposals received in January and July each year</strong>.
