@@ -64,7 +64,7 @@ duration of the project must be factored in and clearly stated in the
 </p>
 <p>Funding support for proposals are subject to the Fund’s project funding
 criteria and the achievement of committed targets. Examples of non-fundable
-items can be found in the <a href="LKYFB_Application_Guide_for_CFP_9_Jan" rel="noopener noreferrer nofollow" target="_blank">Fund’s Application Guidelines</a>
+items can be found in the <a href="/files/LKYFB_Application_Guide_for_CFP_9_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Fund’s Application Guidelines</a>
 <a href="http://www.bilingualism.sg/funding/apply-for-grant" rel="noopener noreferrer nofollow" target="_blank">.</a>
 </p>
 <p><strong>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is the anticipated funding amount for each successful project?</strong>
@@ -85,8 +85,7 @@ Fund is not already funded by another source, the Fund will consider the
 application.&nbsp;</p>
 <p>We <strong>require applicants to declare</strong> other sources of funding
 or potential sources of funding (e.g. grants for which the applicants are
-in the process of applying) within Part II of the <a href="http://www.bilingualism.sg/funding/apply-for-grant" rel="noopener noreferrer nofollow" target="_blank">Annex I.</a>
-</p>
+in the process of applying).</p>
 <p><strong>14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Is there a maximum time validity for the supported funding?</strong>
 </p>
 <p>The maximum time validity of the funds awarded to each project may be
@@ -119,9 +118,9 @@ of Societies (ROS).</p>
 <p>You may fill in the Fund’s digital application form via the provided QR
 codes and other required application documents.</p>
 <p>Only applications submitted using the Fund’s application form will be
-considered. You may refer to the <a href="http://www.bilingualism.sg/funding/apply-for-grant" rel="noopener noreferrer nofollow" target="_blank">Applicant Checklist </a>for
-the list of documents needed. Other guidelines for application can also
-be found in the Fund Application Guidelines.</p>
+considered. You may refer to the <a href="/files/LKYFB_Application_Guide_for_CFP_9_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Applicant Checklist</a>
+<a href="http://www.bilingualism.sg/funding/apply-for-grant" rel="noopener noreferrer nofollow" target="_blank"></a>for the list of documents needed. Other guidelines for application
+can also be found in the <a href="/files/LKYFB_Application_Guide_for_CFP_9_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Fund Application Guidelines</a>.</p>
 <p><strong>20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When can I apply?</strong>
 </p>
 <p><strong>The Fund has specific Calls for Proposals (CFP) periods and only accepts proposals received in January and July each year</strong>.
@@ -165,7 +164,8 @@ successful applicants.</p>
 <p>Proposals will be evaluated using a set of pre-determined evaluation criteria
 that consider the application’s relevance, impact, sustainability and the
 potential of the applicant. Details of the evaluation criteria can be found
-in the <a href="LKYFB_Application_Guide_for_CFP_9_Jan" rel="noopener noreferrer nofollow" target="_blank">Fund Application Guidelines.</a>
+in the <a href="/files/LKYFB_Application_Guide_for_CFP_9_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Fund Application Guidelines</a>
+<a href="LKYFB_Application_Guide_for_CFP_9_Jan" rel="noopener noreferrer nofollow" target="_blank">.</a>
 </p>
 <p><strong>28.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How soon can successful applicants receive funding?</strong>
 </p>
