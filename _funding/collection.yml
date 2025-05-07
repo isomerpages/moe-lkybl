@@ -2,7 +2,7 @@ collections:
   funding:
     output: true
     order:
-      - Fund Application Guidelines.md
       - Fund's Footprint.md
       - apply-for-grant.md
+      - Fund Application Guidelines.md
       - Frequently Asked Questions.md
