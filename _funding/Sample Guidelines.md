@@ -106,4 +106,6 @@ potential</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_07_at_6_58_53_PM.png">
 </div>
 <h4><strong>Samples for Songs</strong></h4>
-<p></p>
+<p>Good samples for songs are important as:</p>
+<p>•Demonstrates linguistic and artistic integrity</p>
+<p>•Shows age-appropriatedness</p>
