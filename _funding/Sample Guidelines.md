@@ -106,10 +106,42 @@ potential</p>
 </div>
 <h4><strong>Samples for Songs</strong></h4>
 <p>Good samples for songs are important as:</p>
-<p>•Demonstrates linguistic and artistic integrity</p>
-<p>•Shows age-appropriatedness</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrates linguistic and artistic integrity</p>
+</li>
+<li>
+<p>Shows age-appropriatedness</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_07_at_7_01_49_PM.png">
 </div>
-<h4><strong>Samples for Songs</strong></h4>
+<h4><strong>Samples for Events (Eg. Plays, Dramas, Exhibitions etc.)</strong></h4>
+<p>Good samples for events are important as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrates how the proposed event promote purposeful, sustained, and
+age-appropriate bilingual exposure.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_07_at_7_06_08_PM.png">
+</div>
+<h4><strong>Samples for Mobile/Web Applications</strong></h4>
+<p>Good samples for mobile/web applications are important as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrates proposed UI/UX design</p>
+</li>
+<li>
+<p>Shows educational intent</p>
+</li>
+</ul>
+<p><strong>Sample UI/UX Design</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_07_at_7_10_01_PM.png">
+</div>
+<h4><strong>Samples for Courses &amp; Workshops</strong></h4>
 <p></p>
