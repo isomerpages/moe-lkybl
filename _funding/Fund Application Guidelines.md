@@ -186,9 +186,22 @@ offer will lapse.</p>
 period.</p>
 </li>
 <li>
-<p>The outcome of all applications are final and appeals will not be considered.<strong> </strong>
-</p>
+<p>The outcome of all applications are final and appeals will not be considered.</p>
 </li>
 </ul>
 <p><strong>Project Agreement</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Applicants who accept the Fund’s offer will proceed to sign a <u>Project Agreement</u> with
+the Fund, detailing the funding quantum, deliverables and terms of the
+contract. An <u>Expenditure and Progress Report</u> is to be submitted to
+the Fund at each tranche disbursement.</p>
+</li>
+<li>
+<p>Once the project is completed, applicant will have to submit the <u>Final Progress Report</u>,
+together with the actual expenditure and statement of accounts to the Fund’s
+auditor for certification.</p>
+</li>
+</ul>
+<p></p>
