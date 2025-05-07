@@ -89,4 +89,21 @@ potential</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_07_at_6_55_04_PM.png">
 </div>
 <h4><strong>Samples for Videos</strong></h4>
+<p>Good samples for videos are important as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrates feasibility</p>
+</li>
+<li>
+<p>Demonstrates that the proposed video matches the target audience</p>
+</li>
+<li>
+<p>Demonstrates applicant's credibility and capacity to deliver</p>
+<p></p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_07_at_6_58_53_PM.png">
+</div>
+<h4><strong>Samples for Songs</strong></h4>
 <p></p>
