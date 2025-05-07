@@ -136,12 +136,32 @@ age-appropriate bilingual exposure.</p>
 </li>
 <li>
 <p>Shows educational intent</p>
+<p></p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_07_at_7_17_18_PM.png">
+</div>
 <p><strong>Sample UI/UX Design</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_07_at_7_10_01_PM.png">
 </div>
+<p></p>
 <h4><strong>Samples for Courses &amp; Workshops</strong></h4>
+<p>Good samples for courses and workshops are important as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Show structured lesson plan</p>
+</li>
+<li>
+<p>Demonstrate age-appropriate methodology</p>
+</li>
+<li>
+<p>Indicate sustained engagement model</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_07_at_7_14_48_PM.png">
+</div>
 <p></p>
