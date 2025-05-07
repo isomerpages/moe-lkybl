@@ -4,8 +4,7 @@ permalink: /sample-guidelines/
 variant: tiptap
 description: ""
 ---
-<p><strong>Guidelines for Submitting Meaningful Samples with Your Proposal</strong>
-</p>
+<h2><strong>Guidelines for Submitting Meaningful Samples with Your Proposal</strong></h2>
 <p>To help the LKY Fund for Bilingualism evaluate proposals effectively,
 all applicants are <strong>required to submit project-specific samples&nbsp;</strong>alongside
 their applications. These samples are essential in helping us understand
@@ -14,8 +13,7 @@ the proposed content’s quality, relevance, and potential impact.</p>
 Samples must be directly related to the project being proposed, not general
 showcases of past work.</p>
 <p><strong>Why Are Samples Important?</strong>
-</p>
-<p>Samples help us to:</p>
+<br>Samples help us to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Assess the&nbsp;quality, tone, and content&nbsp;of proposals</p>
@@ -32,9 +30,63 @@ potential</p>
 </li>
 </ul>
 <p><strong>What Does Not Qualify As A Meaningful Sample?</strong>
+<br>Avoid submitting:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Generic portfolios or unrelated past work</p>
+</li>
+<li>
+<p>Conceptual outlines without any tangible examples</p>
+</li>
+<li>
+<p>'To be developed' placeholders</p>
+</li>
+<li>
+<p>Mood boards or inspirational ideas with no original content</p>
+<p></p>
+</li>
+</ul>
+<p><strong>What Makes A Meaningful Sample?</strong>
+<br>A strong sample should:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Be&nbsp;specific and relevant to the proposed project</p>
+</li>
+<li>
+<p>Reflect the intended&nbsp;audience, tone, and purpose</p>
+</li>
+<li>
+<p>Demonstrate feasibility and content direction</p>
+</li>
+</ul>
+<h4><strong>Samples for Books &amp; Publication</strong></h4>
+<p>Good samples for books and publications are important as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Help LKYFB officers assess content quality and suitability</p>
+</li>
+<li>
+<p>Clarify tone, structure, language level, and bilingual approach</p>
+</li>
+<li>
+<p>Show the difference between a concept and a ready-to-develop project</p>
+</li>
+<li>
+<p>Strengthen the proposal’s credibility and feasibility</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_07_at_6_21_27_PM.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_07_at_6_53_18_PM.png">
+</div>
+<p><strong>Sample Character Illustrations</strong>
 </p>
-<p>Avoid submitting:</p>
-<p>•Generic portfolios or unrelated past work
-<br>•Conceptual outlines without any tangible examples
-<br>•'To be developed' placeholders
-<br>•Mood boards or inspirational ideas with no original content</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_07_at_6_55_04_PM.png">
+</div>
+<h4><strong>Samples for Videos</strong></h4>
+<p></p>
