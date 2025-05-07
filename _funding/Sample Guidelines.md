@@ -99,7 +99,6 @@ potential</p>
 </li>
 <li>
 <p>Demonstrates applicant's credibility and capacity to deliver</p>
-<p></p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -109,3 +108,8 @@ potential</p>
 <p>Good samples for songs are important as:</p>
 <p>•Demonstrates linguistic and artistic integrity</p>
 <p>•Shows age-appropriatedness</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_07_at_7_01_49_PM.png">
+</div>
+<h4><strong>Samples for Songs</strong></h4>
+<p></p>
