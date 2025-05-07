@@ -16,7 +16,7 @@ showcases of past work.</p>
 <p><strong>Why Are Samples Important?</strong>
 </p>
 <p>Samples help us to:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Assess the&nbsp;quality, tone, and content&nbsp;of proposals</p>
 </li>
@@ -30,8 +30,11 @@ potential</p>
 <li>
 <p>Make a fair and informed decision</p>
 </li>
-<li>
-<p></p>
-</li>
-</ol>
-<p></p>
+</ul>
+<p><strong>What Does Not Qualify As A Meaningful Sample?</strong>
+</p>
+<p>Avoid submitting:</p>
+<p>•Generic portfolios or unrelated past work
+<br>•Conceptual outlines without any tangible examples
+<br>•'To be developed' placeholders
+<br>•Mood boards or inspirational ideas with no original content</p>
