@@ -28,8 +28,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Chun Sing (Chair)
-<br>陈振声 ( 主席 )</p>
+<p>Mr Desmond Lee&nbsp; (Chair)
+<br>李智陞 ( 主席 )</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Minister for Education</p>
@@ -37,12 +37,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Gan Siow Huang (Vice-Chair)
-<br>颜晓芳 ( 副主席 )</p>
+<p>Ms Jasmin Lau (Vice-Chair)
+<br>刘洁敏 ( 副主席 )</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Minister of State
-<br>Ministry of Education &amp; Ministry of Manpower</p>
+<p>Minister of State</p>
+<p>Ministry of Education &amp; Ministry of Digital Development and Information</p>
 </td>
 </tr>
 <tr>
