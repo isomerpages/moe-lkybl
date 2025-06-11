@@ -41,8 +41,8 @@ sections:
       title: Alert
       id: infobar
       description: Government officials will never ask you for bank login details or
-        transfer money or. If unsure about a scam, call the ScamShield Helpline
-        at 1799.
+        transfer money. If unsure about a scam, call the ScamShield Helpline at
+        1799.
       button: Visit ScamShield for more information
       url: https://www.scamshield.gov.sg
 image: /images/isomer-logo.svg
