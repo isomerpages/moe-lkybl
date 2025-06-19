@@ -11,11 +11,11 @@ was announced by Mr Lee Kuan Yew on 28 November 2011, at the launch of
 his new book, “My Lifelong Challenge: Singapore’s Bilingual Journey”. The
 Fund is set up as a Company Limited by Guarantee, with Charity and Institution
 of a Public Character status.</p>
-<p>Apart from promoting bilingualism from a young age, the Fund also hopes
-to encourage the active use of bilingualism amongst youths. Equipping them
-with proficiency in both English and their Mother Tongue Languages not
-only prepares them for a globalised environment but also fortifies their
-connection to our rich Asian heritage.</p>
+<p>Apart from promoting bilingualism from a young age, the Fund also encourages
+the active use of bilingualism amongst youths. Equipping them with proficiency
+in both English and their Mother Tongue Languages not only prepares them
+for a globalised environment but also fortifies their connection to our
+rich heritage.</p>
 <p>LKYFB was set up to supplement efforts by the Ministry of Education (MOE)
 in the teaching and learning of English and the Mother Tongue Languages.</p>
 <h4>What the Fund Does</h4>
