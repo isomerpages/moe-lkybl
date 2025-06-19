@@ -34,10 +34,10 @@ of our Mother Tongue Languages as living languages and lifelong endeavours.</p>
 kalinya sewaktu pelancaran buku Encik Lee Kuan Yew, “My Lifelong Challenge:
 Singapore’s Bilingual Journey” pada November 2011.</p>
 <p>Selain daripada menggalakkan ilmu dwibahasa dari usia kecil, Dana ini
-turut berharap untuk memupuk penggunaan dwibahasa secara aktif dalam kalangan
-belia. Usaha bagi memastikan mereka menguasai Bahasa Inggeris dan Bahasa
-Melayu bukan sahaja mempersiapkan mereka kepada dunia yang lebih global
-tetapi memperkukuhkan jati diri mereka.</p>
+turut menggalakkan penggunaan dwibahasa secara aktif dalam kalangan belia.
+Usaha bagi memastikan mereka menguasai Bahasa Inggeris dan Bahasa Melayu
+bukan sahaja mempersiapkan mereka kepada dunia yang lebih global tetapi
+memperkukuhkan jati diri mereka.</p>
 <p>Dana LKYFB telah dibangunkan untuk melengkapi usaha Kementerian Pendidikan
 (MOE) dalam Pengajaran dan Pembelajaran Bahasa Inggeris dan Bahasa-bahasa
 Ibunda.</p>
