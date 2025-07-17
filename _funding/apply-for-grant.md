@@ -34,26 +34,26 @@ promoting bilingualism through refreshed, meaningful and novel approaches.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>31 Jul 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dec 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>31 Jan 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jul 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>31 Jul 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dec 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jul 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 Jul 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026</p>
 </td>
 </tr>
 </tbody>
@@ -70,14 +70,9 @@ We recognise that it takes time and effort to complete proposals, and strongly
 encourage applicants to clarify any doubts regarding funding criteria prior
 to commencing your applications.</p>
 <p></p>
-<p><strong>For more information on the application process, please refer to:</strong>
+<p><strong>For more information on the application process, please refer to the </strong>
+<a href="https://www.bilingualism.sg/fund-application-guidelines/" rel="noopener nofollow" target="_blank">Fund Application Guidelines</a><strong>.</strong>
 </p>
-<ul>
-<li>
-<p><a href="/files/LKYFB_Application_Guide_for_CFP_9_Jan.pdf" rel="noopener nofollow" target="_blank">Fund Application Guidelines</a>
-</p>
-</li>
-</ul>
 <p><strong>Documents Required for Application:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -86,7 +81,7 @@ to commencing your applications.</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/cfp-budget-proposal-form" rel="noopener noreferrer nofollow" target="_blank">Proposed Budget Form (Annex I)</a>
+<p><a href="https://docs.google.com/spreadsheets/d/1ECAa-SAfeb8qPv1-KafQsWqpWsAF-ewP/edit?usp=sharing&amp;ouid=110631843744913897387&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">Proposed Budget Form (Annex I)</a>
 </p>
 <p></p>
 </li>
