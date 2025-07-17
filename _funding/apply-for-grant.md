@@ -70,14 +70,9 @@ We recognise that it takes time and effort to complete proposals, and strongly
 encourage applicants to clarify any doubts regarding funding criteria prior
 to commencing your applications.</p>
 <p></p>
-<p><strong>For more information on the application process, please refer to:</strong>
+<p><strong>For more information on the application process, please refer to the </strong>
+<a href="https://www.bilingualism.sg/fund-application-guidelines/" rel="noopener nofollow" target="_blank">Fund Application Guidelines</a><strong>.</strong>
 </p>
-<ul>
-<li>
-<p><a href="/files/LKYFB_Application_Guide_for_CFP_9_Jan.pdf" rel="noopener nofollow" target="_blank">Fund Application Guidelines</a>
-</p>
-</li>
-</ul>
 <p><strong>Documents Required for Application:</strong>
 </p>
 <ul data-tight="true" class="tight">
