@@ -34,26 +34,26 @@ promoting bilingualism through refreshed, meaningful and novel approaches.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>31 Jul 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dec 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>31 Jan 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jul 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>31 Jul 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dec 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jul 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 Jul 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026</p>
 </td>
 </tr>
 </tbody>
