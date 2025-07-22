@@ -45,8 +45,7 @@ culture. Examples of resource formats:
 </p>
 </li>
 </ul>
-<p><strong>Key Considerations</strong>
-</p>
+<p></p>
 <p>The Fund is open to individuals and organisations/institutions with the
 relevant experience and expertise to implement the project.</p>
 <ul data-tight="true" class="tight">
@@ -90,6 +89,8 @@ January or July.</p>
 only be assessed in the next CFP.</p>
 </li>
 </ul>
+<p><strong>Non-Fundable Items</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_07_at_4_03_42_PM.png">
 </div>
