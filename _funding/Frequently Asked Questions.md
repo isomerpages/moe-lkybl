@@ -134,23 +134,23 @@ CFP period of January or July.&nbsp;</p>
 <p>Proposals that are received outside of the CFP period will only be evaluated
 during the next CFP. Expenses incurred before the projects are approved
 will not be eligible for funding.</p>
-<p><strong>22.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do I have to submit a single complete application or may I send it in parts? </strong>&nbsp;</p>
+<p><strong>21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do I have to submit a single complete application or may I send it in parts? </strong>&nbsp;</p>
 <p>All applications have to be submitted as a single complete application.
 Only complete applications will be evaluated.</p>
-<p><strong>23.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I submit more than one proposal?</strong>
+<p><strong>22.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I submit more than one proposal?</strong>
 </p>
 <p>Yes, applicants may submit more than one proposal. Each proposal will
 be evaluated with a set of pre-determined evaluation criteria. However,
 should the proposals meet the eligibility criteria, the Fund will only
 support the most-worthy proposal from each applicant.</p>
-<p><strong>24.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I collaborate with other organisations/institutions to submit proposals?</strong>
+<p><strong>23.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I collaborate with other organisations/institutions to submit proposals?</strong>
 </p>
 <p>Yes, joint proposals may be submitted.</p>
-<p><strong>25.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I submit a manual application form and submit my proposals via e-mail or through a manual submission?</strong>
+<p><strong>24.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I submit a manual application form and submit my proposals via e-mail or through a manual submission?</strong>
 </p>
 <p>No. Only submissions made online via the links provided via LKYFB’s
 <a href="http://www.bilingualism.sg/funding/apply-for-grant" rel="noopener noreferrer nofollow" target="_blank">website</a>only.</p>
-<p><strong>26.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I claim for GST from the Fund should my organisation be GST-registered?</strong>
+<p><strong>25.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I claim for GST from the Fund should my organisation be GST-registered?</strong>
 </p>
 <p>No. GST-registered companies should not be claiming for GST from the Fund.</p>
 <h4><strong>E. PROCESSING OF APPLICATIONS</strong></h4>
