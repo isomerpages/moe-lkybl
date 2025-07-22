@@ -150,6 +150,9 @@ support the most-worthy proposal from each applicant.</p>
 </p>
 <p>No. Only submissions made online via the links provided via LKYFB’s
 <a href="http://www.bilingualism.sg/funding/apply-for-grant" rel="noopener noreferrer nofollow" target="_blank">website</a>only.</p>
+<p><strong>26.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I claim for GST from the Fund should my organisation be GST-registered?</strong>
+</p>
+<p>No. GST-registered companies should not be claiming for GST from the Fund.</p>
 <h4><strong>E. PROCESSING OF APPLICATIONS</strong></h4>
 <p><strong>26.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is the selection process?</strong>
 </p>
