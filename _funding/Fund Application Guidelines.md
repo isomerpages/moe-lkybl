@@ -45,8 +45,7 @@ culture. Examples of resource formats:
 </p>
 </li>
 </ul>
-<p><strong>Key Considerations</strong>
-</p>
+<p></p>
 <p>The Fund is open to individuals and organisations/institutions with the
 relevant experience and expertise to implement the project.</p>
 <ul data-tight="true" class="tight">
