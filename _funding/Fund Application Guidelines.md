@@ -92,9 +92,8 @@ only be assessed in the next CFP.</p>
 <p><strong>Non-Fundable Items</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_07_at_4_03_42_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_07_29_at_9_45_12_AM.png">
 </div>
-<p></p>
 <p><strong>Time-Validity and Disbursement of Grant</strong>
 </p>
 <ul data-tight="true" class="tight">
