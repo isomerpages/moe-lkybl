@@ -139,10 +139,8 @@ will not be eligible for funding.</p>
 Only complete applications will be evaluated.</p>
 <p><strong>22.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I submit more than one proposal?</strong>
 </p>
-<p>Yes, applicants may submit more than one proposal. Each proposal will
-be evaluated with a set of pre-determined evaluation criteria. However,
-should the proposals meet the eligibility criteria, the Fund will only
-support the most-worthy proposal from each applicant.</p>
+<p>No. To ensure fairness and consistency, LKYFB will only consider one proposal
+per applicant.</p>
 <p><strong>23.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I collaborate with other organisations/institutions to submit proposals?</strong>
 </p>
 <p>Yes, joint proposals may be submitted.</p>
