@@ -109,12 +109,9 @@ frame.</p>
 <p>Approved funds will be disbursed to successful applicants in tranches
 set at suitable milestones of project implementation, and subject to completion
 and submission of all project deliverables. In general, grants are disbursed
-in three tranches, as summarised in the table below:</p>
+in three tranches.</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_07_at_4_10_31_PM.png">
-</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>In line with the Fund’s mandate to provide quality Fund-supported resources
