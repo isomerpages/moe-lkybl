@@ -17,6 +17,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_09_17_at_8_05_28_AM.png">
 </div>
+<p><a href="/files/whats-up/financial-statement-2023.pdf" rel="noopener nofollow" target="_blank">Financial Statement (FY 2024/25)</a>
+</p>
+<p><a href="/files/whats-up/gec-2023.pdf" rel="noopener nofollow" target="_blank">Governance Evaluation Checklist (FY 2024/2025)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/files/whats-up/annual-report-2023.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/annual_report_2023.jpg"></a>
