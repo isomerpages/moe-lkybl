@@ -13,7 +13,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/files/whats-up/annual-report-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">AR 2024/2025</a></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_09_17_at_8_05_28_AM.png">
 </div>
@@ -23,7 +24,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/files/whats-up/annual-report-2023.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/annual_report_2023.jpg"></a>
+<p><strong><a href="/files/whats-up/annual-report-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">AR 2023/2024</a></strong>
+</p><a class="isomer-image-wrapper" href="/files/whats-up/annual-report-2023.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/annual_report_2023.jpg"></a>
 <p><a href="/files/whats-up/financial-statement-2023.pdf" rel="noopener nofollow" target="_blank">Financial Statement (FY 2023/24)</a>
 </p>
 <p><a href="/files/whats-up/gec-2023.pdf" rel="noopener nofollow" target="_blank">Governance Evaluation Checklist (FY 2023/2024)</a>
@@ -31,7 +33,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/files/whats-up/annual-report-2022.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/annual_report_2022.jpg"></a>
+<p><strong><a href="/files/whats-up/annual-report-2022.pdf" rel="noopener noreferrer nofollow" target="_blank">AR 2022/2023</a></strong>
+</p><a class="isomer-image-wrapper" href="/files/whats-up/annual-report-2022.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/annual_report_2022.jpg"></a>
 <p><a href="/files/whats-up/lkyfb_fs_fy2022-23.pdf" rel="noopener noreferrer nofollow" target="_blank">Financial Statement (FY 2022/23)</a>
 </p>
 <p><a href="/files/whats-up/lkyfb_gec_fy2022-23.pdf" rel="noopener noreferrer nofollow" target="_blank">Governance Evaluation Checklist (FY 2022/23)</a>
