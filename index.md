@@ -31,7 +31,7 @@ sections:
       button: Your Quest Begins Here
       url: https://www.instagram.com/bilingualismsg/
   - infobar:
-      title: Call For Proposal 12
+      title: Call For Proposal January 2026
       id: infobar
       button: Apply now
       url: https://www.bilingualism.sg/funding/apply-for-grant/
