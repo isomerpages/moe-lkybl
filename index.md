@@ -31,10 +31,12 @@ sections:
       button: Your Quest Begins Here
       url: https://www.instagram.com/bilingualismsg/
   - infobar:
-      title: LKYFB x National Youth Council (Young ChangeMakers Grant)
+      title: Call For Proposal 12
       id: infobar
       button: Apply now
-      url: https://oursggrants.gov.sg/grants/nycycm/instruction
+      url: https://www.bilingualism.sg/funding/apply-for-grant/
+      subtitle: Have an Interesting Idea?
+      description: is now open
   - resources:
       id: resources
   - infobar:
