@@ -22,22 +22,22 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kwek Hiok Chuang
+<p>Ms Ek Soo Ben
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Consultant
-<br>kwek_hiok_chuang@moe.gov.sg</p>
+<br>ek_soo_ben@moe.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Per Yen Leng</p>
+<p>Ms Cai Xirui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Programme Director
-<br>per_yen_leng@moe.gov.sg</p>
+<br>cai_xirui@moe.gov.sg</p>
 </td>
 </tr>
 <tr>
