@@ -47,11 +47,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Poh Gek (Treasurer)
-<br>吴宝玉 ( 财政 )</p>
+<p>Mr Chia Ser Huei (Treasurer)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chief Financial Officer
+<p>Divisional Director
 <br>Finance &amp; Procurement Division
 <br>Ministry of Education</p>
 </td>
