@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - news.md
-      - event.md
       - language-learning-resource.md
