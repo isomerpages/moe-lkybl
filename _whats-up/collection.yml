@@ -2,5 +2,4 @@ collections:
   whats-up:
     output: true
     order:
-      - news.md
       - language-learning-resource.md
