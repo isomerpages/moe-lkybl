@@ -1,5 +1,4 @@
 collections:
   whats-up:
     output: true
-    order:
-      - language-learning-resource.md
+    order: []
