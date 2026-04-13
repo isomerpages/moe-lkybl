@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Partners.md
       - about-the-fund.md
       - board.md
       - Secretariat.md
