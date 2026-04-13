@@ -10,7 +10,7 @@ sections:
       variant: image
       key_highlights:
         - title: Upcoming Events
-          url: ""
+          url: https://bilingualism.sg/upcoming-events/
           description: What's Up?
         - title: Funding Application
           url: /funding/apply-for-grant/
