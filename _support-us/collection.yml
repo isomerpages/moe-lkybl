@@ -1,8 +1,7 @@
 collections:
-  funding:
+  support-us:
     output: true
     order:
-      - Fund's Footprint.md
       - apply-for-grant.md
       - Fund Application Guidelines.md
       - Sample Guidelines.md

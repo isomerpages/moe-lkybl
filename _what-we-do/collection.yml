@@ -1,0 +1,5 @@
+collections:
+  what-we-do:
+    output: true
+    order:
+      - Fund's Footprint.md

@@ -22,6 +22,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Cai Xirui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Programme Director
+<br>cai_xirui@moe.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Ek Soo Ben
 <br>
 </p>
@@ -29,15 +38,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Senior Consultant
 <br>ek_soo_ben@moe.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Cai Xirui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Programme Director
-<br>cai_xirui@moe.gov.sg</p>
 </td>
 </tr>
 <tr>

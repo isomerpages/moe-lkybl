@@ -1,5 +1,6 @@
 collections:
-  fund-supported-resources:
+  resources:
     output: true
     order:
       - Fund Supported Resources.md
+      - Upcoming Events.md

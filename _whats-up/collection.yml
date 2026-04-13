@@ -1,7 +1,0 @@
-collections:
-  whats-up:
-    output: true
-    order:
-      - History and Milestones.md
-      - Upcoming Events.md
-      - Our Partners.md
