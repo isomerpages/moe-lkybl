@@ -9,18 +9,15 @@ sections:
       background: /images/LKYFB_Hero_Harap_Jadi_ah.gif
       variant: image
       key_highlights:
-        - title: About the Fund
-          url: /about-us/about-the-fund/
-          description: Learn more about us
+        - title: Upcoming Events
+          url: ""
+          description: What's Up?
         - title: Funding Application
           url: /funding/apply-for-grant/
           description: Apply now
         - title: Fund's Footprint
           url: /funding/funds-footprints/
-          description: Fund-Organised Events
-        - title: Fund's Support
-          url: /fund-supported-resources/
-          description: Fund-Supported Materials
+          description: Follow Us
       url: /about-us/about-the-fund/
   - infopic:
       title: Empower yourself in your quest to be effectively bilingual!
