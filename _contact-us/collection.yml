@@ -1,5 +1,5 @@
 collections:
-  fund-supported-resources:
+  contact-us:
     output: true
     order:
       - Fund Supported Resources.md
