@@ -1,5 +1,5 @@
 collections:
-  about-us:
+  who-are-we:
     output: true
     order:
       - about-the-fund.md
