@@ -1,5 +1,5 @@
 collections:
-  funding:
+  support-us:
     output: true
     order:
       - Fund's Footprint.md
