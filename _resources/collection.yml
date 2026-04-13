@@ -1,5 +1,5 @@
 collections:
-  whats-up:
+  resources:
     output: true
     order:
       - History and Milestones.md
