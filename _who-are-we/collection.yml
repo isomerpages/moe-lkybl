@@ -2,7 +2,7 @@ collections:
   who-are-we:
     output: true
     order:
-      - about-the-fund.md
+      - About Us.md
       - board.md
       - Secretariat.md
       - annual-report.md
