@@ -1,7 +1,16 @@
 logo: /images/bilingualism-logo.jpg
 links:
-  - title: Who are we
-    resource_room: true
+  - title: Who are We
+    url: /permalink
+    sublinks:
+      - title: About Us
+        url: /permalink
+      - title: Our Board
+        url: /permalink
+      - title: Fund Policy
+        url: /permalink
+      - title: History and milestones
+        url: /permalink
   - title: What we do
     url: /permalink
     sublinks:
