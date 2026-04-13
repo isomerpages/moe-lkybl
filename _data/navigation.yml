@@ -8,7 +8,7 @@ links:
       - title: Our Board
         url: https://www.bilingualism.sg/about-us/board/
       - title: Fund Policy
-        url: /permalink
+        url: https://www.bilingualism.sg/about-us/fund-policy/
       - title: History and milestones
         url: /permalink
   - title: What we do
@@ -17,7 +17,7 @@ links:
       - title: Fund's Footprint
         url: https://www.bilingualism.sg/funding/funds-footprints/
       - title: Outreach Events
-        url: /permalink
+        url: https://www.bilingualism.sg/resources-and-events/outreach-events/
       - title: Join our Bilingual Journey
         url: https://www.bilingualism.sg/funding/apply-for-grant/
   - title: Support Us
@@ -26,18 +26,18 @@ links:
       - title: Donation
         url: https://www.bilingualism.sg/about-us/donation/
       - title: Our Partners
-        url: /Whats-Up/Our-Partners
+        url: https://bilingualism.sg/our-partners/
   - title: Resources
     url: /permalink
     sublinks:
       - title: Resources
-        url: /permalink
-      - title: Fund-Supported Resources
-        url: /permalink
+        url: https://www.bilingualism.sg/resources-and-events/resources/
+      - title: Fund-Supported Programmes
+        url: https://www.bilingualism.sg/resources-and-events/programmes/
   - title: Contact Us
-    url: /permalink
+    url: https://www.bilingualism.sg/secretariat/
     sublinks:
       - title: Secretariat
         url: /permalink
       - title: Contact
-        url: /permalink
+        url: https://www.bilingualism.sg/contact-us/
