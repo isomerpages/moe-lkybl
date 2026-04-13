@@ -1,6 +1,27 @@
 logo: /images/bilingualism-logo.jpg
 links:
-  - title: What's Up
+  - title: Who are we
     resource_room: true
-  - title: Contact Us
-    url: /contact-us/
+  - title: What we do
+    url: /permalink
+    sublinks:
+      - title: Fund's Footprint
+        url: /permalink
+      - title: Outreach Events
+        url: /permalink
+      - title: Join our Bilingual Journey
+        url: /permalink
+  - title: Support Us
+    url: /permalink
+    sublinks:
+      - title: Donation
+        url: /permalink
+      - title: Our Partners
+        url: /permalink
+  - title: Resources
+    url: /permalink
+    sublinks:
+      - title: Resources
+        url: /permalink
+      - title: Fund-Supported Resources
+        url: /permalink
