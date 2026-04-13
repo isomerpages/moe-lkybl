@@ -2,4 +2,5 @@ collections:
   what-we-do:
     output: true
     order:
+      - apply-for-grant.md
       - Fund's Footprint.md
