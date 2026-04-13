@@ -2,7 +2,6 @@ collections:
   funding:
     output: true
     order:
-      - LKYFB x NYC Young ChangeMakers Grant.md
       - Fund's Footprint.md
       - apply-for-grant.md
       - Fund Application Guidelines.md
