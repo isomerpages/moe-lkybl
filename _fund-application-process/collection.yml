@@ -1,0 +1,4 @@
+collections:
+  fund-application-process:
+    output: true
+    order: []
