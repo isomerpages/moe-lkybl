@@ -2,5 +2,6 @@ collections:
   fund-application-process:
     output: true
     order:
+      - Frequently Asked Questions.md
       - Sample Guidelines.md
       - Fund Application Guidelines.md
