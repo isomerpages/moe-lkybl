@@ -2,9 +2,8 @@ collections:
   who-are-we:
     output: true
     order:
-      - History and Milestones.md
       - About Us.md
-      - board.md
-      - annual-report.md
-      - Donation.md
+      - Our Board.md
+      - Annual Report.md
       - fund-policy.md
+      - History and Milestones.md

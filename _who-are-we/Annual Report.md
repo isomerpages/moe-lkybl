@@ -2,6 +2,7 @@
 title: Annual Report
 permalink: /whats-up/annual-report/
 variant: tiptap
+description: ""
 ---
 <h3>Annual Report</h3>
 <table style="minWidth: 75px">

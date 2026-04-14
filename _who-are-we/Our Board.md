@@ -1,7 +1,8 @@
 ---
-title: Board
+title: Our Board
 permalink: /about-us/board/
 variant: tiptap
+description: ""
 ---
 <h3>Board</h3>
 <p>The Fund is managed by a Board and supported by the following committees:

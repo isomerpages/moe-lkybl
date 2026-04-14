@@ -1,9 +1,10 @@
 ---
-title: Apply for Grant
+title: Join Our Bilingual Journey
 permalink: /funding/apply-for-grant/
 variant: tiptap
+description: ""
 ---
-<h3>Call for Proposals</h3>
+<h3>Join Our Bilingual Journey by Applying to Our Call for Proposals (CFP)</h3>
 <p>Note to applicants:
 <br>Calls for Proposals (CFP) are made to invite aspiring publishers, artists,
 content developers, authors, or individuals who may be interested in developing
