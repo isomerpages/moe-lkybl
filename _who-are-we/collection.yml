@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - About Us.md
-      - board.md
+      - Our Board.md
       - annual-report.md
       - fund-policy.md
       - History and Milestones.md
