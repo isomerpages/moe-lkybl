@@ -1,5 +1,5 @@
 ---
-title: The Finish Line, Season 2
+title: The Finish Line, Season 2 by Tital Digital Media
 permalink: /the-finish-line-season-2/
 date: 2026-01-21
 layout: post
