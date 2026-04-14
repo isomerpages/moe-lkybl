@@ -1,0 +1,121 @@
+---
+title: Join Our Bilingual Journey
+permalink: /funding/apply-for-grant/
+variant: tiptap
+description: ""
+---
+<h3>Join Our Bilingual Journey by Applying to Our Call for Proposals (CFP)</h3>
+<p>Note to applicants:
+<br>Calls for Proposals (CFP) are made to invite aspiring publishers, artists,
+content developers, authors, or individuals who may be interested in developing
+programmes or resources to promote bilingualism in Singapore.</p>
+<p>Applicants may submit applications focusing on funding bilingual events
+and programmes, such as competitions, social media campaigns, plays/dramas,
+booths/exhibitions, etc. The Fund looks forward to receiving applications
+promoting bilingualism through refreshed, meaningful and novel approaches.</p>
+<p><strong>The Fund has set specific periods for Call for Proposals (CFP) in January and July each year. Proposals that are received outside of the CFP period will only be evaluated during the next CFP.</strong>
+</p>
+<p><strong>Please note that the Fund is currently not accepting any research-related proposals. <br><br>When to apply:</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Apply by</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>For projects launching during/after*</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 Jul 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jul 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 Jul 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>*The Fund requires Grantees to take in the Fund's input to our satisfaction.
+Please factor in additional time for vetting and printing/production before
+the launch date, especially for print and digital resources.</p>
+<p>Interested applicants can refer to the Fund Application Guidelines and
+FAQs before completing the required application documents below.</p>
+<p>Should you wish to apply for funding, please make an application through
+the links below. <strong>Only submissions made via the links below will be considered</strong>.
+You may, however, email <a href="mailto:moe_lkyfb@moe.gov.s" rel="noopener noreferrer nofollow" target="_blank">moe_lkyfb@moe.gov.sg</a> for clarification.
+We recognise that it takes time and effort to complete proposals, and strongly
+encourage applicants to clarify any doubts regarding funding criteria prior
+to commencing your applications.</p>
+<p></p>
+<p><strong>For more information on the application process, please refer to the </strong>
+<a href="https://www.bilingualism.sg/fund-application-guidelines/" rel="noopener nofollow" target="_blank">Fund Application Guidelines</a><strong>.</strong>
+</p>
+<p><strong>Documents Required for Application:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/cfp-application-checklist" rel="noopener noreferrer nofollow" target="_blank">Application Checklist</a>
+</p>
+</li>
+<li>
+<p><a href="https://docs.google.com/spreadsheets/d/1ECAa-SAfeb8qPv1-KafQsWqpWsAF-ewP/edit?usp=sharing&amp;ouid=110631843744913897387&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">Proposed Budget Form (Annex I)</a>
+</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Completed application forms and a sample of the product can be submitted online via the following electronic forms:</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Organisation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/65f12376431e7d2e5517b199" rel="noopener noreferrer nofollow" target="_blank">Application Form (Organisation)</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Individual</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://form.gov.sg/65effd471b019bf7b5188890" rel="noopener noreferrer nofollow" target="_blank">Application Form (Individual)</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong><a href="#top" rel="noopener noreferrer nofollow" target="_blank">Top</a></strong>
+</p>
