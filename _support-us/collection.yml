@@ -3,6 +3,4 @@ collections:
     output: true
     order:
       - Donation.md
-      - Fund Application Guidelines.md
-      - Sample Guidelines.md
-      - Frequently Asked Questions.md
+      - Our Partners.md
