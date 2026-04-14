@@ -2,5 +2,5 @@ collections:
   what-we-do:
     output: true
     order:
-      - apply-for-grant.md
+      - Join Our Bilingual Journey.md
       - Fund's Footprint.md
