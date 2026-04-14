@@ -2,6 +2,7 @@ collections:
   support-us:
     output: true
     order:
+      - Donation.md
       - Fund Application Guidelines.md
       - Sample Guidelines.md
       - Frequently Asked Questions.md
