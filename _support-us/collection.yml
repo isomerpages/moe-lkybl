@@ -2,5 +2,5 @@ collections:
   support-us:
     output: true
     order:
-      - Our Partners.md
       - Donation.md
+      - Our Partners.md
