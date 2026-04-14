@@ -1,4 +1,5 @@
 collections:
   fund-application-process:
     output: true
-    order: []
+    order:
+      - Fund Application Guidelines.md
