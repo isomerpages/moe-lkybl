@@ -1,7 +1,7 @@
 logo: /images/bilingualism-logo.jpg
 links:
   - title: Who are We
-    url: /permalink
+    url: https://bilingualism.sg/about-us/about-the-fund/
     sublinks:
       - title: About Us
         url: https://www.bilingualism.sg/about-us/about-the-fund/
@@ -12,7 +12,7 @@ links:
       - title: History and milestones
         url: https://bilingualism.sg/history-and-milestones/
   - title: What we do
-    url: /permalink
+    url: https://www.bilingualism.sg/funding/apply-for-grant/
     sublinks:
       - title: Fund's Footprint
         url: https://www.bilingualism.sg/funding/funds-footprints/
@@ -21,21 +21,21 @@ links:
       - title: Join our Bilingual Journey
         url: https://www.bilingualism.sg/funding/apply-for-grant/
   - title: Support Us
-    url: /permalink
+    url: https://www.bilingualism.sg/our-partners/
     sublinks:
       - title: Donation
         url: https://www.bilingualism.sg/about-us/donation/
       - title: Our Partners
         url: https://bilingualism.sg/our-partners/
   - title: Resources
-    url: /permalink
+    url: https://www.bilingualism.sg/resources-and-events/resources/
     sublinks:
       - title: Resources
         url: https://www.bilingualism.sg/resources-and-events/resources/
       - title: Fund-Supported Programmes
         url: https://www.bilingualism.sg/resources-and-events/programmes/
   - title: Contact Us
-    url: https://www.bilingualism.sg/secretariat/
+    url: https://www.bilingualism.sg/contact-us/
     sublinks:
       - title: Secretariat
         url: https://www.bilingualism.sg/secretariat/
