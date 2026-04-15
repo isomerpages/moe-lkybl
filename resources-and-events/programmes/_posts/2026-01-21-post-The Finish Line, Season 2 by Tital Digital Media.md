@@ -28,7 +28,9 @@ audiences to connect with the human stories at its core.</p>
 <p>With its continued commitment to quality and authenticity, <em>The Finish Line – Season 2</em> not
 only reinforces Titan Digital Media’s strength in digital storytelling
 but also positions the series as a meaningful platform that celebrates
-local narratives with global appeal.</p>
+local narratives with global appeal.
+<br>
+<br>The episodes may be viewed <a href="https://www.youtube.com/playlist?list=PLctna5nnXQyOSyXRkQKUx9uIrherwwueR" rel="noopener nofollow" target="_blank">here</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_04_14_at_3_29_16_PM.png">
 </div>
