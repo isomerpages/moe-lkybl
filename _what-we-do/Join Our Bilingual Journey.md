@@ -4,16 +4,16 @@ permalink: /funding/apply-for-grant/
 variant: tiptap
 description: ""
 ---
-<h3>Join Our Bilingual Journey by Applying to Our Call for Proposals (CFP)</h3>
+<h3>Join Our Bilingual Journey by Applying to Our Call for Proposals (CFPs)</h3>
 <p>Note to applicants:
-<br>Calls for Proposals (CFP) are made to invite aspiring publishers, artists,
+<br>Call for Proposals (CFPs) are made to invite aspiring publishers, artists,
 content developers, authors, or individuals who may be interested in developing
 programmes or resources to promote bilingualism in Singapore.</p>
 <p>Applicants may submit applications focusing on funding bilingual events
 and programmes, such as competitions, social media campaigns, plays/dramas,
 booths/exhibitions, etc. The Fund looks forward to receiving applications
 promoting bilingualism through refreshed, meaningful and novel approaches.</p>
-<p><strong>The Fund has set specific periods for Call for Proposals (CFP) in January and July each year. Proposals that are received outside of the CFP period will only be evaluated during the next CFP.</strong>
+<p><strong>The Fund has set specific periods for Call for Proposals (CFPs) in January and July each year. Proposals that are received outside of the CFP period will only be evaluated during the next CFP.</strong>
 </p>
 <p><strong>Please note that the Fund is currently not accepting any research-related proposals. <br><br>When to apply:</strong>
 </p>
