@@ -19,6 +19,13 @@ sections:
           url: /funding/funds-footprints/
           description: Follow Us
       url: /about-us/about-the-fund/
+  - infobar:
+      title: Join our Bilingual Journey
+      subtitle: Call for Proposals is now open
+      id: infobar
+      description: Accepting applications from 1 - 31 July 2026
+      button: Apply Now
+      url: https://www.bilingualism.sg/funding/apply-for-grant/
   - infopic:
       title: Empower yourself in your quest to be effectively bilingual!
       description: Follow us on Instagram to be updated on interesting resources
@@ -37,12 +44,5 @@ sections:
         1799.
       button: Visit ScamShield for more information
       url: https://www.scamshield.gov.sg
-  - infobar:
-      title: Join our Bilingual Journey
-      subtitle: Call for Proposals is now open
-      id: infobar
-      description: Accepting applications from 1 - 31 July 2026
-      button: Apply Now
-      url: https://www.bilingualism.sg/funding/apply-for-grant/
 image: /images/isomer-logo.svg
 ---
