@@ -35,6 +35,24 @@ a powerful social and professional advantage. It is time to find your voice,
 tell your story and create content that gets people talking!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_12_at_10_25_43_AM.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_12_at_10_25_43_AM.png">
+</div>
+<h4><strong>Bilingual Eco-Festival by PCF Sparkletots | 12 September 2026</strong></h4>
+<p>Presented under LKYFB’s Love Our Languages! Community Series, the Bilingual
+Eco-Festival builds on the success of the Fund’s 2025 community engagement
+efforts. In partnership with PCF Sparkletots Preschool, the festival will
+offer a vibrant bilingual experience for preschoolers and their families.</p>
+<p>Through interactive booths, storytelling sessions, stage performances
+and gamified activities, children will explore environmental sustainability
+while learning and using their Mother Tongue Languages in meaningful, everyday
+contexts. The festival brings <strong>Love Our Languages!</strong> to life
+by nurturing both an appreciation for our languages and a sense of responsibility
+for the natural world.</p>
+<p>Aligned with the Singapore Green Plan 2030, the event is expected to engage
+between 500 and 800 children and parents. It will be graced by Deputy Prime
+Minister Gan Kim Yong and Dr Janil Puthucheary as Guests of Honour.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Community_Series_logo.jpg">
 </div>
 <p></p>
