@@ -20,12 +20,13 @@ sections:
           description: Follow Us
       url: /about-us/about-the-fund/
   - infobar:
-      title: Join our Bilingual Journey
-      subtitle: Call for Proposals is now open
+      title: Join Echoes of The Forbidden Hill
+      subtitle: 30 August 2026 | 7.30-10.00pm
       id: infobar
-      description: Accepting applications from 1 - 31 July 2026
+      description: Form a team of 2-6 participants of at least 2 different mother
+        tongue languages (Malay, Mandarin or Tamil)
       button: Apply Now
-      url: https://www.bilingualism.sg/funding/apply-for-grant/
+      url: https://bit.ly/LKYFB-Quest
   - infopic:
       title: Empower yourself in your quest to be effectively bilingual!
       description: Follow us on Instagram to be updated on interesting resources
