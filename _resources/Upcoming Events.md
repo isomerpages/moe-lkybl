@@ -25,6 +25,4 @@ observe, but actively live.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MZXzBNAWLTo?si=drKKy0dksMNHXWy9"></iframe>
 </div>
-<p><strong>Bilingual Buzz Creator Hackathon by Republic Polytechnic</strong>
-</p>
 <p></p>
