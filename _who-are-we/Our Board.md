@@ -42,8 +42,10 @@ description: ""
 <br>刘洁敏 ( 副主席 )</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Minister of State</p>
-<p>Ministry of Education &amp; Ministry of Digital Development and Information</p>
+<p>Acting Minister of Manpower
+<br>&amp;
+<br>Senior Minister of State
+<br>Ministry of Digital Development and Information</p>
 </td>
 </tr>
 <tr>
