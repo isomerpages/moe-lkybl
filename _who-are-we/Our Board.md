@@ -38,24 +38,21 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmin Lau (Vice-Chair)
-<br>刘洁敏 ( 副主席 )</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Acting Minister of Manpower
-<br>&amp;
-<br>Senior Minister of State
-<br>Ministry of Digital Development and Information</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Chia Ser Huei (Treasurer)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Divisional Director
 <br>Finance &amp; Procurement Division
 <br>Ministry of Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Madam Rahayu Mahzam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minister of State
+<br>Ministry of Digital Development and Information &amp; Ministry of Health</p>
 </td>
 </tr>
 <tr>
@@ -84,8 +81,8 @@ description: ""
 <br>陈志锐副教授</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Head
-<br>Asian Languages and Cultures Academic Group
+<p>Associate Dean,
+<br>Graduate Education by Coursework, Graduate Studies and Professional Learning
 <br>National Institute of Education
 <br>Nanyang Technological University</p>
 </td>
@@ -102,22 +99,22 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Madam Rahayu Mahzam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Minister of State
-<br>Ministry of Health &amp; Ministry of Digital Development &amp; Information</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Chua Chim Kang
 <br>蔡深江</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chief Editor
-<br>Chinese News &amp; Current Affairs
-<br>Mediacorp</p>
+<p>Deputy Chief Executive Officer
+<br>GeoMico International Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kuek Yu Chuang
+<br>郭又铨</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Chief Executive Officer
+<br>SPH Media Limited</p>
 </td>
 </tr>
 <tr>
@@ -128,16 +125,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Editor-in-Chief
 <br>Chinese Media Group
-<br>SPH Media Limited</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Kuek Yu Chuang
-<br>郭又铨</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Chief Executive Officer
 <br>SPH Media Limited</p>
 </td>
 </tr>
@@ -157,10 +144,8 @@ description: ""
 <br>林少芬女士</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Former Chief Executive Officer
-<br>&amp;
-<br>Executive Creative Director
-<br>10AM Communications</p>
+<p>Founder and Director
+<br>Shaofen Labs Pte Ltd</p>
 </td>
 </tr>
 </tbody>
